@@ -1,0 +1,263 @@
+MS301_OP1
+[Unknown0x12]3[LoadBackground=BS_bg]During the War of Darkness[FreezeMouth]...[UnfreezeMouth][Pause=3]
+The royal palace of Akaneia, the largest
+kingdom in the continent,[A][ClearBox]was in a truly hopeless situation, under the
+merciless onslaught of the Durhuan army, led
+by the Dark Dragon Mediuth.[A][ClearBox]As the footsteps of the imperial soldiers
+started resounding through Pales walls[FreezeMouth]...[UnfreezeMouth][A][ClearBox]King Akaneia, with no other alternatives
+to consider, gave a secret order to the
+bishop Boa.[A][ClearBox][Unknown0x12]3[Fade=80][X]
+
+MS301_OP2
+[TargetRight][LoadPortrait=NIENA][TargetLeft][LoadPortrait=BOHA][LoadBackground=BBG01]Princess Nina,[Pause=3] we have mere moments before
+the millennial palace falls to the enemy.[A][ClearBox]We must escape from here at once.[A][ClearBox][TargetRight]But, what about my father[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+I cannot just leave him.[A][ClearBox][TargetLeft]Princess,[Pause=3] this is His Majesty's order.[A][ClearBox]If you manage to escape,[Pause=3] we will be able to
+restore Akaneia at a later date[FreezeMouth]...[UnfreezeMouth][A][ClearBox]So, please, Princess.[Pause=3]
+For Akaneia's future[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Even if it's my father's orders,[Pause=3] I refuse to
+escape alone.[A][ClearBox]I shall remain in Pales,[Pause=3] together with my
+father till the very end.[A][ClearBox][TargetLeft]Princess Nina[FreezeMouth]...[UnfreezeMouth]
+Please consider His Majesty's feelings.
+We are fighting against time, now.[A][ClearBox][TargetRight]No.
+No matter what you may persuade, I shall
+remain here.[A][ClearBox][TargetRight][LoadPortrait=TOMS]Bishop Boa[FreezeMouth]![UnfreezeMouth] Princess Nina[FreezeMouth]![UnfreezeMouth][Pause=3]
+There you are![A][ClearBox]The enemy is fast approaching.[Pause=3]
+Please make your escape, quickly![A][ClearBox][TargetRight][LoadPortrait=NIENA][TargetLeft][LoadPortrait=BOHA]I see[FreezeMouth]... [UnfreezeMouth]It cannot be helped.[A][ClearBox]Tomth, [Pause=3]Mishelan.[Pause=3]
+Take Princess Nina away from here.[A][ClearBox][TargetLeft][LoadPortrait=MISHRAN]Yes sir.[A][ClearBox][TargetRight]No, Boa[FreezeMouth]![UnfreezeMouth][Pause=3]
+Father[FreezeMouth]![UnfreezeMouth] Father[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][TargetLeft][LoadPortrait=BOHA][FreezeMouth]...[UnfreezeMouth]Forgive me, Princess.[A][ClearBox]Now, everyone, hurry[FreezeMouth]![UnfreezeMouth][A][ClearBox][Unknown0x4=F][X]
+
+MS301_OP3
+[LoadBackground=BBG01][TargetLeft][LoadPortrait=GOUBER][FaceCommand=0x73]Hwahahaha[FreezeMouth]![UnfreezeMouth][Pause=3]
+So that's where you were hidin',[Pause=3] ghosts of
+the Akaneian army.[A][ClearBox]Why don't you jus' give up?
+I'll spare your sorry lives if you submit to us.[A][ClearBox][X]
+
+MS301_OP4
+[LoadBackground=BBG01][TargetRight][LoadPortrait=BOHA]Oh dear[FreezeMouth]...[UnfreezeMouth] So is this it[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=NIENA]Bishop Boa, where are we?[A][ClearBox][TargetRight]In a chamber inside Pales.[A][ClearBox]I'm sad to say[FreezeMouth]...[UnfreezeMouth][Pause=3] we're completely
+surrounded by imperial soldiers[FreezeMouth]...[UnfreezeMouth][Pause=3]
+It seems it was poor judgment from my part.[A][ClearBox]Princess, I brought you here in such a rude
+fashion[FreezeMouth]...[UnfreezeMouth][Pause=3] What I did was truly unforgivable.[A][ClearBox][TargetLeft]Not at all.[Pause=3]
+I was behaving like a spoiled child.[A][ClearBox]I am the one[Pause=3] who should apologize.[A][ClearBox]Either way, bishop,[Pause=3] what is our recourse now?[A][ClearBox][TargetRight]Unfortunately, at this point[FreezeMouth]...[UnfreezeMouth][Pause=3]
+We have no choice but to surrender.[A][ClearBox]I shall negotiate with the enemy[Pause=3] so they won't
+lay their hands on you.[A][ClearBox][TargetLeft][RemovePortrait][TargetLeft][LoadPortrait=MIDIA]Bishop Boa[FreezeMouth]![UnfreezeMouth][Pause=3]
+Are you telling us to surrender without a
+fight?[A][ClearBox]I refuse[FreezeMouth]![UnfreezeMouth][Pause=3]
+I will not accept the possibility of[Pause=3]
+surrendering to the likes of them[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Midia, don't be selfish.[Pause=3]
+Do you intend to involve Princess Nina
+in this battle?[A][ClearBox]The princess is the last hope[Pause=3] of the people of
+Akaneia.[A][ClearBox]What would you tell them,[Pause=3] should anything
+befall her?[A][ClearBox][TargetLeft]I[FreezeMouth]... [UnfreezeMouth]I see[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Forgive my rashness.[A][ClearBox][TargetLeft][LoadPortrait=NIENA]Bishop.[Pause=3]
+I agree with Midia.[A][ClearBox]No matter what grim fate awaits us,[Pause=3] I want
+us to hold our heads[Pause=3] high with pride until the
+very end.[A][ClearBox]If Midia and the others say they'll fight for
+me,[A][ClearBox]then I want to entrust them[Pause=3] with my final
+desire.[A][ClearBox]Bishop, please allow my wish to become true.[A][ClearBox][TargetRight]Princess[FreezeMouth]...[UnfreezeMouth][Pause=3]
+If you're ready to go that far, then there is
+nothing I can say.[A][ClearBox]Everything shall be as you wish[FreezeMouth]...[UnfreezeMouth][Pause=3]
+May our guardian deity Narga protect us.[A][ClearBox][TargetLeft][FaceCommand=0x73]Thank you, Bishop Boa.[A][ClearBox][TargetRight][LoadPortrait=MIDIA][TargetLeft]Midia, please do what you must.[Pause=3]
+I'll burn the image of your valorous figure in
+my mind.[A][ClearBox][TargetRight][FaceCommand=0x73]Princess[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=TOMS][TargetLeft]Tomth, Mishelan, Thomas.[Pause=3]
+Please assist Midia.[Pause=3]
+I shall never forget any of you.[A][ClearBox][TargetRight]Yes m'lady[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=MIDIA]Alright, let's go[FreezeMouth]![UnfreezeMouth][A][ClearBox]Let us show those imperial soldiers that
+Akaneia still has true knights[FreezeMouth]![UnfreezeMouth][A][ClearBox]First, we should all move towards that small
+treasure room nearby.[A][ClearBox]If Tomth, Mishelan and myself guard the
+entrance, the interior will be safe.[Pause=3]
+Let us hurry there[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS301_TK1
+[TargetRight][LoadPortrait=NIENA][TargetLeft][LoadPortrait=BOHA][LoadBackground=][TargetRight]Boa[FreezeMouth]...[UnfreezeMouth][Pause=3]
+How is the battle going?[A][ClearBox][TargetLeft]Hmm[FreezeMouth]...[UnfreezeMouth]
+We are at quite a disadvantage.[Pause=3]
+I'm afraid I'm getting too old for this.[A][ClearBox][TargetRight]Bishop[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Please rest here for a moment.[A][ClearBox]I shall take care of everyone's wounds in
+your place.[A][ClearBox][TargetLeft]But, Princess[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]I cannot just do nothing[Pause=3] when everyone else
+is in danger.[Pause=3] I shall fight, too.[A][ClearBox][X]
+
+MS301_TK2
+[TargetRight][LoadPortrait=NIENA][TargetLeft][LoadPortrait=MIDIA][LoadBackground=]Princess[FreezeMouth]![UnfreezeMouth]Å@Are you safe?[A][ClearBox][TargetRight]Yes, I am fine.[A][ClearBox]Midia, should anything happen to me[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Forget about me[FreezeMouth].[UnfreezeMouth][Pause=3]
+Just escape with everyone.[A][ClearBox][TargetLeft]But[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]I don't want[Pause=3] to lose anyone.[Pause=3]
+Not a single one of you.[A][ClearBox]Midia, listen to me[FreezeMouth]![UnfreezeMouth][Pause=3]
+You are still searching for Astria, correct?[A][ClearBox]So, don't worry about me.
+Escape by yourself![A][ClearBox][TargetLeft]There is no worse disgrace than to[Pause=3] abandon
+you and Pales, Princess.[A][ClearBox]Please be patient for a little longer.[Pause=3]
+I shall defeat every enemy, without fail.
+You have my word.[A][ClearBox][X]
+
+MS301_TK3
+[TargetRight][LoadPortrait=MIDIA][TargetLeft][LoadPortrait=BOHA][LoadBackground=]Are you doing well, Midia?[A][ClearBox][TargetRight]Yes, of course.[Pause=3]
+There is no way I'd fall[Pause=3] before we bring
+Princess Nina to safety.[A][ClearBox]Bishop Boa.[Pause=3]
+We paladins fare well against magic.[Pause=3]
+I'll take care of the enemy mages.[A][ClearBox][TargetLeft][FaceCommand=0x73]Very well.[Pause=3]
+I'm counting on you.[A][ClearBox][X]
+
+MS301_BT_BOSS
+[TargetLeft][LoadPortrait=GOUBER][LoadBackground=]Ahahahaha[FreezeMouth]![UnfreezeMouth][Pause=3]
+More fools tryin' to resist[FreezeMouth]?[UnfreezeMouth][Pause=3]
+Then let me show you my power[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS301_DIE_BOHA
+[TargetRight][LoadPortrait=BOHA][LoadBackground=]I cannot die here[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I must live and fulfill the king's order[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][TargetLeft][LoadPortrait=NIENA]Bishop[FreezeMouth]![UnfreezeMouth][Pause=3]
+How are you[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=BOHA]Princess, please forgive me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll be a burden like this[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I shall fall back to the rear[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS301_DIE_BOSS
+[TargetLeft][LoadPortrait=GOUBER][LoadBackground=]H-how[FreezeMouth]... [UnfreezeMouth]disappointin'[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS301_DIE_MIDIA
+[TargetRight][LoadPortrait=MIDIA][LoadBackground=]Guh[FreezeMouth]![UnfreezeMouth][Pause=3]
+It can't[FreezeMouth]...[UnfreezeMouth][Pause=3] end like this[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][TargetLeft][LoadPortrait=NIENA]Midia[FreezeMouth]!?[UnfreezeMouth]Å@No[FreezeMouth]![UnfreezeMouth][Pause=3]
+Please fall back.[Pause=3]
+For Astria's sake, too, please[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=MIDIA]Princess[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm so sorry[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS301_DIE_MISHRAN
+[TargetRight][LoadPortrait=MISHRAN][LoadBackground=]Ugh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Forgive me[FreezeMouth]... [UnfreezeMouth]Princess Nina[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS301_DIE_NIENA
+[TargetRight][LoadPortrait=NIENA][LoadBackground=]So[FreezeMouth]...[UnfreezeMouth][Pause=3] this is the end[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS301_DIE_THORMAS
+[TargetRight][LoadPortrait=THORMAS][LoadBackground=]Princess Nina[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Sorry for[FreezeMouth]... [UnfreezeMouth]being useless[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS301_DIE_TOMS
+[TargetRight][LoadPortrait=TOMS][LoadBackground=]Ugh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Forgive me[FreezeMouth]... [UnfreezeMouth]Princess Nina[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS301_ED1
+[Fade=40][LoadBackground=BBG01][TargetLeft][LoadPortrait=SOLDIER_RED]Princess Nina is 'ere[FreezeMouth]![UnfreezeMouth][Pause=3]
+We need reinforcements[FreezeMouth]![UnfreezeMouth] Bring the entire
+battalion 'ere and surround 'em[FreezeMouth]![UnfreezeMouth][A][ClearBox]Don't let 'er escape[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=MIDIA]No[FreezeMouth]![UnfreezeMouth][Pause=3]
+This can't be[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Even more reinforcements[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=NIENA]So[FreezeMouth]...[UnfreezeMouth][Pause=3] is this the end[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][TargetLeft][LoadPortrait=SOLDIER_RED]Listen well, Akaneian scum[FreezeMouth]![UnfreezeMouth][Pause=3]
+You cannot 'ope to win.[Pause=3]
+Surrender or suffer the pain of death.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=NIENA][FreezeMouth]......[UnfreezeMouth][A][ClearBox][Unknown0x4=F][Fade=40][X]
+
+MS301_ED2
+[Fade=40][LoadBackground=BBG01][TargetLeft][LoadPortrait=CAMUS]Oh, [Pause=3]it seems I've arrived just in time.[Pause=3]
+Alright, [Pause=3]that's quite enough.[Pause=3]
+Both sides, lower your weapons.[A][ClearBox][TargetRight][LoadPortrait=SOLDIER_RED]You're[FreezeMouth]... [UnfreezeMouth] General Camus[FreezeMouth]![UnfreezeMouth][Pause=3]
+Why are you 'ere[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]I hear that the princess of Akaneia is in
+this room.[Pause=3] Is this true?[A][ClearBox][TargetRight]Yes sir[FreezeMouth]![UnfreezeMouth][Pause=3]
+They are but few in number,[Pause=3] yet, some
+knights are 'ere with 'em.[A][ClearBox]They gave us some trouble,[Pause=3] but the princess's
+capture was inevitable.[A][ClearBox][TargetLeft]I see. Good job.[Pause=3]
+But you've done enough, you may leave the
+rest to me.[A][ClearBox][TargetRight]Yes sir[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][TargetLeft]Listen well, Akaneians.[Pause=3]
+I am Camus, captain of the Grunian knights.[A][ClearBox]I respect your prowess in battle,[Pause=3] but further
+bloodshed[Pause=3] is of no value to you or I.[A][ClearBox]May I request that you[Pause=3] lower your weapons?[Pause=3]
+I wish to speak with you.[A][ClearBox]I have no weapons on my person.[Pause=3]
+I swear upon the honor of Grunia[Pause=3] that I will
+not deceive you.[A][ClearBox][Fade=40][X]
+
+MS301_ED3
+[Fade=40][LoadBackground=BBG01][TargetRight][LoadPortrait=NIENA]Camus of Grunia[FreezeMouth]...[UnfreezeMouth][Pause=3]
+The one they call Camus the Sable.[A][ClearBox]He brought about the downfall of Akaneia,[Pause=3]
+and is responsible for the deaths of many[FreezeMouth]...![UnfreezeMouth][A][ClearBox]Bishop[FreezeMouth]...[UnfreezeMouth][Pause=3]
+He is a hated enemy[FreezeMouth]![UnfreezeMouth][Pause=3]
+I shall never forgive him[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=MIDIA]Princess, please leave it to me.[Pause=3]
+I shall kill Camus.[A][ClearBox]He killed my parents.[Pause=3]
+Nothing would make me happier than[Pause=3] to do
+battle with him, as my final stand.[A][ClearBox][TargetRight][LoadPortrait=BOHA]Wait, Midia, don't be hasty.[Pause=3]
+Do you know what tragedy would befall the
+princess should you do that[FreezeMouth]?[UnfreezeMouth][A][ClearBox]Camus may be our enemy,[Pause=3] but I hear he is a
+proud,[Pause=3] exceptionally strong knight.[A][ClearBox]He may even be able to protect the princess[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=NIENA]Bishop[FreezeMouth]![UnfreezeMouth][Pause=3]
+I do not wish to be protected,[Pause=3] especially by
+that man[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=MIDIA]Shh[FreezeMouth]![UnfreezeMouth] Camus has come[FreezeMouth]![UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS301_ED3_01
+[X]
+
+MS301_ED4
+[TargetLeft][LoadPortrait=CAMUS][LoadBackground=BBG01][TargetRight][LoadPortrait=MIDIA]Diiiie[FreezeMouth]![UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS301_ED4_01
+[TargetLeft]Hah[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][TargetLeft][FreezeMouth]...[UnfreezeMouth]A woman?[Pause=3]
+It happened so sudden,[Pause=3] I couldn't hold back.
+My apologies.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS301_ED4_02
+However, I see Akaneia's paladins are fond
+of dishonorable tactics.[Pause=3] To think they would
+ambush an unarmed foe.[A][ClearBox]Not only is the Akaneian army thoroughly
+disappointing,[Pause=3] but even the knights have no
+pride?[A][ClearBox]No wonder your kingdom has fallen.[A][ClearBox][TargetRight][LoadPortrait=MIDIA]Damn you[FreezeMouth]![UnfreezeMouth] You're one to talk[FreezeMouth]![UnfreezeMouth][Pause=3]
+I would not resort to such means[Pause=3] if my
+opponent were anyone but you[FreezeMouth]![UnfreezeMouth][A][ClearBox]Pride, you say[FreezeMouth]...?[UnfreezeMouth]Å@Surely you jest[FreezeMouth]![UnfreezeMouth][Pause=3]
+Your country betrayed Akaneia[Pause=3] and
+degraded itself as Durhua's slave[FreezeMouth]![UnfreezeMouth][A][ClearBox]What are you[FreezeMouth]!?[UnfreezeMouth][Pause=3]
+The captain of Durhua's dogs, that's what[FreezeMouth]![UnfreezeMouth][A][ClearBox][FreezeMouth]...[UnfreezeMouth]Enough of this. Kill me[FreezeMouth]![UnfreezeMouth][Pause=3]
+You don't need to hold back[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]I have no intention of killing you.[Pause=3]
+More importantly, Princess Nina[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Unknown0x4=F][Fade=40][X]
+
+MS301_ED5
+[Fade=40][LoadBackground=BBG01][TargetRight][LoadPortrait=NIENA]If it has come to this, then[FreezeMouth]...[UnfreezeMouth][EyeCommand=ec][A][ClearBox][TargetLeft][LoadPortrait=BOHA]Princess, what are you doing[FreezeMouth]!?[UnfreezeMouth][Pause=3]
+Please stay your hand[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Bishop, don't stop me[FreezeMouth]![UnfreezeMouth][Pause=3]
+Now that Midia has failed,[Pause=3] I have no desire
+to live[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=CAMUS]You are Princess Nina, I presume?[A][ClearBox]Not only your knight, but you as well[FreezeMouth]...[UnfreezeMouth][Pause=3]
+are all Akaneians this irresponsible?[A][ClearBox]In Grunia,[Pause=3] this kind of behavior is reserved
+for spoilt children only.[A][ClearBox][TargetRight][EyeCommand=ed]Insolent cur[FreezeMouth]![UnfreezeMouth] On what grounds are you calling
+me irresponsible?[Pause=3] And what do you mean by
+spoilt[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][TargetLeft]You are a member of royalty.[Pause=3]
+Now that your king has passed away,[Pause=3] you
+must shoulder responsibility of Akaneia.[A][ClearBox]Wishing to throw away your life without
+considering the consequences[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Please spare me of this selfishness.[A][ClearBox][FreezeMouth]...[UnfreezeMouth]Dying is easy.[Pause=3]
+However, what would become[Pause=3] of the people
+you would leave behind?[A][ClearBox]Do you truly intend to throw away your
+responsibility as royalty?[A][ClearBox][TargetRight]How dare you try and lecture me![Pause=3]
+Y-you drove my father to his death[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Forgive me for what I am about to say[FreezeMouth]...[UnfreezeMouth]
+But your father[Pause=3] was a failure of a king.[A][ClearBox]He drowned in pleasure, neglected politics,[Pause=3]
+and ultimately abandoned his people.[Pause=3]
+Akaneia's miserable defeat was his doing.[A][ClearBox]The one who led your people to the abyss of
+despair[Pause=3] was none other than King Akaneia
+himself.[A][ClearBox]It is the king's duty to protect his people.[A][ClearBox]King Akaneia [Pause=3]may have been a good father
+to you,[Pause=3] but he was an incompetent king to his
+people.[A][ClearBox]My words may be harsh, but I only speak the
+truth.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]I feel pity for my people.[Pause=3]
+I warned my father time and time again,[Pause=3]
+but he never listened.[A][ClearBox]However,[Pause=3] Akaneia has already fallen.[Pause=3]
+What do you suggest I do at this point[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][TargetLeft]At the very least,[Pause=3] Emperor Mediuth currently
+does not wish to kill you, Princess.[A][ClearBox]So, you must continue to live on, to your
+fullest,[Pause=3] and bring hope to the citizens of
+Akaneia[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I hear your citizens love you.[Pause=3]
+To them, you embody the[Pause=3] hope of Akaneia.[A][ClearBox][TargetRight][EyeCommand=ec]Ohh[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Princess,[Pause=3] this unfortunate war is now over.[A][ClearBox]I must now return to Grunia,[Pause=3] but, in a few
+months, I shall return as the commander of
+the occupation army.[A][ClearBox]I am no politician,[Pause=3] but watching this
+desolate land[Pause=3] brings pain to my heart[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I wish for the kingdom of Akaneia to
+become the verdant land it once was,
+as soon as ideally possible.[A][ClearBox]Princess Nina, may I ask for your
+assistance?[Pause=3] Would you deign to rebuild
+Akaneia, together with your people?[A][ClearBox][TargetRight][EyeCommand=ed][FreezeMouth]...[UnfreezeMouth]Very well.[Pause=3]
+I shall give you the benefit of doubt.[A][ClearBox]However, don't think my hatred towards you
+has disappeared.[A][ClearBox][TargetLeft]If you wish to take my life,[Pause=3] you can have it
+anytime.[Pause=3] If that's what it takes to satisfy
+you.[A][ClearBox][TargetRight]No. I shall endure for now, for my motherland,
+Akaneia.[A][ClearBox]However, one day,[Pause=3] I shall lead the
+Akaneian League's army[Pause=3] and fight Durhua.[A][ClearBox]Should you stand in my way when that time
+comes, I shall display no mercy.[Pause=3]
+Remember that.[A][ClearBox][TargetLeft]Understood.[Pause=3]
+[FreezeMouth]...[UnfreezeMouth]Princess.[A][ClearBox][FaceCommand=0x73]I thought your people adored you[Pause=3] because of
+your beauty,[Pause=3] but it seems there's more to it
+than that.[A][ClearBox][TargetRight][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth]You speak rather impolitely,[Pause=3] but I'll accept
+your praise graciously.[A][ClearBox][TargetLeft][FaceCommand=0x73]Hahaha, please excuse my rudeness.[A][ClearBox]As but a soldier from the borderlands,[Pause=3]
+I can only manage this rustic manner of
+speaking,[Pause=3] so please forgive me.[A][ClearBox][TargetRight]No, it is fine.[Pause=3]
+I, too, must become stronger.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight]Bishop, Midia, everyone,[Pause=3] please heed me.[Pause=3]
+I have made my choice.[A][ClearBox]No matter how thorny that path might be,[Pause=3]
+one day, assuredly, I shall take back our
+motherland Akaneia from the empire.[A][ClearBox]I know it'll be difficult for everyone,[Pause=3] but for
+now, please endure.[A][ClearBox]So that one day,[Pause=3] we may reunite in this very
+palace[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=BOHA][FaceCommand=0x61]Princess[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=MIDIA][FaceCommand=0x61]Hail Princess Nina[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS301_ED6
+[Fade=40][Unknown0x12]3[LoadBackground=BS_bg]And this was the story of how the greatest
+palace in the continent[Pause=3] fell under the Empire's
+control.[A][ClearBox]Would Nina's promise[Pause=3] ever be fulfilled?[A][ClearBox]The answer to that question[Pause=3] would only be
+known years later.[A][ClearBox][Fade=80][Unknown0x12]3[X]
+

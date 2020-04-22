@@ -1,0 +1,69 @@
+MS022_OP0
+[SpecialText0x14][Fade=40][TargetRight][LoadPortrait=MARS][LoadBackground=BBG69][TargetLeft][LoadPortrait=JEIGUN][TargetRight]What is this strange air?
+It feels like it's full of evil spirits.[A][ClearBox][TargetLeft]That is true...
+My body appears to be frozen.[A][ClearBox]These are the evil spirits of the
+Earth Dragons. Your highness, it seems
+we can't have everybody enter ahead.[A][ClearBox]Since we don't know what
+will happen, please choose carefully
+who to take with you.[A][ClearBox][TargetRight]I hope to at least take the people
+who are worried about the four sisters.[A][ClearBox][TargetLeft]Mmm... There's no avoiding that.
+But how many people will survive?
+I bet this will be a fierce battle.[A][ClearBox][X]
+
+MS022_OP1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG69][TargetLeft][LoadPortrait=GATO]Prince Marth, in this altar lurks many
+savage barbarians and mage dragons
+long gone mad.[A][ClearBox]They have fallen under Garnef's spell
+and will attack you given the chance.[A][ClearBox]Garnef's servants[SpecialSymbol=0x96]
+the heretic priests possess great power.
+They are not to be taken lightly.[A][ClearBox]If you let this battle drag on,
+it may become fiercer than you can handle.[Pause=3]
+Do not stop. Make for the end at once[FreezeMouth]![UnfreezeMouth][A][ClearBox]Once you defeat Garnef, retrieve the
+Falchion that he stole from your Aritia.[A][ClearBox]As you well know, without the Falchion,
+defeating Mediuth will be nigh impossible[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]I understand, Lord Gato.[Pause=3][A][ClearBox]My friends and I shall sally forth
+to the deepest depths of the altar[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]It would be wise to bring this ally with you.[Pause=3]
+She has deigned to lend you her strength.[A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS022_EV1_PCF1
+[TargetLeft][LoadPortrait=NAGA][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=MARS]You're[FreezeMouth]...[UnfreezeMouth][A][ClearBox]No, I don't believe we've ever met.[Pause=3]
+But, why[FreezeMouth]...?[UnfreezeMouth]
+I have the strangest feeling that I know her[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]My name[FreezeMouth]...[UnfreezeMouth] is Nagi.[Pause=3]
+I will[FreezeMouth]...[UnfreezeMouth] stop the enemy[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You must hurry to the throne room[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Go[FreezeMouth]...[UnfreezeMouth]
+This time[FreezeMouth]...[UnfreezeMouth] everything[FreezeMouth]...[UnfreezeMouth]
+must end[FreezeMouth]......[UnfreezeMouth][A][ClearBox][X]
+
+MS022_EV1_PCM1
+[TargetLeft][LoadPortrait=NAGA][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=MARS]You're[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=PLAYER]Another ally from the previous war, sire?[A][ClearBox][TargetRight][LoadPortrait=MARS]No, I don't believe we've ever met.[Pause=3]
+But, why[FreezeMouth]...?[UnfreezeMouth]
+I have the strangest feeling that I know her[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]My name[FreezeMouth]...[UnfreezeMouth] is Nagi.[Pause=3]
+I will[FreezeMouth]...[UnfreezeMouth] stop the enemy[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You must hurry to the throne room[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Go[FreezeMouth]...[UnfreezeMouth]
+This time[FreezeMouth]...[UnfreezeMouth] everything[FreezeMouth]...[UnfreezeMouth]
+must end[FreezeMouth]......[UnfreezeMouth][A][ClearBox][X]
+
+MS022_ED1_END
+[Fade=40][Unknown0x4=F][X]
+
+MS022_ED1_END_BGMCONT
+[Fade=40][X]
+
+MS022_ED1_PCF1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG73][TargetLeft][LoadPortrait=JEIGUN]Sire, the wall in front of us
+has collapsed![A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS022_ED1_PCM1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG73][TargetLeft][LoadPortrait=JEIGUN]Sire, the wall in front of us
+has collapsed![A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS022_ED2
+[SpecialText0x14][Fade=40][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG69][TargetLeft][LoadPortrait=MARS][TargetRight]Remove hat?[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS022_ED2_A
+[TargetRight]Yes, I think I will remove it for this battle.[A][ClearBox][TargetLeft]Excellent choice. Well, let's hurry[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS022_ED2_B
+[TargetRight]No, I rather like it. It's so toasty.[A][ClearBox][TargetLeft]I-I see. Well then, let's go[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+

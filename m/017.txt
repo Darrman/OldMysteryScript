@@ -1,0 +1,166 @@
+MS017_OP0
+[X]
+
+MS017_OP0_A
+[X]
+
+MS017_OP0_B
+[X]
+
+MS017_OP0_C
+[X]
+
+MS017_OP1
+[TargetRight][LoadPortrait=SIMA][LoadBackground=BBG02][TargetLeft][LoadPortrait=SAMSON][TargetLeft]Princess Sheema, the Aritian army has come.[A][ClearBox][TargetRight][EyeCommand=ec]I see[FreezeMouth]...[UnfreezeMouth]
+The end draws near.[A][ClearBox][EyeCommand=ed]Samson, I ought to apologize for burdening
+you.[A][ClearBox]However I must see my kingdom through till
+the very end.[Pause=3] You may go.[A][ClearBox][TargetLeft]That's quite enough, I think, Princess.[Pause=3]
+King Jiol took your mother away from you:
+you should despise him.[A][ClearBox]Isn't that why you hid at Pales and 
+stayed away from this country?[A][ClearBox]Now, you're just lettin' Hardin make a fool
+of you.[A][ClearBox][TargetRight]I probably am a fool.[Pause=3] I did as he asked,
+because he told me the people of Gra
+wished for their motherland's restoration.[A][ClearBox]But Hardin only intended to use us.[A][ClearBox]Now that we've outlived our use, he's tossed
+us aside like rubbish.[A][ClearBox]All the same, I won't move[FreezeMouth]![UnfreezeMouth][A][ClearBox]My men are not disposable[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]How sad[FreezeMouth]...[UnfreezeMouth][A][ClearBox]You'll have new recruits hold back the elite
+Aritian army alone[FreezeMouth]?[UnfreezeMouth][A][ClearBox]Fine. If you say you'll remain here, then I'll
+fight for you until the end, too.[Pause=3]
+Well, this should be fun, at least.[A][ClearBox][TargetRight]Samson[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Why would you do this?[A][ClearBox]Don't you mercenaries only live for gold?[A][ClearBox]I have no more to give you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Well, I don't quite get it, either.[A][ClearBox]But[FreezeMouth]...[UnfreezeMouth] there are times when a man's gotta do
+what a man's gotta do.[Pause=3] That's all I can say[FreezeMouth]...[UnfreezeMouth]
+For now.[A][ClearBox]Besides, I want to see how that kid fights.[A][ClearBox]If he's a true hero, perhaps your decision
+will change[FreezeMouth].[UnfreezeMouth][A][ClearBox][X]
+
+MS017_EV1
+[TargetLeft][LoadPortrait=SIMA][LoadBackground=SIMA]What[FreezeMouth]...[UnfreezeMouth][FreezeMouth]?![UnfreezeMouth][Pause=3]
+What have you done[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]I believed you, Aritia;
+I trusted you[FreezeMouth]...[UnfreezeMouth][Pause=3]
+How dare you[FreezeMouth]...[UnfreezeMouth] I'll kill all of you[FreezeMouth]![UnfreezeMouth][A][ClearBox]
+[TargetLeft][LoadPortrait=SAMSON]Prince Marth[FreezeMouth]...[UnfreezeMouth][Pause=3]
+How unfortunate.
+I thought you a better man.[A][ClearBox][X]
+
+MS017_EV2
+[TargetLeft][LoadPortrait=SIMA][LoadBackground=SIMA]What[FreezeMouth]...[UnfreezeMouth][FreezeMouth]?![UnfreezeMouth][Pause=3]
+What have you done[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]I believed you, Aritia;
+I trusted you[FreezeMouth]...[UnfreezeMouth][Pause=3]
+How dare you[FreezeMouth]...[UnfreezeMouth] I'll kill all of you[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS017_TK1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetLeft][LoadPortrait=SIMA][TargetRight][FaceCommand=0x73]Princess Sheema? Thank goodness.[Pause=3]
+It's good to see you're well.[A][ClearBox][FaceCommand=0x61]Let us be clear: I do not hold
+animosity towards the Kingdom of Gra.[A][ClearBox]Our kingdoms were once one.[A][ClearBox]The country may have divided after Anri's
+death, but we always got on well as allies.[A][ClearBox]It grieved me to watch us go our
+separate ways in the last war.[A][ClearBox]Princess Sheema,
+I would like to try once more.[Pause=3]
+I do not wish to fight with Gra.[A][ClearBox][TargetLeft]Prince Marth[FreezeMouth]...[UnfreezeMouth]
+It surprised me to learn that you hadn't
+laid a finger on my fleeing soldiers.[A][ClearBox]You may just be the second coming
+of King Anri.[A][ClearBox]I believe you.[A][ClearBox]If it's not too much to ask[FreezeMouth]...[UnfreezeMouth]
+Please, accept the people of Gra[FreezeMouth]...[UnfreezeMouth]
+as you would those of Aritia.[A][ClearBox][FaceCommand=0x73]I entrust all of my country[FreezeMouth]...[UnfreezeMouth]
+to you, Prince Marth.[A][ClearBox][Fade=40][X]
+
+MS017_TK2
+[Fade=40][TargetRight][LoadPortrait=SIMA][LoadBackground=][TargetLeft][LoadPortrait=SAMSON][TargetLeft][FaceCommand=0x73]Well, Sheema.[Pause=3]
+I guess my job here is done.[A][ClearBox][TargetRight][FaceCommand=0x61]Samson[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You're leaving[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]I don't think you'll be needin' me.[Pause=3]
+After all, the prince will protect you from
+here on.[A][ClearBox][TargetRight]Don't go[FreezeMouth]![UnfreezeMouth][Pause=3]
+Please, don't go[FreezeMouth]...![UnfreezeMouth][A][ClearBox][TargetLeft]W-what?[Pause=3]
+Why are you makin' me stay?
+This ain't like you.[A][ClearBox][FreezeMouth]...[UnfreezeMouth]Well, whatever.[Pause=3]
+If you still need me, then I'm not goin'
+anywhere.[A][ClearBox]Wherever you go, I'll protect you.[Pause=3]
+Is that the deal?[A][ClearBox][TargetRight][FaceCommand=0x73]Yes[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS017_H1
+[LoadBackground=BBG25][TargetCenter][LoadPortrait=OLDMAN]Hardin placed soldiers 'ere to
+ensure Gra's loyalty.[A][ClearBox]But only the Akaneian soldiers
+have any will to fight.[A][ClearBox][X]
+
+MS017_H2
+[LoadBackground=BBG25][TargetCenter][LoadPortrait=MAN1]Princess Sheema is the daughter of
+King Jiol's second wife.[A][ClearBox]But unlike the king, Princess Sheema
+is a very kind person.[A][ClearBox]She'd risk her own life for her soldiers.[A][ClearBox]Isn't there anyone who'll help her?[A][ClearBox][X]
+
+MS017_H3
+[LoadBackground=BBG25][TargetCenter][LoadPortrait=MAN2]The soldiers 'ere are all amateurs.[A][ClearBox]Our country's knights all fell in battle.[A][ClearBox]There's no one left to protect our country.[A][ClearBox]And now, the Akaneian soldiers
+do as they please.[A][ClearBox]They're worse than thieves[FreezeMouth]![UnfreezeMouth]
+Brutes, barbarians[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS017_VIL1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG26][TargetLeft][LoadPortrait=WOMAN1][TargetLeft][EyeCommand=ec]Oh[FreezeMouth]...[UnfreezeMouth] please, spare me.[Pause=3]
+I have nothing left to give.[A][ClearBox][TargetRight][FaceCommand=0x73]Please don't get the wrong idea.[Pause=3]
+We're not here to take anything from you.[A][ClearBox][TargetLeft][EyeCommand=ed]But didn't you Aritians come here
+to exact revenge on us?[A][ClearBox][TargetRight]No, we've no intention to fight Gra.[Pause=3]
+Gra and Aritia were like siblings once.[A][ClearBox][TargetLeft]You speak truly[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+[FaceCommand=0x73]Then, I shall give you[FreezeMouth]...[UnfreezeMouth]
+my dearest, most precious treasureÅ}[A][ClearBox][X]
+
+MS017_VIL2
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG26][TargetLeft][LoadPortrait=THORMAS][TargetLeft]Prince Marth,
+I've been waiting for you.[A][ClearBox]I'm Thomas,
+an Akaneian soldier[SpecialSymbol=0x96]or was.
+I've since retired from the army.[A][ClearBox]The Akaneians here just want to
+sacrifice the defenceless Gra soldiers.[A][ClearBox]This act of brutality by my
+former homeland[FreezeMouth]...[UnfreezeMouth]
+I cannot tolerate.[A][ClearBox]Please, Prince Marth.
+Let me fight with you in some way.[A][ClearBox][X]
+
+MS017_BT_BOSS
+[LoadBackground=][TargetLeft][LoadPortrait=SIMA]You dastards[FreezeMouth]![UnfreezeMouth]
+How dare you slaughter my people[FreezeMouth]![UnfreezeMouth][Pause=3]
+I'll kill you all[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS017_BT_SAMSON
+[LoadBackground=][TargetLeft][LoadPortrait=SAMSON]I know that Gra cannot prevail.[Pause=3]
+But Sheema deserves better than this[FreezeMouth].[UnfreezeMouth][A][ClearBox][X]
+
+MS017_DIE_BOSS
+[LoadBackground=][TargetLeft][LoadPortrait=SIMA]Forgive me, my people.[A][ClearBox][X]
+
+MS017_DIE_SAMSON
+[LoadBackground=][TargetLeft][LoadPortrait=SAMSON]Sheema[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS017_ED1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetLeft][LoadPortrait=JEIGUN][TargetLeft]Sire, to keep fighting like this
+is pointless.[A][ClearBox]All we are accomplishing is
+buying Hardin more time.[A][ClearBox][TargetRight]My thoughts exactly.[A][ClearBox]If we continue like this,
+more blood will be spilt for naught.[A][ClearBox]So I have decided on a different
+route for us to go.[A][ClearBox]How about we go directly south from Menedi,
+and enter Pales from Adria Peak?[A][ClearBox][TargetLeft]But the steep mountains make it
+dangerous for an army of our size.[A][ClearBox][TargetRight]I am prepared for the danger.[Pause=3]
+We managed to conquer the same perilous
+road that Anri walked. Compared to that[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Jeigan.[Pause=3]
+We can overcome this challenge.[Pause=3][TargetLeft]...That's a fair point.
+If we can cross it, we can attack
+the enemy from the rear.[A][ClearBox]Order the advance[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS017_ED1_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetLeft][LoadPortrait=JEIGUN][TargetLeft]Sire, to keep fighting like this
+is pointless.[A][ClearBox]All we are accomplishing is
+buying Hardin more time.[A][ClearBox][TargetRight]My thoughts exactly.[A][ClearBox]If we continue like this,
+more blood will be spilt for naught.[A][ClearBox]So I have decided on a different
+route for us to go.[A][ClearBox]How about we go directly south from Menedi,
+and enter Pales from Adria Peak?[A][ClearBox][TargetLeft]But the steep mountains make it
+dangerous for an army of our size.[A][ClearBox][TargetRight]I am prepared for the danger.[Pause=3]
+We managed to conquer the same perilous
+road that Anri walked. Compared to that[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Jeigan.[Pause=3]
+We can overcome this challenge.[Pause=3][TargetLeft]...That's a fair point.
+If we can cross it, we can attack
+the enemy from the rear.[A][ClearBox]Order the advance[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS017_ED_BS
+[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG11][TargetLeft][LoadPortrait=FROST]Oof[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Seems I've finally caught up.[A][ClearBox][TargetRight]Hmm, and you are?[A][ClearBox][TargetLeft]My name is Frost.[Pause=3]
+I am a priest of Macedonia.[A][ClearBox]When Macedonia was taken over by
+those warmonging rebels[FreezeMouth]...[UnfreezeMouth][A][ClearBox]You came and saved our country.[Pause=3]
+Thanks to you, my family's now safe.[A][ClearBox]I have come to return the favor.[A][ClearBox][TargetRight]I see.[Pause=3]
+But hasn't it been some time since
+Prince Marth freed Macedonia[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]Your army marched at speed and
+this old geezer just couldn't keep up.
+Eventually I lost sight of you[FreezeMouth]...[UnfreezeMouth][A][ClearBox]But then I heard that Marth had freed
+Aritia as well, and I finally managed
+to catch up with you here, in Gra.[A][ClearBox]I am old now, but I can still fight.[Pause=3]
+Please, allow me to to join you.[A][ClearBox][Unknown0x4=F][X]
+

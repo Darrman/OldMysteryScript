@@ -1,0 +1,160 @@
+MTUTS_TRANING
+[X]
+
+MS005_OP1
+[TargetRight][LoadPortrait=TORUS][LoadBackground=BBG40][TargetLeft][LoadPortrait=RANG][TargetRight]Commander Lang.[Pause=3]
+The[FreezeMouth]...[UnfreezeMouth][Pause=3] A-Aritian army has arrived[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]You moron.[Pause=3] Why are you so panicked?[Pause=3]
+With their nation and name in ruins,[Pause=3] the
+Aritians are of no consequence to us.
+[A][ClearBox][TargetRight]But,[Pause=3] Sir George's archers left to quell the
+rebellion.[Pause=3] Can we win with just our troops?[A][ClearBox][TargetLeft]Why didn't you tell me earlier[FreezeMouth]?[UnfreezeMouth][Pause=3]
+Call George back to the castle this instant![A][ClearBox]While you're there, find that hired sword,
+Navarre, and bring him here.[A][ClearBox]General Toras![Pause=3] I'm heading inside.[Pause=3]
+You will defend this location till your last
+breath.[A][ClearBox]Do NOT let the enemy get close.[Pause=3]
+Do I make myself clear[FreezeMouth]?![UnfreezeMouth][A][ClearBox][X]
+
+MS005_EV0
+[LoadBackground=][TargetLeft][LoadPortrait=BANDIT]Whoo!
+Ready, boys?[Pause=3][A][ClearBox]Look at all the ruckus[FreezeMouth]![UnfreezeMouth]
+Never a better time to attack that buncha
+villages[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS005_EV1
+[TargetRight][LoadPortrait=SOLDIER_RED][LoadBackground=BBG18][TargetLeft][LoadPortrait=JORJUE][TargetRight]Captain George.[Pause=3]
+We've received orders to return to the
+castle immediately.[A][ClearBox][TargetLeft]Orders from Lang, huh[FreezeMouth]?[UnfreezeMouth][Pause=3]
+I'm[Pause=3] not fond of that man.[Pause=3][A][ClearBox]His treatment of our people is simply
+intolerable.[A][ClearBox]To work beneath him is an insult.[A][ClearBox]Pay his orders no mind.[Pause=3][A][ClearBox][TargetRight]But,[Pause=3] Captain![Pause=3]
+You'll be accused of treason![A][ClearBox]Captain[FreezeMouth]?![UnfreezeMouth][Pause=3]
+You can't be planning to defect to Aritia[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ec]No,[Pause=3] that's not an option.[A][ClearBox][EyeCommand=ed]If I were to defect now,[Pause=3] I'd drag the entire
+platoon down with me.[A][ClearBox]So for that reason alone,[Pause=3]
+I will absolutely not take any risks
+that might besmirch our name.[A][ClearBox][TargetRight]Captain George[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Anyway,[Pause=3] inform everyone:[Pause=3]
+Do not move from your stations.[A][ClearBox]However,[Pause=3] if the enemy approaches,[Pause=3]
+you may engage them.[A][ClearBox][X]
+
+MS005_TK1
+[TargetLeft][LoadPortrait=RICARD][LoadBackground=][TargetRight][LoadPortrait=JURIAN]Hey, Ricardo[FreezeMouth]![UnfreezeMouth][Pause=3]
+I see you haven't tired of stealin'.[A][ClearBox][TargetLeft][FaceCommand=0x73]Ah![Pause=3] Chief!
+How nice to see ya.[A][ClearBox][FaceCommand=0x61]Well,[Pause=3] I was plannin' on workin' with you[Pause=3] and
+makin' loadsa money,[Pause=3] but you had to go and
+quit the business![A][ClearBox]Fallin' head over heels for that beautiful
+cleric,[Pause=3] and then dumpin' me[FreezeMouth]...[UnfreezeMouth]
+That's just too cruel![A][ClearBox]Did our love really mean that little to you?[A][ClearBox][TargetRight]Can it,[Pause=3] you little fink[FreezeMouth]!![UnfreezeMouth][Pause=3]
+People'll get the wrong idea about us,[Pause=3]
+if you keep talkin' like that.[A][ClearBox]Anyway,[Pause=3] forget about thievin' and come with
+me to fight for justice.[A][ClearBox][TargetLeft][FaceCommand=0x73]Hmm[FreezeMouth]...[UnfreezeMouth][Pause=3] alright then![A][ClearBox]I'll follow you anywhere.[Pause=3]
+I do adore ya,[Pause=3] Chief![A][ClearBox][X]
+
+MS005_TK2
+[TargetLeft][LoadPortrait=BARTS][LoadBackground=][TargetRight][LoadPortrait=SAJI][TargetRight]Barts[FreezeMouth]![UnfreezeMouth][Pause=3]
+What're you doin' in a place like this[FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetLeft]Saji?[Pause=3]
+It's been a while.[A][ClearBox]Fighting's a thing of the past for me.[Pause=3]
+I'm just an ordinary woodcutter now.[Pause=3]
+Move along; nothing to see here.[A][ClearBox][TargetRight]Don't be an idiot.[Pause=3]
+Doncha know?[Pause=3]
+This is Prince Marth's fight.[A][ClearBox]If you ignore his plea, you're a disgrace to
+the Talisian Mercenaries.[Pause=3]
+Tell me you're no disgrace.[A][ClearBox][TargetLeft][FreezeMouth]......[UnfreezeMouth][Pause=3]
+You know, all I really want is to live in peace[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I suppose I can't just kick back,[Pause=3]
+and chop my wood, with this damn war
+going on. This needs to end quickly.[A][ClearBox][TargetRight][FaceCommand=0x73]Oh yeah[FreezeMouth]![UnfreezeMouth][Pause=3]
+That's my bro[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Yeah, I'll join too.[Pause=3]
+Tell Prince Marth for me.[A][ClearBox][X]
+
+MS005_TK3
+[TargetLeft][LoadPortrait=BARTS][LoadBackground=][TargetRight][LoadPortrait=MAJI][TargetRight]Barts[FreezeMouth]![UnfreezeMouth][Pause=3]
+What're you doin' here[FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetLeft]Saji?[Pause=3]
+Long time no see.[A][ClearBox][TargetRight]I'm not Saji[FreezeMouth]![UnfreezeMouth][Pause=3]
+I'm Maji[FreezeMouth]![UnfreezeMouth][A][ClearBox]You of all people should know that![A][ClearBox][TargetLeft]It was a joke! Sorry.[Pause=3]
+Look, Maji, I know you came out all this way[FreezeMouth]...[UnfreezeMouth][A][ClearBox]But I've got nothing to do with war no more.[Pause=3]
+I'm an ordinary woodcutter now.[Pause=3]
+Just ignore me.[A][ClearBox][TargetRight]Don't be stupid.[Pause=3]
+Doncha know?[Pause=3]
+Prince Marth's fighting again.[A][ClearBox]If you ignore his plea, you're a disgrace to
+the Talisian Mercenaries.[Pause=3]
+You wanna be a disgrace, is that it?[A][ClearBox][TargetLeft][FreezeMouth]......[UnfreezeMouth][Pause=3]
+You know, all I really want is to live in peace[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I suppose I can't just kick back,[Pause=3]
+and chop my wood, with this damn war
+going on. This needs to end quickly.[A][ClearBox][TargetRight][FaceCommand=0x73]Heh[FreezeMouth]![UnfreezeMouth] That's my bro.[Pause=3][A][ClearBox][TargetLeft][FaceCommand=0x73]Yeah, I'll join too.[Pause=3]
+Tell Prince Marth for me.[A][ClearBox][X]
+
+MS005_TK4
+[TargetLeft][LoadPortrait=BARTS][LoadBackground=][TargetRight][LoadPortrait=OGUMA][TargetRight]Long time no see, Barts.[A][ClearBox][TargetLeft]Captain Oguma[FreezeMouth]![UnfreezeMouth][Pause=3]
+Why are you here[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight]Another war has started.[Pause=3]
+Once again, I fight under Prince Marth's
+banner.[A][ClearBox]Barts, lend us your strength.[Pause=3]
+We need you.[A][ClearBox][TargetLeft]I got nothing to do with fighting now[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Well, that's what I would say if you were
+anyone else.[A][ClearBox]Captain, I owe you.[Pause=3]
+You've saved our sorry asses on more
+occasions than one.[A][ClearBox][FaceCommand=0x73]Captain Oguma.[Pause=3]
+Just say the word.[Pause=3]
+I'll do whatever you want[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS005_H1
+[LoadBackground=BBG25][TargetCenter][LoadPortrait=MAN1]Y'know,[Pause=3] lately I haven't seen that mercenary,
+Samto.[A][ClearBox]I thought that he might have joined your
+ranks, but I guess not[FreezeMouth]...[UnfreezeMouth][A][ClearBox]He's as lax as they get, but you can't go
+wrong with his skill.[A][ClearBox][X]
+
+MS005_H2
+[LoadBackground=BBG25][TargetCenter][LoadPortrait=WOMAN1]Oh, Aritians,[Pause=3] hear our plea![Pause=3]
+Please, defeat General Lang![A][ClearBox]As long as that man lives,[Pause=3]
+peace is but a fleeting dream.[A][ClearBox][X]
+
+MS005_VIL1
+[LoadBackground=BBG26][TargetCenter][LoadPortrait=VILHEAD]Ohh,[Pause=3] if isn't Prince Marth![Pause=3]
+I wonder how my granddaughter Rena is
+faring, hm?[A][ClearBox]What,[Pause=3] you don't know?[Pause=3]
+I see[FreezeMouth]...[UnfreezeMouth] [Pause=3]Th-then[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Do you still want this Hammerne staff?[A][ClearBox]At least,[Pause=3] if Rena's pupil Malliesia were around,
+I'm sure she could use it[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Well, whatever be the case,[Pause=3]
+I've no use for a souvenir.[Pause=3]
+Please, make good use of it.[A][ClearBox][X]
+
+MS005_BT_BARTS
+[TargetLeft][LoadPortrait=BARTS][LoadBackground=]Oi, quit it[FreezeMouth]![UnfreezeMouth][Pause=3]
+I don't want to get involved in no war[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS005_BT_JORJUE
+[TargetLeft][LoadPortrait=JORJUE][LoadBackground=]You wouldn't have needed to die if you
+hadn't come so close[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS005_BT_RICARD
+[TargetLeft][LoadPortrait=RICARD][LoadBackground=]Chief, where aaare ya[FreezeMouth]?[UnfreezeMouth][A][ClearBox][X]
+
+MS005_BT_TORUS
+[TargetLeft][LoadPortrait=TORUS][LoadBackground=BBG40]Projection 44.5 degrees[FreezeMouth]![UnfreezeMouth][Pause=3]
+Fiiiire[FreezeMouth]!!![UnfreezeMouth][A][ClearBox][X]
+
+MS005_DIE_BARTS
+[TargetLeft][LoadPortrait=BARTS][LoadBackground=]Damn it[FreezeMouth]...[UnfreezeMouth][Pause=3]
+What a world[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS005_DIE_JORJUE
+[TargetLeft][LoadPortrait=JORJUE][LoadBackground=]Fools[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS005_DIE_RICARD
+[TargetLeft][LoadPortrait=RICARD][LoadBackground=]Tch.[Pause=3] Man, I messed up big time.[A][ClearBox][X]
+
+MS005_DIE_TORUS
+[TargetLeft][LoadPortrait=TORUS][LoadBackground=BBG40]General Lang[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Aritia is too strong[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS005_ED1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG04][TargetLeft][LoadPortrait=JEIGUN]Sire,[Pause=3] we've finally seized control of Grunia.[A][ClearBox]However, a number of enemies are
+concealed within the castle.[Pause=3]
+Our job here is far from over.[A][ClearBox][TargetRight]Yes,[Pause=3] I know.[A][ClearBox]Lang must be stopped[Pause=3] here and now.[Pause=3]
+Or else we forsake the people of Grunia.[A][ClearBox][TargetLeft]This is Lang we are talking about.[Pause=3]
+We don't know what he's planning.[A][ClearBox]We must take extra caution when
+fighting inside the castle[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS005_ED1_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG04][TargetLeft][LoadPortrait=JEIGUN]Sire,[Pause=3] we've finally seized control of Grunia.[A][ClearBox]However, a number of enemies are
+concealed within the castle.[Pause=3]
+Our job here is far from over.[A][ClearBox][TargetRight]Yes,[Pause=3] I know.[A][ClearBox]Lang must be stopped[Pause=3] here and now.[Pause=3]
+Or else we forsake the people of Grunia.[A][ClearBox][TargetLeft]This is Lang we are talking about.[Pause=3]
+We don't know what he's planning.[A][ClearBox]We must take extra caution when
+fighting inside the castle[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]

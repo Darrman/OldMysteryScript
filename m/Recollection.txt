@@ -1,0 +1,1206 @@
+MREC_201_ED1
+Pr I,　En. - Passing the Mock[X]
+
+MREC_201_ED2
+Pr I,　En. - Marth's Speech[X]
+
+MREC_201_EV1
+Pr I,　Sc. - First Steps[X]
+
+MREC_201_EV2
+Pr I,　Sc. - First Opponent[X]
+
+MREC_201_EV3
+Pr I,　Sc. - Battle with Jeigan[X]
+
+MREC_201_OP1
+Pr I,　Op. - Meeting[X]
+
+MREC_201_OP2
+Pr I,　Op. - Mock Combat[X]
+
+MREC_202_ED1
+Pr II,　En. - The Commander is...[X]
+
+MREC_202_ED2
+Pr II,　En. - Cool Title[X]
+
+MREC_202_EV1
+Pr II,　Op. - Luke's Strategy[X]
+
+MREC_202_EV2
+Pr II,　Sc. - Versus Rody[X]
+
+MREC_202_OP1
+Pr II,　Op. - Platoon Members[X]
+
+MREC_203_ED1_A
+Pr III,　En. - Tomboyish Princess[X]
+
+MREC_203_ED2
+Pr III,　En. - Aritia's Way[X]
+
+MREC_203_EV1
+Pr III,　Op. - Sheeda's Trial[X]
+
+MREC_203_EV2
+Pr III,　Sc. - Y・・ K・・・ H・・ ・・ F・・・・[X]
+
+MREC_203_OP1
+Pr III,　Op. - Combat Training[X]
+
+MREC_203_OP3
+Pr III,　Op. - Sheeda's Entrance[X]
+
+MREC_204_ED1_A_A
+Pr IV,　En. - George's Friend (A)[X]
+
+MREC_204_ED1_A_B
+Pr IV,　En. - George's Friend (B)[X]
+
+MREC_204_ED1_A_C
+Pr IV,　En. - George's Friend (C)[X]
+
+MREC_204_ED1_A_D
+Pr IV,　En. - George's Friend (D)[X]
+
+MREC_204_ED1_B_A
+Pr IV,　En. - Foreign Blade (A)[X]
+
+MREC_204_ED1_B_B
+Pr IV,　En. - Foreign Blade (B)[X]
+
+MREC_204_ED1_B_C
+Pr IV,　En. - Foreign Blade (C)[X]
+
+MREC_204_ED1_B_D
+Pr IV,　En. - Foreign Blade (D)[X]
+
+MREC_204_OP1
+Pr IV,　Op. - A Healer[X]
+
+MREC_204_OP5
+Pr IV,　Op. - George's Entrance[X]
+
+MREC_204_OP5B
+Pr IV,　Op. - Athena's Entrance[X]
+
+MREC_205_ED1
+Pr V,　En. - Show me the Way...?[X]
+
+MREC_205_ED2
+Pr V,　En. - We'll Kill Marth[X]
+
+MREC_205_ED3
+Pr V,　En. - Noticed Something[X]
+
+MREC_205_ED4
+Pr V,　En. - Royal Guard[X]
+
+MREC_205_EV1
+Pr V,　Sc. - Mage of Khadein[X]
+
+MREC_205_OP1
+Pr V,　Op. - Lost in Aritia[X]
+
+MREC_205_OP2
+Pr V,　Op. - Mysterious Mask[X]
+
+MREC_205_OP3
+Pr V,　Op. - Vanquishing Bandits[X]
+
+MREC_206_ED1_A
+Pr VI,　En. - Experienced Warrior[X]
+
+MREC_206_ED1_B
+Pr VI,　En. - Knight of Aritia[X]
+
+MREC_206_ED2
+Pr VI,　En. - Envisioned Future[X]
+
+MREC_206_EV1
+Pr VI,　Sc. - Female Knight[X]
+
+MREC_206_EV3_A
+Pr VI,　Sc. - I will Fight[X]
+
+MREC_206_EV3_B
+Pr VI,　Sc. - Not Bad at All[X]
+
+MREC_206_OP1
+Pr VI,　Op. - Lectures[X]
+
+MREC_206_OP3_A
+Pr VI,　Op. - Oguma's Entrance[X]
+
+MREC_206_OP3_A_CONT
+Pr VI,　Op. - Oguma's Trial[X]
+
+MREC_206_OP3_B
+Pr VI,　Op. - Doga's Entrance[X]
+
+MREC_206_OP3_B_CONT
+Pr VI,　Op. - Doga's Trial[X]
+
+MREC_207_ED1_A_A
+Pr VII,　En. - Ex-Whitewing (A)[X]
+
+MREC_207_ED1_A_B
+Pr VII,　En. - Ex-Whitewing (B)[X]
+
+MREC_207_ED1_A_C
+Pr VII,　En. - Ex-Whitewing (C)[X]
+
+MREC_207_ED1_B_A
+Pr VII,　En. - Fiery Knight (A)[X]
+
+MREC_207_ED1_B_B
+Pr VII,　En. - Fiery Knight (B)[X]
+
+MREC_207_ED1_B_C
+Pr VII,　En. - Fiery Knight (C)[X]
+
+MREC_207_ED2
+Pr VII,　En. - Katarina's Bandana[X]
+
+MREC_207_EV1_A
+Pr VII,　Sc. - Est's Warning[X]
+
+MREC_207_EV1_B
+Pr VII,　Sc. - Kain's Warning[X]
+
+MREC_207_EV2_A
+Pr VII,　Sc. - Est's Orders[X]
+
+MREC_207_EV2_B
+Pr VII,　Sc. - Kain's Orders[X]
+
+MREC_207_OP1
+Pr VII,　Op. - Final Test[X]
+
+MREC_207_OP2_A
+Pr VII,　Op. - Est's Entrance[X]
+
+MREC_207_OP2_B
+Pr VII,　Op. - Kain's Entrance[X]
+
+MREC_208_ED1
+Pr VIII,　En. - S・・・・・ ・・ C・・・・・・・・・[X]
+
+MREC_208_ED3_1A
+Pr VIII,　En. - Next... (Est)[X]
+
+MREC_208_ED3_1B
+Pr VIII,　En. - Next... (Kain)[X]
+
+MREC_208_ED3_1_2A
+Pr VIII,　En. - Next... (Oguma)[X]
+
+MREC_208_ED3_1_2B
+Pr VIII,　En. - Next... (Doga)[X]
+
+MREC_208_ED3_2
+Pr VIII,　En. - Next... (Marich)[X]
+
+MREC_208_ED3_3A
+Pr VIII,　En. - Next... (Gordon)[X]
+
+MREC_208_ED3_3B
+Pr VIII,　En. - Next... (Athena)[X]
+
+MREC_208_ED3_4
+Pr VIII,　En. - Next... (Riff)[X]
+
+MREC_208_ED3_5
+Pr VIII,　En. - Next... (Sheeda)[X]
+
+MREC_208_ED4
+Pr VIII,　En. - Remove Bandana?[X]
+
+MREC_208_OP0
+Pr VIII,　Op. - Bandana Season...[X]
+
+MREC_208_OP1
+Pr VIII,　Op. - The Big Day[X]
+
+MREC_208_OP2
+Pr VIII,　Op. - Award Ceremony[X]
+
+MREC_208_OP3
+Pr VIII,　Op. - Betrayal[X]
+
+MREC_208_OP4
+Pr VIII,　Op. - Hero Under Fire[X]
+
+MREC_001_ED0
+Ch 1,　En. - Heart of Grunia[X]
+
+MREC_001_ED1
+Ch 1,　En. - Yumina and Yubello[X]
+
+MREC_001_EV0
+Ch 1,　Sc. - Taking Advantage[X]
+
+MREC_001_EV1
+Ch 1,　Sc. - A Favor to Ask[X]
+
+MREC_001_H1
+Ch 1,　Ho. - Alan the Knight[X]
+
+MREC_001_H2
+Ch 1,　Ho. - Dark Chapter[X]
+
+MREC_001_H3
+Ch 1,　Ho. - The Two Children[X]
+
+MREC_001_H4
+Ch 1,　Ho. - Commander Lang[X]
+
+MREC_001_H5
+Ch 1,　Ho. - Lawrence's Friend[X]
+
+MREC_001_H6
+Ch 1,　Ho. - I・ ・・・・ G・・・・・・ C・・・・...[X]
+
+MREC_001_OP1_03A
+[SpecialText0x14]Ch 1,　Op. - S・・・・・・・・・・ ([SpecialText0x14=0x39])[X]
+
+MREC_001_OP1_03B
+[SpecialText0x14]Ch 1,　Op. - Suppression[X]
+
+MREC_001_TK1
+Ch 1,　Sc. - Lawrence's Suicide[X]
+
+MREC_001_VIL1
+Ch 1,　Vil. - Malliesia's Flustered[X]
+
+MREC_002_ED1
+Ch 2,　En. - Fire Emblem[X]
+
+MREC_002_H1
+Ch 2,　Ho. - About Warren[X]
+
+MREC_002_H2
+Ch 2,　Ho. - Lookout for Thieves[X]
+
+MREC_002_H3
+Ch 2,　Ho. - Only Well-Off Country[X]
+
+MREC_002_H4
+Ch 2,　Ho. - Lady Sword[X]
+
+MREC_002_H5
+Ch 2,　Ho. - Beware Dracoknights[X]
+
+MREC_002_OP0_A
+[SpecialText0x14]Ch 2,　Op. - [SpecialText0x14=0x39]'s Speed (A)[X]
+
+MREC_002_OP0_B
+[SpecialText0x14]Ch 2,　Op. - [SpecialText0x14=0x39]'s Speed (B)[X]
+
+MREC_002_OP0_C
+[SpecialText0x14]Ch 2,　Op. - [SpecialText0x14=0x39]'s Speed (C)[X]
+
+MREC_002_OP1
+Ch 2,　Op. - Macedonia's Forests[X]
+
+MREC_002_TK1
+Ch 2,　Sc. - Just a Hunter[X]
+
+MREC_002_VIL1
+Ch 2,　Vil. - For the Princess[X]
+
+MREC_003_ED1
+Ch 3,　En. - I W・・・ N・ L・・・・・ F・・・・・[X]
+
+MREC_003_ED4
+Ch 3,　En. - ・・・ ・・・・・・・・・' ・・・・・・・[X]
+
+MREC_003_EV1
+Ch 3,　Sc. - Thought I Was Dead?[X]
+
+MREC_003_H1
+Ch 3,　Ho. - Triangle Attack[X]
+
+MREC_003_H2
+Ch 3,　Ho. - Masked Paladin[X]
+
+MREC_003_H3
+Ch 3,　Ho. - Between You and Me[X]
+
+MREC_003_H4
+Ch 3,　Ho. - Macedonia...[X]
+
+MREC_003_OP0_A
+[SpecialText0x14]Ch 3,　Op. - [SpecialText0x14=0x39]'s Skill (A)[X]
+
+MREC_003_OP0_B
+[SpecialText0x14]Ch 3,　Op. - [SpecialText0x14=0x39]'s Skill (B)[X]
+
+MREC_003_OP0_C
+[SpecialText0x14]Ch 3,　Op. - [SpecialText0x14=0x39]'s Skill (C)[X]
+
+MREC_003_OP1
+Ch 3,　Op. - Missing Clerics[X]
+
+MREC_003_TK1
+Ch 3,　Sc. - My Cute Lil' Sister[X]
+
+MREC_003_VIL1
+Ch 3,　Vil. - Rena Kidnapped[X]
+
+MREC_003_VIL2
+Ch 3,　Vil. - The Princess's Man[X]
+
+MREC_003_VIL3
+Ch 3,　Vil. - Large Drawbridge[X]
+
+MREC_103_ED1
+Ch 3x,　En. - To Wendel[X]
+
+MREC_103_ED2
+Ch 3x,　En. - I M・・・ D・・・・・ T・・・[X]
+
+MREC_103_ED3
+Ch 3x,　En. - Riff's Haircut[X]
+
+MREC_103_EV1
+Ch 3x,　Op. - Surrounded...[X]
+
+MREC_103_EV2
+Ch 3x,　Sc. - Leave it to You[X]
+
+MREC_103_OP1
+[SpecialText0x14]Ch 3x,　Op. - [SpecialText0x14=0x39]'s Prowess[X]
+
+MREC_103_PRE1
+Ch 3x,　Op. - Enemy Presence[X]
+
+MREC_103_TK1
+Ch 3x,　Sc. - Riff the Curate[X]
+
+MREC_004_ED1
+Ch 4,　En. - Hardin's Trap[X]
+
+MREC_004_ED2
+Ch 4,　En. - W・・・ Y・・・ H・・・ B・・・?[X]
+
+MREC_004_EV1
+Ch 4,　Sc. - Backup from the Fort[X]
+
+MREC_004_H1
+Ch 4,　Ho. - Political Tomfoolery[X]
+
+MREC_004_H2
+Ch 4,　Ho. - Star Shards[X]
+
+MREC_004_H3
+Ch 4,　Ho. - Rescue Staff[X]
+
+MREC_004_OP0
+Ch 4,　Op. - A Shocking Haircut...[X]
+
+MREC_004_OP1
+Ch 4,　Op. - Macedonian Vikings[X]
+
+MREC_004_TK1
+Ch 4,　Sc. - A Mere Traveler[X]
+
+MREC_004_VIL1
+Ch 4,　Vil. - Me Mother's Sick[X]
+
+MREC_004_VIL2
+Ch 4,　Vil. - Wind Magic[X]
+
+MREC_005_ED1
+Ch 5,　En. - Nest of Vice[X]
+
+MREC_005_EV0
+Ch 5,　Sc. - Raid the Village[X]
+
+MREC_005_EV1
+Ch 5,　Op. - Stay in Position[X]
+
+MREC_005_H1
+Ch 5,　Ho. - Lax as They Get[X]
+
+MREC_005_H2
+Ch 5,　Ho. - Please Defeat Lang[X]
+
+MREC_005_OP1
+Ch 5,　Op. - Don't Let'em Near[X]
+
+MREC_005_TK1
+Ch 5,　Sc. - Yo, Chief[X]
+
+MREC_005_TK2
+Ch 5,　Sc. - The Hatchet (Saji)[X]
+
+MREC_005_TK3
+Ch 5,　Sc. - The Hatchet (Maji)[X]
+
+MREC_005_TK4
+Ch 5,　Sc. - The Hatchet (Oguma)[X]
+
+MREC_005_VIL1
+Ch 5,　Vil. - Hammerne Staff[X]
+
+MREC_006_ED1_A
+Ch 6,　En. - Lang's Demise... (A)[X]
+
+MREC_006_ED1_B
+Ch 6,　En. - Lang's Demise... (B)[X]
+
+MREC_006_ED1_C
+Ch 6,　En. - Lang's Demise... (C)[X]
+
+MREC_006_ED2
+Ch 6,　En. - Mercenary Battle[X]
+
+MREC_006_EV0
+Ch 6,　Sc. - Friend or Foe?[X]
+
+MREC_006_EV1
+Ch 6,　Sc. - Frey and Norne[X]
+
+MREC_006_OP1
+Ch 6,　Op. - Lang's Plan[X]
+
+MREC_006_OP_A
+[SpecialText0x14]Ch 6,　Op. - [SpecialText0x14=0x39]'s Might (A)[X]
+
+MREC_006_OP_B
+[SpecialText0x14]Ch 6,　Op. - [SpecialText0x14=0x39]'s Might (B)[X]
+
+MREC_006_OP_C
+[SpecialText0x14]Ch 6,　Op. - [SpecialText0x14=0x39]'s Might (C)[X]
+
+MREC_006_TK1
+Ch 6,　Sc. - Yo, Chief[X]
+
+MREC_006_TK2
+Ch 6,　Sc. - Impostor (Sheeda)[X]
+
+MREC_006_TK3
+Ch 6,　Sc. - Impostor (Oguma)[X]
+
+MREC_106_ED1A
+Ch 6x,　En. - B・・・ (C・・・・・, R・・・)[X]
+
+MREC_106_ED1B
+Ch 6x,　En. - Boss (Caesar)[X]
+
+MREC_106_ED1C
+Ch 6x,　En. - Boss (Raddy)[X]
+
+MREC_106_ED1D
+Ch 6x,　En. - Former Comrades...[X]
+
+MREC_106_ED2
+Ch 6x,　En. - Not a Clone[X]
+
+MREC_106_EV1
+Ch 6x,　Op. - Finally My Turn[X]
+
+MREC_106_OP1_B
+Ch 6x,　Op. - We Have No Liege[X]
+
+MREC_106_PRE1_B
+Ch 6x,　Op. - Enemy Ambush[X]
+
+MREC_007_ED1
+Ch 7,　En. - Avatar of the Gods[X]
+
+MREC_007_ED2
+Ch 7,　En. - Pontifical Hat[X]
+
+MREC_007_EV1
+Ch 7,　Sc. - Bridge Defence[X]
+
+MREC_007_EV2
+Ch 7,　Sc. - A Dragon Appears[X]
+
+MREC_007_H1
+Ch 7,　Ho. - L・・ S・・・・・・・ D・・・ L・・[X]
+
+MREC_007_H2
+Ch 7,　Ho. - Accursed Thieves[X]
+
+MREC_007_H3
+Ch 7,　Ho. - Marvelous Dance[X]
+
+MREC_007_H4
+Ch 7,　Ho. - The Cave Dragon[X]
+
+MREC_007_OP0
+Ch 7,　Op. - What Kind of Person?[X]
+
+MREC_007_OP1
+Ch 7,　Op. - Dancer in Danger[X]
+
+MREC_008_ED1
+Ch 8,　En. - Hurry Aboard[X]
+
+MREC_008_ED2
+Ch 8,　En. - Take Off Your Hat?[X]
+
+MREC_008_EV1
+Ch 8,　Sc. - Playtime's Over[X]
+
+MREC_008_EV2
+Ch 8,　Sc. - Continue this Game[X]
+
+MREC_008_EV3
+Ch 8,　Sc. - Cornering Marth[X]
+
+MREC_008_H1
+Ch 8,　Ho. - Fellow Archers[X]
+
+MREC_008_OP0
+Ch 8,　Op. - Nice Hat[X]
+
+MREC_008_OP1
+Ch 8,　Op. - Reunion with Kain[X]
+
+MREC_008_TK1
+Ch 8,　Sc. - For Country (Gordon)[X]
+
+MREC_008_TK2
+Ch 8,　Sc. - For Country (Marth)[X]
+
+MREC_008_TK3
+Ch 8,　Sc. - I'm Going With You[X]
+
+MREC_008_VIL1
+Ch 8,　Vil. - Banutu Joins[X]
+
+MREC_009_ED1
+Ch 9,　En. - Into the Sanctuary[X]
+
+MREC_009_EV1
+Ch 9,　Sc. - Chased[X]
+
+MREC_009_EV2A
+Ch 9,　Sc. - Pursuers (Astria)[X]
+
+MREC_009_EV2B
+Ch 9,　Sc. - Pursuers[X]
+
+MREC_009_H1
+Ch 9,　Ho. - Heading North[X]
+
+MREC_009_H2
+Ch 9,　Ho. - Swordslayer[X]
+
+MREC_009_H3
+Ch 9,　Ho. - Marich's Rival[X]
+
+MREC_009_OP0_A
+[SpecialText0x14]Ch 9,　Op. - [SpecialText0x14=0x39]'s Luck (A)[X]
+
+MREC_009_OP0_B
+[SpecialText0x14]Ch 9,　Op. - [SpecialText0x14=0x39]'s Luck (B)[X]
+
+MREC_009_OP0_C
+[SpecialText0x14]Ch 9,　Op. - [SpecialText0x14=0x39]'s Luck (C)[X]
+
+MREC_009_OP1
+Ch 9,　Op. - Atonement[X]
+
+MREC_009_OP2
+Ch 9,　Op. - Mage Corps[X]
+
+MREC_009_TK1
+Ch 9,　Sc. - Stand by Your Word[X]
+
+MREC_009_VIL1
+Ch 9,　Vil. - Siblings' Bond[X]
+
+MREC_010_ED1_A
+Ch 10,　En. - Up to Khadein (A)[X]
+
+MREC_010_ED1_B
+Ch 10,　En. - Up to Khadein (B)[X]
+
+MREC_010_ED1_C
+Ch 10,　En. - Up to Khadein (C)[X]
+
+MREC_010_ED2
+Ch 10,　En. - Clerics' Gift[X]
+
+MREC_010_ED3
+Ch 10,　En. - Horace Trapped[X]
+
+MREC_010_ED_BS
+Ch 10,　En. - Mercenary Family[X]
+
+MREC_010_OP0_A
+[SpecialText0x14]Ch 10,　Op. - [SpecialText0x14=0x39]'s Mag. (A)[X]
+
+MREC_010_OP0_B
+[SpecialText0x14]Ch 10,　Op. - [SpecialText0x14=0x39]'s Mag. (B)[X]
+
+MREC_010_OP0_C
+[SpecialText0x14]Ch 10,　Op. - [SpecialText0x14=0x39]'s Mag. (C)[X]
+
+MREC_010_OP1
+Ch 10,　Op. - Wind and Thunder[X]
+
+MREC_010_TK1
+Ch 10,　Sc. - Compassion[X]
+
+MREC_110_ED1
+Ch 10x,　En. - Strange Enemy[X]
+
+MREC_110_ED1_ADD
+Ch 10x,　En. - Masquerade[X]
+
+MREC_110_ED2
+Ch 10x,　En. - Broken Junk[X]
+
+MREC_110_EV1
+Ch 10x,　Sc. - More and More[X]
+
+MREC_110_OP1
+Ch 10x,　Op. - Can You Find Me?[X]
+
+MREC_110_PRE1
+Ch 10x,　Op. - Already Infiltrated[X]
+
+MREC_110_TK1
+Ch 10x,　Sc. - For Princess Nina[X]
+
+MREC_011_ED1
+Ch 11,　En. - Comic Relief[X]
+
+MREC_011_ED2
+Ch 11,　En. - E・・・・・ M・・・・・・・・・・・?[X]
+
+MREC_011_OP0
+Ch 11,　Op. - Donning the Mask...[X]
+
+MREC_011_OP1
+Ch 11,　Op. - Desert of Death[X]
+
+MREC_011_TK1
+Ch 11,　Sc. - For Anna, My Love[X]
+
+MREC_012_ED1_A
+[SpecialText0x14]Ch 12,　En. - [SpecialText0x14=0x39]'s ・・・・・・ (・)[X]
+
+MREC_012_ED1_B
+[SpecialText0x14]Ch 12,　En. - [SpecialText0x14=0x39]'s ・・・・・・ (・)[X]
+
+MREC_012_ED1_C
+[SpecialText0x14]Ch 12,　En. - [SpecialText0x14=0x39]'s ・・・・・・ (・)[X]
+
+MREC_012_ED_BS
+Ch 12,　En. - Ex-Sable Knights[X]
+
+MREC_012_OP1
+Ch 12,　Op. - Flame Barrel[X]
+
+MREC_012_TK1
+Ch 12,　Sc. - The Outcast[X]
+
+MREC_013_ED1
+Ch 13,　En. - Shield of Seals[X]
+
+MREC_013_ED2
+Ch 13,　En. - No Man's Shadow[X]
+
+MREC_013_OP0_A
+[SpecialText0x14]Ch 13,　Op. - [SpecialText0x14=0x39]'s ・・・・・・ (・)[X]
+
+MREC_013_OP0_B
+[SpecialText0x14]Ch 13,　Op. - [SpecialText0x14=0x39]'s ・・・・・・ (・)[X]
+
+MREC_013_OP0_C
+[SpecialText0x14]Ch 13,　Op. - [SpecialText0x14=0x39]'s ・・・・・・ (・)[X]
+
+MREC_013_OP1
+Ch 13,　Op. - Poor Creatures[X]
+
+MREC_013_TK1
+Ch 13,　Sc. - My Horse-Buddy[X]
+
+MREC_113_ED1
+Ch 13x,　En. - No Need to Remain[X]
+
+MREC_113_ED2
+Ch 13x,　En. - Stay With Me[X]
+
+MREC_113_OP1
+Ch 13x,　Op. - Athena's Warning[X]
+
+MREC_113_OP2
+Ch 13x,　Op. - Can't See Anything[X]
+
+MREC_113_PRE1
+Ch 13x,　Op. - Furious Blizzard[X]
+
+MREC_014_ED1_A
+Ch 14,　En. - F・・・・・・・ S・・・・・ (T・・・)[X]
+
+MREC_014_ED1_B
+Ch 14,　En. - Fiendish Shadow[X]
+
+MREC_014_ED3
+Ch 14,　En. - Magical Tiara[X]
+
+MREC_014_EV1_A
+Ch 14,　Sc. - Light (All Shards)[X]
+
+MREC_014_EV1_B
+Ch 14,　Sc. - Light (No Shards)[X]
+
+MREC_014_EV3
+Ch 14,　Sc. - Scary Dreams[X]
+
+MREC_014_EV4
+Ch 14,　Sc. - Not You[X]
+
+MREC_014_EV5
+Ch 14,　Sc. - Chiki...[X]
+
+MREC_014_OP1
+Ch 14,　Op. - Ice Dragons' Temple[X]
+
+MREC_014_OP2
+Ch 14,　Op. - Can You Hear Me?[X]
+
+MREC_015_ED1
+Ch 15,　En. - Battle for Aritia[X]
+
+MREC_015_ED3
+Ch 15,　En. - Not so Legendary?[X]
+
+MREC_015_EV1
+Ch 15,　Op. - I'm Sorry Abel[X]
+
+MREC_015_H1
+Ch 15,　Ho. - Enemies in Waiting[X]
+
+MREC_015_H2
+Ch 15,　Ho. - Missing in Action[X]
+
+MREC_015_H3
+Ch 15,　Ho. - Gra's Situation[X]
+
+MREC_015_H4
+Ch 15,　Ho. - News of Ellis[X]
+
+MREC_015_H5
+Ch 15,　Ho. - Star and Savior[X]
+
+MREC_015_H6
+Ch 15,　Ho. - Enemy Spies[X]
+
+MREC_015_H7
+Ch 15,　Ho. - Cream of the Crop[X]
+
+MREC_015_OP0
+Ch 15,　Op. - Legendary Power...[X]
+
+MREC_015_OP1
+Ch 15,　Op. - If He Betrays Us...[X]
+
+MREC_015_OP2
+Ch 15,　Op. - ・・・・・・・・・・・・・・・・・・・・・[X]
+
+MREC_015_TK1
+Ch 15,　Sc. - Seeing You Again...[X]
+
+MREC_015_TK2
+Ch 15,　Sc. - D・・'・ B・・・・ Y・・・・・・・[X]
+
+MREC_015_VIL1
+Ch 15,　Vil. - Feuding Villages[X]
+
+MREC_016_ED1
+Ch 16,　En. - Bad Tidings[X]
+
+MREC_016_ED2
+Ch 16,　En. - Place of Memories[X]
+
+MREC_016_EV1
+Ch 16,　Op. - Battle of Intellect[X]
+
+MREC_016_EV2
+Ch 16,　Sc. - Open the Door![X]
+
+MREC_016_OP0_A
+[SpecialText0x14]Ch 16,　Op. - [SpecialText0x14=0x39]'s Exp. (A)[X]
+
+MREC_016_OP0_B
+[SpecialText0x14]Ch 16,　Op. - [SpecialText0x14=0x39]'s Exp. (B)[X]
+
+MREC_016_OP0_C
+[SpecialText0x14]Ch 16,　Op. - [SpecialText0x14=0x39]'s Exp. (C)[X]
+
+MREC_016_OP1_1
+Ch 16,　Op. - Earth Orb[X]
+
+MREC_016_OP1_2
+Ch 16,　Op. - T・・ J・・・・・・ I B・・・・・・[X]
+
+MREC_016_TK1
+Ch 16,　Sc. - Entrusted Emblem[X]
+
+MREC_116_ED2_A
+Ch 16x,　En. - C・・・・・・・・・ (K・・・・・・・)[X]
+
+MREC_116_ED2_B
+Ch 16x,　En. - Conclusion[X]
+
+MREC_116_OP2
+Ch 16x,　Op. - Without Fighting[X]
+
+MREC_116_PRE1
+Ch 16x,　Op. - My Little Puppet[X]
+
+MREC_116_TK1
+Ch 16x,　Sc. - A Happy Dream[X]
+
+MREC_116_TK2
+Ch 16x,　Sc. - Please Fight Me[X]
+
+MREC_116_TK3
+Ch 16x,　Sc. - Katarina's Tears[X]
+
+MREC_017_ED1
+Ch 17,　En. - Needless Bloodshed[X]
+
+MREC_017_ED_BS
+Ch 17,　En. - F・・・・・-L・・・・・ B・・・・・[X]
+
+MREC_017_EV1
+Ch 17,　Sc. - Massacre (Samson)[X]
+
+MREC_017_EV2
+Ch 17,　Sc. - Massacre[X]
+
+MREC_017_H1
+Ch 17,　Ho. - T・ P・・・・・・ B・・・・・・・[X]
+
+MREC_017_H2
+Ch 17,　Ho. - Please Help Sheema[X]
+
+MREC_017_H3
+Ch 17,　Ho. - They're・All・Amateurs[X]
+
+MREC_017_OP0_A
+[SpecialText0x14]Ch 17,　Op. - [SpecialText0x14=0x39]'s Def. (A)[X]
+
+MREC_017_OP0_B
+[SpecialText0x14]Ch 17,　Op. - [SpecialText0x14=0x39]'s Def. (B)[X]
+
+MREC_017_OP0_C
+[SpecialText0x14]Ch 17,　Op. - [SpecialText0x14=0x39]'s Def. (C)[X]
+
+MREC_017_OP1
+Ch 17,　Op. - Gra's Final Days[X]
+
+MREC_017_TK1
+Ch 17,　Sc. - Entrust My Country[X]
+
+MREC_017_TK2
+Ch 17,　Sc. - Wherever You Go[X]
+
+MREC_017_VIL1
+Ch 17,　Vil. - Precious Treasure[X]
+
+MREC_017_VIL2
+Ch 17,　Vil. - Act of Brutality[X]
+
+MREC_018_ED1
+Ch 18,　En. - To the Palace[X]
+
+MREC_018_EV1
+Ch 18,　Op. - The Wolfguard![X]
+
+MREC_018_OP0_A
+Ch 18,　Op. - Up to Gra (A)[X]
+
+MREC_018_OP0_B
+Ch 18,　Op. - Up to Gra (B)[X]
+
+MREC_018_OP0_C
+Ch 18,　Op. - Up to Gra (C)[X]
+
+MREC_018_OP1
+Ch 18,　Op. - I Can't Betray You[X]
+
+MREC_018_VIL1
+Ch 18,　Vil. - Life Orb[X]
+
+MREC_019_ED1
+Ch 19,　En. - Hardin and Nina[X]
+
+MREC_019_EV1
+Ch 19,　Sc. - Defy His Edict[X]
+
+MREC_019_H1
+Ch 19,　Ho. - If they Hear Me[X]
+
+MREC_019_H2
+Ch 19,　Ho. - Pride of Akaneia[X]
+
+MREC_019_H3
+Ch 19,　Ho. - Fragile Peace[X]
+
+MREC_019_H4
+Ch 19,　Ho. - Young Woman[X]
+
+MREC_019_H5
+Ch 19,　Ho. - Cutthroats[X]
+
+MREC_019_H6
+Ch 19,　Ho. - Demonic Emperor[X]
+
+MREC_019_OP1
+Ch 19,　Op. - Akaneia's Army[X]
+
+MREC_019_TK1
+Ch 19,　Sc. - The Kindest[X]
+
+MREC_019_TK2
+Ch 19,　Sc. - Coyote's Changed[X]
+
+MREC_019_TK3
+Ch 19,　Sc. - ・・・・・・・・・・・・・・・・・・・・[X]
+
+MREC_019_VIL1
+Ch 19,　Vil. - W・・・・・・・・ (R・・・・・)[X]
+
+MREC_019_VIL1_B
+Ch 19,　Vil. - Wolfguard[X]
+
+MREC_020_ED1_A
+Ch 20,　En. - Royal Pretenders[X]
+
+MREC_020_ED2
+Ch 20,　En. - T・・ L・・・・・ (K・・・・・・・)[X]
+
+MREC_020_ED2_YB
+Ch 20,　En. - The Leader[X]
+
+MREC_020_EV1
+Ch 20,　Sc. - Light and Dark[X]
+
+MREC_020_OP1
+Ch 20,　Op. - Rotten World[X]
+
+MREC_020_PRE1
+Ch 20,　Op. - Necessary Light[X]
+
+MREC_120_ED1
+Ch 20x,　En. - Victims of War[X]
+
+MREC_120_ED2
+Ch 20x,　En. - Darkest Despair[X]
+
+MREC_120_OP1
+Ch 20x,　Op. - Terror (Katarina)[X]
+
+MREC_120_OP1B
+Ch 20x,　Op. - Terror[X]
+
+MREC_120_PRE1
+Ch 20x,　Op. - D・・・・・・・ (K・・・・・・・)[X]
+
+MREC_120_PRE1B
+Ch 20x,　Op. - Darkness[X]
+
+MREC_021_ED1
+Ch 21,　En. - M・・・・・'・ A・・・・・・・・[X]
+
+MREC_021_ED2
+Ch 21,　En. - Ymir's Hat[X]
+
+MREC_021_ED3
+Ch 21,　En. - Your Tears[X]
+
+MREC_021_EV1
+Ch 21,　Op. - Gentle Giant[X]
+
+MREC_021_EV2
+Ch 21,　Sc. - Brother and Sister[X]
+
+MREC_021_H1
+Ch 21,　Ho. - Peculiar Roars[X]
+
+MREC_021_H2
+Ch 21,　Ho. - Don't Go Past[X]
+
+MREC_021_OP1
+Ch 21,　Op. - Dragon's Dale[X]
+
+MREC_021_VIL1
+Ch 21,　Vil. - Misheil's Demise[X]
+
+MREC_022_ED1
+Ch 22,　En. - Moving Up[X]
+
+MREC_022_ED2
+Ch 22,　En. - A Sore Thumb[X]
+
+MREC_022_OP0
+Ch 22,　Op. - One Heck of a Hat[X]
+
+MREC_022_OP1
+Ch 22,　Op. - Have we Met?[X]
+
+MREC_023_ED1
+Ch 23,　En. - To the Top[X]
+
+MREC_023_OP0_A
+[SpecialText0x14]Ch 23,　Op. - [SpecialText0x14=0x39]'s Res. (A)[X]
+
+MREC_023_OP0_B
+[SpecialText0x14]Ch 23,　Op. - [SpecialText0x14=0x39]'s Res. (B)[X]
+
+MREC_023_OP0_C
+[SpecialText0x14]Ch 23,　Op. - [SpecialText0x14=0x39]'s Res. (C)[X]
+
+MREC_023_OP1
+Ch 23,　Op. - Demon King[X]
+
+MREC_024_EV2
+Ch 24,　Sc. - Light of Hope[X]
+
+MREC_024_OP0
+Ch 24,　Op. - The Future...[X]
+
+MREC_024_OP1
+Ch 24,　Op. - 'Til the Very End[X]
+
+MREC_024_OP2
+Ch 24,　Op. - ・・・・・・・・・・・・・・・・・・・・・・...[X]
+
+MREC_024_TK1
+Ch 24,　Sc. - Smile for Me[X]
+
+MREC_024_TK2
+Ch 24,　Sc. - Just like Before[X]
+
+MREC_024_TK3
+Ch 24,　Sc. - A Bad Dream[X]
+
+MREC_024_TK4
+Ch 24,　Sc. - All to Protect You[X]
+
+MREC_20_ED1
+Grand Finale - As Long as People[X]
+
+MREC_24_ED1_2_A
+Grand Finale - I Love Everyone[X]
+
+MREC_24_ED1_2_B
+Grand Finale - War Casualties...[X]
+
+MREC_24_ED1_2_D
+Grand Finale - F・・ M・・・ P・・・・・・・[X]
+
+MREC_24_ED2
+Grand Finale - Be Brave![X]
+
+MREC_24_ED3
+Grand Finale - Marth, I...[X]
+
+MREC_ED1_1
+Grand Finale - Aritia 1[X]
+
+MREC_ED1_10
+Grand Finale - Macedonia 2[X]
+
+MREC_ED1_10_2
+Grand Finale - Macedonia 3[X]
+
+MREC_ED1_11
+Grand Finale - Talis 1[X]
+
+MREC_ED1_12
+Grand Finale - Talis 2[X]
+
+MREC_ED1_13
+Grand Finale - Akaneia 1[X]
+
+MREC_ED1_14
+Grand Finale - Akaneia 2[X]
+
+MREC_ED1_14_2
+Grand Finale - Akaneia 3[X]
+
+MREC_ED1_15
+Grand Finale - Akaneia 4[X]
+
+MREC_ED1_16
+Grand Finale - Akaneia 5[X]
+
+MREC_ED1_16_2
+Grand Finale - Akaneia 6[X]
+
+MREC_ED1_17
+Grand Finale - Others 1[X]
+
+MREC_ED1_17_2
+Grand Finale - Others 2[X]
+
+MREC_ED1_18
+Grand Finale - Orleans[X]
+
+MREC_ED1_19
+Grand Finale - Khadein[X]
+
+MREC_ED1_20
+Grand Finale - Gra[X]
+
+MREC_ED1_21
+Grand Finale - Dragonkin[X]
+
+MREC_ED1_3
+Grand Finale - Aritia 2[X]
+
+MREC_ED1_4
+Grand Finale - Aritia 3[X]
+
+MREC_ED1_5
+Grand Finale - Aritia 4[X]
+
+MREC_ED1_6
+Grand Finale - Aritia 5[X]
+
+MREC_ED1_7
+Grand Finale - Grunia 1[X]
+
+MREC_ED1_8
+Grand Finale - Grunia 2[X]
+
+MREC_ED1_8_2
+Grand Finale - Grunia 3[X]
+
+MREC_ED1_9
+Grand Finale - Macedonia 1[X]
+
+MREC_ED2A
+Grand Finale - Light and Shadow[X]
+
+MREC_ED2B
+Grand Finale - Light and Shadow[X]
+
+MREC_GED_Hitokoto
+Grand Finale - Everyone's Words[X]
+
+MREC_HELP
+Select a scene to watch.[X]
+
+MREC_TITLE_MAIN_F
+Scene: Fem.[X]
+
+MREC_TITLE_MAIN_M
+Scene: Male[X]
+
+MREC_UNKNOWN
+？？？？？？？？[X]
+

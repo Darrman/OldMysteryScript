@@ -1,0 +1,133 @@
+MS120_PRE1B_PCF1
+[TargetLeft][LoadPortrait=PLAYER][TargetRight][LoadPortrait=MARS][LoadBackground=BBG65][TargetLeft]Sire, this is it.[Pause=3]
+Please watch your footing.[A][ClearBox][TargetRight]It's pitch black.[Pause=3]
+Did Katarina and the others
+really live here[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][A][ClearBox]It'll be difficult to battle
+in this darkness[FreezeMouth]...[UnfreezeMouth]
+Sire, please exercize caution.[A][ClearBox][Unknown0x4=F][X]
+
+MS120_PRE1B_PCM1
+[TargetLeft][LoadPortrait=PLAYER][TargetRight][LoadPortrait=MARS][LoadBackground=BBG65][TargetLeft]Sire, this is it.[Pause=3]
+Please watch your footing.[A][ClearBox][TargetRight]It's pitch black.[Pause=3]
+Did Katarina and the others
+really live here[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][A][ClearBox]It'll be difficult to battle
+in this darkness[FreezeMouth]...[UnfreezeMouth]
+Sire, please exercize caution.[A][ClearBox][Unknown0x4=F][X]
+
+MS120_PRE1_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=KATARINA][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG65][TargetLeft][SpecialText0x14=0x39], Prince Marth, this is it.[Pause=3]
+Please watch your footing[FreezeMouth].[UnfreezeMouth][A][ClearBox][TargetRight]It's pitch black[FreezeMouth].[UnfreezeMouth][Pause=3]
+Visiblity's practically non-existent[FreezeMouth]...[UnfreezeMouth]
+We'll be in trouble if we have to fight.[A][ClearBox][TargetLeft]The organization's children were
+raised in darkness[FreezeMouth]...[UnfreezeMouth][A][ClearBox]They have no heart or will of their own.
+They only move their limbs when ordered,
+like puppets[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Katarina[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]I'm[FreezeMouth]... [UnfreezeMouth]not like them anymore.[A][ClearBox][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+I want to be of use to you.[Pause=3]
+That feeling is mine and mine alone.[A][ClearBox]Not just some order[FreezeMouth]![UnfreezeMouth][Pause=3]
+But my own truest desire[FreezeMouth]...[UnfreezeMouth][Pause=3]
+My treasure.[A][ClearBox]Let's go, [SpecialText0x14=0x39].[A][ClearBox][Unknown0x4=F][X]
+
+MS120_PRE1_PCM1
+[SpecialText0x14][TargetLeft][LoadPortrait=KATARINA][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG65][TargetLeft][SpecialText0x14=0x39], Prince Marth, this is it.[Pause=3]
+Please watch your footing[FreezeMouth].[UnfreezeMouth][A][ClearBox][TargetRight]It's pitch black[FreezeMouth].[UnfreezeMouth][Pause=3]
+Visiblity's practically non-existent[FreezeMouth]...[UnfreezeMouth]
+We'll be in trouble if we have to fight.[A][ClearBox][TargetLeft]The organization's children were
+raised in darkness[FreezeMouth]...[UnfreezeMouth][A][ClearBox]They have no heart or will of their own.
+They only move their limbs when ordered,
+like puppets[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Katarina[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]I'm[FreezeMouth]... [UnfreezeMouth]not like them anymore.[A][ClearBox][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+I want to be of use to you.[Pause=3]
+That feeling is mine and mine alone.[A][ClearBox]Not just some order[FreezeMouth]![UnfreezeMouth][Pause=3]
+But my own truest desire[FreezeMouth]...[UnfreezeMouth][Pause=3]
+My treasure.[A][ClearBox]Let's go, [SpecialText0x14=0x39].[A][ClearBox][Unknown0x4=F][X]
+
+MS120_OP1
+[LoadBackground=BBG66][TargetLeft][LoadPortrait=EREMIYA]The Aritian army is here?[A][ClearBox]Gosh, that junk puppet betrayed me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Who would have expected that she'd
+wrestle free from my control.[A][ClearBox][FaceCommand=0x73]But, I bet you didn't know this:[Pause=3]
+There are many puppets here far
+superior to you, my dear.[A][ClearBox]Come, my sweet little children.[Pause=3]
+The bad men have come.[A][ClearBox]Darkness is our friend.[Pause=3]
+What our enemies cannot see, we can.[A][ClearBox]Let them experience[FreezeMouth]...[UnfreezeMouth][Pause=3]
+the feeling of pure terror.[A][ClearBox][X]
+
+MS120_OP1B
+[LoadBackground=BBG66][TargetLeft][LoadPortrait=EREMIYA]The Aritian army is here?[Pause=3]
+[FaceCommand=0x73]Oh, how wonderful.[A][ClearBox]Come, my sweet little children.[Pause=3]
+The bad men have come.[A][ClearBox]Darkness is our friend.[Pause=3]
+What our enemies cannot see, we can.[A][ClearBox]Let them experience[FreezeMouth]...[UnfreezeMouth][Pause=3]
+the feeling of pure terror.[A][ClearBox][X]
+
+MS120_BT_BOSS
+[LoadBackground=BBG66][TargetLeft][LoadPortrait=EREMIYA]My children[FreezeMouth]...[UnfreezeMouth][Pause=3] were just trash in the end.[Pause=3]
+They couldn't even dispose of this rabble[FreezeMouth]...[UnfreezeMouth].[A][ClearBox]It seems I have no choice but to
+show them how it's properly done.[A][ClearBox][X]
+
+MS120_BT_KATARINA
+[SpecialText0x14][LoadBackground=BBG66][TargetLeft][LoadPortrait=EREMIYA][TargetRight][LoadPortrait=KATARINA][TargetRight]Lady Eremiah[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Oh my, if it isn't the broken puppet.[Pause=3]
+I wonder[FreezeMouth]...[UnfreezeMouth] should I call you
+ungrateful trash or traitorous trash?[A][ClearBox]But I must say, it's very brave
+of you to show your face in front
+of me again, Eine.[A][ClearBox][TargetRight]Meeting you again[FreezeMouth]... [UnfreezeMouth]crushes my heart.[Pause=3]
+I'd rather die, frankly[FreezeMouth]...[UnfreezeMouth][A][ClearBox]But, if I can be of use to [SpecialText0x14=0x39],
+then I will not run away[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]A junk puppet talking like a human being[FreezeMouth]?[UnfreezeMouth][Pause=3]
+The only word you're ever allowed
+to say is "yes".[A][ClearBox]I'll make sure that mouth of yours
+starts working properly right away.[A][ClearBox][X]
+
+MS120_DIE_BOSS
+[LoadBackground=BBG66][TargetLeft][LoadPortrait=EREMIYA]My[FreezeMouth]... [UnfreezeMouth]children[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS120_ED1_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=PLAYER][TargetRight][LoadPortrait=MARS][LoadBackground=BBG66][TargetLeft]Sire, the battle is over.[A][ClearBox]The assassins shall target you no longer.[A][ClearBox][TargetRight]I see, thank you.[A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]According to the villagers nearby[FreezeMouth]...[UnfreezeMouth][A][ClearBox]That woman called Eremiah used to be a
+kind bishop who looked after war orphans.[A][ClearBox]But during the war, her orphanage was
+burned down and all the children killed[FreezeMouth]...[UnfreezeMouth]
+Ever since then[FreezeMouth]... [UnfreezeMouth]she changed.[A][ClearBox][TargetLeft][LoadPortrait=PLAYER][TargetRight]So she was yet another
+victim of the war?[A][ClearBox]That does not erase her sins, but[FreezeMouth]...[UnfreezeMouth][Pause=3]
+'tis truly a tragedy.[A][ClearBox][TargetLeft]However, at the very least there
+won't be more victims like Katarina.[A][ClearBox][TargetRight]Indeed.[Pause=3]
+That's my only comfort.[A][ClearBox]Let us go, [SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][Pause=3]
+There are still things we must do.[A][ClearBox][TargetLeft]Yes, sire.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS120_ED1_PCM1
+[SpecialText0x14][TargetLeft][LoadPortrait=PLAYER][TargetRight][LoadPortrait=MARS][LoadBackground=BBG66][TargetLeft]Sire, we've seized control of the area.[A][ClearBox]The assassins shall target you no longer.[A][ClearBox][TargetRight]I see, thank you.[A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]According to the villagers nearby[FreezeMouth]...[UnfreezeMouth][A][ClearBox]That woman called Eremiah used to be a
+kind bishop who looked after war orphans.[A][ClearBox]But during the war, her orphanage was
+burned down and all the children killed[FreezeMouth]...[UnfreezeMouth]
+Ever since then[FreezeMouth]... [UnfreezeMouth]she changed.[A][ClearBox][TargetLeft][LoadPortrait=PLAYER][TargetRight]So she was yet another
+victim of the war?[A][ClearBox]That does not erase her sins, but[FreezeMouth]...[UnfreezeMouth][Pause=3]
+'tis truly a tragedy.[A][ClearBox][TargetLeft]However, at the very least there
+won't be more victims like Katarina.[A][ClearBox][TargetRight]Indeed.[Pause=3]
+That's my only comfort.[A][ClearBox]Let us go, [SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][Pause=3]
+There are still things we must do.[A][ClearBox][TargetLeft]Yes, sire.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS120_ED2
+[Fade=40][TargetLeft][LoadPortrait=GARNEF][LoadBackground=BBG65][TargetLeft][FreezeMouth]...[UnfreezeMouth]Bah[FreezeMouth]![UnfreezeMouth][A][ClearBox][FreezeMouth]...[UnfreezeMouth]So you failed in the end[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[FreezeMouth]...[UnfreezeMouth]Eremiah.[A][ClearBox][TargetRight][LoadPortrait=EREMIYA]Master[FreezeMouth]...[UnfreezeMouth] Garnef[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ec]Forgive[FreezeMouth]... [UnfreezeMouth]me[FreezeMouth]...[UnfreezeMouth]
+For not[FreezeMouth]... [UnfreezeMouth]fulfilling your order[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Oh, you don't need to apologize.[Pause=3]
+The ritual to revive the Dark Dragon
+shall soon begin[FreezeMouth].[UnfreezeMouth][A][ClearBox]You and your underlings were useful
+enough, for capturing the clerics.[A][ClearBox][FaceCommand=0x73]Heh heh, it was worth the trouble
+casting that spell on you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][EyeCommand=ed]What? A spell[FreezeMouth]...[UnfreezeMouth] on me[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]Yes, don't you remember?[Pause=3]
+But of course. Poor, poor Eremiah.[Pause=3]
+My spell stole that memory as well.[A][ClearBox]Once upon a time, you felt grief.[Pause=3]
+The corpses of the orphans killed in
+the war haunted your very existence.[A][ClearBox]You wondered what you could have done
+so that they might have survived[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][EyeCommand=eo]I[FreezeMouth]...[UnfreezeMouth][Pause=3] never wanted[FreezeMouth]...[UnfreezeMouth][Pause=3]
+to let those children die[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]And then, I told you.[Pause=3]
+You had to make the children stronger.[A][ClearBox]Twisted, yes, but they became stronger
+so they wouldn't die, just as you wanted.[A][ClearBox]Well?[Pause=3]
+Have you remembered now?[A][ClearBox][TargetRight]That's right, I[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I made those children[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Heh heh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Hypocrites like you and Marth disgust me.[A][ClearBox]Despairing over the orphans' deaths,
+you fell all too easily under my spell.[A][ClearBox]And then you gathered children,
+subjecting them to hellish training,
+just as I told you to.[A][ClearBox]You watched the children cry and scream[FreezeMouth]...[UnfreezeMouth][Pause=3]
+and yet, you smiled[FreezeMouth]...[UnfreezeMouth]
+Heh heh, 'twas quite a sight.[A][ClearBox][TargetRight]Ah[FreezeMouth]... [UnfreezeMouth]Ahh[FreezeMouth]... [UnfreezeMouth]
+[FreezeMouth]...[UnfreezeMouth]Aaaaah[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ec][FreezeMouth]...[UnfreezeMouth]My[FreezeMouth]... [UnfreezeMouth][Pause=3]
+[FreezeMouth]...[UnfreezeMouth]My[FreezeMouth]... [UnfreezeMouth]children[FreezeMouth]... [UnfreezeMouth][Pause=3]
+AAAAAAH[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][TargetLeft][FaceCommand=0x73]Heh heh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Worry not, Eremiah.[Pause=3]
+The despair you feel now is nothing.[A][ClearBox]This world will soon be enveloped
+in the darkest despair[FreezeMouth]...[UnfreezeMouth][A][ClearBox]You had better look forward to it, Marth.[Pause=3]
+Heh heh heh[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+

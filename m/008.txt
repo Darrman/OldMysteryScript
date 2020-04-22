@@ -1,0 +1,217 @@
+MS008_OP0
+[X]
+
+MS008_OP1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG16][TargetLeft][LoadPortrait=KAIN][TargetLeft][FaceCommand=0x73]Sire, you're safe[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=MARS]I'm truly glad that you came back unharmed,
+Kain.[A][ClearBox][TargetLeft]Yeah, somehow I managed to shake off the
+enemy and escape here.[A][ClearBox][FaceCommand=0x61]But the enemy is already approaching from
+the north.[A][ClearBox][TargetRight][LoadPortrait=MARS]Don't worry.[Pause=3]
+We will crush them.[A][ClearBox][FaceCommand=0x61][TargetLeft]No, not this time.[A][ClearBox]Hardin is being protected by a mysterious
+power: we can't lay a finger on him.[A][ClearBox]So even if we fight now, we haven't a
+chance of winning.[A][ClearBox]Please, head to the northwestern fortress.
+There's a boat across the river, which we
+can use to escape to the Khadein desert.[A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]Sire, the free company to the south will
+probably make their move soon.[Pause=3]
+Indeed, now's not the time to fight.[A][ClearBox]For the time being, let's do as Kain suggests
+and make our escape.[Pause=3]
+After that, we'll think of something[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]I see[FreezeMouth]...[UnfreezeMouth]
+I don't like it, but we haven't a choice[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]Everyone, hurry to the northwest fortress[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS008_OP1_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG16][TargetLeft][LoadPortrait=KAIN][TargetLeft][FaceCommand=0x73]Sire, you're safe[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=MARS]I'm truly glad that you came back unharmed,
+Kain.[A][ClearBox][TargetLeft]Yeah, somehow I managed to shake off the
+enemy and escape here.[A][ClearBox][FaceCommand=0x61]But the enemy is already approaching from
+the north.[A][ClearBox][TargetRight][LoadPortrait=MARS]Don't worry.[Pause=3]
+We will crush them.[A][ClearBox][FaceCommand=0x61][TargetLeft]No, not this time.[A][ClearBox]Hardin is being protected by a mysterious
+power: we can't lay a finger on him.[A][ClearBox]So even if we fight now, we haven't a
+chance of winning.[A][ClearBox]Please, head to the northwestern fortress.
+There's a boat across the river, which we
+can use to escape to the Khadein desert.[A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]Sire, the free company to the south will
+probably make their move soon.[Pause=3]
+Indeed, now's not the time to fight.[A][ClearBox]For the time being, let's do as Kain suggests
+and make our escape.[Pause=3]
+After that, we'll think of something[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]I see[FreezeMouth]...[UnfreezeMouth]
+I don't like it, but we haven't a choice[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]Everyone, hurry to the northwest fortress[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS008_BT_ASTRIA
+[TargetLeft][LoadPortrait=ASTRIA][LoadBackground=]You traitors[FreezeMouth]![UnfreezeMouth][Pause=3]
+I'll show you the might of the
+Miracle Sword[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+
+MS008_BT_BOSS
+[TargetLeft][LoadPortrait=JORJUE][LoadBackground=]You wouldn't have needed to die if you
+hadn't come so close, fools[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS008_BT_HARDIN_E
+[LoadBackground=][TargetLeft][LoadPortrait=HARDIN]Rebel soldiers[FreezeMouth]...[UnfreezeMouth]
+Come to die, have you[FreezeMouth]?[UnfreezeMouth][Pause=3]
+I'll show you the terror of Gradius[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS008_BT_HARDIN_E_MARS
+[LoadBackground=][TargetLeft][LoadPortrait=HARDIN]Prince Marth[FreezeMouth]![UnfreezeMouth][Pause=3]
+I'll bury you with these very hands[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS008_BT_HARDIN_E_PC_PCF1
+[SpecialText0x14][LoadBackground=][TargetLeft][LoadPortrait=HARDIN]Who are you?[Pause=3]
+Your face is unknown to me.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=PLAYER][TargetRight][SpecialText0x14=0x39].[Pause=3]
+I am Prince Marth's Royal Guard.[A][ClearBox]Emperor Hardin of Akaneia, the prince
+told me that you were once a trusted friend.[A][ClearBox]Why would you do something like this?[A][ClearBox][TargetRight][RemovePortrait][TargetLeft][LoadPortrait=HARDIN][SpecialText0x14=0x39], is it[FreezeMouth]...?[Pause=3]
+What does it matter to you?
+You will die here regardless.[A][ClearBox][X]
+
+MS008_BT_HARDIN_E_PC_PCM1
+[SpecialText0x14][LoadBackground=][TargetLeft][LoadPortrait=HARDIN]Who are you?[Pause=3]
+Your face is unknown to me.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=PLAYER][TargetRight][SpecialText0x14=0x39].[Pause=3]
+I am Prince Marth's Royal Guard.[A][ClearBox]Emperor Hardin of Akaneia, I never knew
+you in the past.[Pause=3][A][ClearBox]But I do know this: you are now the prince's
+enemy.[A][ClearBox][TargetRight][RemovePortrait][TargetLeft][LoadPortrait=HARDIN]You may come, [SpecialText0x14=0x39].[Pause=3]
+But no one may even scratch me.[A][ClearBox]You will soon know to fear...[Pause=3]
+the power of the Dark Orb[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS008_BT_ROJAR
+[TargetLeft][LoadPortrait=ROJAR][LoadBackground=]I don't want to fight you guys,[Pause=3]
+but it's not as if I have a choice[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS008_DIE_ASTRIA
+[TargetLeft][LoadPortrait=ASTRIA][LoadBackground=]Midia[FreezeMouth]...[UnfreezeMouth] My love[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS008_DIE_BOSS
+[TargetLeft][LoadPortrait=JORJUE][LoadBackground=]What fools[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS008_DIE_ROJAR
+[TargetLeft][LoadPortrait=ROJAR][LoadBackground=]Ugh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I just wanted to meet her[FreezeMouth]...[UnfreezeMouth][Pause=3]
+once more[FreezeMouth]...[UnfreezeMouth] once more[FreezeMouth]......[UnfreezeMouth][A][ClearBox][X]
+
+MS008_EV3
+[TargetRight][LoadPortrait=HARDIN][LoadBackground=BBG16][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]Hasten the preparations of the troops
+within the fortress.[Pause=3]
+I want Marth cornered like a rat[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS008_EV2
+[TargetRight][LoadPortrait=HARDIN][LoadBackground=BBG16][FaceCommand=0x73]Heh heh heh[FreezeMouth]...[UnfreezeMouth][Pause=3] Prince, your struggle is in vain.[Pause=3]
+But let us continue this game for a while.[A][ClearBox]Just know that you're fast running out of
+time.[Pause=3] Soon, I will kill you myself[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS008_EV1
+[TargetRight][LoadPortrait=HARDIN][LoadBackground=BBG16][TargetLeft][LoadPortrait=MARS][TargetRight][FaceCommand=0x73]Heh heh heh[FreezeMouth]...[UnfreezeMouth]
+Prince Marth, it's been far too long.[A][ClearBox][TargetLeft][FaceCommand=0x61]Hardin[FreezeMouth]...[UnfreezeMouth]
+Why did you to attack our country?[Pause=3]
+What would compel you to do such an act?[A][ClearBox]I... I can't believe this.[Pause=3]
+Have you really changed this much?[A][ClearBox][TargetRight][FaceCommand=0x61]Prince,[Pause=3] I am the ruler of this continent and
+the Emperor of Akaneia.[A][ClearBox]I will show no quarter to anyone who opposes
+me. That includes you, Prince[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I must destroy this foul world[FreezeMouth]...[UnfreezeMouth][Pause=3]
+It is beyond salvation.[A][ClearBox]Traitors, playtime is over.[Pause=3]
+You will all die here.[A][ClearBox]All soldiers, attack[FreezeMouth]![UnfreezeMouth]
+Do not leave a single traitor standing[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS008_H1
+[LoadBackground=BBG25][TargetCenter][LoadPortrait=MAN1]If ya ask me, archers'll always get along well
+with archers.[A][ClearBox][X]
+
+MS008_TK1
+[TargetRight][LoadPortrait=GOHDON][LoadBackground=BBG40][TargetLeft][LoadPortrait=JORJUE][TargetRight]Master![Pause=3] Please, wait[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Hm[FreezeMouth]...?[UnfreezeMouth] Gordon?[Pause=3]
+Long time no see.[A][ClearBox]You seem to have gotten a little sturdier,
+but has your bow arm improved any?[A][ClearBox][TargetRight]Yes, at the moment, I[FreezeMouth]...[UnfreezeMouth]
+They call me Aritia's master of bows.[A][ClearBox]It's thanks to you, Master, that I've been
+able to progress this far.[A][ClearBox][TargetLeft]And?
+Did you come here because you wanted to
+challenge your old teacher?[A][ClearBox][TargetRight][FaceCommand=0x61]N-no[FreezeMouth]![UnfreezeMouth]
+It's not like that[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FreezeMouth]...[UnfreezeMouth]I might be asking the impossible, but I'd like
+you to fight alongside us again, sir.[A][ClearBox][TargetLeft][FaceCommand=0x61][EyeCommand=ec][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetRight]Please[FreezeMouth]![UnfreezeMouth] Master[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetLeft]I pledged allegiance to Princess Nina,
+but as for Hardin...[A][ClearBox]I've had it with him.
+Taking other countries by force,[Pause=3]
+executing "rebels" without reason.[A][ClearBox]The Akaneian army I see now is just a
+collection of hired thugs.[A][ClearBox]There's not even a shred of chivalry left.[A][ClearBox]To return the kingdom of Akaneia to what
+it was once before[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]I must take it upon myself to turn my bow
+against my homeland.[A][ClearBox]Gordon.[Pause=3]
+Convey that to Prince Marth.[A][ClearBox][TargetRight][FaceCommand=0x73]Thank you[FreezeMouth],[UnfreezeMouth] Master[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+
+MS008_TK2
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG40][TargetLeft][LoadPortrait=JORJUE][TargetRight]Wait, Sir George.[Pause=3]
+I wish to speak with you.[A][ClearBox][TargetLeft]Prince Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Please, lower your weapon.[Pause=3]
+[EyeCommand=ec]I don't want to fight with you.[A][ClearBox][TargetRight]I know. As do I.[A][ClearBox]You taught Gordon how to use a bow.[Pause=3]
+And you were an instructor to the junior
+knights of Aritia.[A][ClearBox]You've been a great boon to Aritia:
+I could never fight you, Sir George.[A][ClearBox][TargetLeft][EyeCommand=ed]Prince[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I pledged allegiance to Princess Nina.
+But I can tolerate Hardin no longer[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Taking other countries by force,[Pause=3]
+executing "rebels" without reason[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Hardin was my friend.[Pause=3]
+But he has changed beyond recognition.[A][ClearBox]If he is committing any sort of crime, then
+I shall stop him.[Pause=3] George, please, help me.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]I understand, Prince.[A][ClearBox]To return the kingdom of Akaneia to what
+it was once before[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]I will take it upon myself to turn my bow
+against my homeland.[A][ClearBox][X]
+
+MS008_TK3
+[TargetRight][LoadPortrait=SHEEDA][LoadBackground=][TargetLeft][LoadPortrait=ROJAR][TargetRight][FaceCommand=0x73]Good day, sir.[A][ClearBox][TargetLeft][FaceCommand=0x61]Ack[FreezeMouth]![UnfreezeMouth][Pause=3]
+You, y-you're[FreezeMouth]...[UnfreezeMouth] Sheeda![A][ClearBox][TargetRight][FaceCommand=0x73]Thank goodness, Roger.[Pause=3]
+It's nice to see you again.[A][ClearBox][TargetLeft][FaceCommand=0x61]Uh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Uhm, you should know, I've no plans to
+betray Akaneia.[A][ClearBox]I was just thinking about that time when you
+asked me "do you believe in love?"[Pause=3][A][ClearBox]But I'm different from who I was back then.[A][ClearBox][TargetRight][FaceCommand=0x73]Really? But you still seem like a nice man.[Pause=3]
+That's why I wanted to speak to you again.[A][ClearBox][TargetLeft][FaceCommand=0x61]Uhh[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]May I just ask, why are you fighting for
+Akaneia?[A][ClearBox][TargetLeft][FaceCommand=0x61]Be-because Akaneia has already taken
+over the world.[Pause=3] Resistance is futile: no one
+can win.[A][ClearBox]My life is precious to me.[Pause=3]
+If I side with whoever's stronger, then I'm
+guaranteed to live longer[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]I see.[A][ClearBox][TargetLeft][FaceCommand=0x61]A-are you disappointed with me?[A][ClearBox][TargetRight][FaceCommand=0x73]No, never.[Pause=3]
+As I thought, you're fighting for what you
+believe in.[A][ClearBox]You're not different.[Pause=3]
+You're the same, kind man as when I first
+met you [Pause=3]and I'm happy for that.[A][ClearBox][TargetLeft][FaceCommand=0x61]Uhhh[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Wait- you're leaving[FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Yes.[Pause=3] I too must fight for what I believe in.[Pause=3]
+But I'll make a request to Marth so that we
+don't have to fight you.[A][ClearBox]I'm happy that we could talk again, Roger.[A][ClearBox][TargetLeft][FaceCommand=0x61]W-wait[FreezeMouth]![UnfreezeMouth][A][ClearBox][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth]As I thought, you're still very kind.[Pause=3]
+Dare I say, we don't have girls quite like
+you back in Grunia or Akaneia.[A][ClearBox]Um, perhaps[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I suppose I could[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Aw heck, I'm going with you again![A][ClearBox][X]
+
+MS008_VIL1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG26][TargetLeft][LoadPortrait=BANUTU][TargetLeft][FaceCommand=0x73]Oh look, if it isn't Prince Marth.[Pause=3]
+Long time no see, Lad.[A][ClearBox]It seems so noisy out;
+I wonder what's happened?[A][ClearBox][TargetRight][FaceCommand=0x73]Ah, Banutu[FreezeMouth]![UnfreezeMouth][Pause=3]
+Fancy meeting you in a place like this.
+How is Chiki?[A][ClearBox][TargetLeft]Oh, she is no longer by my side.[A][ClearBox]Lord Gato took her to the Ice Dragon
+Shrine again.[A][ClearBox][TargetRight][FaceCommand=0x61]The Ice Dragons' Temple?[Pause=3]
+Where's that?[Pause=3]
+I've never heard of such a place[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]It's in the icy lands, far north of here.[Pause=3]
+But it's no place for humans.[A][ClearBox]Besides the hero Anri, no man has been
+there yet.[A][ClearBox][TargetRight]Anri[FreezeMouth]?![UnfreezeMouth][Pause=3]
+Are you, perchance, referring to the
+"Realm of the Gods" from Anri's legends?[A][ClearBox][TargetLeft]I'm not at liberty to say anything more.
+If you want to know more, you should ask
+Lord Gato.[A][ClearBox]Anyhow, I have a favor to ask of you.[Pause=3]
+My precious firestone was stolen by thieves.[A][ClearBox]If you can get it back for me, I'll show you
+how it works. Thank you, Prince Marth.[A][ClearBox][X]
+
+MS008_ED1_END
+[Fade=40][Unknown0x4=F][X]
+
+MS008_ED1_END_BGMCONT
+[Fade=40][X]
+
+MS008_ED1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG40][TargetLeft][LoadPortrait=JEIGUN]Please hurry, sire.[Pause=3]
+The enemy is closing in on us.[A][ClearBox][TargetRight]But everyone is still fighting.[Pause=3]
+I can't just leave them behind.[A][ClearBox][TargetLeft]Don't worry, they will all escape safely.
+We will all meet up at Khadein. Well, your
+highness, please get onboard the ship![A][ClearBox][X]
+
+MS008_ED1_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG40][TargetLeft][LoadPortrait=JEIGUN]Please hurry, sire.[Pause=3]
+The enemy is closing in on us.[A][ClearBox][TargetRight]But everyone is still fighting.[Pause=3]
+I can't just leave them behind.[A][ClearBox][TargetLeft]Don't worry, they will all escape safely.
+We will all meet up at Khadein. Well, your
+highness, please get onboard the ship![A][ClearBox][X]
+
+MS008_ED2_PCF1
+[Fade=40][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG40]Return hat?[A][ClearBox][X]
+
+MS008_ED2_PCM1
+[Fade=40][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG40]Return hat?[A][ClearBox][X]
+
+MS008_ED2_A
+[TargetRight][FaceCommand=0x73]Yes.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS008_ED2_B
+[TargetRight][FaceCommand=0x73]No.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+

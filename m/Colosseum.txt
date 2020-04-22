@@ -1,0 +1,65 @@
+Mì¨ãZèÍ_BATTLE
+[ClearBox]Rules is easy: keep tradin' blows till one of
+ya drops, or press the B Button to yield.
+Don't get yerself killed, huh?[A][X]
+
+Mì¨ãZèÍ_BYE
+[ClearBox]So long, then.[A][X]
+
+Mì¨ãZèÍ_CHALLENGE
+Reckon you're up to the challenge?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+Mì¨ãZèÍ_DRAW
+[EyeCommand=dl][EyeCommand=da][EyeCommand=ds][TargetCenter][LoadPortrait=ARENA]Looks like nobody wins.
+But everybody lives, and ain't that what
+counts?[A][X]
+
+Mì¨ãZèÍ_DRAW_R
+[EyeCommand=dl][EyeCommand=da][EyeCommand=ds][TargetCenter][LoadPortrait=ARENA]Looks like nobody wins.
+But everybody lives, and ain't that what
+counts?[A][X]
+
+Mì¨ãZèÍ_FORFEIT
+Guess I'll be pocketin' yer wager.[A][X]
+
+Mì¨ãZèÍ_GETOUT
+[ClearBox]If you ain't payin', you ain't stayin'.
+Beat it.[A][X]
+
+Mì¨ãZèÍ_LOSE
+[EyeCommand=dl][EyeCommand=da][EyeCommand=ds][TargetCenter][LoadPortrait=ARENA]Agh, another 'un bites the dust...
+No profit in death, eh?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+Mì¨ãZèÍ_LOSE_R
+[EyeCommand=dl][EyeCommand=da][EyeCommand=ds][TargetCenter][LoadPortrait=ARENA]Agh, another 'un injured...
+Let 'em rest for a while.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+Mì¨ãZèÍ_POOR
+[ClearBox]What, no gold?
+Then it's time you strolled.[A][X]
+
+Mì¨ãZèÍ_PRICE
+[SpecialText0x14][ClearBox]The wager's [SpecialText0x14=0x30] gold.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+Mì¨ãZèÍ_RETRY
+[ClearBox]Feel like goin' another round?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+Mì¨ãZèÍ_STOP
+[EyeCommand=dl][EyeCommand=da][EyeCommand=ds][TargetCenter][LoadPortrait=ARENA][ClearBox]What, givin' up already?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+Mì¨ãZèÍ_WELCOME
+[EyeCommand=dl][EyeCommand=da][EyeCommand=ds][TargetCenter][LoadPortrait=ARENA][FaceCommand=0x41][LoadBackground=BBG23]Well, well. This 'ere's an arena.
+You 'ere for a fight, mate?[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+Mì¨ãZèÍ_WIN
+[SpecialText0x14][EyeCommand=dl][EyeCommand=da][EyeCommand=ds][TargetCenter][LoadPortrait=ARENA]Nice fightin', mate.
+'Ere's yer reward: [SpecialText0x14=0x30] gold.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+

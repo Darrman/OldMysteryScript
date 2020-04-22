@@ -1,0 +1,216 @@
+MS020_PRE1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG40][TargetLeft][LoadPortrait=JEIGUN][TargetLeft]Sire, we are breaking into Pales[FreezeMouth]![UnfreezeMouth][A][ClearBox]Do not forget that Hardin is shielded
+by the Dark Orb.[A][ClearBox]If you are to challenge him,
+then you must hold the Light Orb[FreezeMouth]![UnfreezeMouth][A][ClearBox]Ensure, at all costs, that it's given
+to the person who will fight Hardin.[A][ClearBox][Unknown0x4=F][X]
+
+MS020_OP1
+[TargetLeft][LoadPortrait=HARDIN][LoadBackground=BBG11][TargetRight][LoadPortrait=MIDIA][TargetLeft]Midia. That you, a Paladin of Akaneia,
+would betray your own motherland[FreezeMouth]...[UnfreezeMouth]
+You are a disgrace[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Surely you jest[FreezeMouth]!![UnfreezeMouth]
+Can't you see you're destroying Akaneia?[Pause=3]
+You've gone mad[FreezeMouth]![UnfreezeMouth][A][ClearBox]What have you done with Lady Nina[FreezeMouth]?![UnfreezeMouth]
+Return our queen at once[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetLeft]Nina[FreezeMouth]?[UnfreezeMouth][Pause=3]
+That woman betrayed me.[A][ClearBox]All I wanted to do was destroy Grunia.[A][ClearBox]That woman had the audacity to
+give the emblem to that boy[FreezeMouth]...[UnfreezeMouth]
+And so I punished her.[A][ClearBox]I will kill all who oppose me.[Pause=3]
+That includes you, Midia[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetRight]Do with my life as you will.[Pause=3]
+But, Hardin[FreezeMouth]...[UnfreezeMouth][A][ClearBox]How many people do you think you've
+killed out of petty jealousy?[A][ClearBox]Enough. Open your eyes[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Petty jealousy, you say[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Heh heh[FreezeMouth]...[UnfreezeMouth]
+Say what you will.[A][ClearBox]This world is rotten to its core.[Pause=3]
+Swarming with insignificant insects
+that you call humans.[A][ClearBox]What worth is left in it?
+Perhaps it would be better if it
+were all destroyed.[A][ClearBox]Well, Midia, watch carefully.[Pause=3]
+The boy who pretends to be a prince[FreezeMouth]...[UnfreezeMouth]
+Watch as I snuff out his life[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+
+MS020_EV1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetLeft][LoadPortrait=HARDIN]So, Marth[FreezeMouth]...[UnfreezeMouth][Pause=3]
+My retainer, attacking his liege[SpecialSymbol=0x96]
+what kind of "honor" is this?[A][ClearBox]Aritia's so-called Prince of Light
+has certainly fallen to the gutters.[A][ClearBox][TargetRight]Hardin[FreezeMouth]![UnfreezeMouth] This isn't you[FreezeMouth]![UnfreezeMouth]
+Your heart is being controlled
+by the Dark Orb[FreezeMouth]!![UnfreezeMouth][A][ClearBox]Please, you have to snap out of it[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Heh heh heh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Marth, sweet and naive as ever.[A][ClearBox]Why do you think I attacked Aritia?
+Because I utterly despised you.[A][ClearBox]In the last war, just because
+you were Anri's descendant[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Nina entrusted you with the Fire Emblem,
+and made you the League's commander.[A][ClearBox]"The Prince of Light"[FreezeMouth]...[UnfreezeMouth]
+More like "insolent brat"[FreezeMouth]![UnfreezeMouth][A][ClearBox]Without my help,
+you would have died long, long ago.
+So don't act so high and mighty[FreezeMouth]!![UnfreezeMouth][A][ClearBox]I have always despised you since then.[A][ClearBox]I put up with you for Nina's sake,
+but I knew we'd have to settle things
+sooner or later.[A][ClearBox]It has nothing to do with the orb[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Hardin[FreezeMouth]...[UnfreezeMouth] Is that really how it was[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+I had no idea that[FreezeMouth]...[UnfreezeMouth]
+that you hated me so[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Hmph[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That's why you're still just a boy.[A][ClearBox]Marth[FreezeMouth]![UnfreezeMouth] Come to me.[Pause=3]
+I'll shove the Gradius through your heart[FreezeMouth]!![UnfreezeMouth][A][ClearBox]There's only enough room in
+this continent for one hero,
+and that hero is ME[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS020_BT_BOSS
+[LoadBackground=BBG11][TargetLeft][LoadPortrait=HARDIN]The rebel army[FreezeMouth]...[UnfreezeMouth]
+Have you come to die[FreezeMouth]?![UnfreezeMouth][Pause=3]
+Taste the might of the Gradius[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+
+MS020_BT_BOSS_MARS
+[LoadBackground=BBG11][TargetLeft][LoadPortrait=HARDIN]So you've come, Marth[FreezeMouth]!![UnfreezeMouth][Pause=3]
+I'll run you through, just as you wish[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=MARS]Hardin, that's enough[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS020_BT_BOSS_PC_PCF1
+[LoadBackground=BBG11][TargetLeft][LoadPortrait=HARDIN]I've no quarrel with you[FreezeMouth]...[UnfreezeMouth]
+Bring Marth to me[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=PLAYER]Sir Hardin[FreezeMouth]...[UnfreezeMouth]
+To defeat you is my duty.[Pause=3]
+Prepare yourself.[A][ClearBox][X]
+
+MS020_BT_BOSS_PC_PCM1
+[LoadBackground=BBG11][TargetLeft][LoadPortrait=HARDIN]I've no quarrel with you[FreezeMouth]...[UnfreezeMouth]
+Bring Marth to me[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=PLAYER]Dark Emperor Hardin[FreezeMouth]...[UnfreezeMouth]
+Look nowhere else, I am your opponent[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS020_DIE_BOSS
+[LoadBackground=BBG11][TargetLeft][LoadPortrait=HARDIN][Pause=5][Fade=48][EyeCommand=f2][TargetLeft][LoadPortrait=HARDIN3][EyeCommand=f0][Fade=16]Prince[FreezeMouth]...[UnfreezeMouth] Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I feel as though[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I've finally awoken[FreezeMouth]...[UnfreezeMouth]
+from a long, long nightmare[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Marth[FreezeMouth]...[UnfreezeMouth] Forgive me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I tried to fight the demon inside me.[A][ClearBox][FreezeMouth]...[UnfreezeMouth]But I wasn't strong enough.[Pause=3]
+I fought so hard, but[FreezeMouth]...[UnfreezeMouth]
+I just couldn't beat it[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I wanted to die by your hand[FreezeMouth]...[UnfreezeMouth][Pause=3]
+And now I'm finally saved[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Marth[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Please[FreezeMouth]...[UnfreezeMouth] Nina[FreezeMouth]...[UnfreezeMouth]
+Save Nina[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ec]Please[FreezeMouth]...[UnfreezeMouth]
+[FreezeMouth]...[UnfreezeMouth]Tell her[FreezeMouth]...[UnfreezeMouth]
+Tell her for me[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Till[FreezeMouth]...[UnfreezeMouth] till the very end[FreezeMouth]...[UnfreezeMouth]
+I [FreezeMouth]...[UnfreezeMouth]loved her[FreezeMouth]...[UnfreezeMouth] always[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Tell her[FreezeMouth]...[UnfreezeMouth] to please[FreezeMouth]...[UnfreezeMouth]forgive me[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS020_ED1_A_PCF1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetLeft][LoadPortrait=JEIGUN][FaceCommand=0x73]Sire, the battle is over.[Pause=3]
+We have won.[A][ClearBox][TargetRight][FaceCommand=0x73]Yes, and with this, finally[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Sire![Pause=3]
+Look over there!
+Your sister and the others[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Ellis[FreezeMouth]![UnfreezeMouth] And Princess Nina[FreezeMouth]...![UnfreezeMouth][Pause=3]
+Rena, Maria; you're all safe![A][ClearBox][TargetLeft][LoadPortrait=NIENA]Marth, I'm so happy you made it[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Unknown0x4=F32][FaceCommand=0x61]Ngh[FreezeMouth]...[UnfreezeMouth][FreezeMouth]!![UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS020_ED1_A_PCM1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetLeft][LoadPortrait=JEIGUN][FaceCommand=0x73]Sire, the battle is over.[Pause=3]
+We have won.[A][ClearBox][TargetRight][FaceCommand=0x73]Yes, and with this, finally[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Sire![Pause=3]
+Look over there!
+Your sister and the others[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Ellis[FreezeMouth]![UnfreezeMouth] And Princess Nina[FreezeMouth]...![UnfreezeMouth][Pause=3]
+Rena, Maria; you're all safe![A][ClearBox][TargetLeft][LoadPortrait=NIENA]Marth, I'm so happy you made it[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Unknown0x4=F32][FaceCommand=0x61]Ngh[FreezeMouth]...[UnfreezeMouth][FreezeMouth]!![UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS020_ED1_A_01_PCF1
+[Fade=48][EyeCommand=f2][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS020_ED1_A_01_PCM1
+[Fade=48][EyeCommand=f2][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS020_ED1_A_02_PCF1
+[EyeCommand=f0][Fade=16][TargetRight][FaceCommand=0x61][TargetLeft][LoadPortrait=GARNEF]You[SpecialSymbol=0x96]you carry the Shield of Seals[FreezeMouth]...![UnfreezeMouth][Pause=3]
+Gah[FreezeMouth]![UnfreezeMouth] My magic has been dispelled[FreezeMouth]?[UnfreezeMouth][A][ClearBox]Withdraw, my priests.[Pause=3]
+At this rate, he will[FreezeMouth]...[UnfreezeMouth]
+Let us hurry the Dark Dragon's return[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS020_ED1_A_02_PCM1
+[EyeCommand=f0][Fade=16][TargetRight][FaceCommand=0x61][TargetLeft][LoadPortrait=GARNEF]You[SpecialSymbol=0x96]you carry the Shield of Seals[FreezeMouth]...![UnfreezeMouth][Pause=3]
+Gah[FreezeMouth]![UnfreezeMouth] My magic has been dispelled[FreezeMouth]?[UnfreezeMouth][A][ClearBox]Withdraw, my priests.[Pause=3]
+At this rate, he will[FreezeMouth]...[UnfreezeMouth]
+Let us hurry the Dark Dragon's return[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS020_ED1_A_03_PCF1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetRight]Garnef[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]That man was the Demon King Garnef![A][ClearBox]His servants were impersonating
+the princesses.[A][ClearBox][TargetRight]What was he playing at?[Pause=3]
+He mentioned something about the
+Dark Dragon's return[FreezeMouth]...[UnfreezeMouth][A][ClearBox]So as we suspected, my sister and the
+other clerics must be in Garnef's hands[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Unknown0x4=F32][TargetLeft][LoadPortrait=JEIGUN]Forgive my interruption, sire,
+but Lord Gato has arrived.[A][ClearBox][TargetRight]Lord Gato[FreezeMouth]?[UnfreezeMouth]
+Take me straight to him[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS020_ED1_A_03_PCM1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetRight]Garnef[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]That man was the Demon King Garnef![A][ClearBox]His servants were impersonating
+the princesses.[A][ClearBox][TargetRight]What was he playing at?[Pause=3]
+He mentioned something about the
+Dark Dragon's return[FreezeMouth]...[UnfreezeMouth][A][ClearBox]So as we suspected, my sister and the
+other clerics must be in Garnef's hands[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Unknown0x4=F32][TargetLeft][LoadPortrait=JEIGUN]Forgive my interruption, sire,
+but Lord Gato has arrived.[A][ClearBox][TargetRight]Lord Gato[FreezeMouth]?[UnfreezeMouth]
+Take me straight to him[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS020_ED1_A_04
+[TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=GATO][LoadBackground=BBG11][TargetLeft]Excellent work, Prince Marth.[Pause=3]
+You managed to obtain all of the orbs.[A][ClearBox]Thanks to your efforts, the lost
+Shield of Seals is finally complete.[A][ClearBox][TargetRight]Incredible[FreezeMouth]![UnfreezeMouth][Pause=3]
+It felt as though the shield itself
+pulled in all the orbs[FreezeMouth]...[UnfreezeMouth][A][ClearBox]So this is the fabled Shield of Seals.[A][ClearBox]But what now, Lord Gato?[A][ClearBox]From Garnef's actions, it would seem
+he has the noble clerics imprisoned.[A][ClearBox]I worry for their safety.[A][ClearBox][TargetLeft]Hmm[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I understand how you feel[FreezeMouth]...[UnfreezeMouth][A][ClearBox]However, we have a far greater task to
+accomplish[SpecialSymbol=0x96]we must seal away
+the earth dragons.[A][ClearBox]Soon they will awaken from their slumber.[A][ClearBox]They will rise up from the ground,
+destroying everything in their wake,
+and turn this world into a living hell.[A][ClearBox]Go, Marth.[Pause=3]
+Entomb the awakened dragons once more[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS020_ED2_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=JEIGUN][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG20][TargetLeft][SpecialText0x14=0x39], new information regarding
+the assassins has reached Pales.[A][ClearBox]As you may have guessed, they were
+dispatched by Hardin and Garnef.[A][ClearBox]The head of the organization is
+a woman named Eremiah.[A][ClearBox][TargetRight]Eremiah[FreezeMouth]...[UnfreezeMouth][Pause=3]
+And where is she now?[A][ClearBox][TargetLeft]Here, in Akaneia.[Pause=3]
+Apparently, she runs an orphanage
+in the mountains.[A][ClearBox][TargetRight][LoadPortrait=MARS]An orphanage?[A][ClearBox][TargetLeft]Yes, so it would seem.[Pause=3]
+However, it's an orphanage in name only.[A][ClearBox]She confines the children to a basement
+devoid of light, and teaches them all
+manner of wicked things[FreezeMouth]...[UnfreezeMouth].[A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS020_ED2_PCM1
+[SpecialText0x14][TargetLeft][LoadPortrait=JEIGUN][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG20][TargetLeft][SpecialText0x14=0x39], new information regarding
+the assassins has reached Pales.[A][ClearBox]As you may have guessed, they were
+dispatched by Hardin and Garnef.[A][ClearBox]The head of the organization is
+a woman named Eremiah.[A][ClearBox][TargetRight]Eremiah[FreezeMouth]...[UnfreezeMouth][Pause=3]
+And where is she now?[A][ClearBox][TargetLeft]Here, in Akaneia.[Pause=3]
+Apparently, she runs an orphanage
+in the mountains.[A][ClearBox][TargetRight][LoadPortrait=MARS]An orphanage?[A][ClearBox][TargetLeft]Yes, so it would seem.[Pause=3]
+However, it's an orphanage in name only.[A][ClearBox]She confines the children to a basement
+devoid of light, and teaches them all
+manner of wicked things[FreezeMouth]...[UnfreezeMouth].[A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS020_ED2_Y_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=PLAYER][FreezeMouth]......[UnfreezeMouth]Sire.[Pause=3]
+Please, let me go.[Pause=3]
+I want to end this[SpecialSymbol=0x96]once and for all.[A][ClearBox][TargetRight]I understand, [SpecialText0x14=0x39].[Pause=3]
+I, too, cannot allow a situation
+like this to carry on.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FreezeMouth]...[UnfreezeMouth]Please, wait.[A][ClearBox][TargetRight]Katarina[FreezeMouth]?[UnfreezeMouth][Pause=3]
+Were you listening the whole time?[A][ClearBox][TargetLeft]There's a hidden passage to
+where Lady Eremiah is[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll show you the way.[A][ClearBox][TargetRight][LoadPortrait=MARS][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetLeft]Please, allow me to go.[Pause=3]
+I'll be fine.[A][ClearBox]I don't believe for a moment that this
+will atone for everything I've done[FreezeMouth]...[UnfreezeMouth][A][ClearBox]But while I live I want to help
+in any way that I can.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS020_ED2_Y_PCM1
+[SpecialText0x14][TargetLeft][LoadPortrait=PLAYER][FreezeMouth]......[UnfreezeMouth]Sire.[Pause=3]
+Please, let me go.[Pause=3] I'll crush them[SpecialSymbol=0x96]
+I won't allow such a travesty to stand.[A][ClearBox][TargetRight]I understand, [SpecialText0x14=0x39].[Pause=3]
+I, too, cannot allow a situation
+like this to carry on.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FreezeMouth]...[UnfreezeMouth]Please, wait.[A][ClearBox][TargetRight]Katarina[FreezeMouth]?[UnfreezeMouth][Pause=3]
+Were you listening the whole time?[A][ClearBox][TargetLeft]There's a hidden passage to
+where Lady Eremiah is[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll show you the way.[A][ClearBox][TargetRight][LoadPortrait=MARS][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetLeft]Please, allow me to go.[Pause=3]
+I'll be fine.[A][ClearBox]I don't believe for a moment that this
+will atone for everything I've done[FreezeMouth]...[UnfreezeMouth][A][ClearBox]But while I live I want to help
+in any way that I can.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS020_ED2_YB_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=PLAYER][FreezeMouth]......[UnfreezeMouth]Sire.[Pause=3]
+Please, let me go.[Pause=3]
+I want to end this[SpecialSymbol=0x96]once and for all.[A][ClearBox][TargetRight]I understand, [SpecialText0x14=0x39].[Pause=3]
+I, too, cannot allow a situation
+like this to carry on.[A][ClearBox]Let's go to the orphanage then.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS020_ED2_YB_PCM1
+[SpecialText0x14][TargetLeft][LoadPortrait=PLAYER][FreezeMouth]......[UnfreezeMouth]Sire.[Pause=3]
+Please, let me go.[Pause=3] I'll crush them[SpecialSymbol=0x96]
+I won't allow such a travesty to stand.[A][ClearBox][TargetRight]I understand, [SpecialText0x14=0x39].[Pause=3]
+I, too, cannot allow a situation
+like this to carry on.[A][ClearBox]Let's go to the orphanage then.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+

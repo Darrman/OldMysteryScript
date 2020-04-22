@@ -1,0 +1,120 @@
+MDIE_ATHENA_P
+[SpecialText0x14][TargetRight][LoadPortrait=ATHENA][LoadBackground=]Ve[FreezeMouth]...[UnfreezeMouth] vere careless.[A][ClearBox][SpecialText0x14=0x39], ve must vithdraw now.
+Vat shame[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_CECIL_P
+[SpecialText0x14][TargetRight][LoadPortrait=CECIL][LoadBackground=]Guh[FreezeMouth]...[UnfreezeMouth]
+How pathetic of me[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Sorry, [SpecialText0x14=0x39].
+I have to fall back[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_DOHGA_P
+[SpecialText0x14][TargetRight][LoadPortrait=DOHGA][LoadBackground=]Damn, looks like I relied too much
+on my armor[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Please forgive me, [SpecialText0x14=0x39].
+It seems I have no choice but
+to withdraw for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_EST_P
+[SpecialText0x14][TargetRight][LoadPortrait=EST][LoadBackground=]Ouch[FreezeMouth]![UnfreezeMouth]
+They got me alright[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I'm sorry, [SpecialText0x14=0x39].
+I'm gonna retreat for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_GOHDON_P
+[SpecialText0x14][TargetRight][LoadPortrait=GOHDON][LoadBackground=]C-curses[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Sorry, [SpecialText0x14=0x39].
+I don't want to drag you down[FreezeMouth]...[UnfreezeMouth]
+So I'll retreat for now.[A][ClearBox][X]
+
+MDIE_KAIN_P
+[TargetRight][LoadPortrait=KAIN][LoadBackground=]Guh[FreezeMouth]![UnfreezeMouth]
+Bested by bandits[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Curses[FreezeMouth]...[UnfreezeMouth]
+I'll be a burden, wounded like this[FreezeMouth]...[UnfreezeMouth]
+I have no choice but to retreat[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MDIE_LIAN_P
+[SpecialText0x14][TargetRight][LoadPortrait=LIAN][LoadBackground=]Guh[FreezeMouth]...[UnfreezeMouth]
+I'll just be[FreezeMouth]...[UnfreezeMouth] a burden[FreezeMouth]...[UnfreezeMouth]
+in this state[FreezeMouth]...[UnfreezeMouth][A][ClearBox]S-sorry, [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth]
+I'll retreat for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MARICH_P
+[SpecialText0x14][TargetRight][LoadPortrait=MARICH][LoadBackground=]Wha-[FreezeMouth]![UnfreezeMouth]
+Guh[FreezeMouth]...[UnfreezeMouth] Did I advance too far[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]Apologies, [SpecialText0x14=0x39].
+I must withdraw for now.[A][ClearBox][X]
+
+MDIE_MARS_JEIGUN
+[TargetRight][LoadPortrait=MARS][LoadBackground=][TargetRight]Forgive me, [Pause=3]my friends[FreezeMouth]...[UnfreezeMouth][A][ClearBox][RemovePortrait][TargetLeft][LoadPortrait=JEIGUN][TargetLeft]Sire! Get up, sire![Pause=3]
+What of Aritia's future[FreezeMouth]?[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MARS_P
+[TargetLeft][LoadPortrait=MARS][LoadBackground=][TargetRight]Forgive me, [Pause=3]my friends[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MARS_SHEEDA
+[TargetRight][LoadPortrait=MARS][LoadBackground=][TargetRight]Forgive me, [Pause=3]my friends[FreezeMouth]...[UnfreezeMouth][A][ClearBox][RemovePortrait][TargetLeft][LoadPortrait=SHEEDA][TargetLeft]Ahh[FreezeMouth]... [UnfreezeMouth][Pause=3]Marth[FreezeMouth]![UnfreezeMouth][Pause=3]
+No! Don't leave me[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_NORN_P
+[SpecialText0x14][TargetRight][LoadPortrait=NORN][LoadBackground=]Did I[FreezeMouth]...[UnfreezeMouth]
+push myself too much[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I'm sorry, [SpecialText0x14=0x39].
+I must tend to my wounds[FreezeMouth]...[UnfreezeMouth]
+I'll fall back for now.[A][ClearBox][X]
+
+MDIE_OGUMA_P
+[SpecialText0x14][TargetRight][LoadPortrait=OGUMA][LoadBackground=]I've failed[FreezeMouth]...[UnfreezeMouth]
+My skills must have grown dull[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Sorry, [SpecialText0x14=0x39].
+I will retreat for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_PLAYER
+[SpecialText0x14][TargetLeft][LoadPortrait=PLAYER][LoadBackground=][TargetLeft][FreezeMouth]...[UnfreezeMouth]Prince[FreezeMouth]... [UnfreezeMouth]Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox][RemovePortrait][TargetLeft][LoadPortrait=MARS][TargetLeft]No[FreezeMouth]...[UnfreezeMouth] [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][Pause=3]
+Please open your eyes[FreezeMouth]...[UnfreezeMouth]
+[SpecialText0x14=0x39][FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+
+MDIE_PLAYER_P
+[SpecialText0x14][TargetLeft][LoadPortrait=PLAYER][LoadBackground=][FreezeMouth]...[UnfreezeMouth]Urgh[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=KATARINA][SpecialText0x14=0x39][FreezeMouth]!?[UnfreezeMouth]
+It can't be[FreezeMouth]... [UnfreezeMouth]
+Pull yourself together, [SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MDIE_RIFF_P
+[SpecialText0x14][TargetRight][LoadPortrait=RIFF][LoadBackground=]Oh dear[FreezeMouth]...[UnfreezeMouth]
+This is certainly a predicament[FreezeMouth]...[UnfreezeMouth][A][ClearBox]My humblest apologies, [SpecialText0x14=0x39].
+I must withdraw for now.[A][ClearBox][X]
+
+MDIE_RODY_P
+[SpecialText0x14][TargetRight][LoadPortrait=RODY][LoadBackground=]Guh[FreezeMouth]...[UnfreezeMouth]
+I blundered[FreezeMouth]...[UnfreezeMouth][A][ClearBox]My apologies, [SpecialText0x14=0x39].
+I'll be a burden like this,
+so I'll withdraw for now.[A][ClearBox][X]
+
+MDIE_ROOK_P
+[SpecialText0x14][TargetRight][LoadPortrait=ROOK][LoadBackground=]You've gotta be[FreezeMouth]...[UnfreezeMouth] kidding me[FreezeMouth]...[UnfreezeMouth]
+I, Luke the knight, have been defeated[FreezeMouth]...[UnfreezeMouth][A][ClearBox]My bad, [SpecialText0x14=0x39].
+I'll leave the rest to you.[A][ClearBox][X]
+
+MDIE_SHEEDA_P
+[SpecialText0x14][TargetRight][LoadPortrait=SHEEDA][LoadBackground=]Nngh[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth]
+This won't do[FreezeMouth]...[UnfreezeMouth][A][ClearBox][SpecialText0x14=0x39], please accept my apologies.
+I'll be a burden wounded like this,
+so I'll withdraw for now.[A][ClearBox][X]
+
+MDIE_TRI_BARTS
+[TargetRight][LoadPortrait=BARTS][LoadBackground=][TargetRight]Saji, Maji, you's ready?[Pause=3]
+Triangle [Pause=1]Attack[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+
+MDIE_TRI_MAJI
+[TargetRight][LoadPortrait=MAJI][LoadBackground=][TargetRight]Let's do this, bros[FreezeMouth]![UnfreezeMouth][Pause=4]
+Triangle [Pause=1]Attack[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+
+MDIE_TRI_SAJI
+[TargetRight][LoadPortrait=SAJI][LoadBackground=][TargetRight]You're no match for the three o' us[FreezeMouth]![UnfreezeMouth][Pause=4]
+Triangle [Pause=1]Attack[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+
+MDIE_TRI_EST
+[TargetRight][LoadPortrait=EST][LoadBackground=][TargetRight]It's just you and me![Pause=1] ...And my sisters[FreezeMouth]![UnfreezeMouth][Pause=3]
+Triangle [Pause=1]Attack[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+
+MDIE_TRI_KATUA
+[TargetRight][LoadPortrait=KATUA][LoadBackground=][TargetRight]We have you now[FreezeMouth]![UnfreezeMouth][Pause=4]
+Triangle [Pause=1]Attack[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+
+MDIE_TRI_PAORA
+[TargetRight][LoadPortrait=PAORA][LoadBackground=][TargetRight]With me, [Pause=3]Sisters[FreezeMouth]![UnfreezeMouth][Pause=4]
+Triangle [Pause=1]Attack[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+

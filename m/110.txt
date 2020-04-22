@@ -1,0 +1,103 @@
+MS110_PRE1_PCF1
+[TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG01][TargetLeft]Sire, Lord Horace should be inside this fort.[A][ClearBox][TargetLeft][LoadPortrait=PLAYER]It seems the enemy has already infiltrated
+the building.[Pause=3] Please be careful, sire.[A][ClearBox][TargetRight]All right.[Pause=3]
+Let us fight with caution.[A][ClearBox][Unknown0x4=F][X]
+
+MS110_PRE1_PCM1
+[TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG01][TargetLeft]Sire, Lord Horace should be inside this old
+castle.[A][ClearBox][TargetLeft][LoadPortrait=PLAYER]It seems the enemy has already infiltrated
+the building.[Pause=3] Please be careful, sire.[A][ClearBox][TargetRight]All right.[Pause=3]
+Let us fight with caution.[A][ClearBox][Unknown0x4=F][X]
+
+MS110_OP1
+[TargetRight][LoadPortrait=HORUS][LoadBackground=BBG01][TargetLeft][LoadPortrait=RORO]Weeheehee. Horace, was it?[Pause=3]
+You're a stubborn old fellow.[Pause=3] You've already
+done in three of my brothers.[A][ClearBox]But there are more of them[FreezeMouth]...[UnfreezeMouth][Pause=3]
+more and more and more and more.[Pause=3]
+Just how long can you last? Weeheehee.[A][ClearBox][TargetRight]Who the hell are you?[Pause=3]
+Who gave you the orders to attack me?[A][ClearBox][TargetLeft]Weeheehee.[Pause=3]
+Who knows? I sure don't.[A][ClearBox]But really, poor you![Pause=3]
+You'll be killed by me, and won't even know
+the reason.[A][ClearBox][TargetRight]My life isn't my own.[Pause=3]
+Ever since I became a knight, my life is for
+my liege and my people.[A][ClearBox]I cannot be defeated by cowards like you.[A][ClearBox][TargetLeft]Weeheehee. Then bring it on.[Pause=3]
+We are Roro.
+One is all, and all is one.[A][ClearBox]Want to know how to defeat me?[Pause=3]
+Simple. Just kill the real me.[A][ClearBox]But, can you find the real me?[Pause=3]
+Weheehee.[A][ClearBox][X]
+
+MS110_EV1
+[LoadBackground=BBG01][TargetLeft][LoadPortrait=RORO]Weeheehee. You can kill me and kill me again.
+But, there are more of my brothers[FreezeMouth]...[UnfreezeMouth][Pause=3]
+more and more and more and more of them.[A][ClearBox]As long as the real me is still standing,
+there'll be no end of me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Weeheehee.[A][ClearBox][X]
+
+MS110_TK1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG01][TargetLeft][LoadPortrait=HORUS][FaceCommand=0x73]You are [SpecialText0x14=0x39], Prince Marth's Royal
+Guard, correct? 'Tis an honor to meet you.[A][ClearBox]I am Horace, an Akaneian knight in the
+service of Princess Nina.
+Prince Marth saved me in the previous war.[A][ClearBox]For Princess Nina's sake, please allow me
+the privilege of fighting alongside you.[A][ClearBox][X]
+
+MS110_BT_BOSS
+[LoadBackground=][TargetLeft][LoadPortrait=RORO]Weeheehee.[Pause=3]
+Am I real or am I false?[Pause=3]
+Try me and see.[A][ClearBox][X]
+
+MS110_DIE_BOSS
+[LoadBackground=][TargetLeft][LoadPortrait=RORO]Wee[FreezeMouth]...[UnfreezeMouth] hee[FreezeMouth]...[UnfreezeMouth][Pause=3]
+How did[FreezeMouth]... [UnfreezeMouth]you[FreezeMouth]... [UnfreezeMouth]know[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MS110_ED1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG01][TargetLeft][LoadPortrait=PLAYER]Sire, the remaining enemies have fled.[Pause=3]
+Victory is ours.[A][ClearBox][TargetRight]Good work.[Pause=3]
+But either way, that was a strange enemy.[Pause=3]
+Were they even human[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]I've heard rumors about them.[Pause=3]
+Those wicked assassins crushed their souls
+when they were young,[A][ClearBox]and raised them as living puppets who follow
+orders without question[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]How pitiful[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=PLAYER][TargetRight][SpecialText0x14=0x39].[Pause=3] I wonder if Katarina was raised
+under such circumstances, as well[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]However, we can't do anything about that
+now.[Pause=3] Let us go ahead.[Pause=3] To Anri's Way,
+where Lord Gato awaits.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS110_ED1_ADD
+[Fade=40][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG01][TargetLeft][LoadPortrait=JEIGUN][TargetRight]Sir Jeigan, I've found something most odd
+inside the castle.[A][ClearBox]It's this mask.[Pause=3]
+It seems like a different type from the one
+those assassins wore, but what's it for[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]Heh[FreezeMouth]...[UnfreezeMouth] This is a mask for use in a masquerade
+ball, I believe.[A][ClearBox][TargetRight]Masquerade ball?[A][ClearBox][TargetLeft]Yes. Noblemen once donned these masks in
+order to conceal their identities.[A][ClearBox]They were probably used in this old castle a
+long time ago.[Pause=3] So, it's unrelated to the
+assassins.[A][ClearBox][TargetRight]I see[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But, it sure is a strange mask.[A][ClearBox][TargetLeft]What of it?[Pause=3]
+Don't tell me you intend to wear it?[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS110_ED1_ADD_A
+[TargetRight][FaceCommand=0x73]Yes.[Pause=3]
+For some reason, I feel like giving it a try.[A][ClearBox][TargetLeft]You are an odd one.[Pause=3]
+Well, do as you wish.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS110_ED1_ADD_B
+[TargetRight]No,[Pause=3] I'll leave it where I found it.[A][ClearBox][TargetLeft]Yes, good idea.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS110_ED2
+[Fade=40][TargetLeft][LoadPortrait=EREMIYA][EyeCommand=ec][TargetRight][LoadPortrait=KATARINA][LoadBackground=BBG66][TargetRight]Lady Eremiah[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I have a report. Roro, he[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ed]I see, so he failed.[Pause=3]
+Even though I took such good care of him[FreezeMouth]...[UnfreezeMouth]
+Such a troublesome child.[A][ClearBox][TargetRight]Lady Eremiah, the Aritian army is strong.[A][ClearBox]Now that Roro has been defeated[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Perhaps we should refrain from pursuing
+them.[A][ClearBox][TargetLeft]No.[Pause=3]
+Crushing Aritia was an order of his.[A][ClearBox][TargetRight]But[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=KLEINE]What? Eine, don't tell me you're afraid?[A][ClearBox][TargetRight]Kleine[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][TargetLeft][LoadPortrait=EREMIYA][TargetRight][LoadPortrait=KLEINE][FaceCommand=0x73]Lady Eremiah, please allow me the honor.
+I'll take care of them.[A][ClearBox][TargetLeft][FaceCommand=0x73]My, you're a good girl, Kleine.
+Would you?[A][ClearBox][TargetRight][FaceCommand=0x73]Anything for you, Lady Eremiah.[A][ClearBox][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth][A][ClearBox]Lady Eremiah, about the remaining Roro
+brothers[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]Ah, those.[Pause=3]
+Get rid of all of them.[A][ClearBox][TargetRight]Lady Eremiah[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]They can't fight now that they've lost Roro,
+can they?[Pause=3] So, they're useless now.[A][ClearBox]Broken junk is to be discarded.[A][ClearBox][TargetRight]B-but, Lady Eremiah[FreezeMouth]...[UnfreezeMouth][Pause=3]
+They were with us in the orphanage[FreezeMouth]...[UnfreezeMouth][Pause=3]
+with you too, Lady Eremiah[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]So what?[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=KLEINE][FaceCommand=0x73]Eine, you sure are useless, aren't you?[Pause=3]
+Don't worry, Lady Eremiah.[Pause=3]
+I'll get rid of them.[A][ClearBox][TargetLeft][FaceCommand=0x73]My, Kleine is such a good little girl.[Pause=3]
+Completely different from a certain failure.[A][ClearBox][TargetRight][EyeCommand=ec]Ah, Lady Eremiah[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Your praise makes me happy.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x61][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+

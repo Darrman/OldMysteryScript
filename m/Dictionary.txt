@@ -1,0 +1,458 @@
+MDICH_ABEL
+Former Aritian knight, nicknamed "Black
+Panther". Kain's partner in the previous war.[X]
+
+MDICH_AKANEIA
+The continent's primary power. Its treasure,
+the Fire Emblem was inherited by Princess Nina.[X]
+
+MDICH_ARAN
+Commander of the Aritian knights, afflicted by
+illness. Originally a wandering paladin.[X]
+
+MDICH_ARITIA
+A nation formed by the dragon-slaying hero Anri.
+It was liberated by Marth in the previous war.[X]
+
+MDICH_ASTRIA
+Captain of Akaneia's free company; the
+most skilled hero in the land. Loyal to Nina.[X]
+
+MDICH_ATHENA
+Swordfighter from the frontier lands. A
+serious woman who never forgets a favour.[X]
+
+MDICH_BANUTU
+Survivor of the Fire Dragon Clan.
+Fought as Marth's ally in the War of Darkness.[X]
+
+MDICH_BARTS
+A mild-mannered woodcutter from Talis who
+served Oguma. Current whereabouts unknown.[X]
+
+MDICH_BECK
+Former ballistician from Deil. A dopey fellow
+who fought alongside Marth in the last war.[X]
+
+MDICH_BELF
+Member of the Grunian Sable Knights. Extremely
+loyal to Camus, fearing not even death.[X]
+
+MDICH_BIRAKU
+Member of the Wolfguard; prides his friends.
+Fought alongside Hardin in the War of Darkness.[X]
+
+MDICH_BOHA
+Akaneia's court bishop, Nina's political aide.
+Fought for Akaneia in the War of Darkness.[X]
+
+MDICH_CAMUS
+Captain of Grunia's Sable Knights. He vanished
+from history after the War of Darkness.[X]
+
+MDICH_CECIL
+Member of Aritia's 7th Platoon.
+Hates losing and often gets into fights.[X]
+
+MDICH_CHEINE
+A mischievous wanderer with the ability to
+shapeshift. Marth's ally in the previous war.[X]
+
+MDICH_DAROSS
+A carefree sailor from Talis. In the previous
+war he washed his hands of piracy.[X]
+
+MDICH_DICE
+A wandering mercenary hired by Akaneia.
+Loves to gamble and is seeking a fortune.[X]
+
+MDICH_DOHGA
+Knight of Aritia, known for his rigid defence.
+He served as Aritia's shield in the last war.[X]
+
+MDICH_DURHUA
+The Dark Dragon's dragonkin empire.
+Site of the final battle of the War of Darkness.[X]
+
+MDICH_EINE
+Member of the Assassins; calm and collected.
+She posed as a new recruit to kill Marth.[X]
+
+MDICH_ELREAN
+Thunder mage of Khadein and Marich's rival.
+Wielder of the thunder magic "Thoron".[X]
+
+MDICH_EREMIYA
+The Assassins' leader. Her kind face masks her
+cold orders. She raised orphans into killers.[X]
+
+MDICH_ERICE
+Princess of Aritia and Marth's elder sister. Kind
+and strong. She was kidnapped in the last war.[X]
+
+MDICH_EST
+The youngest of the pegasus sisters. A carefree
+woman who aided Minerva in the previous war.[X]
+
+MDICH_ETZEL
+A wandering mage who lost his wife to the flames
+of war. Fights to bring an end to conflict.[X]
+
+MDICH_FINA
+Dancer from Warren; has a bright personality.
+She was rescued from thieves by Navarre.[X]
+
+MDICH_FREY
+Knight of Aritia; willing to sacrifice himself.
+He aided Marth's escape during the last war.[X]
+
+MDICH_FROST
+Bishop of Macedonia who worries about his family's
+well-being. An old acquaintance of Minerva.[X]
+
+MDICH_GARNEF
+The pontifex who obstructed Marth's path in the
+previous war with his dark sealing art Maph.[X]
+
+MDICH_GATO
+The White Sage, master of Akaneia's magic.
+In the last war, he aided Marth in many ways.[X]
+
+MDICH_GOHDON
+Archer of Aritia; a little timid. In the last
+war, he escaped to Talis along with Marth.[X]
+
+MDICH_GRA
+Originally Aritia's kindred nation. It was ruined
+in the last war and now occupied by Akaneia.[X]
+
+MDICH_GRUNIA
+A nation famed for its elite Sable Knights.
+Under Akaneian rule since the last war.[X]
+
+MDICH_HARDIN_EMPEROR
+The 24th king of the Kingdom of Akaneia. In
+recent years he has become a ruthless ruler.[X]
+
+MDICH_HARDIN_ORLEAN
+Brother of Orleans's king, known as "Coyote".
+He supported Princess Nina in the last war.[X]
+
+MDICH_HORUS
+General of Akaneia. In the last war, he was
+forced to serve Durhua to protect his people.[X]
+
+MDICH_HYMIR
+Warrior from the frontier. Despite
+appearances, he is a kind-hearted man.[X]
+
+MDICH_JEIGUN
+Marth's trusted advisor; very strict. He served
+as knight commander in the War of Darkness.[X]
+
+MDICH_JEIK
+Former ballistician from Grunia; Anna's lover.
+Fought as Marth's ally in the War of Darkness.[X]
+
+MDICH_JORJUE
+Knight of Akaneia; the greatest bowman in the
+continent. His loyalty to Nina is absolute.[X]
+
+MDICH_JURIAN
+Former thief of Macedonia. He quit thieving
+after meeting Rena in the last war.[X]
+
+MDICH_KAIN
+Knight of Aritia, nicknamed "Great Bull".
+Abel's partner during the War of Darkness.[X]
+
+MDICH_KASHIM
+Hunter from Talis earning gold for his aging
+mother. Recruited by Sheeda in the last war.[X]
+
+MDICH_KATARINA
+Member of the 7th platoon of Aritian knights.
+An aspiring tactician who assists her platoon.[X]
+
+MDICH_KATUA
+Middle sister of the pegasus sisters. A steady
+woman who aided Minerva in the previous war.[X]
+
+MDICH_KHADEIN
+An academy of magic founded by a wise man. 
+An independent nation located in the desert.[X]
+
+MDICH_KLEINE
+Member of the Assassins. A cruel woman
+who finds pleasure in serving her leader.[X]
+
+MDICH_LEIDEN
+Member of the Grunian Sable Knights. Extremely
+loyal to Camus, fearing not even death.[X]
+
+MDICH_LIAN
+Archer in the 7th platoon of Aritian knights.
+Timid, just like his elder brother Gordon.[X]
+
+MDICH_MACEDONIA
+A nation home to wyvern-borne knights. In the
+last war, its prince sided with Durhua.[X]
+
+MDICH_MAJI
+Woodcutter from Talis and Oguma's subordinate.
+He is renowned for the speed of his work.[X]
+
+MDICH_MARIA
+Princess of Macedonia. Wishes to be her siblings'
+strength. She was imprisoned in the previous war.[X]
+
+MDICH_MARICH
+Wind mage of Khadein, Marth's long-time friend.
+Wielder of the wind magic "Excalibur".[X]
+
+MDICH_MARICIA
+A young girl from Grunia, on the run from Lang.
+High-spirited and prone to flights of fancy.[X]
+
+MDICH_MARIS
+A tomboyish mercenary hired by Akaneia.
+Seeking a great fortune.[X]
+
+MDICH_MARS
+Prince of Aritia; prides his friends. He led the
+League's army to defeat Mediuth in the last war.[X]
+
+MDICH_MATIS
+Noble of Macedonia and Rena's elder brother.
+Over-protective of Rena, but slowly adapting.[X]
+
+MDICH_MEDIUTH
+The Earth Dragon king who invoked the War of
+Shadows. Marth defeated him with the Falchion.[X]
+
+MDICH_MIDIA
+Captain of the Akaneian knights. Unafraid and
+strong-willed, her loyalty to Nina is absolute.[X]
+
+MDICH_MINERBA
+Macedonia's princess, a.k.a. "Crimson Dragoon".
+Worries about her siblings Maria and Misheil.[X]
+
+MDICH_MISHEIL
+King of Macedonia. He murdered his father,
+the previous king, to secure the throne.[X]
+
+MDICH_MISHRAN
+Leader of Akaneia's watchmen. An aggressive
+man who once served in the army.[X]
+
+MDICH_NABARL
+A mercenary known as the "Scarlet Swordsman".
+Recruited by Sheeda in the War of Darkness.[X]
+
+MDICH_NAGA
+A mysterious woman from another realm. Said to
+be the incarnation of the Divine Dragon King.[X]
+
+MDICH_NIENA
+Princess of Akaneia, saved from execution by
+Camus the Sable. Aided Marth in the last war.[X]
+
+MDICH_NORN
+A volunteer soldier from Aritia. Despite only being
+a villager, she aided Marth in the previous war.[X]
+
+MDICH_OGUMA
+Leader of Talis's mercenaries. A veteran
+combater, his loyalty to Sheeda is absolute.[X]
+
+MDICH_ORLEAN
+A nation located in the bountiful grasslands.
+Has deep ties with the Kingdom of Akaneia.[X]
+
+MDICH_ORLEAN_KING
+Ruler of Orleans, a nation in the north eastern
+plains. Rescued by Marth in the previous war.[X]
+
+MDICH_PAORA
+The eldest of the pegasus sisters. A gentle
+woman who aided Minerva in the previous war.[X]
+
+MDICH_PC
+A youth from Sera village in Aritia.
+Knocked on Aritia's gate to become a knight.[X]
+
+MDICH_RADEI
+A mercenary who gave up his sword after
+finding love during the war.[X]
+
+MDICH_RANG
+Akaneian general; Hardin's direct subordinate.
+The Grunians suffer under his command.[X]
+
+MDICH_RENA
+Holy maiden of Macedonia. Cares for children at
+a convent. Julian saved her in the last war.[X]
+
+MDICH_RICARD
+A wandering thief who's hard to hate. Swore
+off thievery in the last war, but not for long.[X]
+
+MDICH_RIFF
+A curate who resides at Talis. During the War
+of Shadows, his healing skills helped Marth.[X]
+
+MDICH_RINDA
+Court official who serves at Akaneia Palace.
+Garnef killed her father in the last war.[X]
+
+MDICH_ROBERTO
+Member of the Grunian Sable Knights. Extremely
+loyal to Camus, fearing not even death.[X]
+
+MDICH_RODY
+Member of the 7th platoon of Aritian knights. 
+Usually calm, but lately bothered by Luke.[X]
+
+MDICH_ROJAR
+Knight of Grunia. A man who lives for love.
+Recruited by Sheeda in the War of Darkness.[X]
+
+MDICH_ROLENSE
+General of Grunia. Raised a rebellion because of
+Lang's corruption. King Talis's close friend.[X]
+
+MDICH_ROOK
+Member of the 7th platoon of Aritian knights.
+Rash and stubborn, he is a nuisance to Rody.[X]
+
+MDICH_RORO
+Member of the Assassins. Wears an eerie
+mask. His words belie his true intentions.[X]
+
+MDICH_ROSHE
+Member of the Wolfguard. An easy-going person
+who fought alongside Hardin in the last war.[X]
+
+MDICH_SAJI
+Woodcutter from Talis and Oguma's subordinate.
+He is renowned for his great skill.[X]
+
+MDICH_SAMSON
+A wandering hero who acts according to his own
+beliefs. Protected a village in the last war.[X]
+
+MDICH_SAMTO
+A mercenary hired by Lang. A bit of a joker.
+Tries to pass himself off as Navarre.[X]
+
+MDICH_SEAZER
+A mercenary who travels along with Raddy. He
+helped defend Warren in the last war.[X]
+
+MDICH_SHEEDA
+Princess of Talis. Loves her fiance, Marth,
+dearly. Recruited many foes in the last war.[X]
+
+MDICH_SIMA
+Princess of Gra, fully trusted by her citizens.
+She endeavours to rebuild her ruined homeland.[X]
+
+MDICH_SIRIUS
+A masked knight shrouded in mystery. Seems to
+have connections with Grunia and Princess Nina.[X]
+
+MDICH_TALIS
+An island nation located in the eastern frontier.
+Marth resided here during the War of Darkness.[X]
+
+MDICH_THORMAS
+Former Akaneian archer. Fought for Akaneia
+in the last war, but left the army afterwards.[X]
+
+MDICH_TIKI
+Princess of the Divine Dragons. Wishes Marth
+were her brother. Aided Marth in the last war.[X]
+
+MDICH_TOMS
+Former general of Akaneia. A honest man
+who left the army after the War of Darkness.[X]
+
+MDICH_WENDEL
+Sage of Khadein, disdains fighting. In the
+last war, he fought to liberate Khadein.[X]
+
+MDICH_WOLF
+Leader of the Wolfguard. Calm and composed.
+Fought alongside Hardin in the War of Darkness.[X]
+
+MDICH_WOLLEN
+Hunter from Macedonia. A quiet man who fancies
+himself a lone wolf. Helping rebels for gold.[X]
+
+MDICH_YUBELLO
+Prince of Grunia, Yumina's younger brother.
+Timid and dislikes fighting.[X]
+
+MDICH_YUMINA
+Princess of Grunia, Yubello's elder sister.
+Acts boldly despite having lost her parents.[X]
+
+MDICH_ZAGARO
+The Wolfguard's deputy leader, Wolf's efficient
+assistant. Fought for Hardin in the last war.[X]
+
+MDIC_AKANEIA
+Akaneia[X]
+
+MDIC_ARITIA
+Aritia[X]
+
+MDIC_DURHUA
+Durhua[X]
+
+MDIC_GRA
+Gra[X]
+
+MDIC_GRUNIA
+Grunia[X]
+
+MDIC_KHADEIN
+Khadein[X]
+
+MDIC_MACEDONIA
+Macedonia[X]
+
+MDIC_ORLEAN
+Orleans[X]
+
+MDIC_TALIS
+Talis[X]
+
+MDIC_EINE
+Eine[X]
+
+MDIC_PC
+[SpecialText0x14]Player ([SpecialText0x14=0x39])[X]
+
+MDIC_HARDIN_EMPEROR
+Hardin (Emperor)[X]
+
+MDIC_HARDIN_ORLEAN
+Hardin (Duke)[X]
+
+MDIC_INDEX_INITIAL
+Alphabet[X]
+
+MDIC_INDEX_PICKUP
+Pickup[X]
+
+MDIC_INFO
+Please select a record[X]
+
+MDIC_INFO_NATION
+Please highlight a nation[X]
+
+MDIC_INFO_PERSON
+Please highlight a character[X]
+

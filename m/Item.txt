@@ -1,0 +1,1139 @@
+MIID_AGAIN
+Again[X]
+
+MIID_ANGELROBE
+Angelic Robe[X]
+
+MIID_AQUARIUS
+Aquarius[X]
+
+MIID_ARIES
+Aries[X]
+
+MIID_ARMORKILLER
+Armor Killer[X]
+
+MIID_AURA
+Aura[X]
+
+MIID_BAMBOOSWORD
+Bamboo Sw.[X]
+
+MIID_BARTSAXE
+Barts's Axe[X]
+
+MIID_BOLGANONE
+Bolganone[X]
+
+MIID_BOOTS
+Boots[X]
+
+MIID_BRAVEAXE
+Hero Axe[X]
+
+MIID_BRAVEBOW
+Hero Bow[X]
+
+MIID_BRAVELANCE
+Hero Lance[X]
+
+MIID_BRAVESWORD
+Hero Sword[X]
+
+MIID_BRIDGEKEY
+Bridge Key[X]
+
+MIID_BRIZZAR
+Blizzard[X]
+
+MIID_BULLION
+Bullion (S)[X]
+
+MIID_BULLION_L
+Bullion (L)[X]
+
+MIID_CAMUSLANCE
+Camus's Pike[X]
+
+MIID_CANCER
+Cancer[X]
+
+MIID_CAPRICORN
+Capricorn[X]
+
+MIID_CECILSWORD
+Cecil's Sw.[X]
+
+MIID_CLAINCLAIN
+Quick Rain[X]
+
+MIID_CLEAVEBOW
+Cleave Bow[X]
+
+MIID_DARKBREATH
+Dark Breath[X]
+
+MIID_DARKORB
+Dark Orb[X]
+
+MIID_DEFENSEBOND
+Def Bond[X]
+
+MIID_DEFENSEPOTION
+Def Potion[X]
+
+MIID_DEFENSEROD
+Defence[X]
+
+MIID_DEVILAXE
+Devil Axe[X]
+
+MIID_DEVILSWORD
+Devil Sword[X]
+
+MIID_DOHGALANCE
+Doga's Ln.[X]
+
+MIID_DOORKEY
+Door Key[X]
+
+MIID_DRAGONLANCE
+Dragonpike[X]
+
+MIID_DRAGONSHIELD
+Dragon Sh.[X]
+
+MIID_DRAGONSWORD
+DragonKiller[X]
+
+MIID_EARTHORB
+Earth Orb[X]
+
+MIID_ELEPHANT
+Elephant[X]
+
+MIID_ELFIRE
+Elfire[X]
+
+MIID_EMPYREALWHIP
+Elysian Whip[X]
+
+MIID_ENERGYDRINK
+Energy Drink[X]
+
+MIID_EXCALIBUR
+Excalibur[X]
+
+MIID_FALCHION
+Falchion[X]
+
+MIID_FIRE
+Fire[X]
+
+MIID_FIREBREATH
+Fire Breath[X]
+
+MIID_FIREEMBLEM
+Fire Emblem[X]
+
+MIID_FIREGUN
+Fire Gun[X]
+
+MIID_FIRESTONE
+Firestone[X]
+
+MIID_FLYCHATCHER
+Flycatcher[X]
+
+MIID_FRYINGPAN
+Frying Pan[X]
+
+MIID_GEMINI
+Gemini[X]
+
+MIID_GLASSAXE
+Glass Axe[X]
+
+MIID_GLASSBOW
+Glass Bow[X]
+
+MIID_GLASSLANCE
+Glass Lance[X]
+
+MIID_GLASSROD
+Glass[X]
+
+MIID_GLASSSWORD
+Glass Sword[X]
+
+MIID_GLOWER
+Glower[X]
+
+MIID_GODDESSICON
+GoddessIcon[X]
+
+MIID_GODDESSSTONE
+Divinestone[X]
+
+MIID_GOHDONBOW
+Gordon's Bow[X]
+
+MIID_GRADIUS
+Gradius[X]
+
+MIID_GROWUP
+Growth Drop[X]
+
+MIID_HALTECLERE
+Hauteclere[X]
+
+MIID_HAMMARNE
+Hammerne[X]
+
+MIID_HAMMER
+Hammer[X]
+
+MIID_HANDAXE
+Hand Axe[X]
+
+MIID_HANDSPEAR
+Javelin[X]
+
+MIID_HEROICPOTION
+Elixir[X]
+
+MIID_HITAXE
+Hit Axe[X]
+
+MIID_HOLYWATER
+Pure Water[X]
+
+MIID_HOLYWATERSWORD
+Pure Sword[X]
+
+MIID_ICEBREATH
+Ice Breath[X]
+
+MIID_ICESTONE
+Icestone[X]
+
+MIID_IMMORTALAXE
+ImmortalAxe[X]
+
+MIID_IOTESHIELD
+Iote's Shield[X]
+
+MIID_IRONAXE
+Iron Axe[X]
+
+MIID_IRONBOW
+Iron Bow[X]
+
+MIID_IRONLANCE
+Iron Lance[X]
+
+MIID_IRONSWORD
+Iron Sword[X]
+
+MIID_KATARINABOOK
+Hellfire[X]
+
+MIID_KILLERAXE
+Killer Axe[X]
+
+MIID_KILLERBOW
+Killer Bow[X]
+
+MIID_KILLERLANCE
+Killer Lance[X]
+
+MIID_KILLSWORD
+Kill Sword[X]
+
+MIID_KLEINEBOW
+Kleine's Bow[X]
+
+MIID_KNIGHTKILLER
+Knight Killer[X]
+
+MIID_LADYSWORD
+Lady Sword[X]
+
+MIID_LAUNDRYPOLE
+Laundry Pole[X]
+
+MIID_LEO
+Leo[X]
+
+MIID_LIANBOW
+Ryan's Bow[X]
+
+MIID_LIBRA
+Libra[X]
+
+MIID_LIFEORB
+Life Orb[X]
+
+MIID_LIGHTORB
+Light Orb[X]
+
+MIID_LIVE
+Live[X]
+
+MIID_LONGBOW
+Longbow[X]
+
+MIID_LUCKBOND
+Luck Bond[X]
+
+MIID_LUCKPOTION
+Luck Potion[X]
+
+MIID_MAFU
+Maph[X]
+
+MIID_MAGICBREATH
+Demon Breath[X]
+
+MIID_MAGICSHIELD
+Magic Shield[X]
+
+MIID_MAGICSTONE
+Demonstone[X]
+
+MIID_MANUAL
+Manual[X]
+
+MIID_MARICHBOOK
+Razor[X]
+
+MIID_MASTERPROOF
+Master Seal[X]
+
+MIID_MASTERSWORD
+Master Sw.[X]
+
+MIID_MDEFBOND
+Res Bond[X]
+
+MIID_MDEFPOTION
+Res Potion[X]
+
+MIID_MEDIOCREROD
+Healer[X]
+
+MIID_MEMBERCARD
+Member Card[X]
+
+MIID_MERCURY
+Miracle Sw.[X]
+
+MIID_METEOR
+Meteor[X]
+
+MIID_NULL
+(Unarmed)[X]
+
+MIID_NURUFIRE
+Ember[X]
+
+MIID_OBTUSESWORD
+Blunt Sword[X]
+
+MIID_OGUMASWORD
+Oguma's Bl.[X]
+
+MIID_OM
+Ohm[X]
+
+MIID_PARTHIA
+Partia[X]
+
+MIID_PISCES
+Pisces[X]
+
+MIID_POLEAXE
+Poleaxe[X]
+
+MIID_POWERBOND
+Magic Bond[X]
+
+MIID_POWERDROP
+Energy Drop[X]
+
+MIID_POWERPOTION
+Mag Potion[X]
+
+MIID_QUICKAXE
+Quick Axe[X]
+
+MIID_QUICKBOND
+Speed Bond[X]
+
+MIID_QUICKBOW
+Quick Bow[X]
+
+MIID_QUICKLANCE
+Quick Lance[X]
+
+MIID_QUICKPOTION
+Spd Potion[X]
+
+MIID_QUICKROD
+Speed[X]
+
+MIID_QUICKSWORD
+Quick Sword[X]
+
+MIID_RAPIER
+Rapier[X]
+
+MIID_REBLOW
+Reblow[X]
+
+MIID_RECOVER
+Recover[X]
+
+MIID_RELIANCEUP
+Bond Drop[X]
+
+MIID_RELIVE
+Relive[X]
+
+MIID_RESCUE
+Rescue[X]
+
+MIID_RESERVE
+Reserve[X]
+
+MIID_RESIRE
+Resire[X]
+
+MIID_RIFFROD
+Polish[X]
+
+MIID_RODYLANCE
+Rody's Lance[X]
+
+MIID_ROOKSWORD
+Luke's Sword[X]
+
+MIID_ROROAXE
+Roro's Axe[X]
+
+MIID_SAGITTARIUS
+Sagittarius[X]
+
+MIID_SAJIMAJIAXE
+SajiMaji Axe[X]
+
+MIID_SCORPIO
+Scorpio[X]
+
+MIID_SECRETBOOK
+Secret Book[X]
+
+MIID_SHAVER
+Shaver[X]
+
+MIID_SILENCE
+Silence[X]
+
+MIID_SILVERAXE
+Silver Axe[X]
+
+MIID_SILVERBOW
+Silver Bow[X]
+
+MIID_SILVERCARD
+Silver Card[X]
+
+MIID_SILVERLANCE
+SilverLance[X]
+
+MIID_SILVERSWORD
+SilverSword[X]
+
+MIID_SLENDERSPEAR
+Spear[X]
+
+MIID_SPEEDWING
+Speedwing[X]
+
+MIID_SPIRITPOWDER
+Spirit Dust[X]
+
+MIID_STARLIGHT
+Starlight[X]
+
+MIID_STARORB
+Star Orb[X]
+
+MIID_STARPOTION
+Rainbow Pot.[X]
+
+MIID_STEELAXE
+Steel Axe[X]
+
+MIID_STEELBOW
+Steel Bow[X]
+
+MIID_STEELLANCE
+Steel Lance[X]
+
+MIID_STEELSWORD
+Steel Sword[X]
+
+MIID_STONEHEDGE
+Stonehedge[X]
+
+MIID_STRENGTHBOND
+Str Bond[X]
+
+MIID_STRENGTHPOTION
+Str Potion[X]
+
+MIID_STRENGTHROD
+Might[X]
+
+MIID_SWORDKILLER
+Sword Killer[X]
+
+MIID_TALISMAN
+Talisman[X]
+
+MIID_TAURUS
+Taurus[X]
+
+MIID_TBOXKEY
+Chest Key[X]
+
+MIID_TECHBOND
+Skill Bond[X]
+
+MIID_TECHPOTION
+Skill Potion[X]
+
+MIID_THIEF
+Thief[X]
+
+MIID_THIEFKEY
+Master Key[X]
+
+MIID_THORON
+Thoron[X]
+
+MIID_THUNDER
+Thunder[X]
+
+MIID_THUNDERBOLT
+Thunderbolt[X]
+
+MIID_THUNDERSWORD
+Thunder Sw.[X]
+
+MIID_TOMAHAWK
+Tomahawk[X]
+
+MIID_TOYBOW
+Toy Bow[X]
+
+MIID_TRUEEMBLEM
+Shield of Seals[X]
+
+MIID_UNLOCK
+Unlock[X]
+
+MIID_USEDPOTION
+Used Potion[X]
+
+MIID_VIRGO
+Virgo[X]
+
+MIID_VULNERARY
+Vulnerary[X]
+
+MIID_WARM
+Worm[X]
+
+MIID_WARP
+Warp[X]
+
+MIID_WATO
+Wo Dao[X]
+
+MIID_WINGEDSPEAR
+Wing Spear[X]
+
+MIID_WYVERNSTONE
+Flyingstone[X]
+
+MIID_YURUBRIZZAR
+Sleet[X]
+
+MI_H_AGAIN
+A staff that allows allies to move again.[X]
+
+MI_H_ANGELROBE
+A robe that increases maximum HP by 7.[X]
+
+MI_H_AQUARIUS
+Magic +1, Resistance +1 when held.[X]
+
+MI_H_ARIES
+Skill +1, Luck +1 when held.[X]
+
+MI_H_ARMORKILLER
+A sword effective against armored units.[X]
+
+MI_H_AURA
+The strongest light magic. For Linda.[X]
+
+MI_H_BAMBOOSWORD
+A wooden practice sword. Weak, but easy to use.[X]
+
+MI_H_BARTSAXE
+A lumber axe owned by Barts of Talis.[X]
+
+MI_H_BOLGANONE
+Superior magic used to attack with flames.[X]
+
+MI_H_BOOTS
+Shoes that increase movement by 4.[X]
+
+MI_H_BRAVEAXE
+An axe with which the wielder always strikes twice.[X]
+
+MI_H_BRAVEBOW
+A bow with which the wielder always strikes twice.[X]
+
+MI_H_BRAVELANCE
+A lance with which the wielder always strikes twice.[X]
+
+MI_H_BRAVESWORD
+A sword with which the wielder always strikes twice.[X]
+
+MI_H_BRIDGEKEY
+A key used to lower a drawbridge.[X]
+
+MI_H_BRIZZAR
+Potent magic used to attack with ice.[X]
+
+MI_H_BULLION
+A lump of gold that fetches 5000G at a market.[X]
+
+MI_H_BULLION_L
+A large lump of gold that fetches 10,000G at
+a market.[X]
+
+MI_H_CAMUSLANCE
+A lance owned by Grunia's Camus the Sable.[X]
+
+MI_H_CANCER
+Defence +2 when held.[X]
+
+MI_H_CAPRICORN
+Magic +2 when held.[X]
+
+MI_H_CECILSWORD
+A sword owned by Cecil, an Aritian knight.[X]
+
+MI_H_CLAINCLAIN
+A ballista strong against fliers.[X]
+
+MI_H_CLEAVEBOW
+A bow effective against armored units.[X]
+
+MI_H_DARKBREATH
+Corrupted breath exhaled by dragons.[X]
+
+MI_H_DARKORB
+Blocks all enemy attacks when held.[X]
+
+MI_H_DEFENSEPOTION
+Defence +2 for the whole chapter when used.[X]
+
+MI_H_DEFENSEROD
+A staff that raises an ally's Def by 2 for 1 turn.[X]
+
+MI_H_DEVILAXE
+A mighty but cursed axe known to harm its user.[X]
+
+MI_H_DEVILSWORD
+A mighty but cursed sword known to harm its user.[X]
+
+MI_H_DOHGALANCE
+A lance owned by Doga, an Aritian knight.[X]
+
+MI_H_DOORKEY
+A key used to open a door.[X]
+
+MI_H_DRAGONLANCE
+A lance effective against dragons.[X]
+
+MI_H_DRAGONSHIELD
+A shield that increases defense by 4.[X]
+
+MI_H_DRAGONSWORD
+A sword effective against dragons.[X]
+
+MI_H_EARTHORB
+Increases the critical rate of surrounding allies
+when held.[X]
+
+MI_H_ELEPHANT
+A ballista for striking distant enemies.[X]
+
+MI_H_ELFIRE
+Potent magic used to attack with flames.[X]
+
+MI_H_EMPYREALWHIP
+An item that promotes a pegasus knight at level 10
+or above to falcoknight.[X]
+
+MI_H_ENERGYDRINK
+Medicine that restores a lot of HP when used.[X]
+
+MI_H_EXCALIBUR
+The ultimate wind magic spell. For Marich.[X]
+
+MI_H_FALCHION
+A gift from the Divine Dragon King. For Marth.[X]
+
+MI_H_FIRE
+Magic used to attack with flames.[X]
+
+MI_H_FIREBREATH
+Flaming hot breath exhaled by dragons.[X]
+
+MI_H_FIREEMBLEM
+The conqueror's proof gifted from House Akaneia.
+Its bearer is granted access to all treasure chests.[X]
+
+MI_H_FIREGUN
+A ballista for striking distant enemies.[X]
+
+MI_H_FIRESTONE
+A stone used to transform into a fire dragon.[X]
+
+MI_H_FLYCHATCHER
+A lance effective against fliers.[X]
+
+MI_H_FRYINGPAN
+A tool used for cooking, not fighting.[X]
+
+MI_H_GEMINI
+Strength +1, Magic +1 when held.[X]
+
+MI_H_GLASSAXE
+A powerful, but fragile axe.[X]
+
+MI_H_GLASSBOW
+A powerful, but fragile bow.[X]
+
+MI_H_GLASSLANCE
+A powerful, but fragile lance.[X]
+
+MI_H_GLASSROD
+Completely restores HP to a nearby ally. Fragile.[X]
+
+MI_H_GLASSSWORD
+A powerful, but fragile sword.[X]
+
+MI_H_GLOWER
+Superior magic that ignores resistance.[X]
+
+MI_H_GODDESSICON
+A statue that increases luck by 5.[X]
+
+MI_H_GODDESSSTONE
+A divine dragonstone effective against dragons.[X]
+
+MI_H_GOHDONBOW
+A bow owned by Gordon, an Aritian knight.[X]
+
+MI_H_GRADIUS
+A mighty lance, regalia of House Akaneia.[X]
+
+MI_H_GROWUP
+An item that boosts growth rates when used.[X]
+
+MI_H_HALTECLERE
+A formidable axe whose power rivals the regalia.[X]
+
+MI_H_HAMMARNE
+Repairs an ally's combat item. For Rena or Malliesia.[X]
+
+MI_H_HAMMER
+An axe weapon effective against armored units.[X]
+
+MI_H_HANDAXE
+An axe used to attack foes directly or indirectly.[X]
+
+MI_H_HANDSPEAR
+A spear used to attack foes directly or indirectly.[X]
+
+MI_H_HEROICPOTION
+Medicine that completely restores HP when used.[X]
+
+MI_H_HITAXE
+An extremely accurate axe.[X]
+
+MI_H_HOLYWATER
+Medicine that boosts resistance.
+The effect lessens with each passing turn.[X]
+
+MI_H_HOLYWATERSWORD
+A sword that boosts resistance. Wears off with time.[X]
+
+MI_H_ICEBREATH
+Freezing cold breath exhaled by dragons.[X]
+
+MI_H_ICESTONE
+A stone used to transform into an ice dragon.[X]
+
+MI_H_IMMORTALAXE
+An axe that restores HP when used.[X]
+
+MI_H_IOTESHIELD
+A shield that negates bonus damage to the flier who
+carries it.[X]
+
+MI_H_IRONAXE
+An affordable axe that is easy to wield.[X]
+
+MI_H_IRONBOW
+An affordable bow that is easy to wield.[X]
+
+MI_H_IRONLANCE
+An affordable lance that is easy to wield.[X]
+
+MI_H_IRONSWORD
+An affordable sword that is easy to wield.[X]
+
+MI_H_KATARINABOOK
+A tome owned by Katarina, Aritia's strategist.[X]
+
+MI_H_KILLERAXE
+An axe whose design yields frequent critical hits.[X]
+
+MI_H_KILLERBOW
+A bow whose design yields frequent critical hits.[X]
+
+MI_H_KILLERLANCE
+A lance whose design yields frequent critical hits.[X]
+
+MI_H_KILLSWORD
+A sword whose design yields frequent critical hits.[X]
+
+MI_H_KLEINEBOW
+A bow owned by Kleine of the Assassins.[X]
+
+MI_H_KNIGHTKILLER
+A lance effective against cavalry.[X]
+
+MI_H_LADYSWORD
+A mighty sword that only women can wield.[X]
+
+MI_H_LAUNDRYPOLE
+A long pole meant for daily use, not for battle.[X]
+
+MI_H_LEO
+Strength +2 when held.[X]
+
+MI_H_LIANBOW
+A bow owned by Ryan, an Aritian knight.[X]
+
+MI_H_LIBRA
+Luck +2 when held.[X]
+
+MI_H_LIFEORB
+Restores 20 HP every turn when held.[X]
+
+MI_H_LIGHTORB
+Carrying it nullifies the enemy's terrain bonus
+during battle.[X]
+
+MI_H_LIVE
+A staff used to restore HP to an adjacent ally.[X]
+
+MI_H_LONGBOW
+A bow with great range. For Archers and Snipers.[X]
+
+MI_H_LUCKPOTION
+Luck +2 for the whole chapter when used.[X]
+
+MI_H_MAFU
+Dark magic that nullifies all attacks on its bearer.[X]
+
+MI_H_MAGICBREATH
+Arcane breath exhaled by dragons.[X]
+
+MI_H_MAGICSHIELD
+Raises an ally's resistance temporarily.[X]
+
+MI_H_MAGICSTONE
+A stone used to transform into a demon dragon.[X]
+
+MI_H_MANUAL
+A book that increases a unit's weapon level for
+the currently equipped weapon or magic.[X]
+
+MI_H_MARICHBOOK
+A tome owned by Marich the wind mage.[X]
+
+MI_H_MASTERPROOF
+An item that promotes a lesser-class unit at level
+10 or above to a higher class.[X]
+
+MI_H_MASTERSWORD
+A powerful sword with a high critical rate.[X]
+
+MI_H_MDEFPOTION
+Resistance +2 for the whole chapter when used.[X]
+
+MI_H_MEDIOCREROD
+Restores miniscule HP to an unit. Useless in combat.[X]
+
+MI_H_MEMBERCARD
+A card that grants the bearer access to
+special shops.[X]
+
+MI_H_MERCURY
+A powerful blade, regalia of House Akaneia.[X]
+
+MI_H_METEOR
+Powerful magic that can attack enemies from afar.[X]
+
+MI_H_NURUFIRE
+A failed Fire tome with no use in combat.[X]
+
+MI_H_OBTUSESWORD
+A sword with a worn out edge, unfit for combat.[X]
+
+MI_H_OGUMASWORD
+A sword owned by Oguma, mercenary of Talis.[X]
+
+MI_H_OM
+Revives a fallen ally. Yumina, etc. only.[X]
+
+MI_H_PARTHIA
+A formidable bow, regalia of House Akaneia.[X]
+
+MI_H_PISCES
+Defence +1, Resistance +1 when held.[X]
+
+MI_H_POLEAXE
+An axe weapon effective against cavalry.[X]
+
+MI_H_POWERDROP
+An item that increases strength by 4.[X]
+
+MI_H_POWERPOTION
+Magic +2 for the whole chapter when used.[X]
+
+MI_H_QUICKAXE
+An axe that's weak, but can attack twice in a row.[X]
+
+MI_H_QUICKBOW
+A bow that's weak, but can attack twice in a row.[X]
+
+MI_H_QUICKLANCE
+A lance that's weak, but can attack twice in a row.[X]
+
+MI_H_QUICKPOTION
+Speed +2 for the whole chapter when used.[X]
+
+MI_H_QUICKROD
+A staff that raises an ally's Spd by 2 for 1 turn.[X]
+
+MI_H_QUICKSWORD
+A sword that's weak, but can attack twice in a row.[X]
+
+MI_H_RAPIER
+Strong against cavalry/armor. For Marth and Feena.[X]
+
+MI_H_REBLOW
+A staff used to restore HP to a distant ally.[X]
+
+MI_H_RECOVER
+Completely restores HP to an adjacent ally.[X]
+
+MI_H_RELIANCEUP
+A drop that can improve relationships with allies
+when used.[X]
+
+MI_H_RELIVE
+Greatly restores HP to an adjacent ally.[X]
+
+MI_H_RESCUE
+Brings a distant ally to the user. For Yumina.[X]
+
+MI_H_RESERVE
+A special staff used to restore HP to all allies.[X]
+
+MI_H_RESIRE
+Powerful magic that drains enemy HP. For women.[X]
+
+MI_H_RIFFROD
+A staff owned by Riff, an Aritian curate.[X]
+
+MI_H_RODYLANCE
+A lance owned by Rody, an Aritian knight.[X]
+
+MI_H_ROOKSWORD
+A sword owned by Luke, an Aritian knight.[X]
+
+MI_H_ROROAXE
+An axe owned by Roro of the Assassins.[X]
+
+MI_H_SAGITTARIUS
+Skill +2 when held.[X]
+
+MI_H_SAJIMAJIAXE
+A lumber axe owned by Saji and Maji of Talis.[X]
+
+MI_H_SCORPIO
+Speed +2 when held.[X]
+
+MI_H_SECRETBOOK
+A book that increases skill by 5.[X]
+
+MI_H_SHAVER
+Magic that attacks with wind. Strong against fliers.[X]
+
+MI_H_SILENCE
+A special staff that seals all magic for a turn.[X]
+
+MI_H_SILVERAXE
+An axe whose mighty blows offset its steep price.[X]
+
+MI_H_SILVERBOW
+A bow whose might offsets its steep price.[X]
+
+MI_H_SILVERCARD
+A card that allows the bearer to purchase
+weapons and items at half price.[X]
+
+MI_H_SILVERLANCE
+A lance whose mighty blows offset its steep price.[X]
+
+MI_H_SILVERSWORD
+A sword whose mighty blows offset its steep price.[X]
+
+MI_H_SLENDERSPEAR
+A throwing spear that can also attack from afar.[X]
+
+MI_H_SPEEDWING
+A feather that increases speed by 5.[X]
+
+MI_H_SPIRITPOWDER
+Powder that increases magic by 4.[X]
+
+MI_H_STARLIGHT
+The sole magic capable of thwarting Maph's power.[X]
+
+MI_H_STARORB
+Raises all stats by 2 when held.[X]
+
+MI_H_STARPOTION
+A potion that raises all stats by 2
+for the whole chapter when used.[X]
+
+MI_H_STEELAXE
+A weighty but more powerful axe.[X]
+
+MI_H_STEELBOW
+A weighty but more powerful bow.[X]
+
+MI_H_STEELLANCE
+A weighty but more powerful lance.[X]
+
+MI_H_STEELSWORD
+A weighty but more powerful sword.[X]
+
+MI_H_STONEHEDGE
+A ballista for striking distant enemies.[X]
+
+MI_H_STRENGTHPOTION
+Strength +2 for the whole chapter when used.[X]
+
+MI_H_STRENGTHROD
+A staff that raises an ally's Str by 2 for 1 turn.[X]
+
+MI_H_SWORDKILLER
+A sword effective against sword users.[X]
+
+MI_H_TALISMAN
+A charm that increases resistance by 3.[X]
+
+MI_H_TAURUS
+Strength +1, Defence +1 when held.[X]
+
+MI_H_TBOXKEY
+A key used to open chests.[X]
+
+MI_H_TECHPOTION
+Skill +2 for the whole chapter when used.[X]
+
+MI_H_THIEF
+A staff that can open chests. For Malliesia.[X]
+
+MI_H_THIEFKEY
+A key effective on any locked door, chest, or
+bridge.[X]
+
+MI_H_THORON
+Superior magic used to attack with lightning.[X]
+
+MI_H_THUNDER
+Magic used to attack with lightning.[X]
+
+MI_H_THUNDERBOLT
+A magical ballista strong against ballisticians.[X]
+
+MI_H_THUNDERSWORD
+A lightning sword. Can be used to attack indirectly.[X]
+
+MI_H_TOMAHAWK
+A throwing axe that can also attack from afar.[X]
+
+MI_H_TOYBOW
+A children's play toy, not meant for battle.[X]
+
+MI_H_TRUEEMBLEM
+Raises all stats by 2 when held. It seals away
+the Earth Dragons within the Altar of Darkness.[X]
+
+MI_H_UNLOCK
+A staff that can open locked doors.[X]
+
+MI_H_USEDPOTION
+A half-used potion that restores a little HP
+when used.[X]
+
+MI_H_VIRGO
+Resistance +2 when held.[X]
+
+MI_H_VULNERARY
+Medicine that restores HP.[X]
+
+MI_H_WARM
+Magic used to attack a distant enemy.[X]
+
+MI_H_WARP
+Transports an adjacent ally to another location.[X]
+
+MI_H_WATO
+An exotic sword that yields frequent critical hits.[X]
+
+MI_H_WINGEDSPEAR
+Strong against cavalry/armored units. For Sheeda.[X]
+
+MI_H_WYVERNSTONE
+A stone used to transform into a wyvern.[X]
+
+MI_H_YURUBRIZZAR
+A failed Blizzard tome. Weak, but raises critical.[X]
+
+

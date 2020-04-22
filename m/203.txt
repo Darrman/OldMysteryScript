@@ -1,0 +1,191 @@
+MS203_OP1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG02][TargetLeft][LoadPortrait=JEIGUN]The 7th Platoon and its commander,
+[SpecialText0x14=0x39], are all present and accounted
+for, yes?[A][ClearBox]From today forth, you will train together as
+a team in your bid to become fully-fledged
+knights.[A][ClearBox]The first half of your training will focus on
+developing your practical skills.[Pause=3][A][ClearBox]Without further ado, I will introduce the
+senior knight who is to be your instructor.[A][ClearBox][TargetLeft][LoadPortrait=KAIN]I am Kain, the knight in charge of your
+practical training[FreezeMouth]![UnfreezeMouth][A][ClearBox]To hone your practical skills, we will have a
+contest in the form of combat.[A][ClearBox]If you let your guard down, it won't be just
+an injury you'll be walking home with[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]Even amongst the Aritian knights, Kain is one
+of our strongest men.[Pause=3][A][ClearBox]You must all become strong enough to earn
+his approval.[A][ClearBox][X]
+
+MS203_OP3
+[TargetLeft][LoadPortrait=KAIN][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG18][TargetLeft]Well then, let's begin today's training[FreezeMouth]![UnfreezeMouth][A][ClearBox]Your enemies will consist of us Aritian knights, 
+as well as brave warriors whom I am proud
+to call friends.[A][ClearBox]The opponents are determined by the ability
+of each platoon.[Pause=3] 7th Platoon, your opponent
+is[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS203_OP3_A
+[TargetLeft][LoadPortrait=SHEEDA][FaceCommand=0x73]My squires, my friends; please go easy on me.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x61][TargetLeft][FaceCommand=0x73]Oh, it's Princess Sheeda![Pause=3]
+Prince Marth's fiancee![Pause=3]
+She's so pretty[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x61]I feel nervous at the thought of fighting her[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Unknown0x4=F][X]
+
+
+
+MS203_OP3_A_PCM1
+[TargetLeft][LoadPortrait=SHEEDA][FaceCommand=0x73]My squires, my friends; please go easy on me.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x61][TargetLeft][FaceCommand=0x73]Oh, it's Princess Sheeda![Pause=3]
+Prince Marth's fiancee![Pause=3]
+She's so pretty[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x61]I feel nervous at the thought of fighting her[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Unknown0x4=F][X]
+
+MS203_EV1
+[LoadBackground=BBG18][TargetLeft][LoadPortrait=SHEEDA]Let us see if you've got the ability.[Pause=3]
+Talis's mercenaries shall fight you first.[A][ClearBox][X]
+
+MS203_EV2
+[LoadBackground=BBG18][TargetLeft][LoadPortrait=SHEEDA]I see you know how to fight well.[Pause=3][A][ClearBox]In that case, I will fight you next.[A][ClearBox][X]
+
+MS203_BT_BOSS_A
+[TargetLeft][LoadPortrait=SHEEDA][LoadBackground=][FaceCommand=0x61]Fear won't help you; approach with
+confidence and the intent to fight.[A][ClearBox][X]
+
+MS203_BT_BOSS_P_A
+[SpecialText0x14][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=][FaceCommand=0x73]You're a mercenary, aren't you[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Tee hee. This looks promising.[A][ClearBox][FaceCommand=0x61]Come, show me what you can do with your
+sword![A][ClearBox][X]
+
+MS203_BT_BOSS_P_B
+[SpecialText0x14][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=][FaceCommand=0x61]An armored knight[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll be at a disadvantage with the way that
+I fight.[A][ClearBox]But I won't lose so easily![Pause=3]
+Come, show me what you've got![A][ClearBox][X]
+
+MS203_BT_BOSS_P_C
+[SpecialText0x14][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=][FaceCommand=0x73]You're a cavalier, huh?
+Looks like you'll be a good match for me.[A][ClearBox][FaceCommand=0x61]Come, show me what you've got![A][ClearBox][X]
+
+MS203_BT_BOSS_P_D
+[SpecialText0x14][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=][FaceCommand=0x61]So you're a fighter, [SpecialText0x14=0x39]?[Pause=3]
+Of the lance and the axe, the axe is
+advantageous[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I might be at a slight disadvantage,
+but I won't lose easily![Pause=3]
+Come, show me what you've got![A][ClearBox][X]
+
+MS203_BT_BOSS_P_E
+[SpecialText0x14][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=][FaceCommand=0x61][SpecialText0x14=0x39], you're an archer[FreezeMouth]!?[UnfreezeMouth][Pause=3]
+The bane of us pegasus knights[FreezeMouth]...[UnfreezeMouth][A][ClearBox]B-but[Pause=3] I will not sit idly by and lose to you![Pause=3]
+Show me everything you have![A][ClearBox][X]
+
+MS203_BT_BOSS_P_F
+[SpecialText0x14][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=][FaceCommand=0x73]So you're a mage, [SpecialText0x14=0x39]?[Pause=3]
+Pegasus knights are resistant to magic,
+you know.[A][ClearBox][FaceCommand=0x61]I'm not going to lose this one.[Pause=3]
+Come, show me what you've got![A][ClearBox][X]
+
+MS203_BT_BOSS_P_G
+[SpecialText0x14][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=][FaceCommand=0x73][SpecialText0x14=0x39], you're a myrmidon, huh?[Pause=3]
+Teehee. I feel somewhat drawn to you.[Pause=3]
+We should be friends from now on.[A][ClearBox][FaceCommand=0x61]But that doesn't mean I'll go easy on you in
+this fight.[Pause=3]
+[A][ClearBox]Come, [SpecialText0x14=0x39], show me what you can do
+with that sword of yours![A][ClearBox][X]
+
+MS203_BT_BOSS_P_H
+[SpecialText0x14][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=][FaceCommand=0x73]Well, well, [SpecialText0x14=0x39], you're a pegasus knight,
+just like me.[Pause=3]
+Teehee. We have so much in common[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x61]But I won't go easy on you for this battle.[Pause=3]
+You and your pegasus[FreezeMouth]...[UnfreezeMouth]
+Shall we take to the skies?[A][ClearBox][X]
+
+MS203_DIE_BOSS_A
+[TargetLeft][LoadPortrait=SHEEDA][LoadBackground=][FaceCommand=0x61]Ngh[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS203_ED1_A_PCF1
+[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG18][TargetLeft][LoadPortrait=SHEEDA][FaceCommand=0x73]That was a thrilling fight.[Pause=3]
+You are the first squires to have bested me
+in combat.[A][ClearBox]Promise me that you'll become knights worthy
+of helping Marth.[A][ClearBox][TargetRight][FaceCommand=0x73]Of course, Princess Sheeda.[A][ClearBox][TargetLeft]If you ever need help during the practical
+training, do call on me.
+And I'll fight, but as your companion.[A][ClearBox][TargetRight][FaceCommand=0x61]Hm?[Pause=3] We'd gladly appreciate your help, but
+I'm not sure if we would be allowed to.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x61]What should we do?[Pause=3]
+I know, how about we ask Sir Jeigan?[A][ClearBox][Fade=40][X]
+
+MS203_ED1_A_PCM1
+[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG18][TargetLeft][LoadPortrait=SHEEDA][FaceCommand=0x73]That was a thrilling fight.[Pause=3]
+You are the first squires to have bested me
+in combat.[A][ClearBox]Promise me that you'll become knights worthy
+of helping Marth.[A][ClearBox][TargetRight][FaceCommand=0x73]Of course, Princess Sheeda.[A][ClearBox][TargetLeft]If you ever need help during the practical
+training, do call on me.
+And I'll fight, but as your companion.[A][ClearBox][TargetRight][FaceCommand=0x61]Hm?[Pause=3] We'd gladly appreciate your help, but
+I'm not sure if we would be allowed to.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x61]What should we do?[Pause=3]
+I know, how about we ask Sir Jeigan?[A][ClearBox][Fade=40][X]
+
+MS203_ED2_PCF1
+[Fade=40][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG18][TargetLeft][LoadPortrait=JEIGUN][TargetLeft][FaceCommand=0x61]I have no qualms about your proposal.[Pause=3]
+You may borrow the help of friends if they
+offer as much.[A][ClearBox][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x73]What a relief.[Pause=3]
+I'm certain Princess Sheeda will make a
+reliable ally.[A][ClearBox][TargetRight][LoadPortrait=PLAYER][FaceCommand=0x61]But, is it really alright to rely on others?[Pause=3]
+I don't see how this fits with our training[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]Hmph. Don't tell me you're still in the dark
+about Prince Marth's method of fighting
+during the War of Darkness?[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS203_ED2_PCM1
+[Fade=40][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG18][TargetLeft][LoadPortrait=JEIGUN][TargetLeft][FaceCommand=0x61]I have no qualms about your proposal.[Pause=3]
+You may borrow the help of friends if they
+offer as much.[A][ClearBox][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x73]What a relief.[Pause=3]
+I'm certain Princess Sheeda will make a
+reliable ally.[A][ClearBox][TargetRight][LoadPortrait=PLAYER][FaceCommand=0x61]But, is it really alright to rely on others?[Pause=3]
+I don't see how this fits with our training[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]Hmph. Don't tell me you're still in the dark
+about Prince Marth's method of fighting
+during the War of Darkness?[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS203_ED2_2_N_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetRight][FaceCommand=0x61]No, this I know.[Pause=3]
+The League led by Prince Marth didn't just
+consist of Aritia:[A][ClearBox]It went beyond the frontiers of nationality,
+and included friend and foe alike[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]Yes. Our victory was not just the
+accomplishment of us Aritian knights.[A][ClearBox]Overcoming status and position; being able
+to fight together as equals[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That is how Prince Marth fights.[A][ClearBox]No matter when an ally came to our side,
+they could instantly join the battle with us.[Pause=3][A][ClearBox]That is also a necessary skill for an Aritian
+knight.[A][ClearBox][TargetRight]I see[FreezeMouth]...[UnfreezeMouth]
+That will be important to our training.[Pause=3]
+I understand now.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73]If we can combine our strengths when we
+fight, I'm sure we can achieve anything.[Pause=3]
+Right, [SpecialText0x14=0x39]?[A][TargetRight][FaceCommand=0x73]Yes, you're right.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS203_ED2_2_N_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetRight][FaceCommand=0x61]No, this I know.[Pause=3]
+The League led by Prince Marth didn't just
+consist of Aritia:[A][ClearBox]It went beyond the frontiers of nationality,
+and included friend and foe alike[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]Yes. Our victory was not just the
+accomplishment of us Aritian knights.[A][ClearBox]Overcoming status and position; being able
+to fight together as equals[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That is how Prince Marth fights.[A][ClearBox]No matter when an ally came to our side,
+they could instantly join the battle with us.[Pause=3][A][ClearBox]That is also a necessary skill for an Aritian
+knight.[A][ClearBox][TargetRight]I see[FreezeMouth]...[UnfreezeMouth]
+That will be important to our training.[Pause=3]
+I understand now.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73]If we can combine our strengths when we
+fight, I'm sure we can achieve anything.[Pause=3]
+Right, [SpecialText0x14=0x39]?[A][TargetRight][FaceCommand=0x73]Yes, you're right.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS203_ED2_2_Y_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetRight][FaceCommand=0x61]Yes, I'm sorry.
+I'm not familiar with the details.[A][ClearBox][TargetLeft][FaceCommand=0x61]Then I shall tell you.[A][ClearBox]Our victory in the previous war was not just
+by merit of Aritia.[A][ClearBox]Gathering and fighting together with allies
+of various positions and statuses[FreezeMouth]...[UnfreezeMouth][Pause=3]
+This is how Prince Marth fights.[A][ClearBox]No matter when an ally came to our side,
+they could instantly join the battle with us.[Pause=3][A][ClearBox]That is also a necessary skill for an Aritian
+knight.[A][ClearBox][TargetRight]I see[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I understand now.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73]If we can combine our strengths when we
+fight, I'm sure we can achieve anything.[Pause=3]
+Right, [SpecialText0x14=0x39]?[A][TargetRight][FaceCommand=0x73]Yes, you're right.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS203_ED2_2_Y_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetRight][FaceCommand=0x61]Yes, I'm sorry.
+I'm not familiar with the details.[A][ClearBox][TargetLeft][FaceCommand=0x61]Then I shall tell you.[A][ClearBox]Our victory in the previous war was not just
+by merit of Aritia.[A][ClearBox]Gathering and fighting together with allies
+of various positions and statuses[FreezeMouth]...[UnfreezeMouth][Pause=3]
+This is how Prince Marth fights.[A][ClearBox]No matter when an ally came to our side,
+they could instantly join the battle with us.[Pause=3][A][ClearBox]That is also a necessary skill for an Aritian
+knight.[A][ClearBox][TargetRight]I see[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I understand now.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73]If we can combine our strengths when we
+fight, I'm sure we can achieve anything.[Pause=3]
+Right, [SpecialText0x14=0x39]?[A][TargetRight][FaceCommand=0x73]Yes, you're right.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+

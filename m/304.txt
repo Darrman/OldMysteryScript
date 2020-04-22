@@ -1,0 +1,261 @@
+MS304_OP1
+[Unknown0x12]3[LoadBackground=BS_bg]Two years have passed[Pause=3] since the millenial
+palace was seized by Grunia's Camus the
+Sable.[A][ClearBox]Emperor Mediuth of Durhua[Pause=3] ordered Camus to
+take full control of Pales.[A][ClearBox]However Camus defied his orders,[Pause=3]
+by continuing to shelter Princess Nina.[A][ClearBox]As time passed, Mediuth lost his patience
+with Camus[Pause=3] and ordered his men to take
+Nina captive.[A][ClearBox][Unknown0x12]3[Fade=80][X]
+
+MS304_OP2
+[TargetRight][LoadPortrait=BRZAK][TargetLeft][LoadPortrait=S_MEDIUTH][LoadBackground=BBG15]Do you understand, Bulzark?[Pause=3]
+I must have Nina without fail.[Pause=3]
+Capture her and bring her to me, alive.[A][ClearBox][TargetRight]Please leave it to me, my lord.[A][ClearBox]However, what are my orders,
+should General Camus[Pause=3] betray us?[A][ClearBox][TargetLeft]If he resists,[Pause=3] you may kill him.[Pause=3]
+I care not for him any longer.[A][ClearBox][TargetRight]As you wish[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Unknown0x4=F][Fade=40][X]
+
+MS304_OP3
+[Fade=40][TargetRight][LoadPortrait=CAMUS][TargetLeft][LoadPortrait=SOLDIER_BLUE][LoadBackground=BBG04]General Camus[FreezeMouth]![UnfreezeMouth][A][ClearBox]We have received news that General
+Bulzark of Durhua is coming here.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]I see.[Pause=3]
+It seems Emperor Mediuth has risen from
+his slumber.[A][ClearBox]It's not as if I didn't see this coming[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But[FreezeMouth]... [UnfreezeMouth]what should I do[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]Someone[FreezeMouth],[UnfreezeMouth][Pause=3] bring the princess to me![A][ClearBox][TargetLeft][RemovePortrait][TargetLeft][LoadPortrait=NIENA]General Camus,[Pause=3] has something happened?[A][ClearBox][TargetRight]Princess Nina,[Pause=3] Mediuth's personal guards
+should arrive here, at Pales, at any
+moment.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]The Durhuan army[FreezeMouth]!?[UnfreezeMouth][Pause=3]
+For what purpose?[A][ClearBox][TargetRight]To take you back to Durhua, naturally.[Pause=3]
+As a hostage to keep Akaneia permanently
+and safely under their leash.[A][ClearBox][TargetLeft]No[FreezeMouth]![UnfreezeMouth] I refuse[FreezeMouth]![UnfreezeMouth][Pause=3]
+I will not go to Durhua[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]I know.[Pause=3]
+We must escape Pales at once.[A][ClearBox]Sir Hardin, in the northern state of Orleans,[Pause=3]
+has the power to protect you.[Pause=3]
+I'm sure he will extend you his courtesy.[A][ClearBox]Anyway, let us be off.
+We haven't a moment to spare.[Pause=3]
+Princess, get ready.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Fine.[Pause=3]
+But, Camus.[Pause=3]
+You have no qualms with this?[A][ClearBox]Will you not be in danger, should we escape?[A][ClearBox][TargetRight][FaceCommand=0x73]Heh. It's too late to waver[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I've known this was coming for me,
+for a long time already.[A][ClearBox][TargetLeft][FaceCommand=0x73]Then, you have made your decision?[A][ClearBox]Camus, if you're going to abandon your
+country,[Pause=3] then I[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]Nina, you're mistaken.[A][ClearBox]I don't fear Durhua or Mediuth,[Pause=3] but the
+Kingdom of Grunia means everything to me.[A][ClearBox]I cannot betray it.[A][ClearBox][TargetLeft][FaceCommand=0x61]But, then[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Why are you[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]If you help me,[Pause=3] you'll be a criminal.[A][ClearBox]And yet, you say you'll remain in Grunia?[Pause=3]
+They'll kill you[FreezeMouth]![UnfreezeMouth][A][ClearBox][Unknown0x4=F32][TargetRight]I remember telling you, Princess.[Pause=3]
+That you could have my life anytime.[Pause=3]
+Well, that time has come.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS304_OP3_01
+[TargetLeft]Camus[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth] I refuse[FreezeMouth]![UnfreezeMouth][Pause=3]
+I don't want to be saved[Pause=3] if you are
+sacrificed in exchange[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Haha, you're still a child, Nina.[A][ClearBox][FaceCommand=0x61]It reminds me[Pause=3] of when we first met,
+two years ago.[Pause=3] If I recall correctly[FreezeMouth]...[UnfreezeMouth][A][ClearBox]You said you would[Pause=3] command the Akaneian
+League's army[Pause=3] to topple Durhua.[A][ClearBox]And for that purpose,[Pause=3] you have worked very
+hard in these two years.[A][ClearBox]The people call you[Pause=3] the white rose of
+Akaneia.[A][ClearBox]Neat and trim on the outside;[Pause=3] you hide
+such passion and enthusiasm.[A][ClearBox]You give courage to all who come in contact
+with you.[A][ClearBox]Opportunities appear as we create them.[Pause=3]
+And should one present itself, the people
+will surely unite and oppose Durhua, no?[A][ClearBox]Or do you intend to ruin[Pause=3] everything you've
+worked for? All for a fleeting fancy?[A][ClearBox]Nina, were you always this weak?[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Camus[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Very well.[Pause=3]
+I shall do as you say.[Pause=3]
+However, let me make this clear:[A][ClearBox]my love for you[Pause=3] means everything to me[FreezeMouth]![UnfreezeMouth][A][ClearBox]It isn't some "fleeting fancy".[Pause=3]
+You've always been on my mind[FreezeMouth]...![UnfreezeMouth][A][ClearBox]True, I said I hated you once.
+But it was a lie; I was just fooling myself[FreezeMouth]...[UnfreezeMouth][A][ClearBox]It was love at first sight[FreezeMouth]![UnfreezeMouth][A][ClearBox]I'm not strong at all[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I need you by my side[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][Pause=3][A][ClearBox]It was because you were here[FreezeMouth]... [UnfreezeMouth]
+that I had anything to live for[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Princess.[Pause=3]
+That's enough.
+I get it[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=BELF][TargetRight]Belf, take care of the princess.[Pause=3]
+Give orders to the court ladies[Pause=3] and hurry
+the preparations.[A][ClearBox][TargetLeft]Yes sir. Understood.[A][ClearBox][TargetLeft][LoadPortrait=NIENA][TargetRight]Come, Princess.[Pause=3]
+We must prepare[FreezeMouth].[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Very well.[A][ClearBox][TargetLeft][RemovePortrait][TargetLeft][LoadPortrait=LEIDEN]General Camus[FreezeMouth]![UnfreezeMouth][Pause=3]
+We, the Sable Knights, shall accompany you[FreezeMouth]![UnfreezeMouth][A][ClearBox]With the Sable Order with you,[Pause=3]
+no force of Durhua can withstand you.[Pause=3]
+Please, give us your orders[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]That will not do.[A][ClearBox]Should we sortie an official army,[Pause=3]
+the alliance between Grunia and Durhua
+will crumble.[A][ClearBox]The hostages[SpecialSymbol=0x96]Prince Yubello included[SpecialSymbol=0x96][Pause=3]
+will be killed.[A][ClearBox]And Mediuth would no doubt burn Grunia to
+ashes.[Pause=3] I cannot allow that to happen[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetLeft][LoadPortrait=ROBERTO]Then, at least take us three with you.[A][ClearBox]We'll desert the army.[Pause=3]
+That way, we won't bring trouble[Pause=3] to our
+motherland, Grunia.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]I see[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x73]Thank you.[Pause=3]
+I'm sorry[FreezeMouth]...[UnfreezeMouth][Pause=3] to get you all involved.[A][ClearBox][TargetLeft][FaceCommand=0x73]Are you joking with us?[Pause=3]
+Either way, the princess is ready.[Pause=3]
+It's time to take our leave, General.[A][ClearBox][TargetRight][FaceCommand=0x61]Excellent, then let us march[FreezeMouth]![UnfreezeMouth][Pause=3]
+Make sure the others suspect nothing.[A][ClearBox][Unknown0x4=F][Fade=40][X]
+
+MS304_OP4
+[Fade=40][TargetRight][LoadPortrait=SOLDIER_RED][TargetLeft][LoadPortrait=BRZAK][LoadBackground=BBG18][TargetRight]Lord Bulzark[FreezeMouth]![UnfreezeMouth][Pause=3]
+Princess Nina has fled Pales.[A][ClearBox][TargetLeft]What did you say[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][TargetRight]She left together with General Camus.[Pause=3]
+Moreover, a few knights are with them.[A][ClearBox][TargetLeft]Damn that Camus.[Pause=3]
+He really has betrayed us.[Pause=3]
+So, where are they headed?[A][ClearBox][TargetRight]They are headed straight north.[A][ClearBox][TargetLeft]Orleans, huh?[Pause=3]
+Very well.
+Tell the entire army to march north[FreezeMouth]![UnfreezeMouth][A][ClearBox]Strike them down as soon as you catch up.[Pause=3]
+We must bring Nina back[Pause=3] before she takes
+refuge in Orleans.[A][ClearBox][Unknown0x4=F][Fade=40][X]
+
+MS304_OP5
+[TargetLeft][LoadPortrait=BRZAK][LoadBackground=BBG20]Camus of Grunia,[Pause=3] you filthy traitor[FreezeMouth]![UnfreezeMouth][Pause=3]
+I won't let you escape!
+Surrender while you still can[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS304_VIL1
+[TargetCenter][LoadPortrait=OLDWOMAN][LoadBackground=BBG26]You're being pursued by Durhua, aren't ya[FreezeMouth]?[UnfreezeMouth][Pause=3]
+Please take this.[Pause=3]
+I'm sure it'll assist you in your escape.[A][ClearBox]I, too, am a citizen of Akaneia[FreezeMouth]...[UnfreezeMouth][Pause=3]
+and as such, an ally to your cause.[Pause=3]
+Now, go! You can't stay here any longer...[A][ClearBox][X]
+
+MS304_EV1
+[TargetRight][LoadPortrait=CAMUS][LoadBackground=BBG20]Blast[FreezeMouth]... [UnfreezeMouth]We're almost in Orleans,[Pause=3]
+yet they've already caught up to us?[A][ClearBox]Nina, we'll hold them back here.[Pause=3]
+Go ahead to Orleans[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=NIENA]Camus[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][Pause=3]
+Please.[Pause=3] If I must flee, then it will be by your
+side.[A][ClearBox]I want to be with you,[Pause=3] at least until we reach
+Orleans.[A][ClearBox][TargetRight]Nina[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=LEIDEN][TargetRight]Leiden, Belf, Robert[FreezeMouth]![UnfreezeMouth][Pause=3][A][ClearBox]We'll pass through the mountains, while we
+protect the princess.[A][ClearBox]I understand there are many bandits in this
+region[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]Kill any bandits in our way,[Pause=3]
+but do not pursue those who flee.[A][ClearBox]Our objective is to make sure the princess
+safely reaches Hardin of Orleans.
+Understood[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]Yes sir[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=NIENA][TargetRight]Nina, we'll pass this valley[Pause=3] and run
+towards the northeast fortress.[Pause=3]
+That's the border of Orleans.[A][ClearBox][TargetLeft]Camus[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Don't worry,[Pause=3] we'll protect you.[Pause=3]
+Now, let us make haste[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS304_EV2
+[TargetLeft][LoadPortrait=BANDIT][LoadBackground=BBG20]Hey, hey, hey! Did ya 'ear?[Pause=3]
+A big army's comin' 'ere from the south[FreezeMouth]![UnfreezeMouth][A][ClearBox]I'm runnin' from 'ere.[Pause=3]
+Don't wanna let 'em take this treasure
+I worked so hard to get mah hands on.[A][ClearBox]If you guys wanna flee, now's the time[FreezeMouth]![UnfreezeMouth][Pause=3]
+See ya[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS304_EV3
+[TargetLeft][LoadPortrait=BRZAK][LoadBackground=BBG20]You[FreezeMouth]![UnfreezeMouth] Don't lower your guard.[Pause=3]
+Our enemies may be few in number, but[Pause=3]
+they're the elite of Grunia's Sable Order.[A][ClearBox]Moreover, Camus the Sable[Pause=3] is equipped with
+the legendary spear, Gradius.[A][ClearBox]I will march forward[Pause=3] as soon as my unit is
+ready,[A][ClearBox]but you lot march on ahead[Pause=3] and pursue the
+enemy[FreezeMouth]![UnfreezeMouth][A][ClearBox]If things go well,[Pause=3] you might be able to capture
+Nina, who's slower for being on foot.[A][ClearBox][X]
+
+MS304_EV5
+[TargetRight][LoadPortrait=CAMUS][TargetLeft][LoadPortrait=NIENA][LoadBackground=]Camus, are you alright?[A][ClearBox][TargetRight]You need not worry about me.[Pause=3]
+Nina, you cannot stay here forever.[A][ClearBox]We'll hold the enemy back.[Pause=3]
+Please, worry not for me.[Pause=3]
+Just hurry ahead already[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Camus[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]It's alright, Nina.[Pause=3]
+I'm not dying any time soon[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS304_EV6
+[TargetLeft][LoadPortrait=BRZAK][LoadBackground=]Hey[FreezeMouth]![UnfreezeMouth][Pause=3]
+Have we captured them yet[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=SOLDIER_RED]It'd be a hard battle, sir.[Pause=3] The soldiers are
+afraid because Camus is monstrously strong;
+he's like a demon on the warpath.[A][ClearBox][TargetLeft]Then I'll take him on myself[FreezeMouth]![UnfreezeMouth][Pause=3]
+Order the entire army to attack[FreezeMouth]![UnfreezeMouth][Pause=3]
+Send a message to the bandits[FreezeMouth]![UnfreezeMouth][A][ClearBox]Tell them there's a reward in gold for
+whoever captures Camus and his motley crew[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Yes sir[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS304_EV7
+[TargetRight][LoadPortrait=CAMUS][LoadBackground=]Strange[FreezeMouth]...[UnfreezeMouth][Pause=3]
+No matter how many enemies we kill,
+there seems to be no end to them.[A][ClearBox]Are reinforcements coming from the rear[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]There's nothing to do about it.[Pause=3]
+But I still have the Gradius[FreezeMouth]![UnfreezeMouth][A][ClearBox]As long as I have this spear,[Pause=3] I will not fall
+back[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS304_BT_BOSS
+[TargetLeft][LoadPortrait=BRZAK][LoadBackground=]Those who dare to oppose Emperor Mediuth
+have only death waiting for them[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS304_DIE_BELF
+[TargetRight][LoadPortrait=BELF][LoadBackground=]I have no regrets[FreezeMouth]...[UnfreezeMouth][Pause=3]
+General Camus[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Please[FreezeMouth]... [UnfreezeMouth]keep going[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS304_DIE_BOSS
+[TargetLeft][LoadPortrait=BRZAK][LoadBackground=]I-it can't be[FreezeMouth]...[UnfreezeMouth][Pause=3]
+How can mere humans[FreezeMouth]...[UnfreezeMouth][Pause=3]
+possess such[FreezeMouth]... [UnfreezeMouth]power[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS304_DIE_CAMUS
+[TargetRight][LoadPortrait=CAMUS][LoadBackground=]Nina[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Be safe[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS304_DIE_LEIDEN
+[TargetRight][LoadPortrait=LEIDEN][LoadBackground=]General Camus[FreezeMouth]...[UnfreezeMouth][Pause=3]
+This is[FreezeMouth]... [UnfreezeMouth]as far as I can go[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS304_DIE_NIENA
+[TargetRight][LoadPortrait=NIENA][LoadBackground=]Save me[FreezeMouth]... [UnfreezeMouth]Camus[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS304_DIE_ROBERTO
+[TargetRight][LoadPortrait=ROBERTO][LoadBackground=]Fighting alongside you[FreezeMouth]...[UnfreezeMouth][Pause=3] was an honor[FreezeMouth]...[UnfreezeMouth][Pause=3]
+General Camus[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS304_ED1
+[TargetRight][LoadPortrait=HARDIN2][LoadBackground=BBG24][FreezeMouth]...[UnfreezeMouth]Good, it seems we're in time.[Pause=3]
+All hands, engage the Durhuan army[FreezeMouth]![UnfreezeMouth][Pause=3]
+I shall save Princess Nina myself[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=NIENA][TargetRight]Princess Nina, I presume?[Pause=3]
+I am Hardin, younger brother of King Orleans.[A][ClearBox]I heard the news[Pause=3] and I came for you,
+Princess.[A][ClearBox]You need not worry any longer.[Pause=3]
+I shall protect you, even at the cost of my
+life.[A][ClearBox][TargetLeft]So you are[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Sir Hardin of[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Orleans.[A][ClearBox]I am Nina[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm pleased[FreezeMouth]... [UnfreezeMouth][Pause=3]to meet[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Unknown0x4=F32][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS304_ED1_01
+[TargetRight]Princess[FreezeMouth]![UnfreezeMouth][Pause=3]
+Pull yourself together[FreezeMouth]![UnfreezeMouth][A][ClearBox]Someone[FreezeMouth],[UnfreezeMouth] bring a bishop here[FreezeMouth]![UnfreezeMouth][Pause=3]
+And water[FreezeMouth]![UnfreezeMouth][Pause=3]
+Quickly[FreezeMouth]![UnfreezeMouth] Hurry[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][X]
+
+MS304_ED2A
+[Fade=40][TargetLeft][LoadPortrait=BRZAK][TargetRight][LoadPortrait=CAMUS][LoadBackground=BBG20][TargetLeft]Camus, I can see why Grunia loves you so.[Pause=3]
+You've annihilated an entire batallion by
+yourself.[A][ClearBox]I didn't imagine that it would come to this.[Pause=3]
+Truly, your power is beyond imagination.[A][ClearBox]However, this farce ends here.[Pause=3]
+Your sword is broken and your spear lost.[Pause=3]
+Even you cannot fight bare-handed.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Indeed[FreezeMouth]... [UnfreezeMouth]It seems[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I've reached my limit[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Should you surrender peacefully, we could
+spare you the worst.[Pause=3] Give up.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Very well. Do as you wish.[Pause=3]
+[FreezeMouth]...[UnfreezeMouth]I have fulfilled my duty[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Men, seize him[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=SOLDIER_RED]Yes sir[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]We have him now.[Pause=3]
+Put him in a cage,[Pause=3] and drag it behind the
+carriage.[A][ClearBox]He'll prove a fine example[Pause=3] of the fate that
+awaits those who oppose Durhua.[A][ClearBox]Strip him[FreezeMouth]![UnfreezeMouth][Pause=3]
+Give him only enough[Pause=3] food to keep him alive.[A][ClearBox]Everyone shall laugh at the misery of their
+once great hero, Camus[FreezeMouth]![UnfreezeMouth][Pause=3]
+Bwahahahahaha[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][TargetRight][LoadPortrait=CAMUS]Nina[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Did you reach Orleans safely?[A][ClearBox][EyeCommand=ec]Forgive me[FreezeMouth]...[UnfreezeMouth]
+For my cowardice.[Pause=3]
+Nina[FreezeMouth]... [UnfreezeMouth]I[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS304_ED2B
+[TargetLeft][LoadPortrait=S_MEDIUTH][TargetRight][LoadPortrait=CAMUS][LoadBackground=BBG20][TargetLeft]Camus[FreezeMouth]...[UnfreezeMouth]
+Your prowess is just what I'd expect from
+the Sable Knight, pride of Grunia.[A][ClearBox][TargetRight][FreezeMouth]Gah![UnfreezeMouth]
+Mediuth[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Be proud, Camus.[Pause=3]
+Your exploits forced my hand,
+and had me come here personally.[A][ClearBox]You have annihilated an entire batallion by
+yourself,[Pause=3] and even killed Bulzark.[A][ClearBox]I must take care of you myself[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You know, the last one who gave me[Pause=3]
+this feeling was that troublesome Anri.[A][ClearBox]However, your end has come.[Pause=3]
+Your sword is broken and your spear lost.[Pause=3]
+Even you cannot fight bare-handed.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Indeed[FreezeMouth]... [UnfreezeMouth]It seems[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I've reached my limit[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]All hope turns in fear[Pause=3] before me[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Give up.[Pause=3]
+Surrender quietly.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Very well. As you wish.[Pause=3]
+[FreezeMouth]...[UnfreezeMouth]I have fulfilled my duty[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Men, seize him[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=SOLDIER_RED]Yes sir[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Throw him in a cage,[Pause=3] and drag it behind the
+carriage.[A][ClearBox]He'll prove a fine example[Pause=3] of the fate that
+awaits those who oppose Durhua.[A][ClearBox]Strip him[FreezeMouth]![UnfreezeMouth][Pause=3]
+Give him only enough[Pause=3] food to keep him alive.[A][ClearBox]Everyone shall laugh at the misery of their
+once great hero, Camus[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][TargetRight][LoadPortrait=CAMUS]Nina[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Did you reach Orleans safely?[A][ClearBox][EyeCommand=ec]Forgive me for my cowardice.[Pause=3]
+Nina[FreezeMouth]... [UnfreezeMouth]I[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS304_ED3
+[Fade=40][Unknown0x12]3[LoadBackground=BS_bg]While Princess Nina[Pause=3] was being nursed back
+to health by Hardin,[A][ClearBox]Camus was incarcerated in a small cage,[Pause=3]
+and forced into a relentlessly painful 
+journey to Durhua.[A][ClearBox]After that,[Pause=3] Mediuth stripped Camus of all
+his rights and privileges,[A][ClearBox]confining him to a[Pause=3] dungeon in Durhua.[A][ClearBox]Princess Nina, under the protection of
+Hardin,[A][ClearBox]called upon the entire continent to reform the
+Akaneian League[Pause=3] and go to war against the
+Empire.[A][ClearBox]A few months later, one young man answered
+to Nina's call,[Pause=3] leaving the island that was
+his refuge.[A][ClearBox]That young man was Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Unknown0x12]3[Fade=80][X]
+

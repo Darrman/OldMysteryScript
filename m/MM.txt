@@ -1,0 +1,222 @@
+MDMH_DELIVERYLISTITEM
+Send downloaded items to the convoy.[X]
+
+MDMH_DELIVERYLISTMAP
+Play downloaded chapters.[X]
+
+MD_ƒ`ƒ…ƒg
+Turn on game-play tutorials?
+Recommended for beginners and
+those playing this game for the
+first time.
+(This setting can be changed
+from the Options menu in-game.)[X]
+
+MEMH_DELIVERY
+Open the downloadable contents menu.[X]
+
+MEMH_DICTIONARY
+View information on nations and characters.[X]
+
+MEMH_INITIALIZE
+Delete all your save data.[X]
+
+MEMH_LINKWIFI
+Open the Nintendo Wi-Fi Connection menu.[X]
+
+MEMH_LINKWIRELESS
+Open the wireless play menu.[X]
+
+MEMH_RECOLLECTION
+Watch scenes from the game.[X]
+
+MEMH_SOUNDROOM
+Listen to music from the game.[X]
+
+MEMH_TRIAL
+Play maps from the Akaneian Chronicles.[X]
+
+MFMH_CONTINUE
+Continue from save data.[X]
+
+MFMH_COPY
+Copy save data.[X]
+
+MFMH_DELETE
+Delete save data.[X]
+
+MFMH_EXTRA
+See more options.[X]
+
+MFMH_NEWGAME
+Start a new game.[X]
+
+MFMH_SAVE
+Please select a file to save to.[X]
+
+MFMH_TEMPORARY
+Resume from a suspend point.[X]
+
+MIMH_HARD
+Recommended for those looking for responsive
+gameplay. Enemies are stronger than normal.
+Reinforcements act as soon as they appear.[X]
+
+MIMH_LUNATIC
+The highest level of difficulty the series
+can provide. The enemies are the strongest.[X]
+
+MIMH_LUNATICD
+Recommended for people with a dauntless
+spirit. Enemies are no stronger than
+Lunatic mode, but always strike first.[X]
+
+MIMH_MANIAC
+Recommended for players seeking a
+challenge. The enemies are stronger
+than the enemies in Hard mode.[X]
+
+MIMH_NORMAL
+An entry-level difficulty for players
+with little experience. You can play the
+game while learning the basics.[X]
+
+MLMH_DOWNLOAD
+Download data using Nintendo WFC.[X]
+
+MLMH_FRIEND
+Register friends to play over Nintendo WFC.[X]
+
+MLMH_MIC
+Test the microphone for mic chat.[X]
+
+MLMH_PRACTICE
+Practice using versus battle rules.[X]
+
+MLMH_RECORD
+View stats for your last 20 battles.[X]
+
+MLMH_RENTAL
+Borrow units from friends, or loan them out.[X]
+
+MLMH_SHOP
+Connect to a shop to buy and sell items.[X]
+
+MLMH_TROOP
+Create and view squads.[X]
+
+MLMH_UTILITY
+Set up Nintendo WFC.[X]
+
+MLMH_VS
+Play against a friend or someone else.[X]
+
+MLMH_WIFIFRIEND
+Play against friends over Nintendo WFC.[X]
+
+MLMH_WIFIWORLD
+Play other people connected to Nintendo WFC.[X]
+
+MLMH_WIRELESS
+Play people using Wireless Communications.[X]
+
+MLM_CARDHELP1
+Placing a unit on the castle will change the
+castle's flag to that army's color.[X]
+
+MLM_CARDHELP2
+To win, make sure the flag is your color
+when the battle ends - or just annihilate
+your opponent first.[X]
+
+MLM_PRACTICE
+Practice[X]
+
+MLM_RECORD
+Battle Data[X]
+
+MLM_TROOP
+Squads[X]
+
+MLM_WIFIFRIEND
+Play a Friend[X]
+
+MLM_WIFIWORLD
+Play Anyone[X]
+
+MLM_WIRELESS
+Play Wirelessly[X]
+
+MMMH_ROOKIE
+Fallen allies in battle return in the next
+chapter. This mode is for casual players.
+(This selection does not affect story.)[X]
+
+MMMH_STANDARD
+Fallen allies are permanently lost. This
+mode is the standard series experience.
+(This selection does not affect story.)[X]
+
+MMMH_STANDARD_DISABLE
+This mode cannot be selected yet.
+To unlock it, you must defeat
+Mediuth in Lunatic Classic mode.[X]
+
+MNT_INITIALIZE
+All save data has been erased.[X]
+
+MNT_INITIALIZING
+Save data is being erased.
+Do not touch the Game Card
+or the Power Button.[X]
+
+MRMH_DOWNLOAD
+Retrieve units your friends have loaned you
+from the game server.[X]
+
+MRMH_RECBASE_F
+Watch base conversations as a female.[X]
+
+MRMH_RECBASE_M
+Watch base conversations as a male.[X]
+
+MRMH_RECMAIN_F
+Watch scenes from the game as a female.[X]
+
+MRMH_RECMAIN_M
+Watch scenes from the game as a male.[X]
+
+MRMH_RENATL
+Select loan units you have downloaded from
+friends to use in your own save data.[X]
+
+MRMH_UPLOAD
+Store units you want to loan to friends on
+the game server.[X]
+
+MRMH_WIFIFRIEND
+Connect to a friend over Nintendo WFC
+to borrow and loan units directly.[X]
+
+MRMH_WIRELESS
+Connect two DS systems wirelessly to borrow
+and loan units directly.[X]
+
+MRM_DOWNLOAD
+Download[X]
+
+MRM_RENATL
+Use Loans[X]
+
+MRM_UPLOAD
+Upload[X]
+
+MRM_WIFIFRIEND
+Connect[X]
+
+MRM_WIRELESS
+Connect[X]
+
+MTMH_MAP
+Please select a map to play.[X]
+

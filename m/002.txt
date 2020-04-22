@@ -1,0 +1,149 @@
+MS002_OP0
+[X]
+
+MS002_OP0_A
+[X]
+
+MS002_OP0_B
+[X]
+
+MS002_OP0_C
+[X]
+
+MTUTS_FE24
+[X]
+
+MS002_OP1
+[TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=KATUA][LoadBackground=BBG18][TargetLeft][FaceCommand=0x73]Prince Marth[FreezeMouth]!![UnfreezeMouth][Pause=3]
+Thank goodness you've come to Macedonia![A][ClearBox][TargetRight]Katua[FreezeMouth]?![UnfreezeMouth][Pause=3]
+I received word that there was a rebellion
+in Macedonia. Are you unharmed?[A][ClearBox][TargetLeft][FaceCommand=0x61]Yes, I'm fine. My older sister Paola and I
+managed to escape somehow.[A][ClearBox]But Princess Minerva was captured by
+the rebels[FreezeMouth].[UnfreezeMouth][A][ClearBox]Prince Marth, please...
+You have to rescue Princess Minerva[FreezeMouth]![UnfreezeMouth][Pause=3]
+At this rate, her life will be in danger[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Of course I will help her.[Pause=3]
+Katua, please take us to where she is.[A][ClearBox][TargetLeft][FaceCommand=0x73]Yes, my lord[FreezeMouth]![UnfreezeMouth][A][ClearBox][FaceCommand=0x61]But first we have to break through these
+woods[FreezeMouth].[UnfreezeMouth][A][ClearBox]General Rumel's dragon knight squad is
+lurking within this area.[A][ClearBox]If we approach from the front,
+we'll be easy pickings for them.[A][ClearBox][TargetRight][FaceCommand=0x61]I see[FreezeMouth]...[UnfreezeMouth] So you're suggesting we flank them
+from the left or the right.[A][ClearBox]Thank you, Katua.[Pause=3]
+Leave it to us[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS002_H1
+[TargetCenter][LoadPortrait=MAN2][LoadBackground=BBG25]Warren's a bit of an idiot.
+Just 'cause they payed him well, he went
+ahead and joined the rebel army![A][ClearBox]Ahh, to think a fool like him was once
+acquainted with the fair Katua[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS002_H2
+[TargetCenter][LoadPortrait=LADY][LoadBackground=BBG25]
+Look out for those pilfering thieves.[Pause=3]
+If they take off with your precious treasure,
+you won't ever get it back.[A][ClearBox]Never let them escape from your sight.[A][ClearBox][X]
+
+MS002_H3
+[TargetCenter][LoadPortrait=OLDMAN][LoadBackground=BBG25]Because of the last war, every nation has
+been forced to lead hard lives.[A][ClearBox]The only well-off country is Akaneia,
+ruled by Emperor Hardin.[A][ClearBox][X]
+
+MS002_H4
+[TargetCenter][LoadPortrait=OLDMAN][LoadBackground=BBG25]Some dirty thieves took our village treasure,
+the Lady Sword, and ran off with it.[A][ClearBox]Only women can wield the incredible power
+of that sword.[A][ClearBox]Please, prise it back from their filthy hands.[A][ClearBox][X]
+
+MS002_H5
+[TargetCenter][LoadPortrait=MAN1][LoadBackground=BBG25]Beware when dragon knights are around.[Pause=3]
+Even from a far-off distance, they can
+move all at once and swoop down on you[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS002_TK1
+[TargetRight][LoadPortrait=KATUA][TargetLeft][LoadPortrait=WOLLEN][LoadBackground=][TargetRight]Warren[FreezeMouth]?![UnfreezeMouth][Pause=3]
+Even a good man like you has sided with
+the rebel army[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Katua the White, huh?
+It's been a while.[A][ClearBox]You know I'm just a common hunter.[Pause=3]
+If they pay me enough, I'll do anything.[A][ClearBox][TargetRight]Warren, listen to me[FreezeMouth]![UnfreezeMouth][A][ClearBox]Princess Minerva endeavored to create a
+country where its people could live at ease.[A][ClearBox]She exiled soldiers and generals of ill repute
+to accomplish that goal.[A][ClearBox]But General Ryuke, despite knowing this,
+roused the soldiers into a coup d'etat.[A][ClearBox]Can't you see? He's just trying to make this
+country into his own![A][ClearBox]And you can honestly say you're okay with
+that?[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]I see.[Pause=3]
+Well, I don't like the military acting as if they
+owned the place[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Alright then.
+If you're going to help the princess,
+then so will I.[A][ClearBox][X]
+
+MS002_VIL1
+[TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=MAJI][LoadBackground=BBG26]O'er here[FreezeMouth]![UnfreezeMouth] Prince Marth[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]You're[FreezeMouth]...[UnfreezeMouth] Maji[FreezeMouth]![UnfreezeMouth] [Pause=3]
+What are you doing so far from Talis?[A][ClearBox][TargetLeft]I couldn't sit still when I heard you's
+fighting again, so I came to join in.[A][ClearBox]We're Talis's mercenaries, right?[Pause=3]
+If ya died, Princess Sheeda'd cry.[A][ClearBox]Prince Marth, lemme fight too.[Pause=3]
+I'll join you's army.[A][ClearBox][X]
+
+MS002_BT_BOSS
+[TargetLeft][LoadPortrait=LUMEL][LoadBackground=]Taste the terror of Macedonia's fearless
+dragon knight squad[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS002_BT_WOLEN
+[TargetLeft][LoadPortrait=WOLLEN][LoadBackground=]No hard feelings.[Pause=3]
+I don't have anything against you,
+but this is the way I live. Forgive me[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS002_DIE_BOSS
+[TargetLeft][LoadPortrait=LUMEL][LoadBackground=]General Ryuke, I leave the rest to you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS002_DIE_WOLEN
+[TargetLeft][LoadPortrait=WOLLEN][LoadBackground=]Damn it[FreezeMouth]...[UnfreezeMouth]
+I should've seen this coming[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS002_ED1_PCF1
+[TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG04][TargetRight][LoadPortrait=MARS][TargetLeft]Sire,[Pause=3] we found someone most unusual confined
+in one of the fortress rooms.[A][ClearBox][TargetLeft][LoadPortrait=RINDA][TargetRight]Hm?[Pause=3] [FreezeMouth]...[UnfreezeMouth]Linda[FreezeMouth]![UnfreezeMouth][Pause=3]
+How did you wind up in a dangerous place
+like this?[A][ClearBox][TargetLeft][FaceCommand=0x73]Prince Marth[FreezeMouth]![UnfreezeMouth][Pause=3] Thank heavens.[Pause=3]
+What a pleasant surprise meeting you here.[A][ClearBox][FaceCommand=0x61]I desperately needed to see you again,
+so I set out to find you.[A][ClearBox]But the Macedonian soldiers found me
+suspicious and they dragged me to this
+fortress[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Is that so?
+I'm glad you're safe.[Pause=3]
+But, why were you looking for me?[A][ClearBox]Shouldn't you be by Princess Nina's side?[A][ClearBox][TargetLeft][FaceCommand=0x61]I was requested by Princess Nina to deliver
+you this.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS002_ED1_PCM1
+[TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG04][TargetRight][LoadPortrait=MARS][TargetLeft]Sire,[Pause=3] we found someone most unusual confined
+in one of the fortress rooms.[A][ClearBox][TargetLeft][LoadPortrait=RINDA][TargetRight]Hm?[Pause=3] [FreezeMouth]...[UnfreezeMouth]Linda[FreezeMouth]![UnfreezeMouth][Pause=3]
+How did you wind up in a dangerous place
+like this?[A][ClearBox][TargetLeft][FaceCommand=0x73]Prince Marth[FreezeMouth]![UnfreezeMouth][Pause=3] Thank heavens.[Pause=3]
+What a pleasant surprise meeting you here.[A][ClearBox][FaceCommand=0x61]I desperately needed to see you again,
+so I set out to find you.[A][ClearBox]But the Macedonian soldiers found me
+suspicious and they dragged me to this
+fortress[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Is that so?
+I'm glad you're safe.[Pause=3]Coming here by yourself
+was a dangerous thing to do.[A][ClearBox]But, why were you looking for me?
+Shouldn't you be by Princess Nina's side?[A][ClearBox][TargetLeft][FaceCommand=0x61]I was requested by Princess Nina to deliver
+you this.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS002_ED1_02_PCF1
+[TargetRight][FaceCommand=0x61]Huh?
+This[FreezeMouth]...![UnfreezeMouth][Pause=3]
+This is the Fire Emblem[FreezeMouth]![UnfreezeMouth][A][ClearBox]The royal heirloom of Akaneia:
+the Emblem Shield[FreezeMouth]![UnfreezeMouth][A][ClearBox]But why give this to me now?[A][ClearBox]Especially at a time when Akaneia has so
+much influence under Emperor Hardin's reign[FreezeMouth]?[UnfreezeMouth][A][ClearBox]In this peaceful age, why is Princess Nina
+giving me the "Champion's Proof"[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]I don't understand either.[Pause=3]
+Princess Nina didn't explain why,
+just that I had to give it to you[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I remember her eyes seemed so sad[FreezeMouth]...[UnfreezeMouth]
+I think she may have been crying[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Princess Nina crying[FreezeMouth]?![UnfreezeMouth][Pause=3]
+What on earth has been happening[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]Linda, after this battle ends,
+I will go see Princess Nina.[A][ClearBox]Until then, I want you to remain with us.[A][ClearBox][TargetLeft][FaceCommand=0x73]Yes,[Pause=3] Prince Marth[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+
+MS002_ED1_02_PCM1
+[TargetRight][FaceCommand=0x61]Huh?
+This[FreezeMouth]...![UnfreezeMouth][Pause=3]
+This is the Fire Emblem[FreezeMouth]![UnfreezeMouth][A][ClearBox]The royal heirloom of Akaneia:
+the Emblem Shield[FreezeMouth]![UnfreezeMouth][A][ClearBox]But why give this to me now?[A][ClearBox]Especially at a time when Akaneia has so
+much influence under Emperor Hardin's reign[FreezeMouth]?[UnfreezeMouth][A][ClearBox]In this peaceful age, why is Princess Nina
+giving me the "Champion's Proof"[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]I don't understand either.[Pause=3]
+Princess Nina didn't explain why,
+just that I had to give it to you[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I remember her eyes seemed so sad[FreezeMouth]...[UnfreezeMouth]
+I think she may have been crying[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Princess Nina crying[FreezeMouth]?![UnfreezeMouth][Pause=3]
+What on earth has been happening[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]Linda, after this battle ends,
+I will go see Princess Nina.[A][ClearBox]Until then, I want you to remain with us.[A][ClearBox][TargetLeft][FaceCommand=0x73]Yes,[Pause=3] Prince Marth[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]

@@ -1,0 +1,181 @@
+MSDL003_OP1
+[Unknown0x12]3[LoadBackground=BS_bg]After the War of Darkness[FreezeMouth]...[UnfreezeMouth][Pause=3] Princess Sheeda
+of Talis was engaged to Prince Marth of
+Aritia,[A][ClearBox]and all of Talis cheered for them.[A][ClearBox]However, as if seizing this opportunity[FreezeMouth]...[UnfreezeMouth]
+the nearby clans suddenly revolted against
+Talis.[A][ClearBox]Princess Sheeda, who had only brought a
+few bodyguards into town, was dragged
+into battle, her whereabouts unknown[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Oguma, captain of Talis's hired swords,
+took his subordinates with him and set out
+immediately to rescue Sheeda.[A][ClearBox][Fade=80][Unknown0x12]3[X]
+
+MSDL003_OP2
+[TargetLeft][LoadPortrait=SAJI][TargetRight][LoadPortrait=MAJI][LoadBackground=BBG16][TargetLeft]Damn, these guys are good.[Pause=3]
+I hate to admit it, but we jus' can't handle
+them by ourselves[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]We'll just have to stomach the pain.[Pause=3]
+If we can hold them until Captain Oguma
+comes, everything'll be dandy.[A][ClearBox][TargetLeft]Yeah, but where is Captain?[Pause=3]
+Wasn't he supposed to be here already?[A][ClearBox][TargetRight]I ain't got a clue[FreezeMouth]![UnfreezeMouth][Pause=3]
+I don't think there's anyone strong enough
+to stop the captain, except maybe[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSDL003_OP3
+[TargetRight][LoadPortrait=NABARL][TargetLeft][LoadPortrait=OGUMA][LoadBackground=BBG16][TargetLeft]Navarre[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]So you're back to your old self, working for
+cutthroats[FreezeMouth]...[UnfreezeMouth][Pause=3] I'm disappointed.[A][ClearBox]I thought you had changed after working
+under Prince Marth, but it seems I expected
+too much from you.[A][ClearBox]Swinging your sword without purpose[FreezeMouth]...[UnfreezeMouth]
+You're worse than an animal.[A][ClearBox][TargetRight]What if I said[FreezeMouth]...[UnfreezeMouth]
+[FreezeMouth]...[UnfreezeMouth]You're my purpose?[A][ClearBox][TargetLeft]Say that again?[A][ClearBox][TargetRight]I haven't crossed swords with you since the
+previous war.[A][ClearBox]Our score[FreezeMouth]...[UnfreezeMouth] isn't settled yet.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Our score?[A][ClearBox]And for that reason alone[FreezeMouth]...[UnfreezeMouth]
+You're happy to assist these monsters?[Pause=3]
+Come on, give me a break[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]What's so funny?[A][ClearBox][TargetRight]Stop pretending you're a decent human being.[A][ClearBox]Stop denying yourself[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You're just like me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+And that won't ever change.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][A][ClearBox]Sorry, but[FreezeMouth]...[UnfreezeMouth] I'm different from you.[Pause=3]
+I fight for the princess: that's my purpose.[A][ClearBox][TargetRight][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]Enough talk.[Pause=3]
+Draw your sword.[A][ClearBox]If you're different from me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Then you shall die here.[A][ClearBox][X]
+
+MSDL003_TK1
+[TargetRight][LoadPortrait=SHEEDA][TargetLeft][LoadPortrait=NABARL][LoadBackground=][TargetRight]Wait, Navarre[FreezeMouth]![UnfreezeMouth][Pause=3]
+Halt your blade[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]
+You again?[Pause=3]
+Begone from my sight.[A][ClearBox][TargetRight]No[FreezeMouth]![UnfreezeMouth][Pause=3]
+I won't let you kill Oguma![Pause=3]
+No matter how you might try to stop me[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Then stop me with your blade.[A][ClearBox][TargetRight]No[FreezeMouth]![UnfreezeMouth][Pause=3]
+Navarre[FreezeMouth]... [UnfreezeMouth]I won't kill you, either[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I don't want to see you die.[A][ClearBox]Both you and Oguma[FreezeMouth]...[UnfreezeMouth][Pause=3] are my comrades![Pause=3]
+And I won't allow my comrades to die[FreezeMouth]![UnfreezeMouth][A][ClearBox]If you must fight Oguma[FreezeMouth]...[UnfreezeMouth]
+Then turn your blade on me first[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetRight]Navarre[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Nay.[A][ClearBox]My blade isn't rotten enough to inflict harm
+upon a woman.[Pause=3] Do as you wish.[A][ClearBox][TargetRight][FaceCommand=0x73]Oh, thank you[FreezeMouth]... [UnfreezeMouth]Navarre[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Crazy woman[FreezeMouth]...[UnfreezeMouth][A][ClearBox]It seems neither he nor I can best you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSDL003_TK2
+[TargetRight][LoadPortrait=OGUMA][TargetLeft][LoadPortrait=MARIS][LoadBackground=][TargetLeft]Oh[FreezeMouth]![UnfreezeMouth][A][ClearBox]Hey[FreezeMouth]![UnfreezeMouth] Hey, you[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]What?[A][ClearBox][TargetLeft]That scar on your face[FreezeMouth]...[UnfreezeMouth]
+You're the mercenary Oguma[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Do you know me?[A][ClearBox][TargetLeft]That ain't all either[FreezeMouth]...[UnfreezeMouth]
+You saved me and Pops before, don't you
+remember?[A][ClearBox][FaceCommand=0x73]Y'know, we were collapsed and dying on the
+road, until you gave us food[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That brat was me.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Did I do that?[A][ClearBox]So, what are you going to do?[Pause=3]
+Duel with me?[A][ClearBox][TargetLeft][FaceCommand=0x61]Nah, I give in.[Pause=3]
+Count me on your side.[Pause=3]
+I wanna repay the favor.[A][ClearBox][FaceCommand=0x73]I'll go tell my Pops too, so I'm counting on ya.[A][ClearBox][X]
+
+MSDL003_TK3
+[TargetRight][LoadPortrait=MARIS][TargetLeft][LoadPortrait=DICE][LoadBackground=][TargetRight][FreezeMouth]...[UnfreezeMouth]So that's about the gist of it, Pops.[A][ClearBox][TargetLeft][FaceCommand=0x73]Ooh, how interesting.
+Fighting together with the mercenary Oguma
+would be an honor.[A][ClearBox][TargetRight]Yeah. Though we'll be working for free again.[Pause=3]
+Man, I need to do something to get gold for
+tomorrow's food[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Wahaha[FreezeMouth]![UnfreezeMouth]
+Is that what you're worried about?[A][ClearBox]If it's gold ya need, I'll go gamble and you'll
+have it in an instant[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]No, THAT's what I'm worried about.[A][ClearBox][X]
+
+MSDL003_EV1
+[TargetLeft][LoadPortrait=NORN][TargetRight][LoadPortrait=SHEEDA][LoadBackground=BBG16][TargetLeft]P-Princess Sheeda,[Pause=3] this place is swarmin' with
+enemies[FreezeMouth]...[UnfreezeMouth][Pause=3] Shall we retreat?[A][ClearBox][TargetRight]Wait, Norne.[Pause=3]
+I believe a battle is going on[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x73]Is that[FreezeMouth]...[UnfreezeMouth] Oguma[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Oguma came to save me![A][ClearBox]I have to go to him[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][TargetLeft]Oh, please wait! Princess[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MSDL003_BT_BOSS
+[TargetRight][LoadPortrait=OGUMA][LoadBackground=]Guh[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][TargetLeft][LoadPortrait=NABARL]You've grown weak[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Is it because the war ended[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Or is it because of that woman?[A][ClearBox]If I killed her[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Would you go back to being yourself?[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=OGUMA]You dastard[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][TargetLeft][LoadPortrait=NABARL]Fight me. Otherwise[FreezeMouth]... [UnfreezeMouth]die.[A][ClearBox][X]
+
+MSDL003_BT_DICE
+[TargetRight][LoadPortrait=DICE][LoadBackground=]I'm Dice the mercenary.[Pause=3]
+Here I come[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MSDL003_BT_MAJI
+[TargetRight][LoadPortrait=MAJI][LoadBackground=]I'm Maji, Captain Oguma's subordinate.[Pause=3]
+Say yer prayers[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MSDL003_BT_MARIS
+[TargetRight][LoadPortrait=MARIS][LoadBackground=]The name's Maris; Maris the mercenary.[Pause=3]
+Remember that[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MSDL003_BT_NABARL
+[TargetRight][LoadPortrait=NABARL][LoadBackground=][FreezeMouth]......[UnfreezeMouth][A][ClearBox][X]
+
+MSDL003_BT_NORN
+[TargetRight][LoadPortrait=NORN][LoadBackground=]I'll do my best to finish the task Prince
+Marth entrusted me[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MSDL003_BT_SAJI
+[TargetRight][LoadPortrait=SAJI][LoadBackground=]I'm Saji, Captain Oguma's subordinate.[Pause=3]
+Hope you're prepared[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MSDL003_BT_SHEEDA
+[TargetRight][LoadPortrait=SHEEDA][LoadBackground=]Out of my way[FreezeMouth]![UnfreezeMouth][Pause=3]
+I won't let you harm Oguma[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MSDL003_DIE_DICE
+[TargetRight][LoadPortrait=DICE][LoadBackground=]It seems I'm outta luck[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSDL003_DIE_MAJI
+[TargetRight][LoadPortrait=MAJI][LoadBackground=]Damn[FreezeMouth]![UnfreezeMouth][Pause=3]
+Captain[FreezeMouth]... [UnfreezeMouth]I'm sorry[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSDL003_DIE_MARIS
+[TargetRight][LoadPortrait=MARIS][LoadBackground=]Looks like I'm[FreezeMouth]...[UnfreezeMouth][Pause=3] still green[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSDL003_DIE_NABARL
+[TargetRight][LoadPortrait=NABARL][LoadBackground=][FreezeMouth]......[UnfreezeMouth][A][ClearBox][X]
+
+MSDL003_DIE_NORN
+[TargetRight][LoadPortrait=NORN][LoadBackground=]I must[FreezeMouth]...[UnfreezeMouth] protect Princess Sheeda[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSDL003_DIE_OGUMA
+[TargetRight][LoadPortrait=OGUMA][LoadBackground=]Damn it[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Princess[FreezeMouth]... [UnfreezeMouth]Sheeda[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSDL003_DIE_SAJI
+[TargetRight][LoadPortrait=SAJI][LoadBackground=]Guh[FreezeMouth]... [UnfreezeMouth]Sorry[FreezeMouth]... [UnfreezeMouth]Captain[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSDL003_DIE_SHEEDA
+[TargetRight][LoadPortrait=SHEEDA][LoadBackground=]Ah[FreezeMouth]... [UnfreezeMouth]Ugh[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox]I'll[FreezeMouth]... [UnfreezeMouth]retreat for now[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm sorry[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSDL003_ED1A
+[Fade=40][TargetLeft][LoadPortrait=SOLDIER_BLUE][TargetRight][LoadPortrait=OGUMA][LoadBackground=BBG16][TargetLeft]Captain Oguma, the remaining rebels have
+surrendered.[Pause=3] Victory is ours.[A][ClearBox][TargetRight]I see.[A][ClearBox][TargetLeft]The swordsman Navarre apparently
+vanished after the battle.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]I see. Good job.[Pause=3]
+Our mission is complete.[Pause=3]
+Let's escort the princess back to Talis.[A][ClearBox][Unknown0x4=F][Fade=40][X]
+
+MSDL003_ED1B
+[Fade=40][TargetLeft][LoadPortrait=SOLDIER_BLUE][TargetRight][LoadPortrait=OGUMA][LoadBackground=BBG16][TargetLeft]Captain Oguma, the remaining rebels have
+surrendered.[Pause=3] Victory is ours.[A][ClearBox][TargetRight]I see.[A][ClearBox][TargetLeft]About the swordsman Navarre[FreezeMouth]... [UnfreezeMouth][Pause=3]
+We still haven't located his body.[A][ClearBox]I would think no man could have survived
+those wounds, but[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]I see. Good job.[Pause=3]
+Our mission is complete.[Pause=3]
+Let's escort the princess back to Talis.[A][ClearBox][Unknown0x4=F][Fade=40][X]
+
+MSDL003_ED2
+[Fade=40][TargetRight][LoadPortrait=OGUMA][LoadBackground=BBG31][TargetRight][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=SHEEDA][TargetLeft]Hello, Oguma[FreezeMouth]... [UnfreezeMouth]are you well?[A][ClearBox][TargetRight][FaceCommand=0x73]Princess[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Of course. You needn't worry about my
+welfare.[A][ClearBox][TargetLeft][FaceCommand=0x73]I'm so glad.[Pause=3]
+[FaceCommand=0x61]You looked so intimidating[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]I did?[A][ClearBox][TargetLeft]Yes. Just like[FreezeMouth]... [UnfreezeMouth][Pause=3]the first time we met.[A][ClearBox]You were a frightening gladiator[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But your eyes were really sad[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth][A][ClearBox]Princess.[Pause=3]
+Please let me thank you.[A][ClearBox][TargetLeft]Thank[FreezeMouth]...[UnfreezeMouth] me[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight]A long time ago[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Before you saved me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I had nothing.[A][ClearBox]I had no purpose or meaning in life, so all I
+could do was continue to fight, as a
+gladiator[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I hated everything in this world, and had
+forsaken everything[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Oguma[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]But, I didn't die.[Pause=3]
+I had to keep fighting[FreezeMouth]...[UnfreezeMouth][A][ClearBox]In other words[FreezeMouth]...[UnfreezeMouth]
+I fought so I could continue to fight.[A][ClearBox]Fighting was everything for me.[Pause=3]
+My nature[FreezeMouth]... [UnfreezeMouth]is the same as Navarre's.[Pause=3]
+Deep inside, we're the same.[A][ClearBox]We aren't humans who can just bathe under
+the sun's light.[Pause=3] We're monsters bred for
+fighting[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Oguma[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]However[FreezeMouth]... [UnfreezeMouth]you saved me, Princess.[Pause=3]
+I received not only my life, but also
+something far more important from you.[A][ClearBox]And even after you leave for Aritia and wed
+Prince Marth[FreezeMouth]...[UnfreezeMouth][Pause=3] That won't ever change.[A][ClearBox]So, please let me thank you,[Pause=3] Princess[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Oguma[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I must thank you too, Oguma.[Pause=3]
+You've always stood by my side[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Even in the previous war.[Pause=3]
+You protected Marth for my sake[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x61][EyeCommand=ec]Even after I go to Aritia[FreezeMouth]...[UnfreezeMouth]
+You will[FreezeMouth]... [UnfreezeMouth]always[FreezeMouth]... [UnfreezeMouth]always be my[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Princess[FreezeMouth]...[UnfreezeMouth]
+Please don't cry.[Pause=3]
+Tears don't suit you.[A][ClearBox]From now on, you're going to live happily by
+Marth's side[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Oguma[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FreezeMouth]...[UnfreezeMouth]Thank you, Oguma[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Unknown0x4=F][Fade=40][X]
+
+
+[X]
+

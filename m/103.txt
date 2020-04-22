@@ -1,0 +1,114 @@
+MS103_PRE1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG34]Sire, we have detected an enemy presence
+in the mountains.[Pause=3] It seems there is a battle
+ongoing.[A][ClearBox][TargetRight]Alright.[Pause=3]
+Jeigan, [SpecialText0x14=0x39], let us hurry with our
+preparations[FreezeMouth]![UnfreezeMouth][A][ClearBox][Unknown0x4=F][X]
+
+MS103_EV1
+[TargetRight][LoadPortrait=RIFF][LoadBackground=BBG16]So I'm surrounded.[Pause=3]
+How sad, I guess this is the end of the road
+for me[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS103_OP1
+[SpecialText0x14][TargetRight][LoadPortrait=KATARINA][LoadBackground=BBG40][TargetLeft][LoadPortrait=KLEINE][FaceCommand=0x73]Alright, he's right where we want him.[Pause=3]
+Now to savor his pain as we slowly draw
+the life from his tormented soul[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Kleine[FreezeMouth]...[UnfreezeMouth]
+The Aritian army has arrived.[A][ClearBox][TargetLeft][FaceCommand=0x61]Tsk[FreezeMouth]! [UnfreezeMouth]What a nuisance.[Pause=3]
+Eine, I hate to admit it but you were right
+about this outcome.[A][ClearBox]Aritians never abandon their comrades...
+You sure learned a lot about that trash
+from your time staying with them.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]My job is [Pause=3]to kill, one by one, everyone who
+sided with Marth in the previous war.[A][ClearBox]Because if his allies live, they'll eventually
+join him, one after another.[Pause=3]
+And that would be dangerous.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth][Pause=3]
+Kleine, are you really up for the task?[A][ClearBox][TargetLeft]I don't need to get MY hands dirty, do I?[Pause=3]
+My underlings can get the job done.[Pause=3]
+We're hardly dealing with strong enemies.[A][ClearBox][TargetRight]You'll die if you underestimate [SpecialText0x14=0x39]
+and the others, [Pause=3]Kleine.[A][ClearBox]I served as [SpecialText0x14=0x39]'s tactician, but
+I wasn't much help as one; I didn't give
+them the advice a tactician should give.[A][ClearBox]Even without me, [SpecialText0x14=0x39] and the others
+are strong.[A][ClearBox][TargetLeft]What?
+Have you become attached to the Aritians
+after your little frolic with them?[A][ClearBox][FaceCommand=0x73]Then, just sit there and watch.[Pause=3]
+Watch hard and well as I kill your beloved
+companions.[A][ClearBox]Oh yes, and please... don't get in my way,
+okay?[A][ClearBox][X]
+
+MS103_EV2
+[TargetRight][LoadPortrait=KLEINE][LoadBackground=BBG40]Alright, I'm leaving the rest to you.[Pause=3]
+Others are coming to help you soon,
+so hurry and kill them already.[A][ClearBox]If by some chance those rats aren't dead
+when I return[FreezeMouth]...[UnfreezeMouth][Pause=3] I'll make sure YOU'RE dead,
+got it?[A][ClearBox][X]
+
+MS103_TK1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=][TargetLeft][LoadPortrait=RIFF][TargetLeft][FaceCommand=0x73]Oh, my savior [SpecialText0x14=0x39].[Pause=3]
+Thank you kindly for coming to my rescue.[A][ClearBox]I [Pause=3]cannot fight,[Pause=3] but I can heal your wounded.
+Take me with you and you'll be very glad
+you did.[A][X]
+
+MS103_BT_BOSS
+[LoadBackground=][TargetLeft][LoadPortrait=KLEINE]Wait[FreezeMouth]... [UnfreezeMouth]what?[Pause=3]
+Where did you lot come from[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][X]
+
+MS103_DIE_BOSS
+[LoadBackground=][TargetLeft][LoadPortrait=KLEINE][TargetLeft]Tsk[FreezeMouth]![UnfreezeMouth] This is bad[FreezeMouth]...[UnfreezeMouth][Pause=3]
+To think I'd run from the likes of you[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll remember this[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS103_ED1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG01][TargetLeft][LoadPortrait=PLAYER]Sire, are you unhurt?[A][ClearBox][TargetRight][FaceCommand=0x73]Yes, I'm alright.[Pause=3]
+Thank you [SpecialText0x14=0x39].[A][ClearBox][TargetLeft][LoadPortrait=JEIGUN][FaceCommand=0x61]We've repelled the assassins, but we cannot
+afford to linger here.[A][ClearBox][TargetRight][FaceCommand=0x61]I agree.[Pause=3]
+I'm worried about Oguma.[Pause=3]
+Let us hurry to Lord Wendel's place[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS103_ED1_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG01][TargetLeft][LoadPortrait=PLAYER]Sire, the battle is over.[A][ClearBox][TargetRight][FaceCommand=0x73]Thank you, [SpecialText0x14=0x39].[A][ClearBox][TargetLeft][LoadPortrait=JEIGUN][FaceCommand=0x61]We've repelled the assassins, but we cannot
+afford to linger here.[A][ClearBox][TargetRight][FaceCommand=0x61]I agree.[Pause=3]
+I'm worried about Oguma.[Pause=3]
+Let us hurry to Lord Wendel's place[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS103_ED2
+[SpecialText0x14][Fade=40][TargetRight][LoadPortrait=KATARINA][LoadBackground=BBG34][TargetLeft][LoadPortrait=KLEINE][TargetLeft][FreezeMouth]...[UnfreezeMouth]Hmm.
+The Aritians are better than I expected.[A][ClearBox]Oh well.[Pause=3]
+We can always snuff them out later.[Pause=3]
+I'll let them live for now.[A][ClearBox][TargetRight]I warned you.
+The Aritian army is strong[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Gosh, Eine.[Pause=3]
+You can be annoying sometimes.[Pause=3]
+Whose side are you supposed to be on[FreezeMouth]?[UnfreezeMouth][A][ClearBox]Don't tell me you're thinking of betraying
+Lady Eremiah?[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]No.[Pause=3]
+That thought could never cross my mind.[Pause=3]
+We all live for Lady Eremiah.[A][ClearBox]For her sake, I must defeat [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+I know that well enough.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS103_ED3
+[SpecialText0x14][Fade=40][TargetRight][LoadPortrait=PLAYER][FaceCommand=0x73][LoadBackground=BBG34][TargetLeft][LoadPortrait=RIFF][FaceCommand=0x73]Greetings, [SpecialText0x14=0x39], my friend.[Pause=3]
+It's been a while since we last had a decent
+conversation.[A][ClearBox][TargetRight]Yes.[Pause=3]
+Ever since the knight training, eh,
+Father Riff?[A][ClearBox][TargetLeft]Indeed, and you've become even stronger
+than you were then[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FreezeMouth]...[UnfreezeMouth]Oh, did your hair grow a little?[A][ClearBox][TargetRight][FaceCommand=0x61]Really?[Pause=3]
+Well, it is true I haven't had the time
+to take care of it since we left Aritia[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]
+You know, a haircut like mine is astonishingly
+easy to take care of.[A][ClearBox][TargetRight]I-I can imagine[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]
+If you so wish, I could shave your head,
+so it's like mine.[A][ClearBox][TargetRight]Eh?[A][ClearBox][TargetLeft]As I'm a monk, I'm quite used to shaving
+heads.[A][ClearBox]It's quite alright.[Pause=3] If you don't like it,
+you can just let your hair grow and
+have your previous haircut back.[A][ClearBox]What do you say?[Pause=3]
+Would you allow me to shave your head?[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS103_ED3_A
+[TargetRight]Yes, please.[A][ClearBox][TargetLeft]Very well.[Pause=3]
+Then, give me a moment to prepare.[A][ClearBox][Unknown0x4=F][FreezeMouth]...[UnfreezeMouth]Are you really sure?[A][ClearBox][TargetRight]Y-yes[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Then, please sit down.[Pause=3]
+Now, close your eyes[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=40][X]
+
+MS103_ED3_B
+[SpecialText0x14][TargetRight]I-I think I'll pass.[A][ClearBox][TargetLeft]I see.[Pause=3]
+It's a pity, but perhaps it's for the best.[A][ClearBox]In any case, [SpecialText0x14=0x39], I'm counting on you
+from now on.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+

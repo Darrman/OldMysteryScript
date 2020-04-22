@@ -1,0 +1,94 @@
+MŒP—ûê_BATTLE
+[ClearBox]Rules is easy: keep tradin' blows till one of
+ya drops, or press the B Button to yield.
+Don't get yerself killed, huh?[A][X]
+
+MŒP—ûê_BYE
+[ClearBox]So long, then.[A][X]
+
+MŒP—ûê_CHALLENGE
+Reckon you're up to the challenge?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MŒP—ûê_DRAW
+[EyeCommand=dl][EyeCommand=da][EyeCommand=ds][TargetCenter][LoadPortrait=ARENA][LoadBackground=BBG74]Looks like nobody wins.
+But everybody lives, and ain't that what
+counts?[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MŒP—ûê_DRAW_R
+[EyeCommand=dl][EyeCommand=da][EyeCommand=ds][TargetCenter][LoadPortrait=ARENA][LoadBackground=BBG74]Looks like nobody wins.
+But everybody lives, and ain't that what
+counts?[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MŒP—ûê_FORFEIT
+Guess I'll be pocketin' that fee.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MŒP—ûê_FORFEIT_END
+Guess I'll be pocketin' that fee.[A][X]
+
+MŒP—ûê_GETOUT
+[ClearBox]If you ain't payin', you ain't stayin'.
+Beat it.[A][X]
+
+MŒP—ûê_LOSE
+[EyeCommand=dl][EyeCommand=da][EyeCommand=ds][TargetCenter][LoadPortrait=ARENA][LoadBackground=BBG74]Agh, another 'un bites the dust...
+No profit in death, eh?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MŒP—ûê_LOSE_R
+[EyeCommand=dl][EyeCommand=da][EyeCommand=ds][TargetCenter][LoadPortrait=ARENA][LoadBackground=BBG74]Agh, another 'un injured...
+Let 'em rest for a while.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MŒP—ûê_NOWEAPON
+[ClearBox]Hey, idiot! How d'ya expect to
+fight without a weapon?[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MŒP—ûê_POOR
+[ClearBox]What, no gold?
+Then it's time you strolled.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MŒP—ûê_PRICE
+[SpecialText0x14][ClearBox]The fee's [SpecialText0x14=0x30] gold.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MŒP—ûê_RETRY
+[ClearBox]Feel like goin' another round?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MŒP—ûê_STOP
+[EyeCommand=dl][EyeCommand=da][EyeCommand=ds][TargetCenter][LoadPortrait=ARENA][LoadBackground=BBG74][ClearBox]What, givin' up already?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MŒP—ûê_WEAPONBREAK
+[ClearBox]Looks like yer weapon's broke. Too bad.
+Bring somethin' more durable next time.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MŒP—ûê_WELCOME
+[EyeCommand=dl][EyeCommand=da][EyeCommand=ds][TargetCenter][LoadPortrait=ARENA][FaceCommand=0x41][LoadBackground=BBG74]This 'ere's the drill grounds.
+You 'ere for some practice, mate?[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MŒP—ûê_WHO
+[ClearBox]Which one of ya needs some experience?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MŒP—ûê_WIN
+[EyeCommand=dl][EyeCommand=da][EyeCommand=ds][TargetCenter][LoadPortrait=ARENA][LoadBackground=BBG74]You're doin' pretty well, mate.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MŒP—ûê_¡‰ñ
+Now[X]
+
+MŒP—ûê_Å‚
+All[X]
+
+MŒP—ûê_˜AŸ”
+CEEEE[X]
+

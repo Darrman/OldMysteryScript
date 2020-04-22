@@ -1,0 +1,102 @@
+MS113_PRE1_PCF1
+[SpecialText0x14][Unknown0x12]2[TargetRight][LoadPortrait=MARS][LoadBackground=BBG33]The blizzard has gotten worse.[Pause=3]
+I can barely see anything in front of me[FreezeMouth]...[UnfreezeMouth][A][ClearBox][SpecialText0x14=0x39], I think I can see somebody ahead.[Pause=3]
+Is that[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=PLAYER]Ah[FreezeMouth]![UnfreezeMouth][Pause=3]
+Sire, please stay behind me.[A][ClearBox]I feel the presence of enemies[FreezeMouth].[UnfreezeMouth][Pause=3]
+Several are currently targeting us.[A][ClearBox][TargetRight][LoadPortrait=MARS][LoadBackground=BBG33]What[FreezeMouth]!?[UnfreezeMouth][Pause=3]
+But, we can't see anything like this.[Pause=3]
+How should we fight back[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]We've no choice but to directly engage the
+enemy.[Pause=3] It will probably be a dangerous battle,
+unlike any we've faced previously.[A][ClearBox][TargetRight]Indeed.[Pause=3]
+We should select those who'll fight with
+prudence[FreezeMouth].[UnfreezeMouth][A][ClearBox][Unknown0x4=F][X]
+
+MS113_PRE1_PCM1
+[SpecialText0x14][Unknown0x12]2[TargetRight][LoadPortrait=MARS][LoadBackground=BBG33]The blizzard has gotten worse.[Pause=3]
+I can barely see anything in front of me[FreezeMouth]...[UnfreezeMouth][A][ClearBox][SpecialText0x14=0x39], I think I can see somebody ahead.[Pause=3]
+Is that[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=PLAYER]Ah[FreezeMouth]![UnfreezeMouth][Pause=3]
+Sire, please stay behind me.[A][ClearBox]I feel the presence of enemies[FreezeMouth].[UnfreezeMouth][Pause=3]
+Several are currently targeting us.[A][ClearBox][TargetRight][LoadPortrait=MARS][LoadBackground=BBG33]What[FreezeMouth]!?[UnfreezeMouth][Pause=3]
+But, we can't see anything like this.[Pause=3]
+How should we fight back[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]We've no choice but to directly engage the
+enemy.[Pause=3] It will probably be a dangerous battle,
+unlike any we've faced previously.[A][ClearBox][TargetRight]Indeed.[Pause=3]
+We should select those who'll fight with
+prudence[FreezeMouth].[UnfreezeMouth][A][ClearBox][Unknown0x4=F][X]
+
+MS113_OP1
+[Unknown0x12]2[TargetLeft][LoadPortrait=ATHENA][LoadBackground=BBG33][TargetRight][LoadPortrait=MARS]Athena[FreezeMouth]![UnfreezeMouth][Pause=3]
+What brings you here[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][TargetLeft]Huff[FreezeMouth]... [UnfreezeMouth]huff[FreezeMouth]...[UnfreezeMouth][Pause=3]
+They are coming after you, Prince Marth.[Pause=3]
+Ve vanted to varn you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Ah[FreezeMouth]![UnfreezeMouth] I see.
+So you wanted to help me[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x73]Thank you, Athena.[Pause=3]
+It's fine now; I'll handle the rest.[Pause=3]
+We'll defeat the enemy[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS113_OP2
+[Unknown0x12]2[TargetLeft][LoadPortrait=KLEINE][LoadBackground=BBG19]That wench[FreezeMouth]... [UnfreezeMouth]How dare she get in our way.[Pause=3]
+If she hadn't spotted us, I could have shot
+the prince dead.[A][ClearBox]Tsk[FreezeMouth]! [UnfreezeMouth]Oh well.[Pause=3]
+As long as this blizzard carries on[FreezeMouth]...[UnfreezeMouth][Pause=3]
+This battle is mine.[A][ClearBox][FaceCommand=0x73]You can't see anything, can you?[Pause=3]
+But we can.[A][ClearBox]Now it's time for you to die, blind and
+blissfully ignorant.[A][ClearBox][X]
+
+MS113_BT_BOSS
+[TargetLeft][LoadPortrait=KLEINE][LoadBackground=][FaceCommand=0x73]You want to escape from this darkness?[Pause=3]
+I'm afraid I won't let you.[Pause=3]
+You won't see the sunlight ever again.[A][ClearBox][X]
+
+MS113_DIE_BOSS
+[TargetLeft][LoadPortrait=KLEINE][LoadBackground=]How[FreezeMouth]... [UnfreezeMouth]how dare you[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll[FreezeMouth]... [UnfreezeMouth]I'll kill[FreezeMouth]...[UnfreezeMouth][Pause=3] anybody in my way[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Just watch me[FreezeMouth]...[UnfreezeMouth]
+I'll kill[FreezeMouth]... [UnfreezeMouth]I'll kill you all[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS113_ED1
+[Unknown0x12]2[TargetRight][LoadPortrait=MARS][LoadBackground=BBG33][TargetLeft][LoadPortrait=PLAYER][TargetLeft]Sire, we have routed the enemy.[A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]We have accomplished our objective.
+There is no need to remain here.[Pause=3]
+Let us continue to the Ice Dragons' Temple.[A][ClearBox][TargetRight]Indeed.[Pause=3]
+The sooner we meet Lord Gato, the better.[Pause=3]
+Let's go.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS113_ED2
+[Unknown0x12]2[Fade=40][TargetRight][LoadPortrait=Y_KLEINE][EyeCommand=ec][LoadBackground=BBG19]Unh[FreezeMouth]... [UnfreezeMouth]Ugh[FreezeMouth]...[UnfreezeMouth]
+Lady[FreezeMouth]... [UnfreezeMouth]Eremiah[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I'm[FreezeMouth]... [UnfreezeMouth]alone[FreezeMouth]... [UnfreezeMouth]once again[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS113_ED2_01
+[TargetLeft][LoadPortrait=KATARINA]Kleine[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][EyeCommand=ed]E-Eine[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth]
+Why[FreezeMouth]... [UnfreezeMouth]are you here[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]Don't tell me[FreezeMouth]...[UnfreezeMouth]
+You came here to laugh at pathetic old me[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]Come on, hold on to me.
+Let's return to the hideout, together.[A][ClearBox][TargetRight]Wha[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]You can't walk around wounded like this.
+And you'll freeze to death if you don't find
+shelter soon.[A][ClearBox][TargetRight]Why[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]Why would you[FreezeMouth]...[UnfreezeMouth] go so far to help me[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox]I've always treated[FreezeMouth]...[UnfreezeMouth] you like dirt and yet
+you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Because you're my little sister.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Pfft.[A][ClearBox]You know I'm not your sister.
+We're both orphans, remember[FreezeMouth]...?[UnfreezeMouth]
+We've always been alone[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]But, we were raised together by Lady
+Eremiah[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x61]I don't mind if you hate me.
+But, I don't want to lose you[FreezeMouth]...[UnfreezeMouth][A][ClearBox]If I were to lose this one bond[FreezeMouth]...[UnfreezeMouth]
+I'd be alone in the dark, again[FreezeMouth]...[UnfreezeMouth]
+And the same goes for you[FreezeMouth].[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Eine[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Please, hold onto me.[A][ClearBox][TargetRight]B-bah[FreezeMouth]...[UnfreezeMouth][Pause=3]
+This will be the first and last time I'm gonna
+obey you, you hear me[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][Fade=40][X]
+
+MS113_ED3
+[Fade=40][TargetLeft][LoadPortrait=EREMIYA][EyeCommand=ec][LoadBackground=BBG66][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]Yes, I am aware of Aritia's actions.[A][ClearBox]We will begin the next phase of our plan.[Pause=3]
+Your wish is our command, Master Garnef[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x61]Lady Eremiah[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ed]Kleine failed, didn't she?[A][ClearBox][TargetRight]Y-yes[FreezeMouth]...[UnfreezeMouth][Pause=3]
+She's severely wounded[FreezeMouth]...[UnfreezeMouth][Pause=3]
+We need to have her treated[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Dispose of her.[A][ClearBox][TargetRight]B-but, Lady Eremiah[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]She's of no use to me wounded like this.[A][ClearBox]Just leave her and she'll die by herself.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS113_ED4
+[TargetLeft][LoadPortrait=Y_KLEINE][TargetRight][LoadPortrait=KATARINA][LoadBackground=BBG71][TargetLeft]What's with that face[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+It's natural[FreezeMouth]...[UnfreezeMouth][Pause=3] that I'd die if I failed[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I knew[FreezeMouth]...[UnfreezeMouth][Pause=3] this would happen[FreezeMouth]... [UnfreezeMouth]but, but[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Kleine[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Go away.[Pause=3]
+I don't want[FreezeMouth]...[UnfreezeMouth][Pause=3] you to see me like this.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Very well.[A][ClearBox][TargetRight][RemovePortrait][TargetLeft][EyeCommand=ec][FreezeMouth]......[UnfreezeMouth][A][ClearBox][EyeCommand=ed]Eine[FreezeMouth]... [UnfreezeMouth]Wait[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Don't go[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I changed my mind[FreezeMouth]... [UnfreezeMouth]stay with me.[Pause=3]
+I don't want[FreezeMouth]... [UnfreezeMouth]to be alone[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x73]Kleine[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I'm right here.[Pause=3]
+I'll always be by your side.[Pause=3]
+After all, I'm your big sister[FreezeMouth].[UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ec]Bah[FreezeMouth]![UnfreezeMouth]
+You have to be annoying, till the end[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FreezeMouth]...[UnfreezeMouth]Sis[FreezeMouth]... [UnfreezeMouth]ter[FreezeMouth]...[UnfreezeMouth]
+[FreezeMouth]...[UnfreezeMouth] [FreezeMouth]...[UnfreezeMouth]     [FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]Kleine[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+
+[X]
+

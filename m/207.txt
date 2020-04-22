@@ -1,0 +1,272 @@
+MS207_OP1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG02][TargetLeft][LoadPortrait=KAIN][FaceCommand=0x73][SpecialText0x14=0x39]'s 7th Platoon[FreezeMouth]![UnfreezeMouth][Pause=3]
+You have fought valiantly thus far.[Pause=3]
+It has been a joy being your instructor[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=JEIGUN][FaceCommand=0x61]Frey, Kain; I have heard reports from both
+of them.[Pause=3][A][ClearBox]Though your individual strengths vary,
+there exists no doubt of your excellence.[A][ClearBox]Thus, today we will hold your final practical
+exam.[A][ClearBox]Make sure that you are thoroughly prepared.[A][ClearBox][Fade=40][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MTUTS_ITEM
+[Fade=40][TargetLeft][LoadPortrait=FREY][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG02][TargetLeft]Following from the last lecture,
+I'll explain more about the preparations
+you should make before a battle.[A][ClearBox]Once you've selected who will march onto
+the battlefield,[Pause=3] it's never a bad idea 
+to check and manage your inventories.[A][ClearBox]By adequately organizing your party
+members' items,[Pause=3] their prowess on the
+battlefield will be much smoother.[A][TargetRight]Understood.[Pause=4]
+I'll try to organize everything according to
+the conditions.[A][Unknown0x4=F][X]
+
+MS207_OP1_01_H
+[Unknown0x4=F][X]
+
+MS207_OP1_01_N
+[X]
+
+MS207_OP2_A
+[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG20][TargetLeft][LoadPortrait=KAIN]The final preparations have been made[FreezeMouth]![UnfreezeMouth][Pause=3]
+We are now ready to begin[FreezeMouth]![UnfreezeMouth][Pause=3][A][ClearBox]Your opponent in the final exam shall be[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS207_OP2_02_A
+[TargetLeft][LoadPortrait=EST]Est, ex-Whitewing of Macedonia, at your
+service.[Pause=3] I won't go easy on you[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS207_OP2_B
+[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG20][TargetLeft][LoadPortrait=KAIN]The final preparations have been made[FreezeMouth]![UnfreezeMouth][Pause=3]
+We are now ready to begin[FreezeMouth]![UnfreezeMouth][Pause=3][A][ClearBox]Your opponent in the final exam shall be[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x73]Myself: Kain, knight of Aritia[FreezeMouth]![UnfreezeMouth][Pause=3]
+I'll show you the sort of battle that real
+knights face[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS207_EV1_A
+[LoadBackground=][TargetRight][LoadPortrait=EST]I can tell that you aspire to be something
+great.[Pause=3][A][ClearBox]But you'd better not think that your only
+enemies are those that you can see.[A][ClearBox][X]
+
+MS207_EV1_B
+[LoadBackground=][TargetLeft][LoadPortrait=KAIN][FaceCommand=0x73]You have come well prepared.[Pause=3]
+But you must be wary that the enemies
+you see are not always your only ones![A][ClearBox][X]
+
+MS207_EV2_A
+[LoadBackground=][TargetRight][LoadPortrait=EST]Now[FreezeMouth]![UnfreezeMouth][Pause=3]
+Reinforcements, attack[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS207_EV2_B
+[LoadBackground=][TargetLeft][LoadPortrait=KAIN]Now[FreezeMouth]![UnfreezeMouth][Pause=3]
+Reinforcements, attack[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS207_BT_BOSS_A
+[LoadBackground=][TargetLeft][LoadPortrait=EST]Here I come!
+I wonder, can you keep up with me?[A][ClearBox][X]
+
+MS207_BT_BOSS_B
+[LoadBackground=][TargetLeft][LoadPortrait=KAIN]Here we go[FreezeMouth]![UnfreezeMouth][Pause=3]
+Give it your all[FreezeMouth]![UnfreezeMouth][A][X]
+
+MS207_DIE_BOSS_A
+[LoadBackground=][TargetLeft][LoadPortrait=EST]So[FreezeMouth]...[UnfreezeMouth] so strong[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS207_DIE_BOSS_B
+[LoadBackground=][TargetLeft][LoadPortrait=KAIN][FaceCommand=0x73]Impressive[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS207_ED1_A
+[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG20][TargetLeft][LoadPortrait=EST][TargetLeft][FaceCommand=0x73]As I thought[FreezeMouth]...[UnfreezeMouth][Pause=3]
+It pains me to say this, but you were really
+strong.[Pause=3][A][ClearBox]I don't think you can call yourselves
+apprentices any more[FreezeMouth]![UnfreezeMouth][A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS207_ED1_B
+[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG20][TargetLeft][LoadPortrait=KAIN][FaceCommand=0x73]Congratulations, you won[FreezeMouth]![UnfreezeMouth][Pause=3]
+There is nothing more we can teach you.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS207_ED1_ADD
+[SpecialText0x14][TargetLeft][LoadPortrait=JEIGUN][FaceCommand=0x61]Hm.[A][ClearBox]Well then, [SpecialText0x14=0x39]'s 7th Platoon;[Pause=3]
+I will announce the results of the second half 
+of your training right here, right now.[A][ClearBox]As before, your score depends on the
+amount of companions who were forced
+to make an early exit.[A][ClearBox]Listen carefully.[A][ClearBox]Your performance has been[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS207_ED1_ADD_A
+[TargetLeft][FaceCommand=0x73]Most impressive[FreezeMouth]![UnfreezeMouth][Pause=3][A][ClearBox]Even amongst the past Aritian knights,
+there has not been a group with such
+high credentials as yours[FreezeMouth]![UnfreezeMouth][A][ClearBox][FaceCommand=0x61]Therefore[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS207_ED1_ADD_B
+[TargetLeft]Ahem, not bad![Pause=3]
+Compared to other aspiring knights in
+the past, you have done very well.[A][ClearBox]And so[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS207_ED1_ADD_C
+[TargetLeft]Hmm[FreezeMouth]...[UnfreezeMouth]
+This is extremely difficult for me to say.[Pause=3][A][ClearBox]You have many injured[FreezeMouth]...[UnfreezeMouth]
+But you deserve credit for winning all your
+battles until now.[A][ClearBox]Therefore[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS207_ED1_2_PCF1
+[SpecialText0x14][TargetLeft][SpecialText0x14=0x39]'s 7th Platoon, I have decided that
+you have passed your final test[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=LIAN][FaceCommand=0x73]We passed[FreezeMouth]...[UnfreezeMouth][Pause=3]
+So that means we're[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=ROOK][FaceCommand=0x73]Alright, we did it[FreezeMouth]![UnfreezeMouth][Pause=3]
+We can become knights[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=CECIL][FaceCommand=0x73]We did it.[Pause=3]
+After this, I'm going to buy myself
+a nice sword, and a hefty lance[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]Oooh, it's getting me excited just thinking
+about it![Pause=3] Heh heh heh heh[FreezeMouth]...[UnfreezeMouth]
+[A][ClearBox][TargetRight][LoadPortrait=RODY][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth]Cecil, you're scaring me.[Pause=3]
+But you're not alone in excitement.[Pause=3][A][ClearBox]My lifelong dream has at last been realized.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][TargetRight][LoadPortrait=PLAYER][TargetLeft][FaceCommand=0x73]Everyone looks so happy.[Pause=3]
+I guess it's because we're all to be knights![Pause=3]
+We really did it, [SpecialText0x14=0x39].[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS207_ED1_2_PCM1
+[SpecialText0x14][TargetLeft][SpecialText0x14=0x39]'s 7th Platoon, I have decided that
+you have passed your final test[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=LIAN][FaceCommand=0x73]We passed[FreezeMouth]...[UnfreezeMouth][Pause=3]
+So that means we're[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=ROOK][FaceCommand=0x73]Alright, we did it[FreezeMouth]![UnfreezeMouth][Pause=3]
+We can become knights[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=CECIL][FaceCommand=0x73]We did it.[Pause=3]
+After this, I'm going to buy myself
+a nice sword, and a hefty lance[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]Oooh, it's getting me excited just thinking
+about it![Pause=3] Heh heh heh heh[FreezeMouth]...[UnfreezeMouth]
+[A][ClearBox][TargetRight][LoadPortrait=RODY][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth]Cecil, you're scaring me.[Pause=3]
+But you're not alone in excitement.[Pause=3][A][ClearBox]My lifelong dream has at last been realized.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][TargetRight][LoadPortrait=PLAYER][TargetLeft][FaceCommand=0x73]Everyone looks so happy.[Pause=3]
+I guess it's because we're all to be knights![Pause=3]
+We really did it, [SpecialText0x14=0x39].[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS207_ED1_2_A_PCF1
+[TargetRight][FaceCommand=0x73]Yeah.
+It was my grandfather's and my own
+dearest wish to become an Aritian knight.[A][ClearBox]I can now work for Aritia and serve Prince
+Marth.[Pause=3] So I've all the reason to be happy.[A][ClearBox][TargetLeft][FaceCommand=0x73]Indeed.[Pause=3]
+I'm happy too[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS207_ED1_2_A_PCM1
+[TargetRight][FaceCommand=0x73]Yep.
+It was my grandfather's and my own
+dearest wish to become an Aritian knight.[A][ClearBox]I can now work for Aritia and serve Prince
+Marth.[Pause=3] So I've all the reason to be happy.[A][ClearBox][TargetLeft][FaceCommand=0x73]Indeed.[Pause=3]
+I'm happy too[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS207_ED2_PCF1
+[SpecialText0x14][Fade=40][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG72][TargetLeft][LoadPortrait=KATARINA][FreezeMouth]......[UnfreezeMouth][A][ClearBox]Ah, [SpecialText0x14=0x39].[Pause=3]
+What are you doing up so late at night?[A][ClearBox][TargetRight]I can't seem to sleep.[Pause=3]
+What about you, Katarina?[A][ClearBox][TargetLeft]I[FreezeMouth]...[UnfreezeMouth] well[FreezeMouth]...[UnfreezeMouth][Pause=3]
+There's a lot on my mind, I suppose.[A][ClearBox][FreezeMouth]...[UnfreezeMouth][SpecialText0x14=0x39],[Pause=3] have I ever told you about the
+town I was born in?[A][ClearBox][TargetRight]Now that you mention it, you've never
+told me anything about your hometown.[Pause=3]
+It wasn't Aritia?[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS207_ED2_PCM1
+[SpecialText0x14][Fade=40][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG72][TargetLeft][LoadPortrait=KATARINA][FreezeMouth]......[UnfreezeMouth][A][ClearBox]Ah, [SpecialText0x14=0x39].[Pause=3]
+What are you doing up so late at night?[A][ClearBox][TargetRight]I can't seem to sleep.[Pause=3]
+What about you, Katarina?[A][ClearBox][TargetLeft]I[FreezeMouth]...[UnfreezeMouth] well[FreezeMouth]...[UnfreezeMouth][Pause=3]
+There's a lot on my mind, I suppose.[A][ClearBox][FreezeMouth]...[UnfreezeMouth][SpecialText0x14=0x39],[Pause=3] have I ever told you about the
+town I was born in?[A][ClearBox][TargetRight]Now that you mention it, you've never
+told me anything about your hometown.[Pause=3]
+It wasn't Aritia?[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS207_ED2_01_PCF1
+[SpecialText0x14][TargetLeft]I was born in a town called Knorda.[Pause=3]
+Have you ever heard of it?[Pause=3]
+I[FreezeMouth]...[UnfreezeMouth] know it all too well.[A][ClearBox]In Knorda, I was treated like an animal,
+beaten for fun.[A][ClearBox][EyeCommand=ec]Whenever I couldn't stand the pain,
+I'd just close my eyes and think of nothing,
+taking refuge within my heart's confines[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Katarina[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73][EyeCommand=ed][FreezeMouth]...[UnfreezeMouth]But someone was there to save me.[A][ClearBox]She showed me the meaning of life.[Pause=3]
+I felt that I would do anything for her.[A][ClearBox][SpecialText0x14=0x39], do you have someone like that in
+your life?[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS207_ED2_01_PCM1
+[SpecialText0x14][TargetLeft]I was born in a town called Knorda.[Pause=3]
+Have you ever heard of it?[Pause=3]
+I[FreezeMouth]...[UnfreezeMouth] know it all too well.[A][ClearBox]In Knorda, I was treated like an animal,
+beaten for fun.[A][ClearBox][EyeCommand=ec]Whenever I couldn't stand the pain,
+I'd just close my eyes and think of nothing,
+taking refuge within my heart's confines[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Katarina[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73][EyeCommand=ed][FreezeMouth]...[UnfreezeMouth]But someone was there to save me.[A][ClearBox]She showed me the meaning of life.[Pause=3]
+I felt that I would do anything for her.[A][ClearBox][SpecialText0x14=0x39], do you have someone like that in
+your life?[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS207_ED2_A_PCF1
+[SpecialText0x14][TargetRight][FaceCommand=0x73]Yes.[Pause=3]
+To remain loyal to a lord:
+that's the sort of knight I aim to be.[A][ClearBox][TargetLeft][FaceCommand=0x73]Yes, that's right.[Pause=3]
+You're also doing it for someone else[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Not long now, is it[FreezeMouth]...?[UnfreezeMouth][Pause=3][A][ClearBox]It won't be long until we become Aritian knights.[Pause=3]
+When that happens[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FreezeMouth].........[UnfreezeMouth][A][ClearBox]Good night, [SpecialText0x14=0x39].[A][ClearBox][Fade=40][X]
+
+MS207_ED2_A_PCM1
+[SpecialText0x14][TargetRight][FaceCommand=0x73]Yes.[Pause=3]
+To remain loyal to a lord:
+that's the sort of knight I aim to be.[A][ClearBox][TargetLeft][FaceCommand=0x73]Yes, that's right.[Pause=3]
+You're also doing it for someone else[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Not long now, is it[FreezeMouth]...?[UnfreezeMouth][Pause=3][A][ClearBox]It won't be long until we become Aritian knights.[Pause=3]
+When that happens[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FreezeMouth].........[UnfreezeMouth][A][ClearBox]Good night, [SpecialText0x14=0x39].[A][ClearBox][Fade=40][X]
+
+MS207_ED2_B_PCF1
+[SpecialText0x14][TargetRight]I'm sorry.[Pause=3]
+I[FreezeMouth]...[UnfreezeMouth][Pause=3] still don't understand.[A][ClearBox][TargetLeft][FaceCommand=0x73]I see.[Pause=3]
+Ahaha[FreezeMouth]...[UnfreezeMouth]I'm being a little weird, aren't I?[A][ClearBox][SpecialText0x14=0x39], I want you to understand my feelings[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Oh, look at me, talking so much.[A][ClearBox]Not long now, is it[FreezeMouth]...?[UnfreezeMouth][Pause=3][A][ClearBox]
+It won't be long until we become
+Aritian knights.[Pause=3]
+When that happens[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FreezeMouth].........[UnfreezeMouth][A][ClearBox]Good night, [SpecialText0x14=0x39].[A][ClearBox][Fade=40][X]
+
+MS207_ED2_B_PCM1
+[SpecialText0x14][TargetRight]I'm sorry.[Pause=3]
+I[FreezeMouth]...[UnfreezeMouth][Pause=3] still don't understand.[A][ClearBox][TargetLeft][FaceCommand=0x73]I see.[Pause=3]
+Ahaha[FreezeMouth]...[UnfreezeMouth]I'm being a little weird, aren't I?[A][ClearBox][SpecialText0x14=0x39], I want you to understand my feelings[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Oh, look at me, talking so much.[A][ClearBox]Not long now, is it[FreezeMouth]...?[UnfreezeMouth][Pause=3][A][ClearBox]
+It won't be long until we become
+Aritian knights.[Pause=3]
+When that happens[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FreezeMouth].........[UnfreezeMouth][A][ClearBox]Good night, [SpecialText0x14=0x39].[A][ClearBox][Fade=40][X]
+
+MS207_ED3_PCF1
+[SpecialText0x14][Fade=40][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG03][TargetRight]Well then, time to get some rest[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=KATARINA][TargetLeft][FaceCommand=0x73]U-um, [SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][Pause=3]
+I'm sorry, I forgot one thing[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Please take this, if you would.[A][ClearBox][TargetRight]What's this?[Pause=3]
+A headband?[A][ClearBox][TargetLeft]It's from Cecil.
+"Give this to the new platoon commander,"
+she said.[A][ClearBox]Supposedly if you wear this, you'll be more[FreezeMouth]...[UnfreezeMouth]
+"psyched".[Pause=3] Cecil really wants you to wear it.[A][ClearBox][TargetRight]So once I put this on, I'll have a hairstyle like
+Cecil's?[A][ClearBox]But will being like Cecil really suit me?[A][ClearBox][TargetLeft]I'm sure it would.[Pause=3]
+Oh, I know[FreezeMouth]![UnfreezeMouth]
+How about you just try it on?[A][ClearBox]If you try it and it feels a little strange,
+you can just go back to your original
+hairstyle.[A][ClearBox][TargetRight]Oh, good point[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Well, how about it?[Pause=3]
+Want to change your hairstyle?[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS207_ED3_PCM1
+[SpecialText0x14][Fade=40][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG03][TargetRight]Well then, time to catch some shut-eye[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=KATARINA][TargetLeft][FaceCommand=0x73]U-um, [SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][Pause=3]
+I'm sorry, I forgot one thing[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Please take this, if you would.[A][ClearBox][TargetRight]What's this?[Pause=3]
+A headband?[A][ClearBox][TargetLeft]It's from Cecil.
+"Give this to the new platoon commander,"
+she said.[A][ClearBox]Supposedly if you wear this, you'll be more[FreezeMouth]...[UnfreezeMouth]
+"psyched".[Pause=3] Cecil really wants you to wear it.[A][ClearBox][TargetRight]So once I put this on, I'll have a hairstyle like
+Cecil's?[A][ClearBox]But will being like Cecil really suit me?[A][ClearBox][TargetLeft]I'm sure it would.[Pause=3]
+Oh, I know[FreezeMouth]![UnfreezeMouth]
+How about you just try it on?[A][ClearBox]If you try it and it feels a little strange,
+you can just go back to your original
+hairstyle.[A][ClearBox][TargetRight]Oh, good point[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Well, how about it?[Pause=3]
+Want to change your hairstyle?[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS207_ED3_A_PCF1
+[SpecialText0x14][TargetRight][FaceCommand=0x73]Alright, let's give it a try.[Pause=3]
+It'll be fun becoming like Cecil.[A][ClearBox][TargetLeft]Wonderful!
+Cecil is sure to be stoked.[Pause=3][A][ClearBox]I look forward to seeing your new look.
+See you tomorrow then, [SpecialText0x14=0x39].[A][ClearBox][Fade=40][X]
+
+MS207_ED3_A_PCM1
+[SpecialText0x14][TargetRight][FaceCommand=0x73]Alright, let's give it a try.[Pause=3]
+I'll try arranging my hair so that it's like
+Cecil's.[A][ClearBox][TargetLeft]Wonderful!
+Cecil is sure to be happy with your decision.[Pause=3][A][ClearBox]I look forward to seeing your new look.
+See you tomorrow then, [SpecialText0x14=0x39].[A][ClearBox][Fade=40][X]
+
+MS207_ED3_B_PCF1
+[SpecialText0x14][TargetRight]No, let's stop here.[Pause=3]
+My hairstyle is fine as it is.[A][ClearBox][TargetLeft][FaceCommand=0x61]Oh, is that so? That's too bad.[Pause=3]
+I was looking forward to see your new look,
+too[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x73]Ah, I'll go return this then.[Pause=3]
+See you tomorrow, [SpecialText0x14=0x39].[A][ClearBox][Fade=40][X]
+
+MS207_ED3_B_PCM1
+[SpecialText0x14][TargetRight]No, I think I'm alright.[Pause=3]
+My hairstyle is fine as it is.[A][ClearBox][TargetLeft][FaceCommand=0x61]Oh, is that so? That's too bad.[Pause=3]
+I was looking forward to see your new look,
+too[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x73]Ah, I'll go return this then.[Pause=3]
+See you tomorrow, [SpecialText0x14=0x39].[A][ClearBox][Fade=40][X]
+

@@ -1,0 +1,281 @@
+MBTK_002_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]I have no love for General Lang and his
+extremely rude attitude, but we have a
+task we must complete.[A][ClearBox]I am sure you have things on your mind,
+but you must hold them in for now.[A][ClearBox]Our foremost objective is quell the rebellion
+in Macedonia and rescue Princess Minerva.[A][ClearBox]It pains me, but we had no choice but to
+leave the young prince and princess behind
+in Grunia.[A][ClearBox]However, should we successfully rescue
+Princess Minerva, Prince Marth could be
+in a position to obtain custody of them.[A][ClearBox]Before that, we have to crush the
+dragon knights in Macedonia's rebel army and
+cross the forest.[A][ClearBox][X]
+
+MBTK_003_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]We made it through the bordering forest.
+At last, it is time to quell the Macedonian
+rebellion and rescue Princess Minerva.[A][ClearBox]But that aside, I do wonder why Princess
+Nina entrusted Prince Marth with the Fire
+Emblem[FreezeMouth]...[UnfreezeMouth][A][ClearBox]The emblem is to be given to one who fights
+in the name of justice; in the name of
+House Akaneia.[A][ClearBox]Hardin should have delivered peace to
+Akaneia[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Appointing Lang as commander and now this
+drama? Just what has happened to Hardin?[A][ClearBox]Oh well.
+Prince Marth said he'd go see the princess
+once this battle is over.[A][ClearBox]Everything will become clear once the time
+comes.[Pause=3] But now, we must focus on quelling
+the rebellion in Macedonia.[A][ClearBox][X]
+
+MBTK_103_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]Apparently, the assassins who made an
+attempt on Prince Marth's life have
+appeared in the northern mountains.[A][ClearBox]There are rumors that they are targetting
+former comrades of ours, from the War of
+Shadows.[A][ClearBox]The prince has decided to pursue the enemy.
+Let us hurry the battle preparations.[A][ClearBox][X]
+
+MBTK_004_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]We have quelled the rebellion in Macedonia.[Pause=3]
+However, Princess Minerva, thought to be
+in the rebels' grasp, is elsewhere[FreezeMouth]...[UnfreezeMouth][A][ClearBox]If only we had met the princess, we might
+have been able to avoid confronting Lang
+like that[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I myself have no regrets.
+The question is how he's going to react.[Pause=3]
+I just hope he won't do anything bad[FreezeMouth]...[UnfreezeMouth][A][ClearBox]According to Lang, Sir Oguma took the prince
+and princess of Grunia and is going to meet
+Lord Wendel.[A][ClearBox]We, too, came here to join Sir Oguma, but
+this is pirate territory. We must proceed
+carefully.[A][ClearBox][X]
+
+MBTK_005_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]My greatest fear has been realized[FreezeMouth]...[UnfreezeMouth]
+Emperor Hardin of Akaneia planned to
+invade our kingdom from the very start.[A][ClearBox]If we consider the speed of this invasion,
+the Grunian expedition and the rebellion
+in Macedonia were no doubt traps.[A][ClearBox]Make no mistake of it:
+The Akaneian army is now our enemy.[A][ClearBox]We will be returning to Aritia.
+After going through the stronghold of Lang's
+occupation army, that is[FreezeMouth]...[UnfreezeMouth][A][ClearBox]We cannot let Lang be, especially after he
+ensnared our kingdom and tormented the
+people of Grunia.[A][ClearBox][X]
+
+MBTK_006_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]Grunia has been liberated.
+All that's left now is to seize Olbern Keep.[A][ClearBox]Therein lies Lang, oppressor of the people,
+the one who led General Lawrence to death,
+and kidnapper of the Grunian children[FreezeMouth]...[UnfreezeMouth][A][ClearBox]It's time for us to punish him for his sins.
+And then we shall return to Aritia, and
+reclaim our homeland from Akaneia.[A][ClearBox][X]
+
+MBTK_106_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]Apparently, a mercenary group is awaiting
+us at our destination.[A][ClearBox]However, we are the renowned and mighty
+Aritian army. There is no need for us to
+fear mere mercenaries.[A][ClearBox]We'll crush the enemy and return to Aritia
+as soon as possible.[A][ClearBox][X]
+
+MBTK_007_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]By our hands, Grunia has been liberated,
+and we are en route to our homeland[FreezeMouth]...[UnfreezeMouth]
+But first, we stop by the Raman Temple.[A][ClearBox]I believe you've already heard, but this was
+a request by Lord Wendel, who was held
+captive by the Akaneian army.[A][ClearBox]It's said that if even one of the five orbs
+were to be lost the world would fall into ruin,[A][ClearBox]and now the Star Orb has shattered into
+twelve pieces[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Prince Marth is going to help gather them.[A][ClearBox]I just wish the Raman Temple has what we
+desire[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_008_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]Never mind the orbs; the Raman Temple
+was devoid of anything.[A][ClearBox]And now, even though our homeland Aritia
+stands before our eyes, the Akaneian
+army pursues us from both directions.[A][ClearBox]It is a difficult situation, but we must escape
+this crisis somehow.[A][ClearBox][X]
+
+MBTK_009_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]After hearing that our homeland Aritia had
+been crushed by Akaneia, we rushed to its
+aid.[A][ClearBox]However, we were stopped in our tracks by
+Emperor Hardin of Akaneia and now we
+must run away from Aritia's direction.[A][ClearBox]This is just too much for these old bones to
+bear[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Hardin is protected by an arcane power[FreezeMouth]...[UnfreezeMouth]
+We won't be able to save our homeland
+if we don't do something about him.[A][ClearBox]Right now, we have no choice but to take
+refuge in Khadein and search for a method
+to defeat Hardin.[A][ClearBox][X]
+
+MBTK_010_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]Who would have thought that even Khadein
+would be our enemy?[A][ClearBox]I'm sure this revelation caused Prince Marth
+no small pain[FreezeMouth]...[UnfreezeMouth][A][ClearBox]What has the world come to?
+Not only does Hardin attack us, but even
+Khadein, our safest allies in this era.[A][ClearBox]Sir Marich, a close friend of the prince,
+is here in Khadein's sanctuary.[A][ClearBox]I am sure the truth will become clear once
+we're inside the building.[A][ClearBox][X]
+
+MBTK_110_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]According to reports, Sir Horace, a knight
+who was once our comrade, is in peril.[A][ClearBox]Sir Horace is an Akaneian knight, but he
+has sworn loyalty to Princess Nina, not to
+Emperor Hardin.[A][ClearBox]He said he wishes to join us again.
+We must rescue him without fail.[A][ClearBox][X]
+
+MBTK_011_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]We have said our goodbyes to Khadein,
+and are now about to challenge Anri's Way.[A][ClearBox]Do you remember what Lord Gato said?[A][ClearBox]We have to save Hardin, now a slave to the
+Dark Orb, if we hope to bring salvation to
+our homeland.[A][ClearBox]If we reach the Ice Dragons' Temple beyond
+Anri's Way, we'll obtain the Light Orb,[A][ClearBox]and then we'll be able to neutralize Hardin's
+Dark Orb[FreezeMouth]...[UnfreezeMouth][A][ClearBox]But to do that, we first have to cross the
+Desert of Death.[A][ClearBox][X]
+
+MBTK_012_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]Anri's Way is long and hard,[Pause=3] but we must
+reach the Ice Dragons' Temple in order to
+obtain the Light Orb.[A][ClearBox]The Light Orb is an absolute necessity
+if we wish to negate Hardin's Dark Orb[FreezeMouth]...[UnfreezeMouth][A][ClearBox]If we obtain it, the day of Aritia's liberation
+comes ever closer as well.[A][ClearBox]Chainy, whom you've just met, seems to be
+oddly knowledgeable about Anri's Way[FreezeMouth]...[UnfreezeMouth][Pause=3]
+A welcome companion on this harsh path.[A][ClearBox][X]
+
+MBTK_013_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]We've passed the Desert of Death and the
+Fire Dragons' Graveyard.[Pause=3] The last of
+Anri's Way leads to the Ice Dragons' Temple.[A][ClearBox]If we obtain the Light Orb from Lord
+Gato, we'll be able to combat the
+Dark Orb that controls Hardin.[A][ClearBox]And then, we might just be able to reclaim
+Aritia and save Hardin.[A][ClearBox][X]
+
+MBTK_113_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]A report has come in of a battle happening
+behind our army.[Pause=3] Be it barbarians or those
+assassins[FreezeMouth]...[UnfreezeMouth][A][ClearBox]As Prince Marth said, if our allies are
+fighting, we cannot leave them to their
+fates.[A][ClearBox]The battlefield is a blizzard.[Pause=3]
+You won't be able to see far, so be careful.[A][ClearBox][X]
+
+MBTK_014_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]Seeking the Light Orb, we passed the
+harsh Anri's Way[FreezeMouth]...[UnfreezeMouth] and now, finally, we
+stand before the Ice Dragons' Temple.[A][ClearBox]Lord Gato should be waiting for Prince
+Marth here.[A][ClearBox]But, the revelation about the Shield of Seals,
+which, with its five orbs, seals the earth
+dragons in its bind,[A][ClearBox]and that the seal would fragment should any
+of the orbs break[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I wonder if that's what Lord Wendel meant 
+when he said the world would fall into ruin
+if any of the orbs were lost?[A][ClearBox][X]
+
+MBTK_015_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]It was a arduous journey like no other,
+but we can wave farewell to Anri's Way.[A][ClearBox]At the Ice Dragons' Temple, Prince Marth
+obtained the Light Orb from Lord Gato.[A][ClearBox]With it, we can now challenge Hardin and his
+Dark Orb.[Pause=3] And now is the time for us to
+reclaim our homeland.[A][ClearBox][X]
+
+MBTK_016_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]Aritia is under our control once more.
+But a lot of things have happened between
+then and now[FreezeMouth]...[UnfreezeMouth][A][ClearBox]We swore to take back our homeland from
+Akaneia, but couldn't return right away[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Without a way to defeat Emperor Hardin,
+we had no choice but to flee to Khadein[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Seeking the Light Orb, we travelled
+through Anri's Way to obtain it from
+Lord Gato in the Ice Dragons' Temple[FreezeMouth]...[UnfreezeMouth][A][ClearBox]And then, finally, we returned to Aritia.[A][ClearBox]The time to fulfill our oath draws near.
+All that's left is to recapture Aritia Castle.[A][ClearBox][X]
+
+MBTK_116_OUTLINE
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]Another attack from those assassins[FreezeMouth]...[UnfreezeMouth]
+We've finally reclaimed our homeland,
+yet we don't get even a moment of rest.[A][ClearBox]But, being attacked by assassins in Aritia[FreezeMouth]...[UnfreezeMouth]
+It reminds me of your knighthood ceremony.[A][ClearBox]You and that assassin, Katarina, spent your
+days training in the same 7th Platoon[FreezeMouth]...[UnfreezeMouth][A][ClearBox]However, this is no time for sentimentality.[Pause=3]
+[SpecialText0x14=0x39], you are to protect Prince Marth,
+just like you did that day.[A][ClearBox][X]
+
+MBTK_017_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]We have reclaimed our homeland Aritia,
+and we're now going to have a decisive
+battle against Akaneia, our enemy.[A][ClearBox]We will head to Pales, the hub of
+Akaneia, to defeat Garnef, who
+kidnapped Princess Ellis,[A][ClearBox]and to liberate Emperor Hardin from the
+Dark Orb's control.[A][ClearBox]According to Lord Gato, Garnef is
+gathering high class clerics, Princess Ellis
+among them[FreezeMouth]...[UnfreezeMouth][A][ClearBox]His objectives are unknown, but we must free
+them quickly.[A][ClearBox]However, to reach Pales, we have to
+pass through the Kingdom of Gra, now
+Akaneia's pawn[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_018_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]Pales is almost within sight.[Pause=3]
+By crossing the mountains, we avoided
+pointless battles as much as we could.[A][ClearBox]We must defeat Garnef and rescue
+Princess Ellis and the other kidnapped
+clerics.[A][ClearBox]And we ought to do something about Hardin,
+who's now being controlled by the Dark Orb.[A][ClearBox][X]
+
+MBTK_019_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]We have come to Pales, the center of
+Akaneia, with three objectives in mind.[A][ClearBox]To save Hardin from the Dark Orb.
+Rescue the kidnapped clerics.
+And defeat Garnef, the Demon King.[A][ClearBox]It seems there was a rebellion in Pales
+not long ago. Citizens and knights rioted
+against Hardin's actions[FreezeMouth]...[UnfreezeMouth][A][ClearBox]However, they were defeated, and now
+await execution by Hardin.[A][ClearBox]Hardin has really changed[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Prince Marth came here wanting to save
+Hardin[FreezeMouth]...[UnfreezeMouth] But we might already be too late[FreezeMouth]...[UnfreezeMouth][A][ClearBox]No matter how many people would forgive
+Hardin, or how many people would want him
+to be freed from the Dark Orb[FreezeMouth]...[UnfreezeMouth][A][ClearBox]The cold, hard truth is that Hardin has
+stolen the lives of many innocents.[A][ClearBox]It is unbearable to remember that he was
+once our comrade[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_020_OUTLINE
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]We have seized control of Akaneia.
+Only Pales remains.[A][ClearBox]Emperor Hardin is likely waiting in his throne.[Pause=3]
+Now is the time for us to settle this.[A][ClearBox]Right now, there are many who wish for
+Prince Marth to defeat Hardin and liberate
+Akaneia.[A][ClearBox]But the prince seems bent on rescuing
+Hardin from the clutches of the Dark Orb.[A][ClearBox]And we still have to defeat Garnef and
+rescue the princess and the other clerics.[A][ClearBox]Many people are waiting for us.[Pause=3]
+[SpecialText0x14=0x39], I expect great things from you[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MBTK_120_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]One thing is apparently certain about this
+assassin organization...[A][ClearBox]They are Hardin's and Garnef's underlings.[A][ClearBox]These assassins have targeted Prince Marth
+time and time again, so we cannot let them be.[A][ClearBox]I'm sure you know this without me telling, but[FreezeMouth]...[UnfreezeMouth][Pause=3]
+We'll settle our score with these assassins
+here and now.[A][ClearBox][X]
+
+MBTK_021_OUTLINE
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]Emperor Hardin of Akaneia has fallen.
+The long war is now over.[A][ClearBox]However, the kidnapped clerics were illusions
+created by Garnef[FreezeMouth]...[UnfreezeMouth] We still don't know their
+true whereabouts.[A][ClearBox]But Lord Gato has indicated where we
+should head[SpecialSymbol=0x96]The Dragon's Altar, where the
+earth dragons slumber.[A][ClearBox]As you've no doubt heard, we must banish
+the earth dragons.[A][ClearBox]If the countless earth dragons awaken,
+we will witness hell on earth[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Fortunately, the Dark Orb completed the
+Shield of Seals,[Pause=3] so Prince Marth will without
+doubt seal those earth dragons.[A][ClearBox]Garnef should be in the Dragon's Altar,
+and with him the kidnapped clerics.
+We must head to the Dragon's Altar.[A][ClearBox][X]
+
+MBTK_022_OUTLINE
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]Who would have anticipated that Garnef
+would kidnap the clerics to try and revive
+Dark Dragon Mediuth[FreezeMouth]...[UnfreezeMouth][A][ClearBox]The clerics will be in danger if we delay[FreezeMouth]...[UnfreezeMouth]
+We have to stop Mediuth's revival.[A][ClearBox]Sorry for counting so much on you, [SpecialText0x14=0x39].[Pause=3]
+I have high hopes for your performance.[A][ClearBox][X]
+
+MBTK_023_OUTLINE
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]This Dragon's Altar is awash with a rather
+ominous presence.[A][ClearBox]Here, the Demon King Garnef is planning
+to revive the Dark Dragon Mediuth.[A][ClearBox]We must rescue the kidnapped clerics[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Let's hurry, [SpecialText0x14=0x39].[A][ClearBox][X]
+
+MBTK_024_OUTLINE
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]Garnef said something that makes me
+concerned[FreezeMouth]...[UnfreezeMouth][A][ClearBox]How the clerics are now sacrifices to the
+Dark Dragon[FreezeMouth]...[UnfreezeMouth] and that their souls have
+been shattered.[A][ClearBox]And just when we came all this way to save
+the clerics and put a stop to Mediuth's
+revival[FreezeMouth]...[UnfreezeMouth][A][ClearBox]But Prince Marth hasn't given up yet.[A][ClearBox][SpecialText0x14=0x39], you've helped us so much, from the
+first time you protected Prince Marth to now.[A][ClearBox]This will be our last battle.[Pause=3][A][ClearBox]No matter what happens, please support the
+prince[FreezeMouth]...[UnfreezeMouth] I'm counting on you.[A][ClearBox][X]
+

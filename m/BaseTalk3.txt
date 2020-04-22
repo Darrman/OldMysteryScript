@@ -1,0 +1,892 @@
+MBTK_ABEL_EST_C
+[TargetRight][LoadPortrait=EST][TargetLeft][LoadPortrait=ABEL][LoadBackground=BBG75][TargetRight][FaceCommand=0x73]Abel[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]
+Est,[Pause=3] you haven't been in an actual battle for
+a while. Try not to overdo it.[A][ClearBox][TargetRight]I told you I'm alright[FreezeMouth]![UnfreezeMouth][Pause=3] Sure, I'm not at my
+peak, but my skill as a former Whitewing
+hasn't faded just yet.[A][ClearBox]But nevermind me, Abel, I don't want you to
+get hurt, either.[A][ClearBox]If you'd like, I could let you ride my pegasus.[Pause=3]
+That way, you wouldn't get a scratch on you.[A][ClearBox][TargetLeft]You said it.[A][ClearBox]I used to be an Aritian knight, you know.
+They called me "Abel the Black Panther."[A][ClearBox]No mere soldier could possibly hope to defeat
+me.[A][ClearBox]Hmm[FreezeMouth]...[UnfreezeMouth][Pause=3] If I were to ride with you though, I'd be
+able to protect you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]Eh?[Pause=3]
+[FreezeMouth]...[UnfreezeMouth]Oh dear.[A][ClearBox]Sorry, Abel.
+I, um, don't think that he wants you to ride
+him. [A][ClearBox][TargetLeft]I-I see.[Pause=3]
+I knew it; so he really does hate me[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Even back home, he'd go out of his way to
+savage me each time I tried to touch him.[A][ClearBox][TargetRight]You ending up getting kicked all the time too...[A][ClearBox]Heehee, you were so certain that you'd need
+to get along with him in order to be family
+with me.[A][ClearBox][TargetLeft]And in the end, I couldn't even pat his head[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_ABEL_EST_B
+[TargetRight][LoadPortrait=EST][TargetLeft][LoadPortrait=ABEL][LoadBackground=BBG75][TargetRight][EyeCommand=ec]Sigh[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]What's wrong, Est?
+Why the long face?[A][ClearBox][TargetRight][EyeCommand=ed]Oh[FreezeMouth]...[UnfreezeMouth] Abel.[Pause=3]
+No, it's nothing.[A][ClearBox]I was just thinking about stuff.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]I see.[Pause=3]
+That's okay then.[A][ClearBox][TargetRight]Say, Abel[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Once this war is over, will things[SpecialSymbol=0x96][Pause=3]will we
+really be able to go back to how we used to
+be?[A][ClearBox][TargetLeft][FaceCommand=0x73]Of course. In fact, I'm sure we'll be happier
+than before.[A][ClearBox]We'll expand the shop, have children[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73][EyeCommand=ec]Oh[FreezeMouth]...[UnfreezeMouth][Pause=2] yeah.[Pause=3]
+Yeah, that's right.
+Of course.[A][ClearBox][TargetLeft][FaceCommand=0x61]Est[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Are you really alright?[A][ClearBox]That isn't the smile I'm accustomed to.
+Are you forcing yourself, Est?[A][ClearBox][TargetRight][EyeCommand=ed]Ahaha, 'c-course not.
+But anyway, Abel. What do you think we
+should name our child?[A][ClearBox][TargetLeft][FaceCommand=0x73]Ah, yes.
+Let's see[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_ABEL_EST_A
+[TargetRight][LoadPortrait=EST][LoadBackground=BBG75][TargetRight][EyeCommand=ec]Sigh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+What should[FreezeMouth]...[UnfreezeMouth] I do[FreezeMouth]...[UnfreezeMouth]?[A][ClearBox][TargetLeft][LoadPortrait=ABEL]Est, my love[FreezeMouth]![UnfreezeMouth]
+So you were here.[A][ClearBox][TargetRight][EyeCommand=ed]Abel, what is it?
+You look so flustered.[A][ClearBox][TargetLeft]I heard from Prince Marth.[A][ClearBox]You've been terribly worried about something,
+haven't you?[A][ClearBox]What is it, dear?[Pause=3]
+If there's something the matter, tell me.[A][ClearBox][TargetRight][Music=BGM_EVT_LOVE2][Pause=3][FreezeMouth]...[UnfreezeMouth]Say, Abel.[Pause=3]
+Why did you fall in love with me?[A][ClearBox][TargetLeft]T-that's[Pause=3] uh... rather sudden.[A][ClearBox][TargetRight]Please, Abel. I must know.[A][ClearBox][TargetLeft]Good grief[FreezeMouth]...[UnfreezeMouth][A][ClearBox]It was so... natural, I never gave it a second
+thought.[A][ClearBox][TargetRight][EyeCommand=ec][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Ah,[Pause=2] are you crying[FreezeMouth]!?[UnfreezeMouth][Pause=3]
+I'm sorry, I'll answer properly this time[FreezeMouth]![UnfreezeMouth][Pause=3]
+Err[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_ABEL_EST_A_2
+[TargetRight][EyeCommand=ed][FaceCommand=0x73]Abel, thank you.[Pause=3]
+It's okay.[A][ClearBox][TargetLeft]Eh[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetRight]That[FreezeMouth]...[UnfreezeMouth] was more than enough. I get it.[A][ClearBox]Hey, scoot closer.
+Now[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Just for now, hold me tightly in your arms.[A][ClearBox][TargetLeft]Est[FreezeMouth]...[UnfreezeMouth][Pause=3]
+We'll always be together...[A][ClearBox]So, don't cry anymore.
+It hurts me[FreezeMouth]...[UnfreezeMouth] to see you cry.[A][ClearBox]The thought of you all alone, with no one to
+turn to[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I'm afraid to leave your side... 
+Afraid to depart for battle.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]I'm sorry.[Pause=3]
+Teehee, I'm so silly.[A][ClearBox]I guess all this fighting's been taking its toll
+on me.[A][ClearBox]Sorry, Abel.[Pause=3]
+I'm okay now.[A][ClearBox][EyeCommand=ec]But[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Let us stay like this, just a little longer[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Oh, Est[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_ASTRIA_JORJUE_C
+[TargetRight][LoadPortrait=JORJUE][TargetLeft][LoadPortrait=ASTRIA][LoadBackground=BBG75][TargetLeft][EyeCommand=ec]Sorry,[Pause=1] George.[A]
+I shouldn't have forced you[Pause=2] to stall that
+battle.[A][ClearBox][TargetRight]No,[Pause=1] I don't mind.[A][ClearBox][FaceCommand=0x73]As a knight of Akaneia,[Pause=3] your conduct was
+impeccable as always.[A][ClearBox][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]But,[Pause=2] it's been years since we've been able
+to chat like this.[A][ClearBox][TargetLeft][FaceCommand=0x73][EyeCommand=ed]Yeah.[Pause=3]
+This brings back memories.[A][ClearBox][EyeCommand=ec]I was[Pause=1] just a simple mercenary commander[Pause=3]
+and you, a single bow knight[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][EyeCommand=ec][FaceCommand=0x73]Heh heh,[Pause=1] it's been a while.[A][ClearBox][EyeCommand=ed]There...[Pause=3] was someone else too.[A][ClearBox][TargetLeft][EyeCommand=ed]You mean Midia?[A][ClearBox][TargetRight]Yeah.[A][ClearBox]She was always grumpy when you[Pause=3] came to
+Pales.[A][ClearBox][TargetLeft]That's because[Pause=3] Midia believed wholeheartedly
+in the Akaneian knights.[A][ClearBox]She probably thought[FreezeMouth]...[UnfreezeMouth][Pause=3] that mercenaries
+were a blight on the force.[A][ClearBox][TargetRight][FaceCommand=0x61]Hang on a moment.[Pause=3]
+[FaceCommand=0x73]Don't act like you had nothing to do with it.[A][ClearBox]Who was it[Pause=2] that picked a fight with the
+female commander over everything?[A][ClearBox][TargetLeft][FaceCommand=0x61]Gah,[Pause=1] that was[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_ASTRIA_JORJUE_C_2
+[TargetRight]I remember hearing your voices echoing 
+throughout Pales: her orders, and your
+rebuttals.[A][ClearBox][TargetLeft]Do you honestly believe any self-respecting 
+mercenary could stand being told to
+"leave this army at once and go home"?[A][ClearBox][TargetRight]I'm pretty sure there were[Pause=2] other mercenaries
+there too.[A][ClearBox][FaceCommand=0x61]Hmm[FreezeMouth]...[UnfreezeMouth][A]
+By any chance,[Pause=1] were you the one[Pause=1] who mistook
+Midia for a man,[A]
+and got in trouble for it[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ec]Bah,[Pause=1] of all the things[FreezeMouth]...[UnfreezeMouth][A]
+[EyeCommand=ed]That is utter nonsense.[A][ClearBox]Her silken locks,[Pause=3] that heavenly face,
+radiating her pride and sense of duty[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x73]It would take a tasteless scoundrel with no
+eye for beauty to see her as anything less
+than a goddess.[A][ClearBox][TargetRight][FaceCommand=0x73]Astria[FreezeMouth]...[UnfreezeMouth][A]
+That[FreezeMouth]...[UnfreezeMouth] might be too much information, thank
+you.[A][ClearBox][TargetLeft][FaceCommand=0x61]Hah[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Honestly[FreezeMouth]...[UnfreezeMouth][A]
+You might just be the most entertaining
+person I know.[A][ClearBox][TargetLeft][EyeCommand=ec]Tch.[A]
+[EyeCommand=ed][FreezeMouth]...[UnfreezeMouth]I'm heading back.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight]Hmm.[Pause=3]
+Did I go too far?[A][ClearBox][X]
+
+MBTK_ASTRIA_JORJUE_B
+[TargetRight][LoadPortrait=JORJUE][TargetLeft][LoadPortrait=ASTRIA][LoadBackground=BBG75][TargetLeft][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth]Oh right,[Pause=1] George.[Pause=3]
+Do you remember?[A][ClearBox][TargetRight]What?[A][ClearBox][TargetLeft]That final attack[Pause=1] of yours[FreezeMouth]...[UnfreezeMouth][Pause=3]
+In our[Pause=1] last practice.[A][ClearBox][TargetRight][FaceCommand=0x73]Yes,[Pause=1] I remember.[A][ClearBox][TargetLeft][FaceCommand=0x61]It surprised me quite a bit[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Did you aim there on purpose?[A][ClearBox][TargetRight]Of course.[A][ClearBox]I was originally[Pause=3] a mounted soldier, my friend.[A]
+[FaceCommand=0x61]It's not as hard[Pause=1] as it looks.[A][ClearBox][TargetLeft]What[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][FreezeMouth]...[UnfreezeMouth]Then,[Pause=3] do all bow knights learn tricks like
+that[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth]It was a joke.
+That was the first time[Pause=2] I pulled it off in a
+real battle.[A][ClearBox][TargetLeft]George[FreezeMouth]![UnfreezeMouth][A][ClearBox]My heart was welling up with admiration for
+a moment there.[Pause=3] Give it back[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][EyeCommand=ec]Haha,[Pause=1] sorry about that.[A][ClearBox][TargetLeft][EyeCommand=ec]Do you remember?
+After that training session.[A][ClearBox][TargetRight][EyeCommand=ed]
+Midia was furious. She really put you through
+the wringer.[A]
+Er, oops[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_ASTRIA_JORJUE_B_2
+[TargetLeft][EyeCommand=ed]Wha-[Pause=1] How[Pause=2] did you[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight]I told you, Astria.[A]
+Your voices[SpecialSymbol=0x96][Pause=3]they echoed.[A][ClearBox][FaceCommand=0x61]"Why in god's name[Pause=1] didn't you retaliate!?"[A]
+[FreezeMouth]...[UnfreezeMouth]I think that's what Midia said.[A][ClearBox][FaceCommand=0x73]What she said[Pause=1] really got to you, didn't it?[A][ClearBox]All of us sympathized with you that time.[A][ClearBox][TargetLeft][EyeCommand=ec]Bah[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][EyeCommand=ec][FaceCommand=0x61]Whoops,[Pause=2] I've [EyeCommand=ed]gone too far again.[Pause=3]
+[FaceCommand=0x73]Sorry about that.[A][ClearBox][TargetLeft][EyeCommand=ed]N-no[FreezeMouth]...[UnfreezeMouth][Pause=3]
+It's okay.[A][ClearBox][Unknown0x4=F32][TargetRight][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]So,[Pause=3] Astria.[A][ClearBox][Music=BGM_EVT_GRAVE1]Today,[Pause=3] you're going to tell me.[A][ClearBox][TargetLeft]You want me to tell you about Hardin[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Am I correct in assuming so?[A][ClearBox][TargetRight]Exactly.[A][ClearBox]I highly doubt you hadn't noticed anything.
+Not after receiving Miracle.[A][ClearBox][TargetLeft][EyeCommand=ec][FreezeMouth]...[UnfreezeMouth][FreezeMouth][UnfreezeMouth][A][ClearBox][TargetRight]You'll tell me, right?[Pause=3]
+Well, Astria?[A][ClearBox][TargetLeft][EyeCommand=ed]Yes.[A][ClearBox]So,[Pause=1] you had best listen carefully.[A][ClearBox][X]
+
+MBTK_ASTRIA_JORJUE_A
+[TargetRight][LoadPortrait=JORJUE][TargetLeft][LoadPortrait=ASTRIA][LoadBackground=BBG75][TargetLeft][FreezeMouth]...[UnfreezeMouth]In short,[Pause=3] Prince Marth was my target.[A][ClearBox][TargetRight]Your loyalty to your liege was absolute, was
+it not[FreezeMouth]...?[UnfreezeMouth][Pause=3] Well?[A][ClearBox][TargetLeft]That's correct.[A][ClearBox][TargetRight][EyeCommand=ec][FreezeMouth]...[UnfreezeMouth]Sigh.[A][ClearBox][EyeCommand=ed][FaceCommand=0x73]As stuffy as ever,[Pause=3] eh, old friend?[A][ClearBox][TargetLeft]Wh-[Pause=1]what's wrong with being a little adamant?![A][ClearBox][TargetRight]Precisely.[A][ClearBox][FaceCommand=0x61]You take something on,[Pause=1] think too much about
+it[FreezeMouth]...[UnfreezeMouth][Pause=3] and then blindly cling to your conclusions.[A][ClearBox][TargetLeft][FreezeMouth]......[UnfreezeMouth][FreezeMouth][UnfreezeMouth][A][ClearBox][TargetRight]Of course,[Pause=3] I do believe you were right this
+time.[A]
+As a knight, that is.[A][ClearBox][EyeCommand=ec]However[FreezeMouth]...[UnfreezeMouth][Pause=2] as a friend,[Pause=2] I'm not so sure.[A][ClearBox][TargetLeft][EyeCommand=ec]As a[FreezeMouth]...[UnfreezeMouth][EyeCommand=ed][Pause=2] friend[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetRight][EyeCommand=ed]Astria,[Pause=1] listen.
+You should[Pause=3] trust people more.[A][ClearBox]There's nary a knight who doesn't know of
+your unshakable loyalty.[A][ClearBox][FaceCommand=0x73]And of course,[Pause=1] I'm[FreezeMouth]...[UnfreezeMouth][Pause=3] one of them.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_ASTRIA_JORJUE_A_2
+[TargetLeft][EyeCommand=ed][FreezeMouth]...[UnfreezeMouth]George.[A][ClearBox][TargetRight][FaceCommand=0x61]I want to[Pause=1] help you.[A][ClearBox][TargetLeft][FaceCommand=0x73][EyeCommand=ec]Yeah[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I get it.[A][ClearBox][EyeCommand=ed]Truly,[Pause=3] I absolutely agree with you.[A][ClearBox][FreezeMouth]...[UnfreezeMouth]You have my deepest thanks,[Pause=3] George.[A][ClearBox][TargetRight][FaceCommand=0x73]Heh heh,[Pause=3] this certainly is a change.[A][ClearBox][TargetLeft]Of course.[A][ClearBox]You aren't ever[Pause=3] this serious when there's
+nobody else around[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I know you're[Pause=3] being considerate.[A][ClearBox][TargetRight]Haha,[Pause=1] indeed.[Pause=3]
+This time, you really do understand, Astria.[A][ClearBox][TargetLeft][FaceCommand=0x61]Heh,[Pause=1] how long[Pause=3] [FaceCommand=0x73]have we known each other, eh?[A][ClearBox][FreezeMouth]...[UnfreezeMouth]Anyway.[A]
+Enough of the past.[A][ClearBox][TargetRight]Indeed.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Don't die,[Pause=2] George.[A][ClearBox][TargetRight]Yeah.[Pause=3]
+You too, Astria.[A][ClearBox][X]
+
+MBTK_ASTRIA_MIDIA_C
+[TargetRight][LoadPortrait=ASTRIA][TargetLeft][LoadPortrait=MIDIA][LoadBackground=BBG75][TargetRight][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth]You continue to improve.
+I'm glad I've had the opportunity to see that
+for myself, Midia dear.[A][ClearBox][TargetLeft][FaceCommand=0x73]You too, Astria[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm amazed at your technique. 
+I can barely defend myself as I am now.[A][ClearBox][TargetRight][FaceCommand=0x61]It's a pity Aritia's finances are sorely[Pause=3]
+lacking. We can barely afford to equip
+ourselves with what little we have now.[A][ClearBox]A war of attrition will only serve to destroy
+us.[A][ClearBox]In short, unless each and every soldier
+continues to improve, we have no chance of
+victory.[A][ClearBox][TargetLeft][FaceCommand=0x61]You speak truly.
+The battle will likely grow more fierce with
+each passing day.[A][ClearBox][TargetRight]Although[FreezeMouth]...[UnfreezeMouth][Pause=2] the rate at which everyone is
+improving fills me with this strange sense of
+anxiety. I can't quite explain it.[A][ClearBox]It seems as though if I were to become
+complacent, then I would fall far behind.[A][ClearBox][TargetLeft]As a knight of Akaneia, t'would be a
+passing shame if we could not surpass these
+foreign knights.[A][ClearBox][TargetRight][FaceCommand=0x73]If we are to lead the vanguard, and rescue
+our fair queen[FreezeMouth]...[UnfreezeMouth][Pause=3] we must be focused.[A][ClearBox][TargetLeft][FaceCommand=0x73]That task...
+That one task is one we cannot entrust to
+any other.[A][ClearBox][TargetRight][FaceCommand=0x61]Oh, Midia[FreezeMouth]...[UnfreezeMouth][Pause=3] 
+Should we rest a short while?
+We're both out of breath.[A][ClearBox][TargetLeft][FaceCommand=0x61]No, please, allow me to continue.[Pause=3]
+I'm not entirely satisfied with myself thus far.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Very well.[Pause=3]
+Come, Midia[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Hah[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MBTK_ASTRIA_MIDIA_B
+[TargetRight][LoadPortrait=ASTRIA][TargetLeft][LoadPortrait=MIDIA][LoadBackground=BBG75][TargetRight][FreezeMouth]...[UnfreezeMouth]Not good enough[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ec][Sound=SE_EVT_BREAK1]Ugh[FreezeMouth]...[UnfreezeMouth][Pause=3] Kyaaa[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Ah[FreezeMouth]...[UnfreezeMouth][Pause=2]
+Midia, are you okay[FreezeMouth]!?[UnfreezeMouth][Pause=3]
+Forgive my carelessness[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ed][Music=BGM_EVT_PEACEFUL1]Mm, I'm fine.
+'Tis just a scratch[FreezeMouth]...[UnfreezeMouth] 
+Don't worry.[A][ClearBox][FaceCommand=0x73][Pause=3]Teeheehee.[A][ClearBox]I just remembered... our first duel.[A][ClearBox][TargetRight]Eh[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]Ahaha, that time, you sent me flying across
+the room[FreezeMouth]![UnfreezeMouth][Pause=3] I was pretty roughed up that time.[A][ClearBox][TargetRight]I-I'm sorry[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]I sobbed into my pillow all night.[A][ClearBox]I really, really despised you.[A][ClearBox][FaceCommand=0x73]Heehee, it was a big moment for me.
+I'm the way I am now thanks to that loss.[A][ClearBox]I trained so much harder, just to reach your
+level.[A][ClearBox]Besides[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Besides?[A][ClearBox][TargetLeft]You had such an ice-cold look on your face
+at the time.[A][ClearBox]Now? Your eyes are so much softer[FreezeMouth]...[UnfreezeMouth]
+It makes me really happy.[A][ClearBox][TargetRight]Midia[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]I'll see if I can find myself a vulnerary.
+Please wait a moment.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight]That reminds me, we[FreezeMouth]...[UnfreezeMouth][Pause=3]
+We've been training all the time, haven't we?[A][ClearBox]I should learn to take it easier with her[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_ASTRIA_MIDIA_A
+[TargetRight][LoadPortrait=ASTRIA][TargetLeft][LoadPortrait=MIDIA][LoadBackground=BBG75][TargetLeft][FreezeMouth]...[UnfreezeMouth]Phew.[Pause=3]
+Shall we stop for now?[A][ClearBox][TargetRight]Mm. Let's call it a day.[A][ClearBox][Pause=3]Err, Midia[FreezeMouth]...[UnfreezeMouth][Pause=3]
+May I[FreezeMouth]...[UnfreezeMouth] hold your hand?[A][ClearBox][TargetLeft]Eh?[Pause=3]
+Yes[FreezeMouth]...[UnfreezeMouth]
+Of course.[A][ClearBox][TargetRight][Music=BGM_EVT_LOVE2][FreezeMouth]...[UnfreezeMouth]They're so silken[FreezeMouth]...[UnfreezeMouth]
+It's hard to believe these are the hands of
+a battle-hardened warrior[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]It's been some time since we've sat together
+like this, and just held hands.[Pause=3]
+It's kind of ticklish.[A][ClearBox][TargetRight][FaceCommand=0x73]Indeed.[Pause=3]
+We've done nothing but train since our
+reunion[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]What's wrong, Astria?
+Are you alright?[A][ClearBox]Why are you so insecure?[A][ClearBox]You can hold me as tightly as you want, 
+whenever you want. It makes me happy.[A][ClearBox]We'll always be together, no matter what[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Isn't that right, my love?[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_ASTRIA_MIDIA_A_2
+[TargetRight][FaceCommand=0x61]Yes[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I know that a lot of people say I'm too
+hard-nosed.[A][ClearBox]Even though I've finally got you here in my
+arms, I've done naught but train.[A][ClearBox]I don't believe I've spoken a single word of
+comfort to you.[A][ClearBox]Even though we're in the middle of a
+campaign, I thought I should give more value
+to the time I spend with you.[A][ClearBox][EyeCommand=ec]I'm sorry[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ed][TargetLeft][FaceCommand=0x73]My, you don't need to apologize.[Pause=3]
+I wanted to train with you too.[A][ClearBox]We'll have all the time in the world to whisper
+sweet nothings after the war.[Pause=3] And I think[FreezeMouth]...[UnfreezeMouth]
+that would be for the best.[A][ClearBox][TargetRight][FaceCommand=0x73]I see[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Then, we're both stubborn fools.[A][ClearBox][TargetLeft]Teehee, indeed.[Pause=3]
+Then, can I ask for one last spar?[A][ClearBox][TargetRight]Alright.
+[FreezeMouth]...[UnfreezeMouth]I won't hold back, okay?[A][ClearBox][TargetLeft]Of course.[A][ClearBox][X]
+
+MBTK_DICE_MARIS_C
+[TargetLeft][LoadPortrait=DICE][LoadBackground=BBG75][TargetRight][LoadPortrait=MARIS]Here ya go,[Pause=3] Pops.[A][ClearBox][TargetLeft][FaceCommand=0x73]Oh,[Pause=2] Maris[FreezeMouth]![UnfreezeMouth][A][ClearBox]There y'are.[Pause=3]
+That's my daughter for ya[FreezeMouth]![UnfreezeMouth][A][ClearBox]Alrighty, time to hit 'em up[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Good grief[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x73]You better win.[Pause=3]
+You better or else.[A][ClearBox][TargetLeft]Of course[FreezeMouth]![UnfreezeMouth][A][ClearBox]Maris,[Pause=3] if there's anything ya might want,
+do tell ya Pops.[A][ClearBox][FaceCommand=0x73]I do my best if I know what I'm fighting for[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Yeah,[Pause=1] gotcha.[A][ClearBox][TargetLeft]Well then,[Pause=3] I'm going for a match[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]Hm? [Pause=3]
+Already?[A][ClearBox][TargetLeft][EyeCommand=ec]Yeah[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ed]I just thought[Pause=3] of a new gameplan, y'know[FreezeMouth]![UnfreezeMouth][A][ClearBox]I'm itching to[Pause=2] test it out.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]What now?[A][ClearBox][TargetLeft]See ya[FreezeMouth]![UnfreezeMouth][Pause=3]
+Ya better look forward to it[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight]Goddammit, Pops[FreezeMouth]![UnfreezeMouth][A][ClearBox][EyeCommand=ec][FreezeMouth]...[UnfreezeMouth]Seriously,[Pause=3] you'd better not lose again[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_DICE_MARIS_B
+[TargetRight][LoadPortrait=MARIS][EyeCommand=ec][LoadBackground=BBG75]What I want[FreezeMouth]...[UnfreezeMouth][Pause=2] Hmm.[A]
+Nothing in particular,[Pause=1] I guess.[A][ClearBox][EyeCommand=ed]Hm? [Pause=2]Is that[FreezeMouth]...[UnfreezeMouth][Pause=3] Pops?[A][ClearBox][TargetLeft][LoadPortrait=DICE][EyeCommand=ec]Sniff[FreezeMouth]...[UnfreezeMouth][Pause=1] Maris[FreezeMouth]...[UnfreezeMouth][A]
+I'm a no-good washout[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Sigh.
+So,[Pause=1] how much did ya lose?[A][ClearBox][TargetLeft][EyeCommand=ed][FreezeMouth]...[UnfreezeMouth]Everything.[A][ClearBox][TargetRight][EyeCommand=ec]Again?[A][ClearBox][TargetLeft][EyeCommand=ec]I'm ashamed.[A][ClearBox][EyeCommand=eh]It was all going well,[Pause=3] and then[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][EyeCommand=ed]Things got serious?[A][ClearBox][TargetLeft][EyeCommand=ed][FaceCommand=0x73]That's right[FreezeMouth]![UnfreezeMouth][A]
+I knew you'd understand.[A][ClearBox][TargetRight][FaceCommand=0x73]I wish I couldn't, actually.[A][ClearBox][TargetLeft]Haha, I raised you into such a good girl![A][ClearBox][FaceCommand=0x61]Oh,[Pause=3] that's right[FreezeMouth]![UnfreezeMouth][A]
+[FaceCommand=0x73]Did ya figure out what ya want?[A][ClearBox][TargetRight][FaceCommand=0x61]Oh,[Pause=3] you asked me that, huh.[A][ClearBox][EyeCommand=eh]I gave it some thought, but[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[EyeCommand=ed]Nope, I got nothing.[A][ClearBox][TargetLeft][EyeCommand=ec][FaceCommand=0x61]Hm,[Pause=3] I see[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][EyeCommand=ec][FreezeMouth]...[UnfreezeMouth]Alright.[Pause=3]
+[EyeCommand=ed]Well,[Pause=1] I'll go get money.[A]
+[FaceCommand=0x73]Wait for me,[Pause=1] Pops.[A][ClearBox][TargetLeft][EyeCommand=ed][FaceCommand=0x73]Oh,[Pause=1] yeah.[A][ClearBox][TargetRight][RemovePortrait][TargetLeft][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth][FreezeMouth][UnfreezeMouth]Maris[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_DICE_MARIS_A
+[TargetLeft][LoadPortrait=DICE][LoadBackground=BBG75][TargetRight][LoadPortrait=MARIS][FaceCommand=0x73]Here ya go, Pops.[Pause=3]
+Here's what I earned.[A][ClearBox][TargetLeft]Oh,[Pause=2] Maris.[A][ClearBox][EyeCommand=eh]Whoa, ya sure got a lot[FreezeMouth]...[UnfreezeMouth][EyeCommand=ed][Pause=3]
+Thanks, kiddo.[A][ClearBox][TargetRight][EyeCommand=eh][FaceCommand=0x61]Hm?[EyeCommand=ed][Pause=3]
+What's with the funny face, Pops?[A]
+Something happen?[A][ClearBox][TargetLeft][EyeCommand=eh]Uh, n-no. It's nothing.[A][ClearBox][Music=BGM_EVT_PEACEFUL1][EyeCommand=ed]You and I know I don't ever win,[Pause=3] so giving me
+yer money is a waste. [EyeCommand=ec]Ayup[FreezeMouth]...[UnfreezeMouth][Pause=2] I'm worthless.[A][ClearBox][TargetRight][FaceCommand=0x61]Oi,[Pause=1] now you're just acting weird.
+Get it together, Pops.[A][ClearBox][TargetLeft][EyeCommand=ed]Naw,[Pause=1] th-this ain't weird.[A][ClearBox]What's weird[Pause=3] is how I keep going back to
+gambling even when I lose.[A][ClearBox][TargetRight][EyeCommand=eh][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]What,[EyeCommand=ed][Pause=3] you wanna stop now?[A][ClearBox][TargetLeft][EyeCommand=eh][FaceCommand=0x61]Are ya kidding me?[A][ClearBox][TargetRight][EyeCommand=ed][FaceCommand=0x73]Then,[Pause=1] stop getting all sappy on me.
+Gee, Pops, there ain't a thing you like more,
+is there?[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_DICE_MARIS_A_2
+[TargetLeft][EyeCommand=ec][FaceCommand=0x61]Yeah.[A][ClearBox][TargetRight][EyeCommand=eh][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth][FreezeMouth][UnfreezeMouth][A]
+[EyeCommand=ed][FaceCommand=0x73]That's right, Pops.[A][ClearBox]I figured out[Pause=3] what I want.[A][ClearBox][TargetLeft][FaceCommand=0x73][EyeCommand=ed]Oh,[Pause=1] what is it?[A]
+[FaceCommand=0x61]Let yer Pops know.[A][ClearBox][TargetRight]I want[Pause=2] my old Pops back. [A][ClearBox]If you keep acting like this,[Pause=3] I think I'll go
+crazy myself.[A][ClearBox][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]Well?[Pause=3]
+Whadya reckon, Pops?[A][ClearBox][TargetLeft][FaceCommand=0x73][EyeCommand=ec][FreezeMouth]...[UnfreezeMouth]Wahahaha[FreezeMouth]!![UnfreezeMouth][A]
+[EyeCommand=ed]Leave it to me[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]I see.[Pause=3]
+Then all is good.[A][ClearBox][TargetLeft]Alright,[Pause=1] then I'm going.[A]
+[FaceCommand=0x61]It feels like[FreezeMouth]...[UnfreezeMouth][Pause=3] [FaceCommand=0x73]I'mma win today.[A][ClearBox][TargetRight]I'm coming with you today.[A]
+Not that I know how it all works.[A][ClearBox][TargetLeft]Oh,[Pause=1] do come[FreezeMouth]![UnfreezeMouth][A]
+If yer with me,[Pause=3] it'll be like bringing the
+goddess of fortune with me[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MBTK_GOHDON_JORJUE_C
+[TargetLeft][LoadPortrait=GOHDON][LoadBackground=BBG75][TargetLeft]Gasp![Sound=SE_EVT_ARROW2][Pause=2][Sound=SE_EVT_NOISE1][Pause=5][Sound=SE_EVT_ARROWSET1][Pause=4] 
+Yah[FreezeMouth]!![UnfreezeMouth][Sound=SE_EVT_ARROW2][Pause=2][Sound=SE_EVT_NOISE1][Pause=4][A][ClearBox]One,[Pause=2] two,[Pause=2] three[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Whew, five, huh.[A][ClearBox][TargetRight][LoadPortrait=JORJUE][FaceCommand=0x73][Music=BGM_EVT_SINGEKI4]Aren't you full of enthusiasm today.[A][ClearBox][TargetLeft]Ah, Master George[FreezeMouth]![UnfreezeMouth][Pause=3]
+W-were you watching?[A][ClearBox][TargetRight]I was indeed.[A][ClearBox]That's an awfully straight face for someone
+doing something so fun.[A][ClearBox][TargetLeft]That's mean, Master.
+You could have said something if you were
+watching.[A][ClearBox][TargetRight][FaceCommand=0x73]Watching over his little student's staggering
+efforts is the duty of a teacher, is it not?[A][ClearBox][TargetLeft]Knowing you, you were probably laughing at
+me instead[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]That WAS the idea, but[FreezeMouth]...[UnfreezeMouth][Pause=3] I got distracted.[A][ClearBox][TargetLeft]So you were planning to laugh after all.[A][ClearBox][TargetRight][FaceCommand=0x61]Shaking the tree with your first shot[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Then hitting as many falling leaves as you
+could with your second shot.[A][ClearBox]I'm impressed.[A][ClearBox]In your first shot, you put in all your 
+strength[FreezeMouth]...[UnfreezeMouth] In the second, concentration and
+precision are key.[A][ClearBox]Moreover, if those two shots aren't fired in
+rapid succession, then there aren't any
+leaves left to shoot.[A][ClearBox]Pretty well thought out, if you ask me.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_GOHDON_JORJUE_C_2
+[TargetLeft][FaceCommand=0x73]That's Master George for you.[Pause=3]
+You've seen right through my training![A][ClearBox][TargetRight][FaceCommand=0x73]So, the secret of Aritia's finest archer has
+come to light.[A][ClearBox][TargetLeft][FaceCommand=0x61]Ah,[Pause=2] no, you're exaggerating, sir[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]No, I really am not.[A][ClearBox]Look at you. You were a child[SpecialSymbol=0x96]a mere
+apprentice when we met. And now[FreezeMouth]...[UnfreezeMouth] you've
+grown so much.[A][ClearBox][TargetLeft][FaceCommand=0x73]It was all thanks to your guidance, Master.[A][ClearBox][TargetRight][FaceCommand=0x73]Hahaha, flattery will not get you everywhere.[A][ClearBox][FreezeMouth]...[UnfreezeMouth]But, it's true.[Pause=3][FaceCommand=0x61]
+As your master, I ought to give you one last
+lesson.[A][ClearBox][TargetLeft][FaceCommand=0x61]One last[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight]Stand back, Gordon.[A][ClearBox][TargetLeft]Y-[Pause=2]yes.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][EyeCommand=ec]Uh[FreezeMouth]...[UnfreezeMouth][Sound=SE_EVT_ARROWSET1][Pause=6]
+[EyeCommand=ed]Hyaah[FreezeMouth]!![UnfreezeMouth][Sound=SE_EVT_ARROW2][Pause=2][Sound=SE_EVT_NOISE1][Pause=4][A][ClearBox][TargetLeft][TargetLeft][LoadPortrait=GOHDON]W-what[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][TargetRight]How many?[A][ClearBox][TargetLeft]T-twelve[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Heh.
+Not too shabby for my first try.[A][ClearBox][TargetLeft]That...[Pause=2] that's just so cool[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Argh, and I thought was doing pretty good
+too[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_GOHDON_JORJUE_B
+[TargetRight][LoadPortrait=GOHDON][LoadBackground=BBG75][TargetRight]Err[FreezeMouth]...[UnfreezeMouth][Pause=3] 
+Nine this time[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Guess I'm still no match for Master.[A][ClearBox][TargetLeft][LoadPortrait=JORJUE]I see your defenses are still wide open.[A][ClearBox][TargetRight]Whoa[FreezeMouth]!![UnfreezeMouth]
+W-what[FreezeMouth]...[UnfreezeMouth][Pause=3] 
+Wait, Master George[FreezeMouth]![UnfreezeMouth][A][ClearBox][Music=BGM_EVT_DAILY1]Don't just appear outta nowhere and poke
+me[FreezeMouth]![UnfreezeMouth] It tickles![A][ClearBox][TargetLeft]Oh come on. Get over it.[A][ClearBox]What would you do if an enemy poked you in
+the ribs, huh?[A][ClearBox][TargetRight]
+With all due respect, no self-respecting
+soldier spends their time poking people in
+battle.[A][ClearBox][TargetLeft]Heh[FreezeMouth]...[UnfreezeMouth][Pause=3] Well, indeed.[Pause=3]
+If I were on a battlefield, I'd use a dagger,
+not my finger.[A][ClearBox][TargetRight]P-please don't say thing like that.
+You're kind of creeping me out.[A][ClearBox][TargetLeft][FaceCommand=0x73]I'm joking.[Pause=3]
+Anyway, how is it going?[A][ClearBox][TargetRight]Well, I've improved a little, but I'm still no
+match for you, Master.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_GOHDON_JORJUE_B_2
+[TargetLeft][FaceCommand=0x61]So you can't measure up,[Pause=2] huh?[A][ClearBox]If you say so, then it has to be true.[A][ClearBox][TargetRight]Wh-[Pause=2]what do you mean?[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]You have talent.[Pause=3]
+Those around you recognize that, too.[A][ClearBox]However, you still lack something crucial.[A][ClearBox][TargetRight]Something crucial?[A][ClearBox][TargetLeft]Self-confidence,[Pause=2] in other words.[A][ClearBox]You don't seem to have noticed, but you're
+too easily swayed by others.[A][ClearBox]That pure, modest heart of yours is
+powerful, but it is also your weakness.[A][ClearBox][TargetRight]What do you mean?[A][ClearBox][TargetLeft]I mean[Pause=3] you vacillate.[Pause=3]
+Ergo, you aren't sure of yourself, and you
+let others influence you.[A][ClearBox]And that hesitation, however slight, affects
+the arrows you shoot.[A][ClearBox][TargetRight]My hesitation,[Pause=3] and my arrows[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Steel yourself,[Pause=2] Gordon.[A][ClearBox]Get over your self-esteem issues, and you
+won't lose to anyone.[A][ClearBox]Not even me.[A][ClearBox][TargetRight]Y-yes sir[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MBTK_GOHDON_JORJUE_A
+[TargetRight][LoadPortrait=JORJUE][TargetLeft][LoadPortrait=GOHDON][LoadBackground=BBG75][TargetRight][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Here goes nothing.[Pause=3]
+Hmm[FreezeMouth]...[UnfreezeMouth][Sound=SE_EVT_ARROWSET1][Pause=6] Hyah[FreezeMouth]!![UnfreezeMouth][Sound=SE_EVT_ARROW2][Pause=2][Sound=SE_EVT_NOISE1][Pause=6][A][ClearBox][TargetRight]Hm, that's[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Eleven,[Pause=2] twelve,[Pause=2] thir[FreezeMouth]...[UnfreezeMouth][Pause=3]teen[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][Music=BGM_EVT_SINGEKI4]Well done, Gordon.[Pause=3]
+You've finally surpassed me.[A][ClearBox][TargetLeft][FaceCommand=0x73]No way.[Pause=3]
+I'm nowhere near your level yet.[A][ClearBox][FaceCommand=0x61]But[FreezeMouth]...[UnfreezeMouth][Pause=3] it doesn't really matter.
+I'm me, and that's that.[A][ClearBox]I'm through with using everyone else as a
+benchmark.[A][ClearBox]I'll improve for myself, not because I think I'm
+better or worse than someone else.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]That's good to hear.[Pause=3] Truly, you're you.
+There's no need for you to be led astray by
+others' opinions.[A][ClearBox][TargetLeft][FaceCommand=0x73]Yes.[Pause=3]
+I'm still kind of childish though.[A][ClearBox]Master, I'm counting on your guidance![A][ClearBox][TargetRight][FaceCommand=0x73]Heh,[Pause=2] you haven't a drop of arrogance in you.[Pause=3]
+You really are something else.[A][ClearBox][X]
+
+MBTK_JURIAN_RICARD_C
+[TargetRight][LoadPortrait=JURIAN][TargetLeft][LoadPortrait=RICARD][LoadBackground=BBG75][TargetRight]Yo, Ricardo.
+What you doin' there?[A][ClearBox][TargetLeft]Ohh[FreezeMouth]![UnfreezeMouth]
+Chief[FreezeMouth]...![UnfreezeMouth][Pause=3]
+[FaceCommand=0x73]Ehehehehe.[A][ClearBox][TargetRight]You're carrying a pretty hefty bag right
+there.[A][ClearBox]It looks heavy too; need a helpin' hand?[A][ClearBox][TargetLeft][FaceCommand=0x61]I-it's okay.
+This is mine, so I gotta carry it[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Liar.[Pause=3]
+That ain't yours.[A][ClearBox]How many corpses did you loot this time?[A][ClearBox][TargetLeft][FaceCommand=0x73]That's Chief for you.
+You see through everythin'.[A][ClearBox][TargetRight]I'll let it slide this time, but[FreezeMouth]...[UnfreezeMouth]
+Don't even think about stealin' anythin'
+from this army.[A][ClearBox][TargetLeft]C'mon.
+Nobody minds a small-time thief like me.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_JURIAN_RICARD_C_2
+[TargetRight]So you're still goin' to[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Fine, whatever.[A][ClearBox][TargetLeft][FaceCommand=0x61]Eh?[Pause=3]
+You not gonna stop me?[A][ClearBox][TargetRight]Yup. 'Cause there are a lot of guys much,
+muuuch scarier than me, in this army.[A][ClearBox]Who knows what demented punishments they
+have in store for thieves and pilferers like
+yourself[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]Be careful, buddy. I wouldn't wanna see you
+with any missin' bits or somethin'.[A][ClearBox][TargetLeft][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth]Hey,[Pause=2] stop it, Chief.[A][ClearBox]There's no way I'd do somethin' like that,
+right?[Pause=3] I'm a noble thief, after all.[A][ClearBox][TargetRight][FaceCommand=0x73]I see, so you're a "noble thief."
+[FreezeMouth]...[UnfreezeMouth]Yep.[Pause=3]
+[FreezeMouth]...[UnfreezeMouth]Then, shall we get goin'?[A][ClearBox][TargetLeft][FaceCommand=0x61]Eh?[Pause=3] Where to?[A][ClearBox][TargetRight]
+You[FreezeMouth]...[UnfreezeMouth] were about to give away that gold to
+all the poor and needy, right?[Pause=3][A][ClearBox]After all, you're a noble thief: a defender
+of the weak and downtrodden.[A][ClearBox][TargetLeft]Wha-[Pause=3]whaaaaaat[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Is there somethin' wrong?[A][ClearBox][TargetLeft]Y-you got me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Nothin' gets past you, huh, Chief.[A][ClearBox][X]
+
+MBTK_JURIAN_RICARD_B
+[TargetRight][LoadPortrait=JURIAN][TargetLeft][LoadPortrait=RICARD][LoadBackground=BBG75][TargetLeft][Sound=SE_EVT_HIT1][Pause=4]Oops[FreezeMouth]...[UnfreezeMouth][Pause=3]
+S-sorry[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]What are you doin'?
+Are you sick or somethin'?[A][ClearBox][TargetLeft]It's weird[FreezeMouth]...[UnfreezeMouth]
+I ate my breakfast just right[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Maybe not enough veggies?[A][ClearBox][TargetRight]Be careful, you.[A][ClearBox][TargetRight][RemovePortrait][TargetLeft][FaceCommand=0x73]Ehehe[FreezeMouth]...[UnfreezeMouth]
+Purse, get![A][ClearBox]Seems like Chief's been gettin' rusty.
+Or maybe I've improved?[A][ClearBox]Now, let's take a looksie[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x61]Wait, what[FreezeMouth]...[UnfreezeMouth][Pause=2] No purse.[Pause=3]
+Not even mine.[A][ClearBox]W-why?[A][ClearBox][TargetRight][TargetRight][LoadPortrait=JURIAN]Why, I wonder?[Pause=3]
+Did you get rusty, or am I just better?[A][ClearBox][TargetLeft]Chief[FreezeMouth]![UnfreezeMouth][Pause=3]
+So you knew[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]You just don't learn, do you.[A][ClearBox]Oh yeah, I got your purse like this the first
+time we met, didn't I?[A][ClearBox][TargetLeft][FaceCommand=0x73]Yeah.[Pause=3]
+Heh heh, I've challenged you many times
+after that, but I always lose.[A][ClearBox][TargetRight]And I can tell there are goin' to be many
+more times to come. You're an obstinate brat
+sometimes.[A][ClearBox][TargetLeft]I'm gonna tag along until I show you I can
+snatch your purse, Chief[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Heh, it's not goin' to be easy.
+Keep tryin', kid.[A][ClearBox][X]
+
+MBTK_JURIAN_RICARD_A
+[TargetRight][LoadPortrait=JURIAN][TargetLeft][LoadPortrait=RICARD][LoadBackground=BBG75][TargetLeft]Chief.[Pause=3]
+Once you find Rena, are you really goin'
+back?[A][ClearBox][TargetRight]You tellin' me to go somewhere else?[A][ClearBox][TargetLeft][FaceCommand=0x73]Don't you wanna get back to the business
+with me?[A][ClearBox][TargetRight]And why would I need to go back to bein' a
+thief[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]How about YOU try turnin' over a new leaf?[A][ClearBox][TargetLeft][FaceCommand=0x61]Ehh[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I'm no good, ya know. 
+All I can do is pick locks and steal stuff.[A][ClearBox][TargetRight]I was just like that, too.[Pause=3]
+But, it all worked out in the end.[A][ClearBox]If you want, I'll help you look for a job.[Pause=3]
+What do you think?[A][ClearBox][TargetLeft]Hmmm[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Nah, I'm fine.
+I[FreezeMouth]...[UnfreezeMouth] like this life. It's excitin', see.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]I see.[Pause=3]
+Do tell me if you change your mind.[A][ClearBox][TargetLeft]Okay.[Pause=3]
+But if you're not comin' back, Chief, then I
+gotta look for a new partner.[A][ClearBox]Hmm, a cute girl would be kinda nice[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x73]Hey Chief, what do you think of that girl
+with the hairband over there?[A][ClearBox][TargetRight]You little fink[FreezeMouth]...[UnfreezeMouth][Pause=3] 
+You've no intention of goin' clean, huh?[A][ClearBox][X]
+
+MBTK_MARS_SHEEDA_C
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=BBG75][TargetRight]Sheeda, have you been keeping well?[A][ClearBox][TargetLeft][FaceCommand=0x73]Hello, Marth.[Pause=3]
+Yes, of course.[A][ClearBox][TargetRight][FaceCommand=0x73]I see. I'm glad to hear it.[A][ClearBox]If anything were to happen to you, I wouldn't
+be able to look King Talis in the eye.[A][ClearBox][TargetLeft][FaceCommand=0x61]You're too kind[FreezeMouth]...[UnfreezeMouth][Pause=3]
+And you, Marth? Are you well?[A][ClearBox][TargetRight]Please, worry not, Sheeda.[Pause=3]
+I've all the help I could possibly want and
+more.[A][ClearBox][TargetLeft][FaceCommand=0x73][EyeCommand=ec]Hmm.[Pause=3]
+Starting with [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth] We have so many 
+reliable people, don't we?[A][ClearBox][TargetRight]Yes. That's why[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Sheeda, I must implore you to leave the
+fighting to us.[A][ClearBox][TargetLeft][FaceCommand=0x61][EyeCommand=ed]Huh[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Marth, what do you mean[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]I do not wish to see you on the battlefield.
+If you must, I'd prefer it if you would support
+us away from the frontlines.[A][ClearBox][TargetLeft]Marth[FreezeMouth]...[UnfreezeMouth][Pause=3]
+How could you say such a thing?[A][ClearBox]Am I that much of a burden to you?[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_MARS_SHEEDA_C_2
+[TargetRight]No, Sheeda.[Pause=3]
+That's[FreezeMouth]...[UnfreezeMouth] not what I meant.[A][ClearBox]I[FreezeMouth]...[UnfreezeMouth][Pause=2] I don't want to see you get hurt.
+Your safety is of immense importance to me.[A][ClearBox][TargetLeft]So, are you telling me to wallow alone in
+prayer? Somewhere arrows won't reach me?
+While everyone else is fighting?[A][ClearBox]That[FreezeMouth]...[UnfreezeMouth] That's just[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][EyeCommand=ec]I won't have it!
+I can't just sit quietly, while others risk their
+lives.[A][ClearBox][TargetRight]Sheeda[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ed]I'll fight.[Pause=3]
+I'll fight by your side.[A][ClearBox]I'll show you that I'm capable[FreezeMouth]![UnfreezeMouth][A][ClearBox][Unknown0x4=F32][TargetLeft][RemovePortrait][TargetRight]Oh[FreezeMouth]![UnfreezeMouth] Sheeda[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][Pause=3]
+[FreezeMouth]...[UnfreezeMouth]Did I say something wrong[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_MARS_SHEEDA_B
+[TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=BBG75][TargetLeft][FaceCommand=0x73]Marth[FreezeMouth]![UnfreezeMouth][Pause=3]
+Were you watching?[A][ClearBox][TargetRight]Y-yes[FreezeMouth]...[UnfreezeMouth]
+You did splendidly.[A][ClearBox][TargetLeft]I'm so glad[FreezeMouth]...[UnfreezeMouth]
+Now, will you take back your words?[A][ClearBox][TargetRight]I[FreezeMouth]...![UnfreezeMouth][A][ClearBox][TargetLeft]Please, Marth[FreezeMouth]![UnfreezeMouth][Pause=3]
+Don't give me that look. I'm fine.[A][ClearBox]I'm much stronger than you think.[A][ClearBox][TargetRight]I[FreezeMouth]...[UnfreezeMouth][Pause=3] I see.
+You're right. You are strong.[Pause=3]
+But, that's why I worry.[A][ClearBox]The stronger you become, the more often I'll
+have to ask you to fight on the frontlines.[A][ClearBox]You hate fighting, and I worry.
+Is it not troubling for you?[A][ClearBox][TargetLeft][FaceCommand=0x61]That's[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I feel happy by your side, Marth.[A][ClearBox][TargetRight]Sheeda[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Don't you hate to fight as well?[A][ClearBox][TargetRight]Well[FreezeMouth]...[UnfreezeMouth][Pause=3] You're right. I do.[A][ClearBox][TargetLeft]I know how much it hurts you, more than
+anyone else[FreezeMouth]...[UnfreezeMouth][A][ClearBox]That's why I'll fight too.[A][ClearBox]I'll help you end this war, so that we'll never
+have to witness bloodshed again.
+Am I being selfish?[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth][Pause=3]
+All right, Sheeda.[A][ClearBox][FaceCommand=0x73]I won't say anything more.
+Please, stay with me.[A][ClearBox]And[FreezeMouth]...[UnfreezeMouth][Pause=3] together, let's bring this terrible war
+to a close.[A][ClearBox]But[FreezeMouth]...[UnfreezeMouth] please, don't push yourself too hard.[A][ClearBox][TargetLeft][FaceCommand=0x73]Yes[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][Pause=3]
+Thank you, Marth.[A][ClearBox][X]
+
+MBTK_MARS_SHEEDA_A
+[TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=BBG75][TargetRight]Sheeda.
+Have you been well?[A][ClearBox][TargetLeft][FaceCommand=0x73]Teehee[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Huh?[Pause=2] Why did you laugh?
+Was it something I said?[A][ClearBox][TargetLeft]No, not really.[A][ClearBox]It's just[FreezeMouth]...[UnfreezeMouth] you always ask me that.
+You're always worrying about everyone else.[A][ClearBox][TargetRight]I-[Pause=2]is that so?[A][ClearBox][TargetLeft][EyeCommand=ec]That's why we follow you, Marth.[Pause=3]
+It's because of your kindess that I[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]Huh[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ed]Say, Marth.[Pause=3]
+Once this war is over, will we[FreezeMouth]..?[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Yes.
+We must devote all of our energies into the
+reconstruction.[A][ClearBox][TargetLeft][FaceCommand=0x61]Oh[Pause=1] yes[FreezeMouth]...[UnfreezeMouth][Pause=3] That's[Pause=2] right.[A][ClearBox][TargetRight]And then, we'll be wed.[A][ClearBox][TargetLeft][FaceCommand=0x73]Oh, Marth[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]I'm looking forward[Pause=3] to seeing you in a
+wedding dress, Sheeda.[A][ClearBox][TargetLeft][FaceCommand=0x61]And what, sir, will I do if it becomes me less
+than this armor?[A][ClearBox][TargetRight]Hahaha, that's impossible.[Pause=3]
+You'll be beautiful regardless.[A][ClearBox][TargetLeft][FaceCommand=0x73]Really?[A][ClearBox][TargetRight]Mmm.[A][ClearBox][TargetLeft][EyeCommand=ec]Thank you, Marth.[Pause=3]
+I hope I'll be a bride worthy of you.[A][ClearBox][TargetRight]I too... 
+I'll make you the happiest woman in the world,
+Sheeda.[A][ClearBox][TargetLeft][EyeCommand=ed][FreezeMouth]...[UnfreezeMouth]Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_ROBERTO_LEIDEN_C
+[TargetRight][LoadPortrait=ROBERTO][TargetLeft][LoadPortrait=LEIDEN][LoadBackground=BBG75][TargetLeft]Robert, it's time for the war council.[A][ClearBox][TargetRight]Huh, is that so?[Pause=3]
+[FreezeMouth]...[UnfreezeMouth]Oh right, I think I heard about that[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Sir Jeigan told us yesterday.
+Have you forgotten already?[A][ClearBox][TargetRight]Eh, well, that's strange[FreezeMouth]...[UnfreezeMouth]
+I didn't intend to.[A][ClearBox][TargetLeft]You're such an airhead, you know?[A][ClearBox][TargetRight]R-really?[A][ClearBox][TargetLeft]Misbuttoning your clothes, wearing two right
+gloves[FreezeMouth]...[UnfreezeMouth][Pause=3] How do you plan to tell me otherwise?[A][ClearBox][TargetRight]Did that sort of thing happen[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]Yes.[Pause=3]
+I lent you a left glove because you had two
+right ones.[A][ClearBox]Then, you lost that too.[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Ohh[FreezeMouth]![UnfreezeMouth][Pause=3]
+I remember now.[A][ClearBox][TargetLeft]Hmm?[Pause=3]
+The war council?[Pause=3]
+Or the left glove?[A][ClearBox][TargetRight]Sir Jeigan told me he had that glove, so he
+asked me to go and collect it during the war
+council.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][A][ClearBox]I'm fairly sure he had a different set of
+gloves in mind.[A][ClearBox][X]
+
+MBTK_ROBERTO_LEIDEN_B
+[TargetRight][LoadPortrait=ROBERTO][TargetLeft][LoadPortrait=LEIDEN][LoadBackground=BBG75][TargetRight]Leiden, don't just throw away everything
+you own.[A][ClearBox][TargetLeft]...?[Pause=3]
+What are you talking about?[A][ClearBox][TargetRight]You've a habit of throwing away anything
+you don't need[FreezeMouth]...[UnfreezeMouth][A][ClearBox]They once got really mad at you when[Pause=3] you
+threw an old, dirty book away.[A][ClearBox]"How dare you! It was a precious textbook[FreezeMouth]!!"[UnfreezeMouth][Pause=3]
+they said.[A][ClearBox][TargetLeft]Yeah[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Don't even remind me.[Pause=3]
+I got in some real trouble that time.[A][ClearBox]But that happened all the way back home.[A][ClearBox]I'm just organizing my things now.
+Did I throw away something I shouldn't have?[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Isn't this book Sir Jeigan's?[Pause=3]
+I remember borrowing it.[A][ClearBox][TargetLeft][FreezeMouth]...![UnfreezeMouth]
+True[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[FreezeMouth]...[UnfreezeMouth]That was a close one.[A][ClearBox][TargetRight]Your detachment from material things is one
+of your good points, but you're just a step
+away from getting another good scolding.[A][ClearBox][TargetLeft]Indeed.
+I'd bet[FreezeMouth]...[UnfreezeMouth][Pause=3] Sir Jeigan would be frightening if
+angered[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Oh, Sir Jeigan[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...!!![UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Oops, wrong person.[A][ClearBox][TargetLeft]You craven[FreezeMouth]...![UnfreezeMouth][A][ClearBox][X]
+
+MBTK_ROBERTO_LEIDEN_A
+[SpecialText0x14][TargetRight][LoadPortrait=ROBERTO][TargetLeft][LoadPortrait=LEIDEN][LoadBackground=BBG75][TargetLeft]Robert?[Pause=3]
+Weren't you supposed to get back by
+nightfall?[A][ClearBox][TargetRight][FaceCommand=0x73]I found a shortcut.
+That's why I came back early.[A][ClearBox][TargetLeft]You never get lost anywhere[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You should share some of that sense of
+direction with Sir [SpecialText0x14=0x39].[A][ClearBox][TargetRight]Well, everyone has their strengths and
+weaknesses.[A][ClearBox]But I think Sir [SpecialText0x14=0x39]'ll survive no matter
+where he goes.[A][ClearBox][TargetLeft][FaceCommand=0x73]Haha, maybe.[A][ClearBox][TargetRight]Meanwhile, if you weren't a knight, you'd be
+some dull fellow leading a gray life
+somewhere[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]Hey, you're going too far.[Pause=3]
+And you[SpecialSymbol=0x96]if you weren't a knight[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Nah, you'd probably manage, oddly enough.[A][ClearBox][TargetRight][FaceCommand=0x61]What was that?[A][ClearBox][TargetLeft]Well[FreezeMouth]...[UnfreezeMouth][Pause=3] Doesn't matter.[Pause=3]
+Even if this war is over, it'll take time for
+the dust to settle.[A][ClearBox][TargetRight]We'll have a lot of work to do[FreezeMouth]...[UnfreezeMouth] right?[A][ClearBox][TargetLeft]Yeah.[Pause=3]
+In any case, let's focus on the task at hand.[Pause=3]
+Shall we train together?[A][ClearBox][TargetRight][FaceCommand=0x73]It would be a pleasure.[A][ClearBox][X]
+
+MBTK_ROOK_RODY_C
+[TargetRight][LoadPortrait=ROOK][TargetLeft][LoadPortrait=RODY][LoadBackground=BBG75][TargetRight]The "Quiet One"[FreezeMouth]?[UnfreezeMouth][Pause=3] No[FreezeMouth]...[UnfreezeMouth][Pause=3]
+"Stone-faced One"[FreezeMouth]?[UnfreezeMouth][Pause=3] Nah[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Argh, it's so hard to choose.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Luke.[Pause=3] Do you think you could stop giving me
+bizarre nicknames? Also, stop staring at me
+like that.[A][ClearBox][TargetRight]What, you don't like them?
+How about[FreezeMouth]...[UnfreezeMouth][Pause=3] "Cold-eyes"?[A][ClearBox][TargetLeft]That sounds like an insult to me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Am I really that cold?[A][ClearBox][TargetRight]Fine, what good ideas have you got then?[A][ClearBox][TargetLeft]I need no nicknames.[Pause=3]
+And besides, nicknames are supposed to come
+naturally, right?[A][ClearBox][TargetRight][FaceCommand=0x73]Come on, I know you actually want one; you
+can't fool me![A][ClearBox]So, I'll help you think of a fine nickname: one
+even a veteran knight of Aritia would be
+proud of.[A][ClearBox][TargetLeft][Pause=3][FreezeMouth]...[UnfreezeMouth]If that's the case,
+I'll think of a nickname for you as well.[A][ClearBox][TargetRight]Alright[FreezeMouth]![UnfreezeMouth]
+Remember to give me a cool one[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Hmm[FreezeMouth]...[UnfreezeMouth][Pause=3]
+How about "Should Be More Serious!"?[A][ClearBox][TargetRight]What[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x61][TargetLeft]You don't like it?[Pause=3]
+Then, how about "Oh Dear, He's Crazy..."?[A][ClearBox][TargetRight]Alright, I get it already[FreezeMouth]![UnfreezeMouth]
+You[FreezeMouth]...[UnfreezeMouth][Pause=3] really like to run your mouth off when
+you're in a mood.[A][ClearBox][TargetLeft][EyeCommand=ec]I do what I can, if it helps you to
+understand[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Oh, [Pause=3]those eyes[FreezeMouth]![UnfreezeMouth]
+Your nickname has to be[Pause=3] "Cold-eyes" now[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ed]In that case, yours is[Pause=3] "Do It Seriously!"[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_ROOK_RODY_B
+[TargetRight][LoadPortrait=ROOK][TargetLeft][LoadPortrait=RODY][LoadBackground=BBG75][TargetRight]Hey Rody, why did you volunteer to become
+a knight?[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]My family is poor.[Pause=3]
+It's simple really. If I want my family to eat,
+I need to earn money for them.[A][ClearBox]So, if you're asking for my reason, it would
+be family[FreezeMouth]...[UnfreezeMouth][Pause=3] That's the gist of it, I suppose.[A][ClearBox][TargetRight]I see[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That's a pretty heavy reason.[A][ClearBox][TargetLeft]Then, what made you volunteer, Luke?[A][ClearBox][TargetRight][FaceCommand=0x73]Oh, me?
+[Pause=3][FreezeMouth]...[UnfreezeMouth]Because knights get all the ladies, duh[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]What.[Pause=3]
+You volunteered to be a knight to get laid?[A][ClearBox][TargetRight][FaceCommand=0x61]W-well, kinda[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]......[A][ClearBox][TargetRight]What's wrong with that[FreezeMouth]![UnfreezeMouth][Pause=3]
+As long as I do my job right, how do my
+motives matter[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]Indeed.[Pause=3]
+I can't deny that your performance has
+been stellar.[A][ClearBox]But the thought that you've only come this
+far because of the "lay-deez" sends
+shivers down my spine[FreezeMouth]...[UnfreezeMouth][A][ClearBox]You're an idiot.[A][ClearBox][TargetRight][FaceCommand=0x73]Hahaha[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Well, to each his own, they say.[A][ClearBox][X]
+
+MBTK_ROOK_RODY_A
+[TargetRight][LoadPortrait=ROOK][TargetLeft][LoadPortrait=RODY][LoadBackground=BBG75][TargetLeft]Luke, why did you lie to me?[A][ClearBox][TargetRight]Hm?[Pause=3]
+What are you talking about?[A][ClearBox][TargetLeft]About your motive for becoming a knight.[Pause=3]
+Why did you make up that story about
+attracting girls?[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Who told you?[A][ClearBox][TargetLeft]Sir Jeigan.[Pause=3]
+He told me during a war council the other
+day.[A][ClearBox][TargetRight]Damn.[Pause=3]
+I guess I've got nowhere to hide now.[A][ClearBox][TargetLeft]So you volunteered to become a knight in
+place of your older brother,[A][ClearBox]who became bedridden right when he was
+about to receive the title himself.[A][ClearBox]That's a splendid reason: one you should be
+proud of.[Pause=3] Why lie?[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]It isn't splendid, and it isn't anything to be
+proud of.[A][ClearBox][TargetLeft]What[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight]My family has served in the Aritian knights
+for generations.[A][ClearBox]In other words[FreezeMouth]...[UnfreezeMouth] I was forced to volunteer
+as my brother's substitute, to protect my
+family's honor.[A][ClearBox]But you see[FreezeMouth]...[UnfreezeMouth][Pause=3] I'm me.[Pause=3] I'm not my brother[SpecialSymbol=0x96]
+I'm not some stinking substitute[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Luke[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]So, I decided to volunteer on my own steam.[Pause=3]
+[Pause=3][FreezeMouth]...[UnfreezeMouth]For all the women of this world, naturally.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][Pause=3]
+Let's just leave it at that.[A][ClearBox][FaceCommand=0x73]I'm counting on you, partner. Let's hope we
+get a girlfriend or two with our dashing
+visages and peerless chivalry.[A][ClearBox][TargetRight][FaceCommand=0x73]Hahah[FreezeMouth]![UnfreezeMouth][Pause=3]
+So even you've got a sense of humor.[A][ClearBox][Pause=3][FreezeMouth]...[UnfreezeMouth]Thanks, man.[Pause=3]
+I'm counting on you too.[A][ClearBox][X]
+
+MBTK_SAJI_MAJI_C
+[TargetRight][LoadPortrait=MAJI][LoadBackground=BBG75][TargetLeft][LoadPortrait=SAJI][FaceCommand=0x73]Oh[FreezeMouth]![UnfreezeMouth][Pause=3]
+There y'are, Maji.[A][ClearBox][TargetRight][FaceCommand=0x73]What's it now,[Pause=3] Saji[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]Somebody[Pause=2] mistook me for you, AGAIN[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]Wha[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][Pause=3]
+Who was it[FreezeMouth]!?[UnfreezeMouth][A]
+I'll take care of 'em.[A][ClearBox]Tell me[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61][EyeCommand=eh]Err[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[EyeCommand=ed]Huh, who was it again?[A][ClearBox][TargetRight]Hey[FreezeMouth]![UnfreezeMouth][Pause=3]
+Gimme a break.[A][ClearBox][FaceCommand=0x73]Man[FreezeMouth]...[UnfreezeMouth][Pause=1] You're really slow.[A]
+You're like my complete opposite.[A][ClearBox][TargetLeft][FaceCommand=0x61][EyeCommand=ed]What[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][FaceCommand=0x73]What about you?
+Hitting things without caring what happens.
+Faster doesn't mean better[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]What[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][EyeCommand=ec][FreezeMouth]......[UnfreezeMouth]Show it.[A]
+[EyeCommand=ed]Today, we're gonna prove who's the better
+one![A][ClearBox][TargetLeft][FaceCommand=0x61]Yeah, bring it[FreezeMouth]![UnfreezeMouth][A][ClearBox]Don't come cryin' to me later![A][ClearBox][TargetLeft][RemovePortrait][TargetRight]Heh,[Pause=3] that's MY line, buddy.[A][ClearBox][FaceCommand=0x61]I'mma force you into an early retirement[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][TargetLeft][LoadPortrait=MARS]Did I just[FreezeMouth]...[UnfreezeMouth][Pause=3] hear something incredibly
+dangerous[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_SAJI_MAJI_B
+[TargetRight][LoadPortrait=MAJI][EyeCommand=eh][TargetLeft][LoadPortrait=SAJI][EyeCommand=ec][LoadBackground=BBG75][TargetLeft]Hahh,[Pause=2] haah[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]What's wrong?[Pause=2] Outta breath already,[Pause=3]
+Saji[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Heh heh[FreezeMouth]...[UnfreezeMouth]
+[EyeCommand=ed]Don't be crazy.[Pause=3] Look at yourself first![A][ClearBox][FaceCommand=0x61]Alright,[Pause=3] time to drop[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Sound=SE_EVT_HIT3]Here I come[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][EyeCommand=ed]Me too[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[Sound=SE_EVT_HIT3]Have atcha[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=eh]One,[Pause=2] two[FreezeMouth]...[UnfreezeMouth][Pause=3] yeah.[A][ClearBox][EyeCommand=ed][FaceCommand=0x73]Nine it is.[A][ClearBox][TargetRight][EyeCommand=eh][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth]Alright.[Pause=3]
+[EyeCommand=ed]I got ten[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]What[FreezeMouth]![UnfreezeMouth][Pause=3]
+Show me.[A][ClearBox][TargetRight]Here ya go[FreezeMouth]![UnfreezeMouth][Pause=3]
+Whaddya think?[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_SAJI_MAJI_B_2
+[TargetLeft]Y-[Pause=1]you sonuva[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Whaddya know[FreezeMouth]?[UnfreezeMouth][A][ClearBox]I win[FreezeMouth]...[UnfreezeMouth][Pause=3] this one.[A][ClearBox][TargetLeft][FaceCommand=0x73]Wahaha[FreezeMouth]![UnfreezeMouth][Pause=3]
+Nonsense[FreezeMouth]![UnfreezeMouth][A][ClearBox][FaceCommand=0x61]Look at how you've cut these[FreezeMouth]...[UnfreezeMouth][A]
+[FaceCommand=0x73]More doesn't mean better, you dolt[FreezeMouth]![UnfreezeMouth][A][ClearBox][EyeCommand=eh]Seriously, what are you gonna use[Pause=3][EyeCommand=ed] this wood
+for?[A][ClearBox][TargetRight][FaceCommand=0x61]Firewood man, firewood[FreezeMouth]![UnfreezeMouth][A][ClearBox][FaceCommand=0x73]Who cares about the shape if you're[Pause=3] gonna
+burn 'em anyway?[A]
+You're too naive[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]What didya say[FreezeMouth]!?[UnfreezeMouth][A][ClearBox]The cut of the wood[Pause=3] can make it easier or
+harder to burn[FreezeMouth]![UnfreezeMouth][A]
+[FaceCommand=0x73]You're the naive one[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][EyeCommand=eh][FaceCommand=0x61]Gah[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You just won't accept it, will ya.[A][ClearBox][TargetLeft]Of course I won't.[A][ClearBox][TargetRight][EyeCommand=ed][FaceCommand=0x73]Then[FreezeMouth]...[UnfreezeMouth][Pause=3] we'll settle our score in that forest
+over there[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][TargetLeft][FaceCommand=0x73]Yeah[FreezeMouth]![UnfreezeMouth][Pause=3]
+Don't worry. I'll pay my respects to your
+grave soon enough[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=MARS][FaceCommand=0x61]Oh dear, those two[FreezeMouth]...[UnfreezeMouth][Pause=3]
+They're doing just as I feared, aren't they[FreezeMouth]?[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_SAJI_MAJI_A
+[TargetRight][LoadPortrait=MAJI][EyeCommand=ec][TargetLeft][LoadPortrait=SAJI][EyeCommand=eh][LoadBackground=BBG75][TargetRight]Hiyaah,[Pause=3] hyaah[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Did we[FreezeMouth]...[UnfreezeMouth][Pause=3] take our match too far?[A][ClearBox][TargetRight][EyeCommand=eh][FaceCommand=0x73]What,[Pause=1] you crying already?[A][ClearBox][TargetLeft][EyeCommand=ec][FaceCommand=0x73]Don't spout rubbish.[A][ClearBox][EyeCommand=eh]Aren't you the one[Pause=3] with the trembling voice?[A][ClearBox][TargetRight][FaceCommand=0x61][EyeCommand=ec]Heh,[Pause=1] shut up.
+[EyeCommand=ed]I[FreezeMouth]...[UnfreezeMouth][Pause=3][Sound=SE_EVT_HIT3] chopped down the most trees[FreezeMouth]![UnfreezeMouth][A][ClearBox][FaceCommand=0x73]Victory is mine.[A][ClearBox][TargetLeft][EyeCommand=ed][FaceCommand=0x61]Nah[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][Pause=3]
+[Sound=SE_EVT_HIT3]Just look [Pause=1]at this opening.[A][ClearBox][FaceCommand=0x73]It's my win, any way you slice it[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][EyeCommand=ed][FaceCommand=0x61]What[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]C'mon,[Pause=3] don't tell me you're still denyin' it[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][TargetRight]Damn you[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][Unknown0x4=F32][TargetLeft][RemovePortrait][TargetLeft][LoadPortrait=MARS]Wait,[Pause=1] you two[FreezeMouth]![UnfreezeMouth][Pause=3]
+Why are you fighting?[A][ClearBox][TargetRight]Oh,[Pause=1] Prince Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Music=BGM_EVT_DAILY1][TargetLeft]Did you two[Pause=1] cut down all of[FreezeMouth]...[UnfreezeMouth] these trees by
+yourselves?[A][ClearBox][TargetRight]Yeah[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That's right.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_SAJI_MAJI_A_2
+[TargetLeft][FaceCommand=0x73]Ah,[Pause=1] these trees[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Saji cut these, right?[A][ClearBox][TargetRight][RemovePortrait][TargetRight][LoadPortrait=SAJI]What, [Pause=1]you can tell[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][TargetLeft]Of course.[A]
+It's a very clean, neat cut.[A][ClearBox][EyeCommand=ec][FaceCommand=0x61]There's no better material[Pause=3] for crafting
+training weapons than this.[A][ClearBox][EyeCommand=ed][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth]That is what[Pause=3] I've heard Jeigan say many
+times.[A][ClearBox]Let me express my gratitude.[A]
+Thank you, [Pause=1]Saji.[A][ClearBox][TargetRight][FaceCommand=0x73]Ah,[Pause=2] thanks.[A][ClearBox][TargetLeft][FaceCommand=0x61]Then,[Pause=3] that mountain of wood must be Maji's.[A][ClearBox][TargetRight][RemovePortrait][TargetRight][LoadPortrait=MAJI][FaceCommand=0x61]Y-[Pause=1]yeah.[A][ClearBox][TargetLeft][FaceCommand=0x73]Maji.[Pause=3]
+Thanks to you,[Pause=1] we've no lack of firewood.[A][ClearBox][FaceCommand=0x61]Your efforts mean that we've never had
+any shortage of cooked food or lighting.
+[FaceCommand=0x73]Thank you.[A][ClearBox][TargetRight][FaceCommand=0x73]Uh,[Pause=2] no biggie.[A][ClearBox][TargetLeft][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]By the way, why were the two of you
+engaged in such a heated contest?[A][ClearBox][TargetRight][FaceCommand=0x61]N-no, [Pause=1]it's[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetLeft][LoadPortrait=SAJI][FreezeMouth]...[UnfreezeMouth]Maji.[A]
+Just this time, let's call it a draw[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x73]No, [Pause=1]this time... we're both winners[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Yeah, [Pause=3]ain't that right[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MBTK_SAMSON_SIMA_C
+[TargetLeft][LoadPortrait=SAMSON][LoadBackground=BBG75][TargetRight][LoadPortrait=SIMA]Ah.[Pause=3] Samson.[A][ClearBox][TargetLeft]Hm, Sheema?[A]
+Do you need somethin'?[A][ClearBox][TargetRight]No, err[FreezeMouth]...[UnfreezeMouth][A]
+[EyeCommand=ec]N-[Pause=1]nothing in particular really[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]I see.[A][ClearBox][TargetRight][EyeCommand=ed]Have I[FreezeMouth]...[UnfreezeMouth][Pause=2] annoyed you?[A][ClearBox][TargetLeft]No.[A][ClearBox][FaceCommand=0x73]Why would I [Pause=3]be annoyed simply because of
+your summons?[A][ClearBox][TargetRight]Huh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Why wouldn't you be?[A][ClearBox][TargetLeft][FaceCommand=0x61][EyeCommand=ec][FreezeMouth]...[UnfreezeMouth][A]
+I can't say.[A][ClearBox][TargetRight][FaceCommand=0x73]I-[Pause=1]I see.[A][ClearBox][FaceCommand=0x61]My apologies,[Pause=1] I've intruded, have I not?[A][ClearBox][TargetLeft][EyeCommand=ed]No.[Pause=3]
+That's not it, Sheema.[A][ClearBox]I am[Pause=1] the one at fault.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Don't say that.[Pause=3]
+The fault is mine.[A][ClearBox][TargetLeft][EyeCommand=ec]Hm[FreezeMouth]...[UnfreezeMouth][FreezeMouth][UnfreezeMouth][A][ClearBox][TargetRight][EyeCommand=ec][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ed][FreezeMouth]...[UnfreezeMouth]It seems we've come to an impasse.[A][ClearBox][TargetRight][EyeCommand=ed][FaceCommand=0x73]Ah,[Pause=1] yes....[Pause=3]
+You're correct.[A][ClearBox][TargetLeft][FaceCommand=0x73]Shall we go outside,[Pause=1] Sheema?[A][ClearBox]You should remove[Pause=3] that heavy armor while
+you're at it.[A][ClearBox][TargetRight][EyeCommand=ec]Alright.[A][ClearBox][EyeCommand=ed]Could you[FreezeMouth]...[UnfreezeMouth][Pause=2] go on ahead then,[Pause=3] Samson?[A]
+I'll join you later.[A][ClearBox][TargetLeft]Yes,[Pause=1] understood.[A][ClearBox][X]
+
+MBTK_SAMSON_SIMA_B
+[TargetLeft][LoadPortrait=SAMSON][TargetRight][LoadPortrait=SIMA][LoadBackground=BBG75][TargetRight]Samson,[Pause=3] do you have[FreezeMouth]...[UnfreezeMouth][Pause=2] any desire to be king?[A][ClearBox][TargetLeft][EyeCommand=ec]Hmm[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Nope.[A][ClearBox][TargetRight]I-[Pause=1]I see[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ed]I'm a mercenary, and always will be.[A][ClearBox][FaceCommand=0x73]Besides, Sheema... I don't[Pause=1] have the ability
+to rule over another.[A][ClearBox][TargetRight][EyeCommand=ed]Well, I'm not sure[Pause=3] I agree[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]Hmm?[A][ClearBox][TargetRight]No, pay it no mind.[A][ClearBox]I[FreezeMouth]...[UnfreezeMouth] I don't have that ability either.[A][ClearBox][TargetLeft]Sheema,[Pause=1] don't tell me, you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73][EyeCommand=ec]Yes.[Pause=3]
+This war made it all too clear.[A][ClearBox][EyeCommand=ed]I am[Pause=3] not qualified to be queen[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][FreezeMouth][UnfreezeMouth][A]
+It seems you've made up your mind.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Samson.[Pause=3]
+Can I ask you just one thing?[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_SAMSON_SIMA_B_2
+[TargetLeft][FaceCommand=0x73]Yes, of course.[A][ClearBox][TargetRight][FaceCommand=0x61]A mercenary[FreezeMouth]...[UnfreezeMouth][Pause=3] is oftentimes forced to serve
+a master[Pause=1] with whom he does not agree,
+correct?[A][ClearBox][TargetLeft][FaceCommand=0x61]That[FreezeMouth]...[UnfreezeMouth][Pause=3] depends on the mercenary.[A][ClearBox]If you don't like them,[Pause=3] then don't work with
+them.[A][ClearBox][FaceCommand=0x73]That's what I reckon,[Pause=1] at any rate. 
+I'll not cheapen my ideals for anyone.[A][ClearBox][TargetRight][FaceCommand=0x73]I see.[Pause=3]
+Thank goodness[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]Hm?[Pause=3]
+What do you mean?[A][ClearBox][TargetRight][FaceCommand=0x61]Ah,[Pause=1] no, it's nothing.[Pause=3]
+I'm just talking to myself.[A][ClearBox][TargetLeft]I see.[A]
+Well, if that's an acceptable answer,[Pause=3] then
+all is well.[A][ClearBox][TargetRight][FaceCommand=0x73]Uh,[Pause=1] Samson.[A][ClearBox]There is one more[Pause=1] thing I'd like to ask you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]So many questions today[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Go ahead,[Pause=1] Sheema.[A][ClearBox][TargetRight]Thank you.[Pause=3]
+Then[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_SAMSON_SIMA_A
+[TargetRight][LoadPortrait=SIMA][FaceCommand=0x73][TargetLeft][LoadPortrait=SAMSON][FaceCommand=0x73][LoadBackground=BBG75][TargetRight]Samson, you used[Pause=3] to protect a village[Pause=1] near
+Akaneia Palace, long ago, correct?[A][ClearBox][TargetLeft]Yeah.[Pause=3]
+It was a good place to live.[A][ClearBox][TargetRight][FaceCommand=0x61]Well,[Pause=3] this is just hearsay but[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]Hm? [Pause=2]What is it?[A][ClearBox][TargetRight][FaceCommand=0x73]I've heard that Pales town[Pause=3] is a
+wonderful place to shop.[A][ClearBox][FaceCommand=0x61][EyeCommand=ec]I, um[FreezeMouth]...[UnfreezeMouth][Pause=3] I'm unfamiliar[Pause=1] with the area so[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=eh]So, I was[Pause=2] wondering[FreezeMouth]...[UnfreezeMouth][EyeCommand=ed][Pause=3][A][ClearBox]If it would be okay with you,[Pause=3] would you escort
+me[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Of course.[Pause=3]
+An easy task.[A][ClearBox][TargetRight][FaceCommand=0x73]I'm so happy[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A]
+[FaceCommand=0x61]Err,[Pause=3] I mean[FreezeMouth]...[UnfreezeMouth][Pause=1]
+You have my gratitude.[A][ClearBox][TargetLeft][FaceCommand=0x61]Yeah.[Pause=3]
+But[FreezeMouth]...[UnfreezeMouth][Pause=2] there is one slight problem.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_SAMSON_SIMA_A_2
+[TargetRight]Huh?[Pause=1] What would that be?[A][ClearBox][TargetLeft]Pales town is huge.[A]
+You cannot possibly go around[Pause=3] all of it in
+just one or two days.[A][ClearBox][TargetRight]I-I see[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ec][FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ed]I wonder if[Pause=3] Prince Marth will emerge
+victorious.[A][ClearBox][TargetRight][EyeCommand=ed]Huh?[A][ClearBox]Oh,[Pause=2] yes.[Pause=3]
+Most likely.[A][ClearBox][TargetLeft]If that should happen,[Pause=3] m'lady will probably[Pause=2]
+live in Pales.[A][ClearBox][TargetRight][FreezeMouth]...![UnfreezeMouth][Pause=3]
+Samson,[Pause=1] do you mean[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]You can come anytime,[Pause=1] Sheema.[A]
+I'll[Pause=1] be right there.[A][ClearBox][TargetRight][FaceCommand=0x73]Yes[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MBTK_SEAZER_RADEI_C
+[TargetRight][LoadPortrait=SEAZER][TargetLeft][LoadPortrait=RADEI][LoadBackground=BBG75][TargetRight]Did you like the book I lent you the other
+day, Raddy? Was it informative?[A][ClearBox][TargetLeft][FaceCommand=0x73][Pause=3]Uhh[FreezeMouth]...[UnfreezeMouth][Pause=3] Y-yes[FreezeMouth]![UnfreezeMouth][Pause=3]
+It sure was[FreezeMouth]![UnfreezeMouth] I feel so much stronger already![A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]You could just admit to me you hadn't read
+it. I won't get mad.[A][ClearBox][TargetLeft]Ahahaha[FreezeMouth]...[UnfreezeMouth] sorry[FreezeMouth]...[UnfreezeMouth][Pause=3]
+The letters are too small[FreezeMouth]...[UnfreezeMouth]
+It's kind of hard to read.[A][ClearBox][TargetRight]Your fencing style is self-taught.
+I'll admit that you're skilled, but it might
+cause you problems in the future.[A][ClearBox]So[FreezeMouth]...[UnfreezeMouth] read, Raddy. Read. 
+You need to get some real instruction.
+You'll regret it later, if you don't.[A][ClearBox][TargetLeft][FaceCommand=0x61]I know that![Pause=3]
+I'm just[FreezeMouth]...[UnfreezeMouth] no good at book-learnin'.[A][ClearBox]It just goes right out of my head as soon as
+I head into battle.[A][ClearBox][TargetRight]Good heavens[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox][TargetRight]That's because you feel your way through
+fights.[A][ClearBox]If you could combine that with a little formal
+knowledge[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Why, you'd be the strongest mercenary on
+the continent![A][ClearBox][TargetLeft]The strongest on the continent[FreezeMouth]!?[UnfreezeMouth][Pause=3]
+Who, m-me[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][TargetRight]Yes, you.[Pause=3]
+You've got a ton of potential in you, Raddy.[A][ClearBox][TargetLeft]Really[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]I guarantee it.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Caesar[FreezeMouth]![UnfreezeMouth][Pause=3]
+Can I borrow your book for a little longer[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][TargetRight]Sure.
+If there's anything you don't understand,
+just ask.[A][ClearBox][TargetLeft][FaceCommand=0x73]Thanks[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]That attitude of his[FreezeMouth]...[UnfreezeMouth] isn't going to change,
+is it?[A][ClearBox][X]
+
+MBTK_SEAZER_RADEI_B
+[TargetRight][LoadPortrait=SEAZER][TargetLeft][LoadPortrait=RADEI][LoadBackground=BBG75][TargetRight]Raddy, we have to talk.[A][ClearBox][TargetLeft]Wha[FreezeMouth]...[UnfreezeMouth][Pause=3]
+What is it?[A][ClearBox][TargetRight]What was that pathetic display of
+swordsmanship?[Pause=3] Do that on a battlefield,
+and you'd be dead in seconds.[A][ClearBox][TargetLeft]Ah, well, y'see[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm feeling a little sick today.[A][ClearBox][TargetRight]We mercenaries fight on the frontlines;
+our blades lashing out at the enemy.[A][ClearBox]Do you really think that I'd let a poor excuse
+like that slide?[A][ClearBox][TargetLeft]N-no[FreezeMouth]![UnfreezeMouth][Pause=3]
+The truth is[FreezeMouth]...[UnfreezeMouth]
+I was testing out a style from that book.[A][ClearBox][TargetRight]Book[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+You mean the one I lent you?[A][ClearBox][TargetLeft]Yeah. 
+The minute I gave it a shot[FreezeMouth]...[UnfreezeMouth] I understood.[Pause=3]
+I can't fight with those techniques.[A][ClearBox]I'm pretty sure I'm not going to get stronger
+learning like this, Caesar.[A][ClearBox][TargetRight]I see[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Actually, I was wondering if that wasn't the
+case, myself.[A][ClearBox]Your strength lies in your instincts. 
+You've got a very primal style.[A][ClearBox]I suppose it'd be a problem if we tried to
+dilute it[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Got it.[Pause=3]
+I'll have to work hard to get stronger, my
+own way.[A][ClearBox][TargetRight]It's a pity. 
+I really did think you'd be the strongest,
+if you learned how to fence properly[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]There you go again.[Pause=3]
+It can't be helped if I can't do it.
+Well, there goes that dream![A][ClearBox][TargetLeft][RemovePortrait][TargetRight][FreezeMouth]...[UnfreezeMouth]I wasn't lying, you know.[A][ClearBox][X]
+
+MBTK_SEAZER_RADEI_A
+[TargetRight][LoadPortrait=SEAZER][TargetLeft][LoadPortrait=RADEI][LoadBackground=BBG75][TargetLeft][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]What?
+You've been staring at me for quite some
+time. Can't you see I'm reading?[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]You're incredible, Caesar.[A][ClearBox][TargetRight]That's not sudden at all.[Pause=3]
+You want something from me?[A][ClearBox][TargetLeft]No, that's not it[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You're always giving it your all, right?
+Doing your best to get stronger, I mean.[A][ClearBox]Learning tactics from difficult books,
+sparring with all kinds of opponents,
+and learning new techniques[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]We're fighting in a war.[Pause=3]
+I just want to raise my chances of survival,
+even by the tiniest amount.[A][ClearBox]This army has[Pause=3] many skilled warriors.
+There's a lot I can learn from them.[A][ClearBox][TargetLeft]Guys like you are probably those "first-rate
+mercenaries" that everyone talks about.[A][ClearBox][TargetRight]If that's how you feel, why not follow my
+example?[A][ClearBox][TargetLeft]I just can't.[Pause=3] This is the only way I can fight[FreezeMouth]...[UnfreezeMouth]
+Improvising my way out of the worst
+scrimmage.[A][ClearBox]Caesar[FreezeMouth]...[UnfreezeMouth][Pause=2]
+Please don't ever leave me.[A][ClearBox][TargetRight]What are you spouting now?[Pause=3]
+Of course I won't leave you.[Pause=3]
+[FreezeMouth]...[UnfreezeMouth]Now shoo. You're distracting me.[A][ClearBox][TargetLeft][FaceCommand=0x73]Heh heh[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight]How can Raddy even say things like that[FreezeMouth]...[UnfreezeMouth][Pause=3]
+His style's been improving each battle.[A][ClearBox]I've got to be careful I don't fall behind him.[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_SHEEDA_OGUMA_C
+[TargetRight][LoadPortrait=SHEEDA][TargetLeft][LoadPortrait=OGUMA][LoadBackground=BBG75][TargetRight]Oguma, do you have a moment?[A][ClearBox][TargetLeft] Yes, Princess?[A][ClearBox][TargetRight]Here, please hold this[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Is this a vulnerary?[A][ClearBox][TargetRight]You wounded your left shoulder whilst
+protecting me in the last battle, am I right?[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]So you noticed.[A][ClearBox][TargetRight]I know, because you're always watching out
+for me[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I'm sure you suffered far more wounds that
+I'm not aware of.[A][ClearBox][TargetLeft]Of course not.
+Have confidence in my abilities, Princess.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]I'm sorry.
+I've caused you so much bother[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Please raise your head.
+My life is yours.[A][ClearBox]You needn't concern yourself with my wounds.[A][ClearBox][TargetRight]Oguma[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Please give that vulnerary to Marth.
+I have no need for it.[A][ClearBox][TargetRight]No[FreezeMouth]![UnfreezeMouth][Pause=3]
+I had this vulnerary concocted especially for
+you.[A][ClearBox]I want you to use it![A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Very well.[Pause=3]
+Then, I shall gladly accept it.[A][ClearBox][X]
+
+MBTK_SHEEDA_OGUMA_B
+[TargetRight][LoadPortrait=SHEEDA][TargetLeft][LoadPortrait=OGUMA][LoadBackground=BBG75][TargetRight]Hello,[Pause=2] Oguma.[A][ClearBox][TargetLeft]Princess.
+Is there something you want?[A][ClearBox][TargetRight]I just wanted to thank you for saving me
+again.[A][ClearBox][TargetLeft]No need.
+It's my duty to protect you and the prince.[A][ClearBox][TargetRight][FaceCommand=0x73]Thank you, Oguma.[A][ClearBox]With you by our side, Marth and I can fight
+as freely as the wind.[A][ClearBox]I've no doubt that there are few battles
+over which we cannot triumph.[A][ClearBox][TargetLeft]I am hardly deserving of such high praise.[A][ClearBox][TargetRight][FaceCommand=0x61]I do worry about one little thing though:
+Your habit of never relying on others[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I'm afraid, Oguma. 
+I'm afraid you'll leave us one day.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Please don't forget, Oguma.[A][ClearBox]As you protect us, we too shall protect you.[A][ClearBox]You are not alone.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Yes.[A][ClearBox][X]
+
+MBTK_SHEEDA_OGUMA_A
+[TargetRight][LoadPortrait=SHEEDA][TargetLeft][LoadPortrait=OGUMA][LoadBackground=BBG75][TargetLeft][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Oguma?[A][ClearBox][TargetLeft][FreezeMouth]...![UnfreezeMouth][Pause=3]
+[FreezeMouth]...[UnfreezeMouth]Princess.[A][ClearBox][TargetRight][FaceCommand=0x73][Music=BGM_EVT_PEACEFUL1]Hee hee, you let your guard down for a
+change![A][ClearBox][TargetLeft]Now you're making fun of me[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][EyeCommand=ec]Haha, I'm actually pretty happy right now.[A][ClearBox][TargetLeft]Happy?[A][ClearBox][TargetRight][EyeCommand=ed]Uh-huh.[A][ClearBox]It's the first time you've not noticed someone
+sneak up on you.[A][ClearBox]I'm glad you've started to trust us.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]True. I don't feel like an island anymore.[A][ClearBox][FreezeMouth]...[UnfreezeMouth]That was a big fault of mine.[A][ClearBox]It never once crossed my mind to rely on
+someone else in battle.[A][ClearBox]That[FreezeMouth]...[UnfreezeMouth][Pause=3] probably means I've grown weaker.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_SHEEDA_OGUMA_A_2
+[TargetRight][FaceCommand=0x61]That's not true.[Pause=3]
+You haven't become weaker.[A][ClearBox]If anything, you've only gotten stronger since
+I first met you.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Having something to protect and having the
+relief, knowing somebody is protecting me[FreezeMouth]...[UnfreezeMouth][A][ClearBox]You say I've grown stronger thanks to that?[A][ClearBox][TargetRight]Yes, that's what I believe.[Pause=3]
+I'm the same[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]It's so mysterious.[A][ClearBox]Hearing it from you, it really does feel like
+I've become stronger.[A][ClearBox][TargetRight][FaceCommand=0x73]Teehee.[A][ClearBox]I must pray to the goddess of fortune for
+that strength of yours to always be with me.[A][ClearBox][TargetLeft]Then, to answer to your expectations,
+I hereby vow to fight to the end, as your
+sword.[A][ClearBox][TargetRight]Thank you, Oguma.[A][ClearBox][X]
+
+MBTK_SIRIUS_BELF_C
+[TargetRight][LoadPortrait=SIRIUS][TargetLeft][LoadPortrait=BELF][LoadBackground=BBG75][TargetLeft]Sir Sirius[FreezeMouth]![UnfreezeMouth]
+I wonder if you could spare a moment?[A][ClearBox][TargetRight]Sir Belf[FreezeMouth]...[UnfreezeMouth][Pause=3]
+What business do you have with me?[A][ClearBox][TargetLeft]Your mask[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'd like to see the face behind it.[A][ClearBox][TargetRight][FreezeMouth]...![UnfreezeMouth][A][ClearBox][TargetLeft]I understand that you have your reasons 
+for hiding your indentity. But[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Still, I'd like to ask this of you.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]And if I say no?[A][ClearBox][TargetLeft]Then please tell me why.[A][ClearBox]I was once a Sable Knight of Grunia.
+I was one of the enemy then.[A][ClearBox]Even so, Prince Marth has accepted me into
+his army.[A][ClearBox]The prince looks beyond trivialties such as
+nationality[FreezeMouth]...[UnfreezeMouth][A][ClearBox]There should be no need to disguise yourself,
+I would think.[A][ClearBox][TargetRight]Sir Belf,[Pause=3] I believe you've mistaken me for
+another. Please leave me be.[A][ClearBox][TargetLeft]General[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]You are mistaken. I am no general.[Pause=3]
+I am Sirius[FreezeMouth]...[UnfreezeMouth][Pause=3] Merely Sirius.[A][ClearBox][X]
+
+MBTK_SIRIUS_BELF_B
+[TargetRight][LoadPortrait=SIRIUS][TargetLeft][LoadPortrait=BELF][LoadBackground=BBG75][TargetLeft]That was a magnificent battle, Sir Sirius.[A][ClearBox][TargetRight]Sir Belf[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I recall asking you to leave me be.[A][ClearBox][TargetLeft]It matters not if you wear a mask.[Pause=3]
+I can tell from your fighting style.
+That's Grunian spear technique.[A][ClearBox][TargetRight]It seems that our misunderstanding still
+stands.[Pause=3] 'Tis a pity.[A][ClearBox][TargetLeft]I understand.[Pause=3]
+If you are so strongly intent on hiding
+yourself, I won't force you.[A][ClearBox]But[FreezeMouth]...[UnfreezeMouth][Pause=3]
+At least tell me.[Pause=3]
+Why? Why go so far to hide it?[A][ClearBox][TargetRight][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetLeft]General[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]For argument's sake,[Pause=3] if I were in fact the
+Grunian general you claim I am, Sir Belf[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]What do you think would result from my
+revealing myself?[A][ClearBox]A resistance would rise, and I would be their
+symbol. I would provide the impetus needed to
+free Grunia.[A][ClearBox]I hardly think now is the time for further
+Grunian blood to be spilt.[A][ClearBox][TargetLeft][FreezeMouth]...![UnfreezeMouth][A][ClearBox][TargetRight]Now, if you'll excuse me.[A][ClearBox][TargetRight][RemovePortrait][TargetLeft][FreezeMouth]......[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_SIRIUS_BELF_A
+[TargetRight][LoadPortrait=SIRIUS][TargetLeft][LoadPortrait=BELF][LoadBackground=BBG75][TargetLeft]Sir Sirius.[Pause=3]
+I'd like to apologize for my rudeness.
+I[FreezeMouth]...[UnfreezeMouth] seem to have made a grave error.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]What matters is that you understand.[Pause=3]
+Very well, I shall take my leave.[A][ClearBox][TargetLeft]Please wait.[Pause=3] Would you[FreezeMouth]...[UnfreezeMouth][Pause=3] mind keeping me
+company[FreezeMouth]...?[UnfreezeMouth] I want to speak with you.
+About the past, I mean.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]The general who led the Grunian Sable
+Order, which I was a member of, was a
+wonderful person.[A][ClearBox]He used to tell us this:
+A knight's spear is not for himself.
+It exists to protect the weak.[A][ClearBox]I've come thus far holding his words to my
+heart. But[FreezeMouth]...[UnfreezeMouth] even though I chose this path,[Pause=3]
+I wonder if I made the right choice[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Sir Sirius, if the general were alive, do you
+think he'd have anything to say to me?[A][ClearBox][TargetRight]Sir Belf[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I am proud to have you as my subordinate.[A][ClearBox]I want you to keep protecting the people, in
+my stead, for I've already departed from
+Akaneia[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]I[FreezeMouth]...[UnfreezeMouth] I would imagine he would say something
+along those lines.[A][ClearBox][TargetLeft][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth]Thank you[FreezeMouth]...[UnfreezeMouth][Pause=3] so much[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MBTK_YUMINA_YUBERO_C
+[TargetRight][LoadPortrait=YUBELLO][TargetLeft][LoadPortrait=YUMINA][LoadBackground=BBG75][TargetLeft]Yubello,[Pause=1] listen.[A][ClearBox][TargetRight]Yes?[Pause=3] What is it,[Pause=2] Yumina?[A][ClearBox][TargetLeft]As you know,[Pause=3] you and I are the last of the
+Grunian royal family.[A][ClearBox]You do understand what that entails, don't
+you?[A][ClearBox][TargetRight]Yes[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Yes, I do.[A][ClearBox][TargetLeft]The nobility have a very special task:[Pause=1]
+they have to be both strong and wise[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That means you too, Yubello.[A][ClearBox][TargetRight][FaceCommand=0x73]Mmm-hmm.[A][ClearBox][TargetLeft]So[FreezeMouth]...[UnfreezeMouth][Pause=1][A][ClearBox][FaceCommand=0x73]I was thinking[Pause=3] that we should use our free
+time to study together.[A][ClearBox][TargetRight][FaceCommand=0x61]Huh[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]What's the matter?[Pause=2]
+Don't you want to?[A][ClearBox][TargetRight]No,[Pause=3] not really, [EyeCommand=eh]I guess[FreezeMouth]...?[UnfreezeMouth][EyeCommand=ed][A][ClearBox][TargetLeft]Prince Yubello![Pause=1]
+This is your duty, so no whining![A][ClearBox]In any event, I have to make preparations
+today,[Pause=3] so we'll continue next time.[A][ClearBox][FaceCommand=0x73]We'll meet again[Pause=1] at this very place.
+Got it?[A][ClearBox][TargetRight]Oh,[Pause=2] okay.[FaceCommand=0x73] I'll come.[A][ClearBox][TargetLeft]Good answer.
+Until then,[Pause=1] fare you well, Brother[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][FaceCommand=0x61]You too,[Pause=3] Yumina[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_YUMINA_YUBERO_B
+[TargetRight][LoadPortrait=YUBELLO][LoadBackground=BBG75][TargetRight]Waah,[Pause=2] wh-what's this?[A]
+These books[Pause=1] are up to my eyes[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Music=BGM_EVT_DAILY1][TargetLeft][LoadPortrait=YUMINA][FaceCommand=0x73]I see you've come,[Pause=1] Yubello.[A][ClearBox][TargetRight]Did you[FreezeMouth]...[UnfreezeMouth][Pause=3] really get all these books, Yumina?[A][ClearBox][TargetLeft]Yes, you are absolutely correct.[A][ClearBox]Naturally,[Pause=3] we of the nobility require this sort
+of rigor in our studies.[A][ClearBox][TargetRight]Huh?
+Wasn't it [Pause=1]a lot of trouble[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]Are you well,[Pause=3] Yumina[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ed][FaceCommand=0x61]Oh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Of course I am.[A][ClearBox]You need not[Pause=3] worry so much.[A][ClearBox][TargetRight]Mmm[FreezeMouth]...[UnfreezeMouth][Pause=2] O-okay[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Very well then,[Pause=1] Yubello.[Pause=3]
+Shall we begin?[A][ClearBox]Today,[Pause=3] we'll study Grunian history.[A][ClearBox][TargetRight][FaceCommand=0x73]Okay.[A][ClearBox][TargetLeft]Yubello,[Pause=3] do you know who was the first[Pause=3]
+King of Grunia?[A][ClearBox][TargetRight]It was King Ordwin, right?[A][ClearBox]He used to be[Pause=1] an Akaneian general.[Pause=3]
+He was kind to the Manaketes too.[A][ClearBox][TargetLeft][EyeCommand=ec]That's right.[Pause=3] I see you remember.
+[EyeCommand=ed]Well done,[Pause=1] Yubello.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_YUMINA_YUBERO_B_2
+[TargetRight]Uh huh.[A][ClearBox]Grunia's the way it is now[Pause=3] thanks to King
+Ordwin[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Indeed.[A][ClearBox]He rebuilt a desolated land[Pause=3] together with its
+people[FreezeMouth]...[UnfreezeMouth][A][ClearBox]And to protect[Pause=1] the kingdom from evildoers,[Pause=3]
+he founded the Sable Order.[A][ClearBox][TargetRight]He was amazing.[A][ClearBox]I really[Pause=1] admire him.[Pause=3]
+He was so strong and cool[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ec][FaceCommand=0x61][FreezeMouth]......[UnfreezeMouth]Yes.[A][ClearBox]He was[FreezeMouth]...[UnfreezeMouth][Pause=3] great, huh[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]Yumina?[A][ClearBox][TargetLeft][EyeCommand=eh]Oh,[EyeCommand=ed][Pause=1] sorry.[Pause=3]
+I was a little[FreezeMouth]...[UnfreezeMouth][Pause=2] distracted.[A][ClearBox][FaceCommand=0x73]Let us[Pause=1] resume our[Pause=1] studies.[A][ClearBox][EyeCommand=ec][FaceCommand=0x61]Err[FreezeMouth]...[UnfreezeMouth][Pause=1] 
+What[FreezeMouth]...[UnfreezeMouth][Pause=3] was next[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Yu-[Pause=2]Yumina,[Pause=3] I'm sorry.[A][ClearBox][FaceCommand=0x73]I,[Pause=1] er, I'm feeling sleepy already.[A][ClearBox][TargetLeft][EyeCommand=ed]I-[Pause=2]is that so?[Pause=3]
+That's a pity, but I suppose we can't do
+anything about it.[A][ClearBox][FaceCommand=0x73]Alright then,[Pause=1] we'll continue next time.[A]
+Good night,[Pause=1] Yubello.[A][ClearBox][TargetRight]'Night,[Pause=1] Yumina.[A][ClearBox][TargetLeft][TargetLeft][RemovePortrait][TargetRight][FaceCommand=0x61][FreezeMouth]......[UnfreezeMouth][FreezeMouth][UnfreezeMouth][A][ClearBox][X]
+
+MBTK_YUMINA_YUBERO_A
+[TargetRight][LoadPortrait=YUBELLO][TargetLeft][LoadPortrait=YUMINA][EyeCommand=ec][LoadBackground=BBG75][TargetLeft][FreezeMouth]...[UnfreezeMouth]And then,[Pause=3] with the help of Akaneia's
+people[FreezeMouth]...[UnfreezeMouth][Pause=3] King Ordwin[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Yumina.[A][ClearBox][TargetLeft][FreezeMouth]......[UnfreezeMouth][Sound=SE_EVT_HIT1][FreezeMouth][UnfreezeMouth][A][ClearBox][EyeCommand=ed]Oh dear,[Pause=2] the book[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm sorry.[A][ClearBox][TargetRight]Yumina[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]W-[Pause=2]what is it[FreezeMouth]...[UnfreezeMouth][Pause=3] Yubello?[A][ClearBox]You don't[FreezeMouth]...[UnfreezeMouth][Pause=2] need to shout.[A][ClearBox][Music=BGM_EVT_LOVE2][TargetRight]Yumina[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][Pause=3]
+Stop it! You don't have to force yourself![A][ClearBox][TargetLeft]Huh[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight]I[Pause=1] can read[Pause=2] by myself, you know?[A][ClearBox]Besides,[Pause=3] Master Wendel's taught me lots of
+magic![Pause=1][A][ClearBox][TargetLeft]Yubello[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Sure,[Pause=2] right now[FreezeMouth]...[UnfreezeMouth][Pause=3] I'm still a kid, and I can't
+be a super-royal or anything.[A][ClearBox][EyeCommand=ec]But[FreezeMouth]...[UnfreezeMouth][EyeCommand=ed][Pause=3] I'll[Pause=1] do my best.[A][ClearBox][FaceCommand=0x73]Just watch! I'll grow up to be the most
+reliable man ever,[Pause=3] so you won't ever need
+to worry![A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_YUMINA_YUBERO_A_2
+[TargetLeft][FreezeMouth]...[UnfreezeMouth]Haha, I see.[A]
+[EyeCommand=ec]I'm sorry,[Pause=2] Yubello.[A][ClearBox][EyeCommand=ed]I've always[Pause=1] worried about you, but[FreezeMouth]...[UnfreezeMouth][A]
+It looks like that's had the opposite effect
+of what I intended.[A][ClearBox][TargetRight]Don't say that.[Pause=3]
+It's not your fault, Yumina.[A][ClearBox][TargetLeft][EyeCommand=ec]But...[Pause=1] Yubello[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]What?[A][ClearBox][TargetLeft][EyeCommand=ed]You're still a baby.
+You've got[Pause=1] a long way to go[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]Aww[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]"Most reliable man ever,"[Pause=3] you say?[A][ClearBox]Haven't you been listening?[Pause=2]
+You need to set[Pause=1] clear goals[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Oh,[Pause=2] yeah.[Pause=3]
+Sorry[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]That's a good [Pause=2]Yubello![A][ClearBox]You know,[Pause=3] for you, I can do anything.[Pause=1]
+I'm[FreezeMouth]...[UnfreezeMouth][Pause=1] going to help you all the way.[A][ClearBox][FaceCommand=0x73]It made me really happy[Pause=2] that you were
+worried. Thank you.[A][ClearBox][EyeCommand=ec]But...[Pause=1] I'm fine.[A][ClearBox][EyeCommand=ed]Yubello,[Pause=2] let's do our best[Pause=1] okay?
+The both of us.[A][ClearBox][TargetRight][FaceCommand=0x73]Yup![A][ClearBox][X]
+

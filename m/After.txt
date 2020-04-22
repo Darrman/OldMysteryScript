@@ -1,0 +1,709 @@
+MAFT_CONGRATULATIONS_BAD
+Congratulations on beating the game!
+If you collect all [TextColour=0x4]12 Star Shards[TextColour=0x1]
+and all [TextColour=0x4]5 Orbs[TextColour=0x1], a [TextColour=0x4]different ending[TextColour=0x1]
+will be unlocked.
+So please try again if you have time![X]
+
+MAFT_CONGRATULATIONS_N
+Congratulations on beating the game!
+Did you enjoy playing to the end?
+Please try Hard mode or above if you
+felt you weren't being challenged.[X]
+
+MAFT_CONGRATULATIONS_H
+Congratulations on beating Hard mode! 
+Your skill is very impressive!
+Please try Maniac mode or harder if
+you believe that your full potential
+has not yet been realized.[X]
+
+MAFT_CONGRATULATIONS_M
+Congratulations on beating Maniac mode!
+Your skills are absolutely terrifying.
+Please try Lunatic mode if you want
+another challenge.[X]
+
+MAFT_CONGRATULATIONS_L
+Congratulations on beating Lunatic mode!
+Your skills are truly sublime.
+But it's not over yet, because Reverse
+Lunatic is calling out for you...[X]
+
+MAFT_CONGRATULATIONS_LD
+Congratulations on beating Reverse Lunatic!
+No words can describe your achievement.
+Your triumph is truly a masterful one.[X]
+
+MAFT_MESS_DIE
+[SpecialText0x14]Fell in battle during [SpecialText0x14=0x30]
+and vanished from the pages of history.[ClearBox][X]
+
+MAFT_MESS_ROOK
+Luke suddenly retired from knighthood and
+continued his playboy ways. He lived the
+rest of his life wildly and freely.[ClearBox][X]
+
+MAFT_MESS_RODY
+Rody remained a court knight, serving under
+Marth. He later became one of the finest 
+paladins in the continent.[ClearBox][X]
+
+MAFT_MESS_CECIL
+Cecil devoted the rest of her life as a
+Paladin of House Aritia.[ClearBox][X]
+
+MAFT_MESS_LIAN
+Ryan stayed in Aritia and joined the Temple
+Knights. Though young, he did his absolute
+best as a knight.[ClearBox][X]
+
+MAFT_MESS_GOHDON
+Gordon retired from knighthood for personal
+reasons, and then moved to Akaneia's
+palace. Aftewards, he became member of
+the Akaneian Rangers.[ClearBox][X]
+
+MAFT_MESS_DOHGA
+Following Marth's orders, Doga became the
+commander of Grunia's garrison.[ClearBox][X]
+
+MAFT_MESS_ARAN
+Alan died of illness shortly after the war.[ClearBox][X]
+
+MAFT_MESS_MARICIA
+Malliesia vanished after the war, despite
+Marth's concerns. Some worried that she had
+become a delinquent[FreezeMouth]...[UnfreezeMouth][ClearBox][X]
+
+MAFT_MESS_KATUA
+While she felt sympathy for her elder sister,
+Katua worked tirelessly to restore Macedonia.[ClearBox][X]
+
+MAFT_MESS_KATUA2
+Though mourning her sister Paola's death,
+Katua worked tirelessly to restore Macedonia.[ClearBox][X]
+
+MAFT_MESS_WOLEN
+Warren returned to Macedonia and became a
+hunter once more, living peacefully in the
+forest.[ClearBox][X]
+
+MAFT_MESS_MAJI
+Maji returned to the kingdom of Talis and
+became a woodcutter. He preferred that life
+to the grim bloodiness of war.[ClearBox][X]
+
+MAFT_MESS_RINDA
+Linda worked in Pales's magic academy.
+Perhaps she found love, for her beauty
+blossomed.[ClearBox][X]
+
+MAFT_MESS_PAORA
+Though her feelings pained her, Paola put
+them aside and diligently continued her work.[ClearBox][X]
+
+MAFT_MESS_SAJI
+Saji returned to the kingdom of Talis and
+became a woodcutter. He kept on training,
+boasting that he could fight anywhere,
+anytime.[ClearBox][X]
+
+MAFT_MESS_JURIAN
+Together with Rena, Julian cared for orphans
+at a convent in Macedonia.[ClearBox][X]
+
+MAFT_MESS_JURIAN2
+Succeeding the will of his beloved Rena,
+Julian cared for orphans in Macedonia.[ClearBox][X]
+
+MAFT_MESS_MATIS
+Machis continued to while away his days in
+Macedonia[SpecialSymbol=0x96]his idyllic life.[ClearBox][X]
+
+MAFT_MESS_RIFF
+Riff spent the rest of his days in a
+monastery in Aritia. He often lent a helping
+hand to prospective knights.[ClearBox][X]
+
+MAFT_MESS_OGUMA
+History lost track of Oguma after the war.[ClearBox][X]
+
+MAFT_MESS_YUBERO
+Under King Marth's tutelage, Yubello
+studied diligently at Aritia.[ClearBox][X]
+
+MAFT_MESS_YUMINA
+Yumina studied abroad at Pales's magic
+academy, aiming to be a full-fledged cleric.[ClearBox][X]
+
+MAFT_MESS_SIRIUS
+After the war, Sirius left without saying
+a word[FreezeMouth]...[UnfreezeMouth][ClearBox][X]
+
+MAFT_MESS_KASHIM
+Kashim joined the Akaneian Rangers.
+Afterwards, he returned to Talis and lived
+with his mother. Apparently he saved up lots
+of money[FreezeMouth]...[UnfreezeMouth][ClearBox][X]
+
+MAFT_MESS_SHEEDA
+After the war, Sheeda's long-awaited dream
+of marrying Marth was realized.
+Wearing a snow-white dress, she was said
+to have looked as beautiful as an angel.[ClearBox][X]
+
+MAFT_MESS_BARTS
+Barts vanished, rather than go to Talis.
+Stories tell of him being a woodcutter, 
+or sailing the high seas to a distant land.[ClearBox][X]
+
+MAFT_MESS_RICARD
+After the war, Ricardo returned to thievery
+yet again.[ClearBox][X]
+
+MAFT_MESS_FREY
+As a knight of Aritia, Frey dedicated himself
+to teaching future knights.[ClearBox][X]
+
+MAFT_MESS_NORN
+Norne returned to her village, to live a
+peaceful, ordinary life undisturbed by war.[ClearBox][X]
+
+MAFT_MESS_SAMTO
+Samto vanished after the war. Rumors say
+that he continued to impersonate Navarre[FreezeMouth]...[UnfreezeMouth][ClearBox][X]
+
+MAFT_MESS_SAMTO2
+Following Navarre's death, Samto honed his
+sword skills to succeed Navarre's fame.[ClearBox][X]
+
+MAFT_MESS_WENDEL
+Wendel returned to Khadein, as its
+Archmage, and spent all of his energy on
+restoring the City of Magic.[ClearBox][X]
+
+MAFT_MESS_SEAZER
+Caesar vanished after the war. Records say
+he either lived happily with his sister,
+or lost his life in battle.[ClearBox][X]
+
+MAFT_MESS_RADEI
+Raddy found a lover after the war, but his
+whereabouts after that are unrecorded.[ClearBox][X]
+
+MAFT_MESS_NABARL
+Ignoring the expectations of others, Navarre
+disappeared like the wind once more.[ClearBox][X]
+
+MAFT_MESS_FINA
+After the war, Feena vanished with the wind.[ClearBox][X]
+
+MAFT_MESS_KAIN
+Following Jeigan's death, Kain became the
+commander of the Aritian knights.[ClearBox][X]
+
+MAFT_MESS_BANUTU
+Banutu left after discarding his dragonstone,
+his whereabouts unknown.[ClearBox][X]
+
+MAFT_MESS_ROJAR
+After returning to Grunia, Roger worked
+tirelessly to assist in its recovery.
+Though he always sought new romances, never
+did he get far.[ClearBox][X]
+
+MAFT_MESS_JORJUE
+George founded the Akaneian Rangers after
+the war, his mission to protect the people
+from bandits.[ClearBox][X]
+
+MAFT_MESS_MINERBA
+Minerva renounced her claim to the throne
+and worked at a convent. She regained her
+bond with her brother, and they became close
+as they once were.[ClearBox][X]
+
+MAFT_MESS_MINERBA2
+Minerva renounced her claim to the throne
+and worked at a convent. Though her position
+had changed, her love for her people had not.[ClearBox][X]
+
+MAFT_MESS_ETZEL
+After the war, Etzel resumed his travels,
+as if looking for something he had lost.[ClearBox][X]
+
+MAFT_MESS_MARICH
+Marich built a magic academy in Pales,
+spending his days teaching the youth. His
+friendly personality earned him the love of
+his students.[ClearBox][X]
+
+MAFT_MESS_ELREAN
+As a pontifex of Khadein, Ellerean strived
+to restore the City of Magic. His strict
+personality earned him the respect of his
+students.[ClearBox][X]
+
+MAFT_MESS_DICE
+After the war, Dice received an outrageous
+reward from Prince Marth. He soon spent all
+of it gambling, however.[ClearBox][X]
+
+MAFT_MESS_MARIS
+After the war, Maris received an outrageous
+reward from Prince Marth. She started a
+weapon shop with that gold.[ClearBox][X]
+
+MAFT_MESS_HORUS
+Horace returned to his lands in Akaneia,
+dedicating himself to their restoration.[ClearBox][X]
+
+MAFT_MESS_JEIK
+Jake spent his days helping his girlfriend,
+Anna, manage her shop. The two dream of
+leaving for a faraway continent someday.[ClearBox][X]
+
+MAFT_MESS_DAROSS
+Daros never succumbed to his pirating ways,
+and instead found honest work in Aritia.[ClearBox][X]
+
+MAFT_MESS_ROBERTO
+Robert wandered the land, helping the weak.
+One time, he passed through Grunia, aiding
+the reconstruction effort.[ClearBox][X]
+
+MAFT_MESS_BELF
+Belf wandered the land, helping the weak.
+There are legends of him aiding numerous
+villages.[ClearBox][X]
+
+MAFT_MESS_LEIDEN
+Leiden traveled the lands, helping the weak.
+Rumors say he reunited with General Camus,
+but rumors are rumors.[ClearBox][X]
+
+MAFT_MESS_BECK
+Beck vanished after the war. Perhaps he was
+always destined to wander, for he never
+stopped long at any one place.[ClearBox][X]
+
+MAFT_MESS_ATHENA
+Athena set sail in a rowboat one day.
+Vere she went, nobody knows. Perhaps she
+returned to her distant homeland or washed
+up elsewhere.[ClearBox][X]
+
+MAFT_MESS_CHEINE
+Chainy vanished once more after the war.
+All that remained aftewards was the odd
+anecdote of an eccentric shapeshifter.[ClearBox][X]
+
+MAFT_MESS_TIKI
+Chiki lived happily in Pales town,
+surrounded by her dearest friends.[ClearBox][X]
+
+MAFT_MESS_EST
+After the war, Est said her goodbyes to
+Abel, for reasons known only to her and
+disappeared.[ClearBox][X]
+
+MAFT_MESS_EST2
+Unable to bear the sadness of losing Abel,
+Est disappeared after the war.[ClearBox][X]
+
+MAFT_MESS_TOMS
+Tomth politely declined requests to return
+to the Akaneian army. He continued to help
+with the reconstruction on the Akaneian
+border.[ClearBox][X]
+
+MAFT_MESS_ABEL
+After the war, Abel left the kingdom to
+search for the missing Est. He was never
+seen again.[ClearBox][X]
+
+MAFT_MESS_ABEL2
+Saddened by the loss of Est, Abel left Aritia.
+He was never seen again.[ClearBox][X]
+
+MAFT_MESS_MISHRAN
+The people wished for Mishelan to return to
+the Akaneian army, but he had other ideas,
+forming a band of watchmen near the border.[ClearBox][X]
+
+MAFT_MESS_ASTRIA
+Astria joined the Akaneian Rangers and
+worked for his people. He finally tied the
+knot in his spare time.[ClearBox][X]
+
+MAFT_MESS_KATARINA
+Katarina tirelessly served Marth in Aritia,
+as if to atone for her past sins.[ClearBox][X]
+
+MAFT_MESS_THORMAS
+Thomas joined the watchmen, protecting the
+Akaneian border. Rather than serve the
+military, he prefered to remain among the
+people.[ClearBox][X]
+
+MAFT_MESS_SIMA
+Declining Marth's request, Sheema renounced
+her claim to Gra's throne and settled in the
+palace town. There, she lived as an ordinary,
+but happy girl.[ClearBox][X]
+
+MAFT_MESS_SAMSON
+After the war, Samson settled down in the
+palace town. As a veteran soldier, the
+people often relied on him in emergencies.[ClearBox][X]
+
+MAFT_MESS_FROST
+Frost returned to his hometown in Macedonia
+and lived happily with his beloved family.[ClearBox][X]
+
+MAFT_MESS_ROSHE
+Roshe left for Orleans after the war.
+Accounts are unclear, but some say he was
+present at Hardin's funeral[FreezeMouth]...[UnfreezeMouth][ClearBox][X]
+
+MAFT_MESS_BIRAKU
+Biraku returned to Orleans after the war.
+He was finally able to discard his
+resentment towards Aritia, and soon became
+their trusted ally.[ClearBox][X]
+
+MAFT_MESS_ZAGARO
+Zagaro left for Orleans after the war.
+Embracing the ideals of the departed Hardin,
+he continued to fight with the Wolfguard.[ClearBox][X]
+
+MAFT_MESS_WOLF
+After the war, Wolf set his sights for
+Orleans. As if searching for death, he
+threw himself recklessly into battle, one
+after the next[FreezeMouth]...[UnfreezeMouth][ClearBox][X]
+
+MAFT_MESS_MIDIA
+Midia joined the Akaneian Rangers,
+devoting her life to serve her people. 
+Never did she lose her sense of justice.[ClearBox][X]
+
+MAFT_MESS_HYMIR
+Ymir returned to his village in Grunia and
+spent his days laboring in the fields.[ClearBox][X]
+
+MAFT_MESS_MISHEIL
+Accounts are conflicted about Misheil after
+the war. Some said he ruled over Macedonia
+once again, while others claimed he departed
+to conquer another continent.[ClearBox][X]
+
+MAFT_MESS_NAGA
+After the war, Nagi vanished as suddenly as
+she appeared. History holds no records of her
+ever appearing again.[ClearBox][X]
+
+MAFT_MESS_RENA
+Rena cared for orphans in a convent in
+Macedonia. Her kindness healed the hearts
+of many.[ClearBox][X]
+
+MAFT_MESS_NIENA
+After the war, Nina left Akaneia in Marth's
+capable hands and vanished[FreezeMouth]...[UnfreezeMouth][ClearBox][X]
+
+MAFT_MESS_MARIA
+Maria cared after war orphans at a convent.
+The children loved her as a big sister.[ClearBox][X]
+
+MAFT_MESS_ERICE
+Ellis helped to establish a magic academy in
+Pales. She married soon after, and
+lived out her days blissfully[FreezeMouth]...[UnfreezeMouth][ClearBox][X]
+
+MAFT_MESS_PLAYER
+[SpecialText0x14]Not much is written about [SpecialText0x14=0x39] in the
+pages of history. However, many speak highly
+of the time they spent alongside whom they
+called Aritia's finest knight.[ClearBox][X]
+
+MAFT_MESS_PLAYER_BAD
+[SpecialText0x14]Not much is written about [SpecialText0x14=0x39] in the
+pages of history. However there are whispers
+of a knight who gave their life to save Marth
+or whom served him to the bitter end...[ClearBox][X]
+
+MAFT_MESS_MARS
+Marth was crowned the fifth king of Aritia.
+As the leader of the United Kingdom of
+Akaneia, he worked tirelessly to help
+rebuild the ruined kingdom.[ClearBox][X]
+
+MAFT_MESS_MARS_BAD
+Marth ascended as the fifth king of Aritia.
+He worked tirelessly to reconstruct the
+ruined land, but soon had to fight another
+war against the revived shadow dragon[FreezeMouth]...[UnfreezeMouth][ClearBox][X]
+
+MAFT_MESS_JEIGUN
+[X]
+
+MAFT_MESS_BATTLE
+B[X]
+
+MAFT_MESS_WIN
+W[X]
+
+MAFT_NAME_LEIDEN
+Grunian Pride[X]
+
+MAFT_NAME_BELF
+Grunian Peer[X]
+
+MAFT_NAME_ROBERTO
+Grunian Peace[X]
+
+MAFT_NAME_ABEL
+Aritia's Shield[X]
+
+MAFT_NAME_ARAN
+Ailing Paladin[X]
+
+MAFT_NAME_ASTRIA
+Midia's Pride[X]
+
+MAFT_NAME_ATHENA
+Vun Voman[X]
+
+MAFT_NAME_BANUTU
+Chiki's Guardian[X]
+
+MAFT_NAME_BARTS
+The Hatchet[X]
+
+MAFT_NAME_BECK
+Born Wanderer[X]
+
+MAFT_NAME_BIRAKU
+Orleanian Son[X]
+
+MAFT_NAME_CECIL
+Aritian Rose[X]
+
+MAFT_NAME_CHEINE
+Divine Youth[X]
+
+MAFT_NAME_DAROSS
+Ex-Seawalker[X]
+
+MAFT_NAME_DICE
+Gambling Sellsword[X]
+
+MAFT_NAME_DOHGA
+Gentle Giant[X]
+
+MAFT_NAME_ELREAN
+Thunder Sage[X]
+
+MAFT_NAME_ERICE
+Life-Giver[X]
+
+MAFT_NAME_EST
+Wayward Knight[X]
+
+MAFT_NAME_ETZEL
+Spell Slinger[X]
+
+MAFT_NAME_FINA
+Traveling Dancer[X]
+
+MAFT_NAME_FREY
+Brave Knight[X]
+
+MAFT_NAME_FROST
+Family Man[X]
+
+MAFT_NAME_GOHDON
+Gifted Archer[X]
+
+MAFT_NAME_HORUS
+Worthy General[X]
+
+MAFT_NAME_HYMIR
+Kind Warrior[X]
+
+MAFT_NAME_JEIK
+Anna's Love[X]
+
+MAFT_NAME_JORJUE
+Perfect Shot[X]
+
+MAFT_NAME_JURIAN
+Noble Thief[X]
+
+MAFT_NAME_KAIN
+Aritia's Blade[X]
+
+MAFT_NAME_KASHIM
+Sly Swindler[X]
+
+MAFT_NAME_KATARINA
+Atoning Strategist[X]
+
+MAFT_NAME_KATUA
+Middle Sister[X]
+
+MAFT_NAME_LIAN
+Aspiring Archer[X]
+
+MAFT_NAME_MAJI
+The Chopper[X]
+
+MAFT_NAME_MARIA
+Minerva's Sister[X]
+
+MAFT_NAME_MARICH
+Wind Sage[X]
+
+MAFT_NAME_MARICIA
+Fanciful Child[X]
+
+MAFT_NAME_MARIS
+Pricey Sellsword[X]
+
+MAFT_NAME_MARS
+Aritian Prince[X]
+
+MAFT_NAME_MATIS
+Wayward Brother[X]
+
+MAFT_NAME_MIDIA
+His Anchor[X]
+
+MAFT_NAME_MINERBA
+True Leader[X]
+
+MAFT_NAME_MISHEIL
+Renewed Prince[X]
+
+MAFT_NAME_MISHRAN
+Dead Ringer[X]
+
+MAFT_NAME_NABARL
+Scarlet Sword[X]
+
+MAFT_NAME_NAGA
+Dragon King's Avatar[X]
+
+MAFT_NAME_NIENA
+Eternal Princess[X]
+
+MAFT_NAME_NORN
+The Volunteer[X]
+
+MAFT_NAME_OGUMA
+Loyal Blade[X]
+
+MAFT_NAME_PAORA
+Elder Sister[X]
+
+MAFT_NAME_PLAYER
+The Hero's Guard[X]
+
+MAFT_NAME_RADEI
+Lady-Killer[X]
+
+MAFT_NAME_RENA
+Macedonia's Angel[X]
+
+MAFT_NAME_RICARD
+Julian's Pal[X]
+
+MAFT_NAME_RIFF
+Aritian Healer[X]
+
+MAFT_NAME_RINDA
+Light Sage[X]
+
+MAFT_NAME_RODY
+Serene Knight[X]
+
+MAFT_NAME_ROJAR
+Lovelorn Soldier[X]
+
+MAFT_NAME_ROOK
+Untamed Knight[X]
+
+MAFT_NAME_ROSHE
+Orleanian Hope[X]
+
+MAFT_NAME_SAJI
+The Lopper[X]
+
+MAFT_NAME_SAMSON
+Sheema's Hero[X]
+
+MAFT_NAME_SAMTO
+Lax Blade[X]
+
+MAFT_NAME_SEAZER
+Hired Blade[X]
+
+MAFT_NAME_SHEEDA
+Marth's Fiancee[X]
+
+MAFT_NAME_SIMA
+Gra's Princess[X]
+
+MAFT_NAME_SIRIUS
+Mysterious Knight[X]
+
+MAFT_NAME_THORMAS
+Quiet Bow[X]
+
+MAFT_NAME_TIKI
+Divine Princess[X]
+
+MAFT_NAME_TOMS
+Spitting Image[X]
+
+MAFT_NAME_WENDEL
+Archmage of Khadein[X]
+
+MAFT_NAME_WOLEN
+Macedonian Hunter[X]
+
+MAFT_NAME_WOLF
+Orleanian Hero[X]
+
+MAFT_NAME_YUBERO
+Timid Prince[X]
+
+MAFT_NAME_YUMINA
+Bold Princess[X]
+
+MAFT_NAME_ZAGARO
+Orleanian Star[X]
+
+MAFT_OPEN_BONUS3
+You beat Hard mode or above!
+[TextColour=0x4]Reclass limits[TextColour=0x1] have now been lifted.[X]
+
+MAFT_OPEN_BONUS5
+You beat Lunatic mode!
+You can now choose to play
+[TextColour=0x4]Reverse Lunatic[TextColour=0x1].
+Enemies are no stronger than
+Lunatic mode, but always strike first.
+Also, extra items will be stocked in the
+[TextColour=0x4]Preparations Armory[TextColour=0x1].[X]
+
+MAFT_OPEN_EXTRA
+[TextColour=0x4]Event Recap[TextColour=0x1] and [TextColour=0x4]Sound Room[TextColour=0x1]
+can now be selected from the Extras screen.[X]
+
+MAFT_OPEN_TRIAL
+[TextColour=0x4]New Akaneian Chronicles[TextColour=0x1]
+can now be selected from the Extras screen.[X]
+

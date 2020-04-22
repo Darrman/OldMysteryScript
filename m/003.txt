@@ -1,0 +1,297 @@
+MS003_OP0
+[X]
+
+MS003_OP0_01
+[X]
+
+MS003_OP0_A
+[X]
+
+MS003_OP0_B
+[X]
+
+MS003_OP0_C
+[X]
+
+MS003_OP1
+[TargetRight][LoadPortrait=JURIAN][TargetLeft][LoadPortrait=PAORA][LoadBackground=BBG16][TargetLeft][FaceCommand=0x73]Julian, good news[FreezeMouth]![UnfreezeMouth][Pause=3]
+Katua finally brought the Aritian army for us![A][ClearBox]We're going to join their ranks to help save
+Princess Minerva.[A][ClearBox]Please take Rena and escape to safety,
+quickly[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]No can do, Paola.[Pause=3]
+Rena's disappeared[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm not leaving by myself.[A][ClearBox][TargetLeft][FaceCommand=0x61]What? Rena as well[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Princess Maria is missing too;
+why is it only clerics[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight]Anyway, I'm staying in the village to see if I
+can't find any information.[A][ClearBox]So, apologies, but I can't help you rescue
+your princess.[A][ClearBox][TargetLeft]Oh, it's alright.
+We should be able to save Minerva by
+ourselves. But Julian, although I know[A][ClearBox]you're worried about Rena,
+don't push yourself.[A][ClearBox][TargetRight]Sorry, Paola.[Pause=3]
+Give my best to Prince Marth.[A][ClearBox][X]
+
+MS003_EV1
+[TargetLeft][LoadPortrait=RYUKE][TargetRight][LoadPortrait=MISHEIL][LoadBackground=BBG40][TargetRight]Ryuke, I'm impressed a spineless coward like
+you could throw this country into so much
+chaos.[A][ClearBox]I'll hazard a guess that Hardin talked you
+into this?[A][ClearBox][TargetLeft]Wha-[FreezeMouth]![UnfreezeMouth][Pause=3] [FreezeMouth]...[UnfreezeMouth]Y-you're[FreezeMouth]...[UnfreezeMouth][Pause=3]
+B-but how[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Thought I was dead?[Pause=3]
+[FaceCommand=0x73][EyeCommand=ec]Haha[FreezeMouth]...[UnfreezeMouth][Pause=3] My death was but a trifle.[A][ClearBox][FaceCommand=0x61][EyeCommand=ed]Hand Minerva over to me, Ryuke.[A][ClearBox]I no longer have plans for this country.[Pause=3]
+Do with it as you please.[A][ClearBox]However, I won't rest until I've disposed of
+"him" with my own hands.[A][ClearBox][TargetLeft]U-uhh[FreezeMouth]...[UnfreezeMouth] but,[Pause=3] Princess Minerva has already
+breathed her last[FreezeMouth]...[UnfreezeMouth][Pause=3] Nobody could save her now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Do you want me to shove this spear down
+your throat? I said bring her to me.[A][ClearBox][TargetLeft]Y-yes, of course.[Pause=3]
+S-somebody, bring the princess here[FreezeMouth]![UnfreezeMouth][A][ClearBox][Unknown0x4=F][X]
+
+MS003_EV1_02
+[TargetRight][LoadPortrait=MISHEIL][TargetLeft][LoadPortrait=Y_MINERBA][LoadBackground=BBG40][TargetRight]It's been a while, Minerva.[Pause=3]
+That ungainly appearance doesn't suit you.[A][ClearBox]Losing Maria;
+your subordinates abandoning you...
+Is this the ideal country you dreamed of?[A][ClearBox][TargetLeft]Mi[FreezeMouth]...[UnfreezeMouth] Misheil[FreezeMouth]...[UnfreezeMouth][Pause=3]
+How[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][Unknown0x4=F][X]
+
+MS003_VIL1
+[TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=JURIAN][LoadBackground=BBG26]Hey Prince, it's been a while, hasn't it?[Pause=3]
+It's me, Julian![A][ClearBox][TargetRight]Julian[FreezeMouth]?[UnfreezeMouth][A][ClearBox][FaceCommand=0x73]I'd heard that you'd gone to Macedonia with
+Rena, but to think we'd cross paths here[FreezeMouth]...[UnfreezeMouth][A][ClearBox]How is Rena?[Pause=3]
+Of course, she's with you, right?[A][ClearBox][TargetLeft]Well, er, how should I say this[FreezeMouth]...[UnfreezeMouth]
+Rena suddenly up and vanished[FreezeMouth]...[UnfreezeMouth]
+I[FreezeMouth]...[UnfreezeMouth] I don't know what to do.[A][ClearBox][TargetRight][FaceCommand=0x61]Wait, Julian,[Pause=3] tell me what happened, in detail.[A][ClearBox][TargetLeft][EyeCommand=ed]Rena's been missing since last night.[A][ClearBox]The villagers speak of some sort of strange
+priest prowling around lately.[A][ClearBox]It seems that somehow, Rena was taken by
+this man.[A][ClearBox][TargetRight]A priest[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]Julian, as it turns out, Princess Maria has
+gone missing as well.
+I have a terrible feeling about this.[A][ClearBox]Anyway, staying here won't solve anything.[Pause=3]
+Come with us.[A][ClearBox]I'm worried for Rena too.[Pause=3]
+We'll all help to look for her.[A][ClearBox][TargetLeft]Prince Marth[FreezeMouth]...[UnfreezeMouth] Thank you.[Pause=3]
+Nothing would please me more.[A][ClearBox][X]
+
+MS003_VIL2
+[TargetLeft][LoadPortrait=SAJI][TargetRight][LoadPortrait=MARS][LoadBackground=BBG26][TargetRight]You, you're Saji[FreezeMouth]![UnfreezeMouth][Pause=3]
+You've came to Macedonia as well?[A][ClearBox][TargetLeft]Long time no see, Prince.[Pause=3]
+Maji already joined with you's guys, right?[A][ClearBox]We Talisian mercenaries wanted to join
+you's army, so we came all the way here.[A][ClearBox]Princess Sheeda's our lady, and the guy who's
+gonna be her man is important to us too.[A][ClearBox]Prince Marth, I'll protect you with my life.[A][ClearBox][X]
+
+MS003_VIL3
+[TargetCenter][LoadPortrait=WOMAN2][LoadBackground=BBG26]Have you noticed that large drawbridge
+behind this village?[A][ClearBox]Normally it's separated by the river, but if
+you use this key here, you can cross the
+bridge.[A][ClearBox]Just, once you cross the drawbridge, the
+enemies on the other side will come and
+attack you at once.[A][ClearBox]If you want to advance safely,
+you might be better off taking the long 
+detour that goes right around the mountain.
+[A][ClearBox]Here, take the key.[Pause=3]
+No matter which path you take,
+do take care of yourself, m'kay?[A][ClearBox][X]
+
+MS003_H1
+[TargetCenter][LoadPortrait=OLDMAN][LoadBackground=BBG25]The pegasus knight trio must be lonely
+without Est.[A][ClearBox]And I was such a fan of their
+"Triangle Attack[FreezeMouth]![UnfreezeMouth]"[Pause=3] too[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Oh, Est[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Come home already, will ya?[A][ClearBox][X]
+
+MS003_H2
+[TargetCenter][LoadPortrait=WOMAN1][LoadBackground=BBG25][FaceCommand=0x73]You know, a little while ago,[Pause=3] a paladin came
+here; said he was on a journey.[A][ClearBox]He was wearing a mask, but I'm sure that
+underneath, he was a good person.[A][ClearBox]He was kind, yet wrapped in a veil of sorrow.
+I wonder if I'll ever see him again[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS003_H3
+[TargetCenter][LoadPortrait=MAN1][LoadBackground=BBG25]This is just between you and me, but I heard
+that armory is in league with the rebels.[A][ClearBox]If you're going to enter you should be careful
+not to get jumped.[A][ClearBox][X]
+
+MS003_H4
+[TargetCenter][LoadPortrait=LADY][LoadBackground=BBG25]I wonder what's going to happen to Macedonia?[A][ClearBox]They say that Prince Misheil is dead, and
+Princess Maria is nowhere to be found[FreezeMouth]...[UnfreezeMouth][A][ClearBox]On top of that, they say that Princess
+Minerva has been captured and that her
+life is in peril.[A][ClearBox]I just hope[FreezeMouth]...[UnfreezeMouth] that this country doesn't end
+up like Grunia[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS003_TK1
+[TargetRight][LoadPortrait=JURIAN][TargetLeft][LoadPortrait=MATIS][LoadBackground=][TargetRight]Hey[FreezeMouth]![UnfreezeMouth] Cut it out.[Pause=3]
+Why must you always insist on pointing your
+sword at us?[A][ClearBox]I pity Rena for having to put up your
+stupidity.[A][ClearBox][TargetLeft]Oh, it's you, Julian.[Pause=3]
+Are you still trying to worm your way into
+Rena's good books?[A][ClearBox]No way, I won't hand my cute lil' sister to a
+thieving rat like you.[A][ClearBox][TargetRight][EyeCommand=ec]You can relax[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Rena and I would never work out.[A][ClearBox][EyeCommand=ed]But even if it's just a little,[Pause=3]
+I wanted to help her in any way I could.[A][ClearBox][TargetLeft][FaceCommand=0x73]Ooh, you finally realized where you stand.[Pause=3]
+Attaboy[FreezeMouth],[UnfreezeMouth][Pause=3] Julian![A][ClearBox][TargetRight][FaceCommand=0x61]Er, that's not the kind of thing I want to be
+hearing from you[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Well, whatever.[Pause=3]
+If you're worried about Rena, then come
+with me.[A][ClearBox][TargetLeft][FaceCommand=0x73]Oh, alright, thanks.[A][ClearBox]You see, they forced me to join the rebel
+army, but you know I hate fighting.[A][ClearBox]Alright, lil' brother.[Pause=3]
+Let's join forces and look for our cute lil'
+Rena[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS003_BT_MATIS
+[TargetLeft][LoadPortrait=MATIS][LoadBackground=]Rena[FreezeMouth]...[UnfreezeMouth] Where are you?[Pause=3]
+What I would give to hear your voice just
+once before I die[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS003_BT_RYUKE
+[TargetLeft][LoadPortrait=RYUKE][LoadBackground=]D-damn it[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Why is the Aritian army here[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+You're all going down with me. Die[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS003_DIE_MATIS
+[TargetLeft][LoadPortrait=MATIS][LoadBackground=]Rena[FreezeMouth]...[UnfreezeMouth][Pause=3]
+F-forgive[FreezeMouth]...[UnfreezeMouth][Pause=3] your foolish big brother[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS003_DIE_RYUKE
+[TargetLeft][LoadPortrait=RYUKE][LoadBackground=]The Aritian knights[FreezeMouth]...[UnfreezeMouth][Pause=3]
+As I expected[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS003_ED1
+[TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG11]Sire, the rebels have fled the castle,[Pause=3]
+but I regret to inform you that Princess
+Minerva was nowhere to be found.[A][ClearBox][TargetRight]What could have happened?[Pause=3]
+She was supposed to be held inside the
+castle[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Your highness, General Lang appears to have
+arrived. I wonder what kind of nonsensical
+request he's going to give us this time.[A][ClearBox][X]
+
+MS003_ED2_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=RANG][LoadBackground=BBG11][TargetLeft][FaceCommand=0x73]Oh-hoh, I knew this task was unworthy.[Pause=3]
+Excellent work, Prince Marth.[A][ClearBox]We'll take care of Macedonia from here.[Pause=3]
+Now, let us discuss your next mission.[A][ClearBox][TargetRight]General Lang,[Pause=3] what in the world do you want
+this time?[A][ClearBox][TargetLeft][FaceCommand=0x61]
+Well, you see[FreezeMouth]...[UnfreezeMouth] My castle was attacked and
+the Grunian prince and princess were
+kidnapped.[A][ClearBox]The perpetrator fled to Macedonia, it seems.
+Prince Marth, you are to capture him and
+return the children to me[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Really, those children...
+They're safe... That's great.
+General Lang, I will not follow your orders.[A][ClearBox]We're going back to our own country.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS003_ED2_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=RANG][LoadBackground=BBG11][TargetLeft][FaceCommand=0x73]Oh-hoh, I knew this task was unworthy.[Pause=3]
+Excellent work, Prince Marth.[A][ClearBox]We'll take care of Macedonia from here.[Pause=3]
+Now, let us discuss your next mission.[A][ClearBox][TargetRight]General Lang,[Pause=3] what in the world do you want
+this time?[A][ClearBox][TargetLeft][FaceCommand=0x61]
+Well, you see[FreezeMouth]...[UnfreezeMouth] My castle was attacked and
+the Grunian prince and princess were
+kidnapped.[A][ClearBox]The perpetrator fled to Macedonia, it seems.
+Prince Marth, you are to capture him and
+return the children to me[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Really, those children...
+They're safe... That's great.
+General Lang, I will not follow your orders.[A][ClearBox]We're going back to our own country.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS003_ED2
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=RANG][LoadBackground=BBG11][TargetLeft][FaceCommand=0x73]Oh-hoh, I knew this task was unworthy.[Pause=3]
+Excellent work, Prince Marth.[A][ClearBox]We'll take care of Macedonia from here.[Pause=3]
+Now, let us discuss your next mission.[A][ClearBox][TargetRight]General Lang,[Pause=3] what in the world do you want
+this time?[A][ClearBox][TargetLeft][FaceCommand=0x61]
+Well, you see[FreezeMouth]...[UnfreezeMouth] My castle was attacked and
+the Grunian prince and princess were
+kidnapped.[A][ClearBox]The perpetrator fled to Macedonia, it seems.
+Prince Marth, you are to capture him and
+return the children to me[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Really, those children...
+They're safe... That's great.
+General Lang, I will not follow your orders.[A][ClearBox]We're going back to our own country.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS003_ED2_02_PCF1
+[TargetLeft][LoadPortrait=RANG][FaceCommand=0x61]What[FreezeMouth]![UnfreezeMouth] Do you mean to defy my orders[FreezeMouth]?![UnfreezeMouth][Pause=3][A][ClearBox]I see[FreezeMouth]...[UnfreezeMouth] I see.
+As I suspected, it was YOUR doing.[A][ClearBox]The person who kidnapped Grunia's prince
+and princess was the mercenary, Oguma.[Pause=3]
+On your orders, no less[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]I didn't know of this.[Pause=3]
+But if I had the choice, I would have done
+exactly as you suggested.[A][ClearBox]Back at Grunia, even though they were meant
+to be our enemies, I should have helped
+those children.[A][ClearBox]Even if I must fight you, I will still
+rescue them.[A][ClearBox][TargetLeft]You[FreezeMouth]![UnfreezeMouth][Pause=3]
+You clearly speak words of treason[FreezeMouth]![UnfreezeMouth][A][ClearBox]Perhaps I should report this to the Emperor[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Do as you will.[Pause=3]
+But you're not the only person who intends
+to visit Pales.[A][ClearBox]I will speak to Emperor Hardin and Princess
+Nina and inform them of your crimes.[A][ClearBox]Forgive me, Jeigan.[Pause=3]
+But I cannot stand for this any longer.[A][ClearBox]I want to find Oguma, so we can rescue
+those children.[A][ClearBox][TargetRight][LoadPortrait=JEIGUN]I understand.[Pause=3]
+You have endured well until now.[A][ClearBox]I have also reached my limit.
+Lang, my liege might forgive your frequent
+rudeness to him,[Pause=3] but I will not.[A][ClearBox]Come, draw your sword.[Pause=3]
+Even though I, Jeigan, am old and senile,
+I will not lose to the likes of you.[A][ClearBox][TargetLeft]Wh[FreezeMouth]...[UnfreezeMouth] what did you say[FreezeMouth]?![UnfreezeMouth][Pause=3]
+Damn you[FreezeMouth]...[UnfreezeMouth] I'll remember this[FreezeMouth]!![UnfreezeMouth][A][ClearBox]Once the Emperor gets wind of this, I'll crush
+your puny little Aritia[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS003_ED2_02_PCM1
+[TargetLeft][LoadPortrait=RANG][FaceCommand=0x61]What[FreezeMouth]![UnfreezeMouth] Do you mean to defy my orders[FreezeMouth]?![UnfreezeMouth][Pause=3][A][ClearBox]I see[FreezeMouth]...[UnfreezeMouth] I see.
+As I suspected, it was YOUR doing.[A][ClearBox]The person who kidnapped Grunia's prince
+and princess was the mercenary, Oguma.[Pause=3]
+On your orders, no less[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]I didn't know of this.[Pause=3]
+But if I had the choice, I would have done
+exactly as you suggested.[A][ClearBox]Back at Grunia, even though they were meant
+to be our enemies, I should have helped
+those children.[A][ClearBox]Even if I must fight you, I will still
+rescue them.[A][ClearBox][TargetLeft]You[FreezeMouth]![UnfreezeMouth][Pause=3]
+You clearly speak words of treason[FreezeMouth]![UnfreezeMouth][A][ClearBox]Perhaps I should report this to the Emperor[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Do as you will.[Pause=3]
+But you're not the only person who intends
+to visit Pales.[A][ClearBox]I will speak to Emperor Hardin and Princess
+Nina and inform them of your crimes.[A][ClearBox]Forgive me, Jeigan.[Pause=3]
+But I cannot stand for this any longer.[A][ClearBox]I want to find Oguma, so we can rescue
+those children.[A][ClearBox][TargetRight][LoadPortrait=JEIGUN]I understand.[Pause=3]
+You have endured well until now.[A][ClearBox]I have also reached my limit.
+Lang, my liege might forgive your frequent
+rudeness to him,[Pause=3] but I will not.[A][ClearBox]Come, draw your sword.[Pause=3]
+Even though I, Jeigan, am old and senile,
+I will not lose to the likes of you.[A][ClearBox][TargetLeft]Wh[FreezeMouth]...[UnfreezeMouth] what did you say[FreezeMouth]?![UnfreezeMouth][Pause=3]
+Damn you[FreezeMouth]...[UnfreezeMouth] I'll remember this[FreezeMouth]!![UnfreezeMouth][A][ClearBox]Once the Emperor gets wind of this, I'll crush
+your puny little Aritia[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS003_ED3_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=MARS][TargetRight][LoadPortrait=JEIGUN][LoadBackground=BBG11][TargetRight]Ha... He fled fast despite his big words.
+He should be pretty far away by now.[A][ClearBox][TargetLeft][FaceCommand=0x73]Jeigan[FreezeMouth]...[UnfreezeMouth] you're a bag of surprises.[Pause=3]
+To think you'd stand up against Lang like
+that.[A][ClearBox][TargetRight][FaceCommand=0x73]Sire, are you underestimating me in my old
+age?[A][ClearBox]Bwahaha[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm not about to let youngsters like you
+hog all the glory just yet.[A][ClearBox][FaceCommand=0x61]Still, I'll admit it was somewhat foolish
+to contest with Lang, despite my persuading
+you to remain calm. Even if he did[A]
+push my lord at every turn, I was careless.
+What is our next plan of action?[A][ClearBox][TargetLeft][FaceCommand=0x61]According to Lang, Oguma is on his way to
+Macedonia.[A][ClearBox]He probably intends to visit the village where
+Lord Wendel resides.[A][ClearBox]Even though I'm worried about Minerva,
+there's nothing we can do right now.[A][ClearBox][TargetRight][LoadPortrait=JEIGUN]But, I worry about Lang[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I pray that nothing bad shall happen[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS003_ED3_PCM1
+[SpecialText0x14][TargetLeft][LoadPortrait=MARS][TargetRight][LoadPortrait=JEIGUN][LoadBackground=BBG11][TargetRight]Ha... He fled fast despite his big words.
+He should be pretty far away by now.[A][ClearBox][TargetLeft][FaceCommand=0x73]Jeigan[FreezeMouth]...[UnfreezeMouth] you're a bag of surprises.[Pause=3]
+To think you'd stand up against Lang like
+that.[A][ClearBox][TargetRight][FaceCommand=0x73]Sire, are you underestimating me in my old
+age?[A][ClearBox]Bwahaha[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm not about to let youngsters like you
+hog all the glory just yet.[A][ClearBox][FaceCommand=0x61]Still, I'll admit it was somewhat foolish
+to contest with Lang, despite my persuading
+you to remain calm. Even if he did[A]
+push my lord at every turn, I was careless.
+What is our next plan of action?[A][ClearBox][TargetLeft][FaceCommand=0x61]According to Lang, Oguma is on his way to
+Macedonia.[A][ClearBox]He probably intends to visit the village where
+Lord Wendel resides.[A][ClearBox]Even though I'm worried about Minerva,
+there's nothing we can do right now.[A][ClearBox][TargetRight][LoadPortrait=JEIGUN]But, I worry about Lang[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I pray that nothing bad shall happen[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS003_ED4
+[SpecialText0x14][Fade=40][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG11][SpecialText0x14=0x39], are you aware that we've been
+searching for the assassins who besieged
+Aritia a year ago[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight]Ah[FreezeMouth]![UnfreezeMouth]
+I assume, since you're mentioning it,
+that you've found a new lead?[A][ClearBox][TargetLeft]We're not certain,[Pause=3] but we've received
+information that might lead us to them.[A][ClearBox]A few days ago, I heard of a suspicious
+group heading towards Macedonia's northern
+mountains.[A][ClearBox][TargetRight][LoadPortrait=MARS][TargetRight]The northern mountains?[Pause=3]
+What could they be after up there?[A][ClearBox][TargetLeft]Rumors say they are pursuing our former
+allies in the War of Darkness[FreezeMouth]...[UnfreezeMouth][A][ClearBox]And I don't believe they're after a friendly
+chat with them either.[A][ClearBox][TargetRight]I see. Then we cannot ignore this lead,
+especially if lives are at stake.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS003_ED4_Y
+[SpecialText0x14][TargetRight]Jeigan, [SpecialText0x14=0x39], we shall pursue the enemy.[A][ClearBox][TargetLeft]Agreed.[Pause=3]
+Let us prepare to march, with haste.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+

@@ -1,0 +1,320 @@
+MS202_OP1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG03][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73][SpecialText0x14=0x39], we have been designated as
+members of the 7th Platoon.[Pause=3]
+I'm glad we were grouped together.[A][ClearBox]
+[TargetRight][FaceCommand=0x73]As am I.[Pause=3]
+Who else do we have in our platoon?[A][ClearBox]
+[TargetLeft][LoadPortrait=ROOK][FaceCommand=0x73]I'm Luke[FreezeMouth]![UnfreezeMouth][Pause=3]
+Or if you prefer, you can call me Luke,
+the Paladin of Dawn[FreezeMouth]![UnfreezeMouth][A][ClearBox]
+[TargetLeft][LoadPortrait=RODY][FaceCommand=0x61]I am Rody. It is a pleasure to meet you.[Pause=3]
+So, is that everyone?[A][ClearBox]
+[TargetLeft][LoadPortrait=LIAN][FaceCommand=0x61]U-um[FreezeMouth]...[UnfreezeMouth] I'm a new recruit, too.[Pause=3]
+My name is Ryan.[Pause=3]
+I'm an archer.[A][ClearBox][TargetLeft][RemovePortrait]
+[TargetRight]It looks like that's all five of us.[Pause=3]
+Well, what's the plan for today?[A][ClearBox]
+[TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73]There was an order from Sir Jeigan.[Pause=3]
+Today's mission is to decide who the new
+commander will be.[A][ClearBox]
+[TargetLeft][LoadPortrait=ROOK][FaceCommand=0x73]Commander?Å@Gotcha[FreezeMouth]![UnfreezeMouth][Pause=3]
+Oh, what's that? Luke should be the one?
+Yes, I completely agree[FreezeMouth]![UnfreezeMouth]
+[A][ClearBox][TargetRight][LoadPortrait=RODY][FaceCommand=0x61]Don't make up our words[FreezeMouth]...[UnfreezeMouth][A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS202_OP1_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG03][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73][SpecialText0x14=0x39], we have been designated as
+members of the 7th Platoon.[Pause=3]
+I'm glad we were grouped together.[A][ClearBox]
+[TargetRight][FaceCommand=0x73]As am I.[Pause=3]
+Who are the others?[A][ClearBox]
+[TargetLeft][LoadPortrait=ROOK][FaceCommand=0x73]I'm Luke[FreezeMouth]![UnfreezeMouth][Pause=3]
+Or if you prefer, you can call me Luke,
+the Paladin of Dawn[FreezeMouth]![UnfreezeMouth][A][ClearBox]
+[TargetLeft][LoadPortrait=RODY][FaceCommand=0x61]I am Rody. It is a pleasure to meet you.[Pause=3]
+So, is that everyone?[A][ClearBox]
+[TargetLeft][LoadPortrait=LIAN][FaceCommand=0x61]U-um[FreezeMouth]...[UnfreezeMouth] I'm a new recruit, too.[Pause=3]
+My name is Ryan.[Pause=3]
+I'm an archer.[A][ClearBox][TargetLeft][RemovePortrait]
+[TargetRight]It looks like that's all five of us.[Pause=3]
+Well, what's the plan for today?[A][ClearBox]
+[TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73]There was an order from Sir Jeigan.[Pause=3]
+Today's mission is to decide who the new
+commander will be.[A][ClearBox]
+[TargetLeft][LoadPortrait=ROOK][FaceCommand=0x73]Commander?Å@Gotcha[FreezeMouth]![UnfreezeMouth][Pause=3]
+Well, I'll be commander if you guys all insist[FreezeMouth]![UnfreezeMouth]
+[A][ClearBox][TargetRight][LoadPortrait=RODY][FaceCommand=0x61]Nobody's insisting anything, Luke[FreezeMouth]...[UnfreezeMouth][A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS202_OP2_2_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x61]Excuse me.[Pause=3]
+I'd like to recommend [SpecialText0x14=0x39].[A][ClearBox]
+[TargetLeft][LoadPortrait=PLAYER][FaceCommand=0x61]Katarina[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]
+[TargetRight][FaceCommand=0x73][SpecialText0x14=0x39] is a really strong individual.[A][ClearBox]And she didn't abandon me during the mock
+combat yesterday, even though I couldn't
+fight.[A][ClearBox]
+[TargetRight][LoadPortrait=ROOK]Alright then, I challenge her[FreezeMouth]![UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x39], if you beat me, I'll recognize you
+as leader.[A][ClearBox]
+[TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x61]Huh?[Pause=3]
+H-how has it come to this?[A][ClearBox]
+[TargetRight]It's a challenge, man-to-man[FreezeMouth]![UnfreezeMouth][A][ClearBox]
+[TargetLeft][LoadPortrait=PLAYER]But I'm a woman[FreezeMouth]...[UnfreezeMouth][A][ClearBox]
+[TargetRight]Well then it's a man-to-woman challenge![FreezeMouth]![UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x39], you're not afraid to fight me,
+are you?[A][ClearBox]
+[TargetLeft][LoadPortrait=KATARINA]Don't be silly.[Pause=3]
+[SpecialText0x14=0x39] won't lose to you.[A][ClearBox]
+[TargetRight][LoadPortrait=RODY][FaceCommand=0x61]So we'll decide with a battle.[Pause=3]
+That'll let us know who's got the skill to be
+commander.[A][ClearBox][Fade=40][X]
+
+MS202_OP2_2_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x61]Excuse me.[Pause=3]
+I'd like to recommend [SpecialText0x14=0x39].[A][ClearBox]
+[TargetLeft][LoadPortrait=PLAYER][FaceCommand=0x61]Katarina[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]
+[TargetRight][FaceCommand=0x73][SpecialText0x14=0x39] is a really strong individual.[A][ClearBox]And he didn't abandon me during the mock
+combat yesterday, even though I couldn't
+fight.[A][ClearBox]
+[TargetRight][LoadPortrait=ROOK]Alright then, I challenge him[FreezeMouth]![UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x39], if you beat me, I'll cede the position
+to you.[A][ClearBox]
+[TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x61]Huh?[Pause=3]
+H-how has it come to this?[A][ClearBox]
+[TargetRight]It's a challenge, man-to-man[FreezeMouth]![UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x39], you're not afraid to fight me,
+are you?[A][ClearBox]
+[TargetLeft][LoadPortrait=KATARINA]Don't be silly.[Pause=3]
+[SpecialText0x14=0x39] won't lose to you.[A][ClearBox]
+[TargetRight][LoadPortrait=RODY][FaceCommand=0x61]So we'll decide with a battle.[Pause=3]
+That'll let us see who's got the skill to be
+commander.[A][ClearBox][Fade=40][X]
+
+MS202_OP2_3_PCF1
+[SpecialText0x14][Fade=40][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG03][TargetLeft][LoadPortrait=KATARINA][TargetLeft]I'm sorry, [SpecialText0x14=0x39]. That was selfish of me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But I couldn't stand hearing them make fun
+of you[FreezeMouth]...[UnfreezeMouth][A][ClearBox]
+[TargetRight]It's okay. When my grandfather trained me,
+he used to say something similar.[Pause=3][A][ClearBox]He said that the best way for men to
+understand each other is by fighting.[A][ClearBox]Well, I'm a girl, but[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Anyway, our opponents are Luke and Rody.[Pause=3]
+It's been decided that Ryan will be on our
+team.[A][ClearBox]
+[TargetLeft][LoadPortrait=LIAN]Y-yes.[Pause=3]
+I'll do my best.[A][ClearBox][Unknown0x4=F][X]
+
+MS202_OP2_3_PCM1
+[SpecialText0x14][Fade=40][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG03][TargetLeft][LoadPortrait=KATARINA][TargetLeft]I'm sorry, [SpecialText0x14=0x39]. That was selfish of me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But I couldn't stand hearing them make fun
+of you[FreezeMouth]...[UnfreezeMouth][A][ClearBox]
+[TargetRight]It's okay. When my grandfather trained me,
+he used to say the same thing.[Pause=3][A][ClearBox]He said that the best way for men to
+understand each other is by fighting.[A][ClearBox]
+[TargetLeft]Huh. Y-your grandfather sure sounds
+colorful[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Anyway, our opponents are Luke and Rody.[Pause=3]
+It's been decided that Ryan will be on our
+team.[A][ClearBox]
+[TargetLeft][LoadPortrait=LIAN]Y-yes.[Pause=3]
+I'll do my best.[A][ClearBox][Unknown0x4=F][X]
+
+MS202_EV1
+[SpecialText0x14][LoadBackground=BBG16][TargetLeft][LoadPortrait=RODY][TargetRight][LoadPortrait=ROOK][TargetLeft]Luke, how should we go about this?[A][ClearBox]
+[TargetRight][FaceCommand=0x73]Rody, you wait at the back.[Pause=3]
+I'll fight alone[FreezeMouth]!
+[UnfreezeMouth][A][ClearBox]It's just [SpecialText0x14=0x39] and that kid, right?[Pause=3]
+If that's all, I should be able to handle it.[Pause=3]
+I'll show them my true strength.[A][ClearBox]
+[TargetLeft]You're at it again[FreezeMouth]...?[UnfreezeMouth] Fine, have it your way.[Pause=3]
+But I think underestimating your opponent
+will get you into trouble.[A][ClearBox][X]
+
+MS202_EV2
+[LoadBackground=BBG16][TargetLeft][LoadPortrait=RODY]As I thought, Luke couldn't win alone.[Pause=3]
+I guess I'll have to fight, too.[A][ClearBox][X]
+
+MS202_BT_BOSS
+[SpecialText0x14][LoadBackground=][TargetLeft][LoadPortrait=ROOK]Kiddo, just stand back and watch![Pause=3]
+Only [SpecialText0x14=0x39] is worthy of fighting me[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS202_BT_BOSS_P_PCF1
+[SpecialText0x14][LoadBackground=][TargetLeft][LoadPortrait=ROOK][TargetLeft]Sorry, [SpecialText0x14=0x39], but I won't hold back just
+because you're a girl[FreezeMouth]![UnfreezeMouth][A][ClearBox]
+[TargetLeft][RemovePortrait][TargetRight][LoadPortrait=PLAYER][TargetRight]That's fine with me.[A][ClearBox]
+[TargetRight][RemovePortrait][TargetLeft][LoadPortrait=ROOK][TargetLeft]I'll show you what I've got[FreezeMouth]![UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x39], try not to fall in love with me[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS202_BT_BOSS_P_PCM1
+[SpecialText0x14][LoadBackground=][TargetLeft][LoadPortrait=ROOK][TargetLeft][SpecialText0x14=0x39], I've heard rumors about you[FreezeMouth]![UnfreezeMouth][Pause=3]
+Sir Jeigan said that there was a recruit
+who stood out from the rest of us[FreezeMouth]![UnfreezeMouth][A][ClearBox]
+[TargetLeft][RemovePortrait][TargetRight][LoadPortrait=PLAYER][TargetRight]Is that so?[A][ClearBox]
+[TargetRight][RemovePortrait][TargetLeft][LoadPortrait=ROOK][TargetLeft]Yeah, that's right[FreezeMouth]![UnfreezeMouth][Pause=3]
+And I bet you're hogging all the attention,
+overshadowing the rest of us[FreezeMouth]![UnfreezeMouth][A][ClearBox]I'll beat you here to prove I'm the best[FreezeMouth]![UnfreezeMouth]
+[Pause=3]Prepare yourself[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS202_BT_RODY
+[LoadBackground=][TargetLeft][LoadPortrait=RODY]My opponent is an archer[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Then I should engage him in close-quarters.[A][ClearBox][X]
+
+MS202_BT_RODY_P
+[SpecialText0x14][LoadBackground=][TargetLeft][LoadPortrait=RODY][TargetLeft][SpecialText0x14=0x39], I've heard the rumors about you
+as well.[A][ClearBox]I need to see your ability firsthand,[Pause=3]
+especially if you're to become the commander.[A][ClearBox]I ask you this, as a fellow squire of Aritia.[A][ClearBox][X]
+
+MS202_DIE_BOSS
+[LoadBackground=][TargetLeft][LoadPortrait=ROOK]Guah[FreezeMouth]...?![UnfreezeMouth][Pause=3]
+I-impossible[FreezeMouth]...[UnfreezeMouth]
+The future hero, Luke, defeated[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS202_DIE_RODY
+[LoadBackground=][TargetLeft][LoadPortrait=RODY][FreezeMouth]Urgh![UnfreezeMouth] I see[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You are even stronger than I had imagined[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS202_ED1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG16][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73]Thank goodness[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x39], you won.[Pause=3] I knew you could do it.[A][ClearBox]
+[TargetLeft][LoadPortrait=ROOK][FaceCommand=0x61]Alright, I'm a man of my word.[Pause=3]
+I'll keep my promise.[Pause=3]
+From here on, the commander'll be [SpecialText0x14=0x39].[A][ClearBox]Gah, but I don't get it[FreezeMouth]![UnfreezeMouth][Pause=3]
+I was so confident in my skills[FreezeMouth]![UnfreezeMouth][Pause=3]
+How did I wind up losing?![A][TargetRight][LoadPortrait=RODY][FaceCommand=0x61]Because we didn't fight together.[A][ClearBox]We took turns fighting [SpecialText0x14=0x39] one-on-one.[Pause=3]
+That's why we lost to her.[A][ClearBox]
+[TargetRight][LoadPortrait=LIAN]Yeah, my brother once said the same thing[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Even if we are weak individually, we can
+become stronger by working together with
+our friends.[A][ClearBox]
+[TargetRight][LoadPortrait=PLAYER]That's right.[Pause=3]
+Fighting with your friends:
+That is the way of an Aritian knight.[A][ClearBox]
+[TargetLeft][FreezeMouth]...[UnfreezeMouth]I see.[A][ClearBox]I thought I could be the victor through my
+strength alone.[A][ClearBox]But I guess I was wrong.[Pause=3]
+Fighting together is far more important[FreezeMouth]...[UnfreezeMouth][A][ClearBox]
+[TargetRight][LoadPortrait=KATARINA][FaceCommand=0x73]Luke[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm so glad.[Pause=3]
+You understand now.[A][ClearBox]
+[TargetLeft][FaceCommand=0x73]Yeah, it's all clear to me[FreezeMouth]![UnfreezeMouth][Pause=3]
+It looks like being the leader is more trouble
+than it's worth![A][ClearBox][Pause=3]So I'll leave this bothersome job to [SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][A][ClearBox]I'm sure it'll be a joy working under her[FreezeMouth]![UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x39], I'll be looking forward to your help[FreezeMouth]![UnfreezeMouth][A][ClearBox]
+[TargetLeft][RemovePortrait][TargetRight][FaceCommand=0x61]...Does he really get it?[A][ClearBox][Unknown0x4=F32][Fade=40][X]
+
+MS202_ED1_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG16][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73]Thank goodness[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x39], you won.[Pause=3] I knew you could do it.[A][ClearBox]
+[TargetLeft][LoadPortrait=ROOK][FaceCommand=0x61]Alright, I'm a man of my word.[Pause=3]
+I'll keep my promise.[Pause=3]
+From here on, the commander'll be [SpecialText0x14=0x39].[A][ClearBox]Gah, but I don't get it[FreezeMouth]![UnfreezeMouth][Pause=3]
+I was so confident in my skills[FreezeMouth]![UnfreezeMouth][Pause=3]
+How did I wind up losing?![A][TargetRight][LoadPortrait=RODY][FaceCommand=0x61]Because we didn't fight together.[A][ClearBox]We took turns fighting [SpecialText0x14=0x39] one-on-one.[Pause=3]
+That's why we lost to him.[A][ClearBox]
+[TargetRight][LoadPortrait=LIAN]Yeah, my brother once said the same thing[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Even if we are weak individually, we can
+become stronger by working together with
+our friends.[A][ClearBox]
+[TargetRight][LoadPortrait=PLAYER]That's right.[Pause=3]
+Fighting with your friends:
+That is the way of an Aritian knight.[A][ClearBox]
+[TargetLeft][FreezeMouth]...[UnfreezeMouth]I see.[A][ClearBox]I thought I could be the victor through my
+strength alone.[A][ClearBox]But I guess I was wrong.[Pause=3]
+Fighting together is far more important[FreezeMouth]...[UnfreezeMouth][A][ClearBox]
+[TargetRight][LoadPortrait=KATARINA][FaceCommand=0x73]Luke[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm so glad.[Pause=3]
+You understand now.[A][ClearBox]
+[TargetLeft][FaceCommand=0x73]Yeah, it's all clear to me[FreezeMouth]![UnfreezeMouth][Pause=3]
+It looks like being the leader is more trouble
+than it's worth![A][ClearBox][Pause=3]So I'll leave this bothersome job to [SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][A][ClearBox]I'm sure it'll be a joy working under him[FreezeMouth]![UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x39], I'll be looking forward to your help[FreezeMouth]![UnfreezeMouth][A][ClearBox]
+[TargetLeft][RemovePortrait][TargetRight][FaceCommand=0x61]...Does he really get it?[A][ClearBox][Unknown0x4=F32][Fade=40][X]
+
+MS202_ED2_PCF1
+[SpecialText0x14][Fade=40][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=ROOK][FaceCommand=0x73][LoadBackground=BBG16]Alright then, [SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][Pause=3]
+Now that you're the commander, how about
+I give you a cool title[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetRight]A title?[A][ClearBox]
+[TargetLeft]Yeah. All the legendary heroes have their
+own awesome title![A][ClearBox]Hm, let's see...[Pause=3]
+Looking at your eyes[FreezeMouth]...[UnfreezeMouth][A][ClearBox]It's got to be [SpecialText0x14=0x30][FreezeMouth]![UnfreezeMouth][A][ClearBox]
+[TargetRight]I don't really understand...[Pause=3]
+Nor do I think it's something worth
+celebrating.[A][ClearBox]
+[TargetLeft]Aw, don't worry about it[FreezeMouth]![UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x30][FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS202_ED2_PCM1
+[SpecialText0x14][Fade=40][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=ROOK][FaceCommand=0x73][LoadBackground=BBG16]Alright then, [SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][Pause=3]
+Now that you're the commander, how about
+I give you a cool title[FreezeMouth]?[UnfreezeMouth][A][ClearBox]
+[TargetRight]A title?[A][ClearBox]
+[TargetLeft]Yeah. All the legendary heroes have their
+own awesome title![A][ClearBox]Hm, let's see...[Pause=3]
+Looking at your eyes[FreezeMouth]...[UnfreezeMouth][A][ClearBox]It's got to be [SpecialText0x14=0x30][FreezeMouth]![UnfreezeMouth][A][ClearBox]
+[TargetRight]I don't really understand...[Pause=3]
+Nor do I think it's something worth
+celebrating...[A][ClearBox]
+[TargetLeft]Aw, don't worry about it[FreezeMouth]![UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x30][FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS202_ARG_1
+[SpecialText0x14][SpecialText0x14=0x39] the Ordinary[X]
+
+MS202_ARG_10
+[SpecialText0x14][SpecialText0x14=0x39] the Wise[X]
+
+MS202_ARG_11
+[SpecialText0x14][SpecialText0x14=0x39] the Ordinary[X]
+
+MS202_ARG_12
+[SpecialText0x14][SpecialText0x14=0x39] the Kind[X]
+
+MS202_ARG_13
+[SpecialText0x14][SpecialText0x14=0x39] the Terrible[X]
+
+MS202_ARG_14
+[SpecialText0x14][SpecialText0x14=0x39] the Sly[X]
+
+MS202_ARG_15
+[SpecialText0x14][SpecialText0x14=0x39] the Ordinary[X]
+
+MS202_ARG_16
+[SpecialText0x14][SpecialText0x14=0x39] the Sly[X]
+
+MS202_ARG_17
+[SpecialText0x14][SpecialText0x14=0x39] the Wise[X]
+
+MS202_ARG_18
+[SpecialText0x14][SpecialText0x14=0x39] the Beast[X]
+
+MS202_ARG_19
+[SpecialText0x14]Captain [SpecialText0x14=0x39][X]
+
+MS202_ARG_2
+[SpecialText0x14][SpecialText0x14=0x39] the Kind[X]
+
+MS202_ARG_20
+[SpecialText0x14][SpecialText0x14=0x39] the Timid[X]
+
+MS202_ARG_21
+[SpecialText0x14]Masked [SpecialText0x14=0x39][X]
+
+MS202_ARG_22
+[SpecialText0x14]Masked [SpecialText0x14=0x39][X]
+
+MS202_ARG_3
+[SpecialText0x14][SpecialText0x14=0x39] the Terrible[X]
+
+MS202_ARG_4
+[SpecialText0x14][SpecialText0x14=0x39] the Sly[X]
+
+MS202_ARG_5
+[SpecialText0x14][SpecialText0x14=0x39] the Ordinary[X]
+
+MS202_ARG_6
+[SpecialText0x14][SpecialText0x14=0x39] the Sly[X]
+
+MS202_ARG_7
+[SpecialText0x14][SpecialText0x14=0x39] the Wild[X]
+
+MS202_ARG_8
+[SpecialText0x14][SpecialText0x14=0x39] the Scarred[X]
+
+MS202_ARG_9
+[SpecialText0x14]Captain [SpecialText0x14=0x39][X]
+

@@ -1,0 +1,141 @@
+MS021_OP1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG34][TargetLeft][LoadPortrait=JEIGUN][TargetRight]Jeigan, where are we?[Pause=3]
+Macedonia? Or Durhua?[A][ClearBox][TargetLeft]Both[SpecialSymbol=0x96]we are precisely on the border.[Pause=3]
+I hear this place is home to Macedonia's
+great wyverns.[A][ClearBox]But since the area is overrun with
+barbarians,[A][ClearBox]even the Macedonian soldiers dare not
+set foot in here.[A][ClearBox][TargetRight]I see.[Pause=3]
+You learn something new every day[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Anyway,[Pause=3]
+let's go, Jeigan.[A][ClearBox]I need to know what's happened to
+my sister and the others[FreezeMouth]...[UnfreezeMouth]
+I have a dreadful feeling about this.[A][ClearBox][X]
+
+MS021_OP1_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG34][TargetLeft][LoadPortrait=JEIGUN][TargetRight]Jeigan, where are we?[Pause=3]
+Macedonia? Or Durhua?[A][ClearBox][TargetLeft]Both[SpecialSymbol=0x96]we are precisely on the border.[Pause=3]
+I hear this place is home to Macedonia's
+great wyverns.[A][ClearBox]But since the area is overrun with
+barbarians,[A][ClearBox]even the Macedonian soldiers dare not
+set foot in here.[A][ClearBox][TargetRight]I see.[Pause=3]
+You learn something new every day[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Anyway,[Pause=3]
+let's go, Jeigan.[A][ClearBox]I need to know what's happened to
+my sister and the others[FreezeMouth]...[UnfreezeMouth]
+I have a dreadful feeling about this.[A][ClearBox][X]
+
+MS021_EV1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG34][TargetLeft][LoadPortrait=HYMIR]There you are, Marth[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]You're[FreezeMouth]...[UnfreezeMouth]Ymir[FreezeMouth]![UnfreezeMouth][A][ClearBox]Yeah, the name's Ymir.[Pause=3]
+I heard you were fightin' here and
+figured I'd come along too.[A][ClearBox][X]
+
+MS021_EV1_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG34][TargetLeft][LoadPortrait=HYMIR]There you are, Marth[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]You're[FreezeMouth]...[UnfreezeMouth]Ymir[FreezeMouth]![UnfreezeMouth][A][ClearBox]Yeah, the name's Ymir.[Pause=3]
+I heard you were fightin' here and
+figured I'd come along too.[A][ClearBox][X]
+
+MS021_EV2
+[TargetRight][LoadPortrait=MINERBA][LoadBackground=BBG26][TargetRight][FreezeMouth]............[UnfreezeMouth][A][ClearBox]Brother[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Could it be[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Is it really you[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=Y_MISHEIL][FreezeMouth]...[UnfreezeMouth]Minerva[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]Ah![UnfreezeMouth]
+You're wounded[FreezeMouth]![UnfreezeMouth][Pause=3]
+I'll go get help[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Don't bother[FreezeMouth]...[UnfreezeMouth]
+This wound is beyond help.[A][ClearBox]I'd rather you call for[FreezeMouth]...[UnfreezeMouth] Prince Marth.[Pause=3]
+I have[FreezeMouth]...[UnfreezeMouth] something I must pass on to him.[A][ClearBox][TargetRight]The prince will be here soon.[Pause=3]
+Hold on, Brother[FreezeMouth]![UnfreezeMouth][Pause=3]
+I'll tend to your wound[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Heh[FreezeMouth]...[UnfreezeMouth]
+To think I'd need your help in the end[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x61][EyeCommand=ec]Guh[FreezeMouth]...[UnfreezeMouth] ngh[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Brother[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ed]Minerva[FreezeMouth]...[UnfreezeMouth] I have something to ask of you.[Pause=3]
+Should I die[FreezeMouth]...[UnfreezeMouth]
+Give this tome to Prince Marth.[A][ClearBox]This is as far as I can go[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I leave the rest[FreezeMouth]...[UnfreezeMouth] to you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ec][TargetRight]B[SpecialSymbol=0x96]Brother[FreezeMouth]...[UnfreezeMouth] Misheil[FreezeMouth]...![UnfreezeMouth][A][ClearBox]No[FreezeMouth]...[UnfreezeMouth] This isn't like you[FreezeMouth]![UnfreezeMouth][Pause=3]
+When did you become so weak!?[A][ClearBox]The brother I knew was strong and noble[FreezeMouth]...[UnfreezeMouth]
+He always found his own way,
+never relying on anyone else[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]Do you hear me?[A][ClearBox]I won't accept this[FreezeMouth]![UnfreezeMouth][Pause=3]
+You're going to pass this on yourself,
+without the help of your younger sister.[A][ClearBox][TargetLeft][FaceCommand=0x73]Hmph[FreezeMouth]...[UnfreezeMouth]
+Am I being scolded now[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight]Brother, listen to me[FreezeMouth]...[UnfreezeMouth]
+You cannot die here.[Pause=3]
+You have to live[FreezeMouth]...![UnfreezeMouth][A][ClearBox][X]
+
+MS021_H1
+[TargetCenter][LoadPortrait=MAN1][LoadBackground=BBG25]There's a small hill called the Dragon's
+Altar on the other side of this mountain.[A][ClearBox]Lately, I've been hearin' some peculiar
+roars coming from the vicinity.[A][ClearBox]They're sayin' the Devil's been revived
+or summat like that.[A][ClearBox]Don't you guys go near there, 'kay?[A][ClearBox][X]
+
+MS021_H2
+[TargetCenter][LoadPortrait=UNCLE][LoadBackground=BBG25]This here's the Dragon's Dale.[Pause=3]
+Don't go past this point, alright?[A][ClearBox]All them big, scary wyverns'll burn you
+to a crisp!! A crisp, you hear!![A][ClearBox][X]
+
+MS021_VIL1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG26][TargetLeft][LoadPortrait=Y_MISHEIL][TargetRight]Prince Misheil[FreezeMouth]?![UnfreezeMouth][Pause=3]
+What are you doing here?[A][ClearBox]Those[SpecialSymbol=0x96]those wounds!
+What happened to you[FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]......[UnfreezeMouth]Marth, huh[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+[FreezeMouth]...[UnfreezeMouth]I was waiting[FreezeMouth]...[UnfreezeMouth]
+for you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]For me[FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Take this[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Ah[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][Pause=3]
+This is the Starlight tome!
+You're giving this to me[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]Yes[FreezeMouth]...[UnfreezeMouth] Heh[FreezeMouth]...[UnfreezeMouth]
+Only this tome can[FreezeMouth]...[UnfreezeMouth] damage Garnef.[Pause=3]
+I stole it from him, but not without cost[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Garnef, you say[FreezeMouth]?![UnfreezeMouth][Pause=3]
+Where is he now?[A][ClearBox][TargetLeft]At the Dragon's Altar[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x73][EyeCommand=ec]Heh[FreezeMouth]...[UnfreezeMouth] how pathetic[FreezeMouth]...[UnfreezeMouth]
+Somebody of my caliber[FreezeMouth]...[UnfreezeMouth]
+would fall foul[FreezeMouth]...[UnfreezeMouth] to Garnef?[A][ClearBox][FaceCommand=0x61][EyeCommand=ed]Marth[FreezeMouth]...[UnfreezeMouth] Please[FreezeMouth]...[UnfreezeMouth]
+I am not long for this world.
+If Minerva is still alive...[A][ClearBox]
+Tell her[FreezeMouth]...[UnfreezeMouth]
+to save[FreezeMouth]...[UnfreezeMouth] Maria[FreezeMouth]...[UnfreezeMouth]
+in my place[FreezeMouth]...[UnfreezeMouth] please[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Misheil[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Marth[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[EyeCommand=ec]I leave Maria to you[FreezeMouth]...[UnfreezeMouth] ngh...[A][ClearBox][X]
+
+MS021_ED1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG69][TargetRight]So this is the Dragon's Altar.
+The place where divine dragon Narga
+banished the earth dragons[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=GATO]Indeed.[Pause=3] Mediuth, the altar's guardian,
+could not tolerate the human race's
+atrocities against the Mamkutes.[A][ClearBox]Thus, he gathered the surviving dragonkin,
+forming the Durhuan Empire.[A][ClearBox]All to obliterate mankind.[A][ClearBox]He was vanquished by Anri once and
+then defeated a second time by you.[A][ClearBox]However earth dragons boast tremendous
+life force, and cannot be completely
+eliminated so easily[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]Even now, they sleep at this altar.[A][ClearBox][TargetRight]You mean to say they'll awaken[FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetLeft]Not exactly. Even sleeping earth dragons
+should not awaken for centuries or so.[A][ClearBox]The next time Mediuth awakens though,
+he will rise as a terrifying Dark Dragon[FreezeMouth]...[UnfreezeMouth][A][ClearBox]No, wait[FreezeMouth]...![UnfreezeMouth] Perhaps[FreezeMouth]...?[UnfreezeMouth]
+Yes, I see[FreezeMouth]...[UnfreezeMouth]
+So that's why Garnef[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]What's the matter, Lord Gato[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]Prince Marth.[Pause=3]
+I have finally realized the reason
+why Garnef kidnapped the clerics.[A][ClearBox]He intends to use them to resurrect Mediuth.[A][ClearBox]To hasten the awakening of a dragon
+requires the life force of
+pure, maiden women.[A][ClearBox]Knowing this, Garnef kidnapped them.[A][ClearBox][TargetRight]So that means Ellis and the
+others are in this very altar?[A][ClearBox][TargetLeft]Indubitably[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Marth, you must hurry.
+They are in grave danger![A][ClearBox]Mediuth's awakening[FreezeMouth]...[UnfreezeMouth]
+is only a matter of time[FreezeMouth]!![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS021_ED2
+[Fade=40][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=HYMIR][FaceCommand=0x73][LoadBackground=BBG69][TargetLeft]Want a hat?[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS021_ED2_A
+[TargetRight][FaceCommand=0x73]Yes, I'd love to.[A][ClearBox][TargetLeft]Whoa[FreezeMouth]![UnfreezeMouth][Pause=3]
+I'm so stoked you said that![A][ClearBox]It'll look great on you![Pause=3]
+No doubt about it.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS021_ED2_B
+[TargetRight][FaceCommand=0x61]Oh no, I don't think it suits me.[A][ClearBox][TargetLeft][FaceCommand=0x61]That so[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Too bad. But, oh well.[A][ClearBox][TargetRight]I'm sorry.[Pause=3]
+After you went to all that trouble too[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]It's fine, it's fine.[Pause=3]
+I don't mind at all.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS021_ED3
+[TargetLeft][LoadPortrait=Y_MISHEIL][EyeCommand=ec][TargetRight][LoadPortrait=MINERBA][LoadBackground=BBG26][TargetRight]Brother[FreezeMouth]......[UnfreezeMouth][A][ClearBox][EyeCommand=ec]Brother[FreezeMouth]...[UnfreezeMouth] why[FreezeMouth]...?[UnfreezeMouth]
+Why here[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]I[SpecialSymbol=0x96]I never wanted to fight you[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox]I just wanted things to be like
+they used to[FreezeMouth]...[UnfreezeMouth][Pause=3]
+With you and Maria[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Brother[FreezeMouth]......[UnfreezeMouth] Misheil[FreezeMouth]...[UnfreezeMouth] Bro[FreezeMouth]...[UnfreezeMouth]ther[FreezeMouth]......[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][Pause=6][TargetLeft][FreezeMouth]...[UnfreezeMouth]Your tears[FreezeMouth]...[UnfreezeMouth][Pause=3]
+How long has it been since I saw them last[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][EyeCommand=ed]What[FreezeMouth]...?[UnfreezeMouth] M-Misheil[FreezeMouth]?![UnfreezeMouth] Are you[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ed]I don't plan on dying in front of you,
+Minerva. I'd be an endless laughing stock.[A][ClearBox]The Misheil you knew[FreezeMouth]...[UnfreezeMouth]
+would never die in a place like this.[Pause=3][A][ClearBox]Am I right?[A][ClearBox][TargetRight][FaceCommand=0x73]Brother[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth] Oh, Brother[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Hmph, don't get the wrong idea.[Pause=3]
+You and I are still enemies[FreezeMouth]...[UnfreezeMouth]
+That will not change.[A][ClearBox]The incompetence of your army sickens me,
+so you leave me with no choice but to help.[A][ClearBox][TargetRight]Thank goodness[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You've finally returned to your old self.[A][ClearBox]I understand.[Pause=3]
+Until the Dark Dragon breathes his last,
+let us borrow your strength.[A][ClearBox][Unknown0x4=F][X]
+

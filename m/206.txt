@@ -1,0 +1,289 @@
+MS206_OP0
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG03][TargetLeft][LoadPortrait=ROOK][Fade=40]Hmmm[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=LIAN]What's the matter now, Luke?[A][ClearBox][TargetLeft]Guys, guys, guys, I need an opinion!
+How's my hair look?[A][ClearBox][TargetRight][LoadPortrait=RODY]Your[FreezeMouth]...[UnfreezeMouth] hair?[A][ClearBox][TargetLeft]I'm a soldier of love, seeking out only the
+most beautiful women, but I[FreezeMouth]...[UnfreezeMouth] haven't gotten
+any dates yet.[A][ClearBox][TargetRight][LoadPortrait=KATARINA]I'm sorry to say, most of the girls here think
+of you as small fry.[A][ClearBox]I mean, people think Ryan is a "cutie,"
+or Rody is "Ohmigosh, so cool!"[A][ClearBox][FaceCommand=0x73]Quite a few people seem to secretly lust
+after [SpecialText0x14=0x39] too.[A][ClearBox][TargetLeft]Exactly[FreezeMouth]![UnfreezeMouth][Pause=3]
+I didn't get it at first.[Pause=3]
+I thought, "what am I doing wrong?"[A][ClearBox][FaceCommand=0x73]That's when I realized:[Pause=3] it's my hair![A][ClearBox][TargetRight][LoadPortrait=PLAYER]I'm not sure what leap of logic led you to that
+particular conclusion[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Well, for example, I'll fix up my hair like you
+do! And then[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS206_OP0_1_PCF1
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS206_OP0_1_PCM1
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS206_OP0_1_A_PCF1
+[SpecialText0x14][TargetLeft][FaceCommand=0x73]They'll see me as brave[FreezeMouth]...[UnfreezeMouth] and beautiful, 
+just like [SpecialText0x14=0x39], right?[A][ClearBox][TargetRight][LoadPortrait=RODY][FaceCommand=0x61]Err[FreezeMouth]...[UnfreezeMouth] Luke, you're a guy.
+How does mimicking [SpecialText0x14=0x39] automatically
+make you gallant[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x73]Luke, maybe if you did something about that
+attitude of yours, you'd be more popular.[A][ClearBox]Oh, it's time.[Pause=3]
+Apparently, today, Sir Jeigan wishes to have
+a word with us before training..[A][ClearBox][Unknown0x4=F][X]
+
+MS206_OP0_1_A_PCM1
+[SpecialText0x14][TargetLeft][FaceCommand=0x73]They'll see me as brave[FreezeMouth]...[UnfreezeMouth] and handsome, 
+just like [SpecialText0x14=0x39], right?[A][ClearBox][TargetRight][LoadPortrait=RODY][FaceCommand=0x61]Not [Pause=3]possible[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x73]Luke, maybe if you did something about that
+attitude of yours, you'd be more popular.[A][ClearBox]Oh, it's time.[Pause=3]
+Apparently, today, Sir Jeigan wishes to have
+a word with us before training.[A][ClearBox][Unknown0x4=F][X]
+
+MS206_OP0_1_B_PCF1
+[SpecialText0x14][TargetLeft][FaceCommand=0x73]My feminine grace'll win hearts, just like
+[SpecialText0x14=0x39]![A][ClearBox][TargetRight][LoadPortrait=LIAN][FaceCommand=0x61]Your "feminine grace" is scaring me actually[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x73]Luke, maybe if you did something about that
+attitude of yours, you'd be more popular.[A][ClearBox]Oh, it's time.[Pause=3]
+Apparently, today, Sir Jeigan wishes to have
+a word with us before training.[A][ClearBox][Unknown0x4=F][X]
+
+MS206_OP0_1_B_PCM1
+[SpecialText0x14][TargetLeft][FaceCommand=0x73]They'd see me as gentle and quiet, like softly
+falling rain! Just like [SpecialText0x14=0x39], right?[A][ClearBox][TargetRight][LoadPortrait=LIAN][FaceCommand=0x61]Umm[FreezeMouth]...[UnfreezeMouth] If you say so[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x73]Luke, maybe if you did something about that
+attitude of yours, you'd be more popular.[A][ClearBox]Oh, it's time.[Pause=3]
+Apparently, today, Sir Jeigan wishes to have
+a word with us before training.[A][ClearBox][Unknown0x4=F][X]
+
+MS206_OP0_1_C_PCF1
+[SpecialText0x14][TargetLeft][FaceCommand=0x61]N-no, let's not actually.[Pause=3]
+The girls would run away in fear if I had
+[SpecialText0x14=0x39]'s hairdo[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]How rude![Pause=3]
+What's wrong with my hair, exactly?[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73]I-I think your hair looks great, [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox]Oh, it's time.[Pause=3]
+Apparently, today, Sir Jeigan wishes to have
+a word with us before training.[A][ClearBox][Unknown0x4=F][X]
+
+MS206_OP0_1_C_PCM1
+[SpecialText0x14][TargetLeft][FaceCommand=0x61]N-no, let's not actually.[Pause=3]
+The girls would run away in fear if I had
+[SpecialText0x14=0x39]'s hairdo[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]How rude![Pause=3]
+What's wrong with my hair, exactly?[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73]I-I think your hair looks great, [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox]Oh, it's time.[Pause=3]
+Apparently, today, Sir Jeigan wishes to have
+a word with us before training.[A][ClearBox][Unknown0x4=F][X]
+
+MS206_OP1_PCF1
+[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG02][TargetLeft][LoadPortrait=JEIGUN]Three months have passed since you first
+came here.[A][ClearBox]During this time, I've witnessed many a
+platoon desert because they couldn't
+stomach the harsh training.[A][ClearBox]Not to mention platoons that failed due to
+miserable results[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]Of all who remain, there are only twenty
+names.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA]Eep, the requirements are incredibly strict![A][ClearBox][TargetRight]True.[Pause=3] But we still remain in the game.
+That's what matters.[Pause=3]
+As long as we keep working hard[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]From now on the practical training will be far
+more gruelling.[A][ClearBox]As such, we will be introducing lectures to
+advise you.[A][ClearBox][TargetRight]Lectures?[A][ClearBox][TargetLeft][LoadPortrait=FREY]I am Frey, the knight in charge of lecturing.[Pause=3][A][ClearBox]In my lectures, you will learn essential
+knowledge that all knights should possess.[A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]From here on, this is the real thing.[Pause=3]
+Prepare to be pushed to your limits.[A][ClearBox][Fade=40][X]
+
+MS206_OP1_PCM1
+[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG02][TargetLeft][LoadPortrait=JEIGUN]Three months have passed since you first
+came here.[A][ClearBox]During this time, I've witnessed many a
+platoon desert because they couldn't
+stomach the harsh training.[A][ClearBox]Not to mention platoons that failed due to
+miserable results[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]Of all who remain, there are only twenty
+names.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA]Eep, the requirements are incredibly strict![A][ClearBox][TargetRight]True.[Pause=3] But we still remain in the game.
+That's what matters.[Pause=3]
+As long as we keep working hard[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]From now on the practical training will be far
+more gruelling.[A][ClearBox]As such, we will be introducing lectures to
+advise you.[A][ClearBox][TargetRight]Lectures?[A][ClearBox][TargetLeft][LoadPortrait=FREY]I am Frey, the knight in charge of lecturing.[Pause=3][A][ClearBox]In my lectures, you will learn essential
+knowledge that all knights should possess.[A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]From here on, this is the real thing.[Pause=3]
+Prepare to be pushed to your limits.[A][ClearBox][Fade=40][X]
+
+MTUTS_SALLY
+[Fade=40][TargetLeft][LoadPortrait=FREY][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG02][TargetLeft]Now, firstly, I'll talk about the preparations
+you need to make before a battle.[A][ClearBox]Before you fight your enemy on the
+battlefield,[Pause=2] you must ensure that you are
+sufficiently prepared.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MTUTS_SALLY_02
+[SpecialText0x14][FaceCommand=0x63]Selecting those who will fight,[Pause=2]
+organizing their weapons and items[FreezeMouth]...[UnfreezeMouth][A][ClearBox][SpecialText0x14=0x39], you will do all these things,
+as part of your role as commander.[A][TargetRight]I understand.[Pause=4]
+I'll do my best.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MTUTS_SALLY_03
+[TargetLeft][FaceCommand=0x63]One more important thing:[Pause=3]
+Pay attention to party members who wish to
+speak with you.[A][ClearBox]Talking to your party members will often
+yield tactical advice.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MTUTS_SALLY_04
+[FaceCommand=0x63]The more stars displayed, the more important
+a conversation is.[Pause=3][A][ClearBox]When you come to a new battlefield,
+it's always a good idea to check if anybody
+has something to say.[A][ClearBox][Unknown0x4=F][X]
+
+MTUTS_UNIT
+[Fade=40][TargetLeft][LoadPortrait=FREY][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG02][TargetLeft]Now, firstly, I'll talk about the preparations
+you need to make before a battle.[A][ClearBox]Before you fight your enemy on the
+battlefield,[Pause=2] you must ensure that you are
+sufficiently prepared.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MTUTS_UNIT_02
+[SpecialText0x14][FaceCommand=0x63]From today, you will be allowed to choose
+who will come onto the battlefield.[Pause=3][A][ClearBox][SpecialText0x14=0x39], as commander, the decision of who
+to send falls upon you.[A][TargetRight]Understood.[Pause=4]
+I'll do my best to choose the most suitable
+companions for the battle.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MTUTS_UNIT_03
+[TargetLeft][FaceCommand=0x63]One more important thing:[Pause=3]
+Pay attention to party members who wish to
+speak with you.[A][ClearBox]Talking to your party members will often
+yield tactical advice.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MTUTS_UNIT_04
+[FaceCommand=0x63]The more stars displayed, the more important
+a conversation is.[Pause=3][A][ClearBox]When you come to a new battlefield,
+it's always a good idea to check if anybody
+has something to say.[A][ClearBox][Unknown0x4=F][X]
+
+MS206_OP3_A
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG16][TargetLeft][LoadPortrait=KAIN]Well then, let's begin today's practical
+training[FreezeMouth]![UnfreezeMouth][Pause=3][A][ClearBox]Your opponents from here on will be the
+toughest yet, so show me that fighting spirit
+of yours[FreezeMouth]![UnfreezeMouth][A][ClearBox]The 7th Platoon's opponent, today, is[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=OGUMA]I will serve as your opponent.[A][ClearBox][TargetRight][LoadPortrait=KATARINA]What?
+We-we have to fight Oguma[FreezeMouth]...[UnfreezeMouth][FreezeMouth]?[UnfreezeMouth][A][ClearBox][SpecialText0x14=0x39], Oguma is a hero from the last war[FreezeMouth]...[UnfreezeMouth][Pause=3]
+He'll make for a formidable enemy.[A][ClearBox][X]
+
+MS206_OP3_A_CONT
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG16][TargetLeft][LoadPortrait=KAIN]Well then, let's begin today's practical
+training[FreezeMouth]![UnfreezeMouth][Pause=3][A][ClearBox]Your opponents from here on will be the
+toughest yet, so show me that fighting spirit
+of yours[FreezeMouth]![UnfreezeMouth][A][ClearBox]The 7th Platoon's opponent, today, is[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=OGUMA]I will serve as your opponent.[A][ClearBox][TargetRight][LoadPortrait=KATARINA]What?
+We-we have to fight Oguma[FreezeMouth]...[UnfreezeMouth][FreezeMouth]?[UnfreezeMouth][A][ClearBox][SpecialText0x14=0x39], Oguma is a hero from the last war[FreezeMouth]...[UnfreezeMouth][Pause=3]
+He'll make for a formidable enemy.[A][ClearBox][X]
+
+MS206_OP3_B
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG16][TargetLeft][LoadPortrait=KAIN]Well then, let us begin today's mock battle.[Pause=3][A][ClearBox]From here on, I will prepare an instructor
+based on your performances until now.[A][ClearBox]The 7th Platoon's opponent, today, is[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=DOHGA]I am Doga, armor knight of Aritia.[Pause=3]
+Your opponent is none other than me.[A][ClearBox][TargetRight][LoadPortrait=KATARINA]Doga is an armor knight famed for his
+sturdy defense.[Pause=3] [SpecialText0x14=0x39], he'll be a
+formidable enemy.[A][ClearBox][X]
+
+MS206_OP3_B_CONT
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG16][TargetLeft][LoadPortrait=KAIN]Well then, let us begin today's mock battle.[Pause=3][A][ClearBox]From here on, I will prepare an instructor
+based on your performances until now.[A][ClearBox]The 7th Platoon's opponent, today, is[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=DOHGA]I am Doga, armor knight of Aritia.[Pause=3]
+Your opponent is none other than me.[A][ClearBox][TargetRight][LoadPortrait=KATARINA]Doga is an armor knight famed for his
+sturdy defense.[Pause=3] [SpecialText0x14=0x39], he'll be a
+formidable enemy.[A][ClearBox][X]
+
+MS206_EV2_A
+[TargetLeft][LoadPortrait=OGUMA]The soldiers here will be your opponents, first.[Pause=3][A][ClearBox]If you defeat all of them, I'll step up to fight.[A][ClearBox][X]
+
+MS206_EV2_B
+[TargetLeft][LoadPortrait=DOHGA]These soldiers are your opponents.[Pause=3][A][ClearBox]You must defeat all of them if you wish to
+fight me.[A][ClearBox][X]
+
+MS206_EV1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=CECIL][LoadBackground=BBG16]Huff[FreezeMouth]...[UnfreezeMouth] puff[FreezeMouth]...[UnfreezeMouth] I-I made it.[Pause=3]
+Hey, where's this Commander [SpecialText0x14=0x39]
+person?[A][ClearBox][TargetLeft][LoadPortrait=PLAYER]That would be me, but who are you?[A][ClearBox][TargetRight]I'm Cecil, a junior knight like you[FreezeMouth]![UnfreezeMouth][Pause=3]
+I know it's very sudden, but I was invited by
+Katarina to join your group.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Very sudden indeed.[Pause=3]
+But, the more the merrier.[Pause=3]
+Could we talk after the battle?[A][ClearBox][TargetRight][FaceCommand=0x73]Sure, I'm glad you understand.[A][ClearBox]Oh yeah, I brought along some strong
+weapons that Katarina prepared for you[FreezeMouth]![UnfreezeMouth][Pause=3][A][ClearBox]Just give me the orders and I'll give you
+them to replace your worn out ones.[A][ClearBox][X]
+
+MS206_EV1_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=CECIL][LoadBackground=BBG16]Huff[FreezeMouth]...[UnfreezeMouth] puff[FreezeMouth]...[UnfreezeMouth] I-I made it.[Pause=3]
+Hey, where's this Commander [SpecialText0x14=0x39]
+person?[A][ClearBox][TargetLeft][LoadPortrait=PLAYER]That would be me, but who are you?[A][ClearBox][TargetRight]I'm Cecil, a junior knight like you[FreezeMouth]![UnfreezeMouth][Pause=3]
+I know it's very sudden, but I was invited by
+Katarina to join your group.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Very sudden indeed.[Pause=3]
+But, the more the merrier.[Pause=3]
+Could we talk after the battle?[A][ClearBox][TargetRight][FaceCommand=0x73]Sure, I'm glad you understand.[A][ClearBox]Oh yeah, I brought along some strong
+weapons that Katarina prepared for you[FreezeMouth]![UnfreezeMouth][Pause=3][A][ClearBox]Just give me the orders and I'll give you
+them to replace your worn out ones.[A][ClearBox][X]
+
+MS206_EV3_A
+[LoadBackground=BBG16][TargetLeft][LoadPortrait=OGUMA]Not bad.[Pause=3]
+As promised, I will fight.[A][ClearBox][X]
+
+MS206_EV3_B
+[LoadBackground=BBG16][TargetLeft][LoadPortrait=DOHGA]You're not bad at all.[Pause=3]
+But I won't be beaten so easily.[A][ClearBox][X]
+
+MS206_BT_BOSS_A
+[LoadBackground=][TargetLeft][LoadPortrait=OGUMA]Don't think of this as simply training.[Pause=3]
+Come at me without restraint![A][ClearBox][X]
+
+MS206_BT_BOSS_B
+[LoadBackground=][TargetLeft][LoadPortrait=DOHGA]I keep hearing about your abilities.[Pause=3]
+Please, allow me to judge for myself whether
+or not you're the real deal.[A][ClearBox][X]
+
+MS206_DIE_BOSS_A
+[LoadBackground=][TargetLeft][LoadPortrait=OGUMA][FreezeMouth]...[UnfreezeMouth]Not bad.[Pause=3]
+That's quite some skill you've got.[A][ClearBox][X]
+
+MS206_DIE_BOSS_B
+[LoadBackground=][TargetLeft][LoadPortrait=DOHGA]S-so you managed to penetrate my armor[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS206_ED1_A_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG16][TargetLeft][LoadPortrait=OGUMA][FaceCommand=0x73]Such great power.[Pause=3]
+Looks like Aritia is blessed with good knights.[A][ClearBox][SpecialText0x14=0x39], if you have need of my power
+you need only ask.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73]We did it, [SpecialText0x14=0x39][UnfreezeMouth]![FreezeMouth] Good job[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS206_ED1_A_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG16][TargetLeft][LoadPortrait=OGUMA][FaceCommand=0x73]Such great power.[Pause=3]
+Looks like Aritia is blessed with good knights.[A][ClearBox][SpecialText0x14=0x39], if you have need of my power
+you need only ask.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73]We did it, [SpecialText0x14=0x39][UnfreezeMouth]![FreezeMouth] Good job[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS206_ED1_B_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG16][TargetLeft][LoadPortrait=DOHGA]How[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Even my defense couldn't withstand such a
+tremendous onslaught.[A][ClearBox][FaceCommand=0x73]Commander [SpecialText0x14=0x39], if you have need of an
+armor knight's strength, you may call on me.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73]We did it, [SpecialText0x14=0x39][UnfreezeMouth]![FreezeMouth] Good job[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS206_ED1_B_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG16][TargetLeft][LoadPortrait=DOHGA]How[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Even my defense couldn't withstand such a
+tremendous onslaught.[A][ClearBox][FaceCommand=0x73]Commander [SpecialText0x14=0x39], if you have need of an
+armor knight's strength, you may call on me.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73]We did it, [SpecialText0x14=0x39][UnfreezeMouth]![FreezeMouth] Good job[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS206_ED2_PCF1
+[SpecialText0x14][Fade=40][TargetRight][LoadPortrait=PLAYER][FaceCommand=0x61][LoadBackground=BBG03][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x61][FaceCommand=0x73]Excuse me, [SpecialText0x14=0x39], do you have a moment[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetRight]Huh[FreezeMouth]?[UnfreezeMouth][Pause=3]
+Of course. What is it[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]That Royal Guard position that Prince Marth
+offered us.[Pause=3] Did you think about it[FreezeMouth]?[UnfreezeMouth][A][ClearBox]I[FreezeMouth]...[UnfreezeMouth]
+I'd like be a Royal Guard, if you're in with me.[A][ClearBox]Together, we'd be an unstoppable team[FreezeMouth]...[UnfreezeMouth][A][ClearBox]When I imagine a future like that, I feel very
+happy.[A][ClearBox][FreezeMouth]...[UnfreezeMouth]Um, what about you, [SpecialText0x14=0x39]?[Pause=3]
+Do you, perhaps, feel the same as I[FreezeMouth]...?[UnfreezeMouth][A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS206_ED2_PCM1
+[SpecialText0x14][Fade=40][TargetRight][LoadPortrait=PLAYER][FaceCommand=0x61][LoadBackground=BBG03][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x61][FaceCommand=0x73]Excuse me, [SpecialText0x14=0x39], do you have a moment[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetRight]Huh[FreezeMouth]?[UnfreezeMouth][Pause=3]
+Of course. What is it[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]That Royal Guard position that Prince Marth
+offered us.[Pause=3] Did you think about it[FreezeMouth]?[UnfreezeMouth][A][ClearBox]I[FreezeMouth]...[UnfreezeMouth]
+I'd like be a Royal Guard, if you're in with me.[A][ClearBox]Together, we'd be an unstoppable team[FreezeMouth]...[UnfreezeMouth][A][ClearBox]When I imagine a future like that, I feel very
+happy.[A][ClearBox][FreezeMouth]...[UnfreezeMouth]Um, what about you, [SpecialText0x14=0x39]?[Pause=3]
+Do you, perhaps, feel the same as I[FreezeMouth]...?[UnfreezeMouth][A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS206_ED2_A_PCF1
+[SpecialText0x14][TargetRight][FaceCommand=0x73]Yes, of course.[A][ClearBox][TargetLeft]R-really?[Pause=3]
+I'm so glad[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Well, this is a little awkward[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I should get to bed.[A][ClearBox]Good night, [SpecialText0x14=0x39].[Pause=3]
+Good luck for tomorrow.[A][ClearBox][Fade=40][X]
+
+MS206_ED2_A_PCM1
+[SpecialText0x14][TargetRight][FaceCommand=0x73]Yeah, I think it would be nice.[A][ClearBox][TargetLeft]R-really?[Pause=3]
+I'm so glad[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Well, this is a little awkward[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I should get to bed.[A][ClearBox]Good night, [SpecialText0x14=0x39].[Pause=3]
+Good luck for tomorrow.[A][ClearBox][Fade=40][X]
+
+MS206_ED2_B_PCF1
+[SpecialText0x14][TargetRight][FaceCommand=0x61]Um, I'm sorry.[Pause=3]
+I haven't really thought about it yet[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]I-is that so?[A][ClearBox]Yes, I[FreezeMouth]...[UnfreezeMouth][Pause=3]
+So it was just me after all[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I'm sorry.[Pause=3]
+Good night, [SpecialText0x14=0x39].[A][ClearBox][Fade=40][X]
+
+MS206_ED2_B_PCM1
+[SpecialText0x14][TargetRight][FaceCommand=0x61]Um, I'm sorry.[Pause=3]
+I haven't really thought about it yet[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]I-is that so?[A][ClearBox]Yes, I[FreezeMouth]...[UnfreezeMouth][Pause=3]
+So it was just me after all[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I'm sorry.[Pause=3]
+Good night, [SpecialText0x14=0x39].[A][ClearBox][Fade=40][X]
+

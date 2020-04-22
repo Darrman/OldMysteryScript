@@ -1,0 +1,213 @@
+MS004_OP0
+[X]
+
+MS004_OP1
+[TargetLeft][LoadPortrait=OGUMA][TargetRight][LoadPortrait=YUMINA][LoadBackground=BBG16][TargetLeft]Yumina, Yubello.[A][ClearBox]This place is notorious for the Macedonian
+Vikings.[A][ClearBox]If we could, we'd stay the hell away,
+but the village where Lord Wendel resides
+is just past this area.[A][ClearBox][TargetRight][LoadPortrait=YUBELLO]Mister Oguma[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm scared[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Can we go back[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=YUMINA]Yubello[FreezeMouth]![UnfreezeMouth] Get a hold of yourself!
+You're a man, are you not[FreezeMouth]?[UnfreezeMouth]
+Show some spine![A][ClearBox]You can use a Fire tome, can't you?
+So... fight with it[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]But Master Wendel said that we mustn't
+fight[FreezeMouth]...[UnfreezeMouth][Pause=3] Besides, I don't like fighting.[A][ClearBox][TargetLeft]Ugh, stop complaining!
+It's just you and me now.[A][ClearBox]You have to stay strong, because I[FreezeMouth]...[UnfreezeMouth] sniff[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I don't know what we're supposed to do[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Oh[FreezeMouth]...[UnfreezeMouth] I'm sorry, Yumina[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll do my best, so[FreezeMouth]...[UnfreezeMouth][Pause=3] please don't cry![A][ClearBox][TargetLeft][LoadPortrait=OGUMA]Damn[FreezeMouth]...[UnfreezeMouth] This can't be good[FreezeMouth]...[UnfreezeMouth][Pause=3]
+We've been spotted.[A][ClearBox]Kids, we've got no choice;
+we're going to have to cut through.
+Do not leave my side[FreezeMouth]![UnfreezeMouth][A][ClearBox][Unknown0x4=F][X]
+
+MS004_EV1
+[TargetRight][LoadPortrait=GAIL][LoadBackground=BBG24]Gahahaha[FreezeMouth]![UnfreezeMouth] 
+Won't be long now 'til my boys, hidden
+in the forts, all spring out 'n' attack.[Pause=3][A][ClearBox]I can almost see the precious looks on their
+bewildered faces[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS004_H1
+[TargetCenter][LoadPortrait=MAN2][LoadBackground=BBG25]These days, all them bandits and pirates've
+been doin' as they please.[Pause=3]
+Geez.[A][ClearBox]This wouldn't 'ave 'appened if it weren't for
+all them political tomfoolery.[A][ClearBox][X]
+
+MS004_H2
+[TargetCenter][LoadPortrait=GIRL][LoadBackground=BBG25]Oh, those "Star Shards" are so shiny and
+pretty.[Pause=3] If you hold on to them, something
+good might happen to you.[A][ClearBox][X]
+
+MS004_H3
+[TargetCenter][LoadPortrait=BOY][LoadBackground=BBG25]D'you know of a staff called Rescue?[A][ClearBox]I hear you can bring faraway allies right
+next to you in a flash![Pause=3]
+It'd be so cool if it were true![A][ClearBox][X]
+
+MS004_TK1
+[TargetLeft][LoadPortrait=SIRIUS][TargetRight][LoadPortrait=OGUMA][LoadBackground=][TargetRight]And just who the hell are you[FreezeMouth]?[UnfreezeMouth][Pause=3]
+Are you in league with the pirates[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]I am Sirius,[Pause=3] a mere traveler.[A][ClearBox][TargetRight]Oh, I see.[Pause=3]
+I'm a little bit worked up right now.[Pause=3]
+Sorry about the mix-up.[A][ClearBox][TargetLeft]Those children[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]I'm taking care of them.[Pause=3]
+Do you know them?[A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS004_TK1_01
+[TargetLeft]No, I don't...[Pause=3]
+But I do know that, as things stand,
+you won't escape with them.[A][ClearBox]As I understand it, the Aritian army should
+arrive here, provided you reach the
+southern village.[A][ClearBox]Please, allow me to distract the bandits,
+while you make your escape to safety.[A][ClearBox][TargetRight]I see. So Prince Marth is here, eh?[Pause=3]
+Got it, thanks.[Pause=3][A][ClearBox]I've got to ask though. 
+Why help a group of complete strangers like
+us?[A][ClearBox][TargetLeft]I want to save the children.[Pause=3]
+That is[FreezeMouth]...[UnfreezeMouth] all.[A][ClearBox][TargetRight]I see[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Sirius[FreezeMouth]...[UnfreezeMouth] You said your name was Sirius, right?[Pause=3]
+Let's meet again after we both get out of
+here![A][ClearBox]There's someone I need to take care of...
+The guy in charge of Grunia's occupation,
+Commander Lang.[A][ClearBox]I want to avenge a man named Lawrence[FreezeMouth]...[UnfreezeMouth][A][ClearBox]You[SpecialSymbol=0x96]join me[FreezeMouth]...![UnfreezeMouth][Pause=3]
+If I've got you on my side, then I'll be that
+much stronger.[A][ClearBox][TargetLeft]Yes[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That would be interesting.[A][ClearBox]But first, you have to survive.[Pause=3]
+Hurry and go[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS004_VIL1
+[TargetLeft][LoadPortrait=KASHIM][TargetRight][LoadPortrait=MARS][LoadBackground=BBG26][TargetRight]Well, if it isn't Kashim![Pause=3]
+What brings you to a place like this?[A][ClearBox][TargetLeft]Ah, Prince Marth[FreezeMouth]![UnfreezeMouth][A][ClearBox]Erm[FreezeMouth]...[UnfreezeMouth]
+Actually, I need money for medicine for me
+sick mother.[A][ClearBox]But I couldn't find any work in Talis,
+so I moved here instead.[A][ClearBox][TargetRight]I see[FreezeMouth]...[UnfreezeMouth] That's terrible[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I do hope your mother gets better.[A][ClearBox]Well, goodbye then[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][TargetLeft][FreezeMouth].........[UnfreezeMouth][A][ClearBox]Wait[FreezeMouth]!![UnfreezeMouth][Pause=3]
+Me mother, she's really sick[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I need money, sir[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=MARS]Hm?[Pause=3] Oh right, here.[Pause=3]
+It's only a little, but I hope it helps.[A][ClearBox][TargetLeft]Uhm[FreezeMouth]...[UnfreezeMouth] Thank you, Prince Marth.[A][ClearBox]You don't have to be so kind to a guy like me[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Kashim[FreezeMouth]...[UnfreezeMouth] That's a bit much[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]It's only natural to help someone in need.[A][ClearBox][TargetLeft][FaceCommand=0x73]No, Prince Marth[FreezeMouth]![UnfreezeMouth][Pause=3]
+You've done so much for me.[A][ClearBox]I want to help you.[Pause=3]
+Please, let me fight alongside you.[A][ClearBox]You have me life at your disposal[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+
+MS004_VIL2
+[TargetLeft][LoadPortrait=UNCLE][TargetRight][LoadPortrait=MARS][LoadBackground=BBG26][TargetLeft][FaceCommand=0x73]Oh, you're[FreezeMouth]...[UnfreezeMouth] you're[FreezeMouth]...[UnfreezeMouth] the prince of Aritia![Pause=3]
+How nice of you to drop by, sir![A][ClearBox][TargetRight][FaceCommand=0x61]I heard Lord Wendel was living here.[A][ClearBox][TargetLeft]Yes, that, er[FreezeMouth]...[UnfreezeMouth] was correct[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Yesterday, a group of Akaneian soldiers
+suddenly came and took the pontifex away.[A][ClearBox]Although, Prince...[Pause=3]
+He did leave this magic tome behind.[A][ClearBox]I believe it's wind magic.[Pause=3]
+Please, take it with you.[A][ClearBox][X]
+
+MS004_BT_GAIL
+[TargetLeft][LoadPortrait=GAIL][LoadBackground=]I'm sorry[FreezeMouth]![UnfreezeMouth][Pause=3]
+[FreezeMouth]...[UnfreezeMouth]I wasn't thinking[FreezeMouth]![UnfreezeMouth][A][ClearBox]Gahaha, just kidding[FreezeMouth]![UnfreezeMouth][Pause=3]
+I'll be smashing your pretty head in[FreezeMouth]!!![UnfreezeMouth][A][ClearBox][X]
+
+MS004_BT_SIRIUS
+[TargetLeft][LoadPortrait=SIRIUS][LoadBackground=]Touch me and I'll strike you down.[A][ClearBox][X]
+
+MS004_DIE_GAIL
+[TargetLeft][LoadPortrait=GAIL][LoadBackground=]I won't[FreezeMouth]...[UnfreezeMouth] forget this[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS004_ED_SIRIUS
+[TargetLeft][LoadPortrait=SIRIUS][LoadBackground=]How foolish of me[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS004_ED1_PCF1
+[TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=BBG40][TargetLeft]Marth[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetRight]Sheeda[FreezeMouth]?[UnfreezeMouth]
+Did something happen?[Pause=3]
+Why are you here[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]Marth[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Aritia...[UnfreezeMouth][Pause=3] Aritia was attacked by the imperial
+army.[A][ClearBox]The Akaneian League... Gra and Orleans
+ambushed us.[Pause=3] Our forces were annihilated
+and we lost the castle[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Wh-what did you say[FreezeMouth]?![UnfreezeMouth][Pause=3]
+This can't be happening![Pause=3]
+Aritia is[FreezeMouth]...[UnfreezeMouth] Jeigan, what's going on?[A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]This is terrible beyond words[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That which I feared the most has come to
+pass.[A][ClearBox]Emperor Hardin likely heard Lang's story, 
+and had us branded traitors.[A][ClearBox]Your highness, please forgive me.
+It is my fault that this has happened.[A][ClearBox][TargetRight]I refuse to believe it.[Pause=3]
+Hardin would never attack Aritia![A][ClearBox]You're telling me that he believed Lang and
+truly thought that I wished to instigate a
+rebellion? [Pause=3]Never![A][ClearBox][TargetLeft]No, I agree with you, sire.[Pause=3]
+This attack was too soon.
+It happened far too quickly.[A][ClearBox]For an attack of this scale, a great number
+of preparations had to have been in place.[A][ClearBox]It is likely[FreezeMouth]...[UnfreezeMouth] that the Grunia campaign was a
+setup. As was the situation in Macedonia.[A][ClearBox]It's quite simple, really.
+They had you leave Aritia, with your elite
+knights in tow,[A][ClearBox]and then proceeded to attack our weakened
+defenses.[A][ClearBox]Hardin had this planned right from the start.
+What happened with Lang was just an
+excuse to attack our country.[A][ClearBox][TargetRight]That's preposterous[FreezeMouth]![UnfreezeMouth][A][ClearBox]Are you implying that Hardin[SpecialSymbol=0x96]
+with no provocation whatsoever[SpecialSymbol=0x96]
+decided to attack his fellow nation[FreezeMouth]?[UnfreezeMouth][A][ClearBox]Are you seriously suggesting this was all an
+elaborate trap[FreezeMouth]?[UnfreezeMouth][Pause=3][A][ClearBox]No!
+I won't accept it...[A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]Your highness, regardless, our country has
+been attacked by Akaneia. Not only that,
+but we were ambushed without prior warning.[A][ClearBox]That, to us knights, is the most
+dishonourable action one could take.
+In that case, we have no choice but to fight[A][ClearBox]back with our full strength.[A][ClearBox][TargetRight]Hardin[FreezeMouth]...[UnfreezeMouth] why?[A][ClearBox][TargetLeft]Sire[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=SHEEDA][TargetLeft]Princess Sheeda, what of the others?[Pause=3]
+Is Princess Ellis safe?[A][ClearBox][TargetRight][EyeCommand=ec]Ellis, she[FreezeMouth]...[UnfreezeMouth]
+She gave herself up in order to let me
+escape with this message.[A][ClearBox]The others... I don't know...
+Abel and Est were still fighting the
+last time I saw them...[A][ClearBox]Marth[FreezeMouth]...[UnfreezeMouth] I'm so sorry.[Pause=3] I'm the only one
+who escaped... Ellis wanted me to warn you,
+no matter what[FreezeMouth]...[UnfreezeMouth] Sniff[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=MARS][FaceCommand=0x73]Sheeda[FreezeMouth]...[UnfreezeMouth] Don't cry. I understand.[Pause=3]
+Just knowing you're safe makes me happy.[A][ClearBox][FaceCommand=0x61]I should be the one apologizing.[Pause=3]
+I shouldn't have left[FreezeMouth]...[UnfreezeMouth] 
+You needn't have to go through this.[A][ClearBox]We will take back Aritia.[A][ClearBox]Even if we have to fight Hardin, we WILL
+reclaim our homeland![A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS004_ED1_PCM1
+[TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=BBG40][TargetLeft]Marth[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetRight]Sheeda[FreezeMouth]?[UnfreezeMouth]
+Did something happen?[Pause=3]
+Why are you here[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]Marth[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Aritia...[UnfreezeMouth][Pause=3] Aritia was attacked by the imperial
+army.[A][ClearBox]The Akaneian League... Gra and Orleans
+ambushed us.[Pause=3] Our forces were annihilated
+and we lost the castle[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Wh-what did you say[FreezeMouth]?![UnfreezeMouth][Pause=3]
+This can't be happening![Pause=3]
+Aritia is[FreezeMouth]...[UnfreezeMouth] Jeigan, what's going on?[A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]This is terrible beyond words[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That which I feared the most has come to
+pass.[A][ClearBox]Emperor Hardin likely heard Lang's story, 
+and had us branded traitors.[A][ClearBox]Your highness, please forgive me.
+It is my fault that this has happened.[TargetRight]I refuse to believe it.[Pause=3]
+Hardin would never attack Aritia![A][ClearBox]You're telling me that he believed Lang and
+truly thought that I wished to instigate a
+rebellion? [Pause=3]Never![A][ClearBox][TargetLeft]No, I agree with you, sire.[Pause=3]
+This attack was too soon.
+It happened far too quickly.[A][ClearBox]For an attack of this scale, a great number
+of preparations had to have been in place.[A][ClearBox]It is likely[FreezeMouth]...[UnfreezeMouth] that the Grunia campaign was a
+setup. As was the situation in Macedonia.[A][ClearBox]It's quite simple, really.
+They had you leave Aritia, with your elite
+knights in tow,[A][ClearBox]and then proceeded to attack our weakened
+defenses.[A][ClearBox]Hardin had this planned right from the start.
+What happened with Lang was just an
+excuse to attack our country.[A][ClearBox][TargetRight]That's preposterous[FreezeMouth]![UnfreezeMouth][A][ClearBox]Are you implying that Hardin[SpecialSymbol=0x96]
+with no provocation whatsoever[SpecialSymbol=0x96]
+decided to attack his fellow nation[FreezeMouth]?[UnfreezeMouth][A][ClearBox]Are you seriously suggesting this was all an
+elaborate trap[FreezeMouth]?[UnfreezeMouth][Pause=3][A][ClearBox]No!
+I won't accept it...[A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]Your highness, regardless, our country has
+been attacked by Akaneia. Not only that,
+but we were ambushed without prior warning.[A][ClearBox]That, to us knights, is the most
+dishonourable action one could take.
+In that case, we have no choice but to fight[A][ClearBox]back with our full strength.[A][ClearBox][TargetRight]Hardin[FreezeMouth]...[UnfreezeMouth] why?[A][ClearBox]Sire[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=SHEEDA][TargetLeft]Princess Sheeda, what of the others?[Pause=3]
+Is Princess Ellis safe?[A][ClearBox][TargetRight][EyeCommand=ec]Ellis, she[FreezeMouth]...[UnfreezeMouth]
+She gave herself up in order to let me
+escape with this message.[A][ClearBox]The others... I don't know...
+Abel and Est were still fighting the
+last time I saw them...[A][ClearBox]Marth[FreezeMouth]...[UnfreezeMouth] I'm so sorry.[Pause=3] I'm the only one
+who escaped... Ellis wanted me to warn you,
+no matter what[FreezeMouth]...[UnfreezeMouth] Sniff[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=MARS][FaceCommand=0x73]Sheeda[FreezeMouth]...[UnfreezeMouth] Don't cry. I understand.[Pause=3]
+Just knowing you're safe makes me happy.[A][ClearBox][FaceCommand=0x61]I should be the one apologizing.[Pause=3]
+I shouldn't have left[FreezeMouth]...[UnfreezeMouth] 
+You needn't have to go through this.[A][ClearBox]We will take back Aritia.[A][ClearBox]Even if we have to fight Hardin, we WILL
+reclaim our homeland![A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS004_ED2
+[SpecialText0x14][Fade=40][TargetLeft][LoadPortrait=JEIGUN][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG75][TargetLeft]Remove hair?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS004_ED2_A
+[TargetRight]Yeah.[Pause=3] I'll have to apologize to Father Riff
+later, but I think I'll change it back to normal.[A][ClearBox][TargetLeft]Yes.[Pause=3]
+I do believe that would be a good idea.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS004_ED2_B
+[TargetRight]No, it's alright.[Pause=3]
+I'm quite fond of my new hair...
+Or lack of it, rather.[A][ClearBox][TargetLeft]I-is that so?[Pause=3]
+Well, if that's your wish, then I can hardly
+complain.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+

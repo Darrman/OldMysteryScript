@@ -1,0 +1,310 @@
+MDL_ITEM_FAILED
+This item has already been added to
+this save file. Each item can be added
+only once to one save file.[X]
+
+MDRENTAL_DECIDE
+Proceed?[X]
+
+MDRENTAL_DISABLE
+You cannot use a loaned unit unless that
+unit exists in your save file.[X]
+
+MDRENTAL_DOWN
+Add this loan unit to your list?[X]
+
+MDRENTAL_END
+Exit?[X]
+
+MDRENTAL_EXEC
+Use this loan unit?[X]
+
+MDRENTAL_NORENTAL
+No loan units have been sent to you.
+Ending communications.[X]
+
+MDRENTAL_RELEASE
+Dismiss the unit you have on loan?[X]
+
+MDRENTAL_TRANS
+Use this loan unit?
+Your current loan unit will be replaced.[X]
+
+MDRENTAL_UP
+Store this unit on the game server?[X]
+
+MFRIENDLISTH_CODE
+Enter a Friend Code.[X]
+
+MFRIENDLISTH_DELETE
+Remove Friend Code.[X]
+
+MFRIENDLISTH_EDIT
+Edit Friend Code.[X]
+
+MFRIENDLISTH_ENTRY
+Register a Friend Code.[X]
+
+MFRIENDLISTH_LIST
+Select Friend Code.[X]
+
+MFRIENDLIST_DELETE
+Delete[X]
+
+MFRIENDLIST_DELETEDIALOG
+Remove this Friend Code?[X]
+
+MFRIENDLIST_EDIT
+Edit[X]
+
+MFRIENDLIST_ENTRY
+Add[X]
+
+MFRIENDLIST_SAVEDIALOG
+Save your changes?[X]
+
+MHRENTAL_DIRECTDOWN
+Select units to receive.[X]
+
+MHRENTAL_DIRECTUP
+[SpecialText0x14]Select units to send (excludes [SpecialText0x14=0x39]).[X]
+
+MHRENTAL_DOWN
+Select units to receive.[X]
+
+MHRENTAL_DOWNFRIEND
+Select a friend to receive units from.[X]
+
+MHRENTAL_EXEC
+Select the loan unit you want to use.[X]
+
+MHRENTAL_UP
+[SpecialText0x14]Select units to send (excludes [SpecialText0x14=0x39]).[X]
+
+MMIC_C
+Please speak into the microphone.[X]
+
+MMIC_CP
+Adjusting the microphone. Please wait...[X]
+
+MMIC_HELP
+Confirm the sensitivty of the microphone.[X]
+
+MRENTAL_RELEASE
+Dismiss[X]
+
+MSH_CHARM01
+Raises strength
+of all friendly
+units by 1.[X]
+
+MSH_CHARM02
+Raises skill
+of all friendly
+units by 1.[X]
+
+MSH_CHARM03
+Raises speed
+of all friendly
+units by 1.[X]
+
+MSH_CHARM04
+Raises magic
+of all friendly
+units by 1.[X]
+
+MSH_CHARM05
+Raises defense
+of all friendly
+units by 1.[X]
+
+MSH_CHARM06
+Raises resistance
+of all friendly
+units by 1.[X]
+
+MSH_CHARM07
+Raises movement
+of armored units
+by 1.[X]
+
+MSH_CHARM08
+Lowers HP of
+all enemy units
+by 20% on the
+opening turn.[X]
+
+MSH_CHARM09
+Nullifies critical
+hits from both
+friendly and
+enemy units.[X]
+
+MSH_CHARM10
+Lowers movement
+of enemy fliers
+by 1.[X]
+
+MSH_CHARM11
+Raises friendly
+units' hit rate
+when using
+swords by 10%.[X]
+
+MSH_CHARM12
+Raises friendly
+units' hit rate
+when using
+lances by 10%.[X]
+
+MSH_CHARM13
+Raises friendly
+units' hit rate
+when using
+axes by 10%.[X]
+
+MSH_CHARM14
+Raises friendly
+units' hit rate
+when using
+bows by 10%.[X]
+
+MSH_CHARM15
+Raises friendly
+units' hit rate
+when using
+magic by 10%.[X]
+
+MSH_CHARM16
+Nullifies bonus
+damage from
+both friendly and
+enemy units.[X]
+
+MSH_CHARM17
+Restores 2 HP
+to all friendly
+units each turn.[X]
+
+MSH_CHARM18
+Raises movement
+cost for all
+terrain by 1.[X]
+
+MSH_CHARM19
+Lowers visibility
+for both friendly
+and enemy units
+to 1.[X]
+
+MSH_CHARM20
+Awards two
+cards if you win
+the wireless
+battle.[X]
+
+MSH_CHARMINFO
+Info[X]
+
+MS_CHARM00
+No card[X]
+
+MS_CHARM01
+Strength[X]
+
+MS_CHARM02
+Skill[X]
+
+MS_CHARM03
+Haste[X]
+
+MS_CHARM04
+Magic[X]
+
+MS_CHARM05
+Adamant[X]
+
+MS_CHARM06
+Guardian[X]
+
+MS_CHARM07
+Fleet Feet[X]
+
+MS_CHARM08
+Judgment[X]
+
+MS_CHARM09
+Dazzle[X]
+
+MS_CHARM10
+Maelstrom[X]
+
+MS_CHARM11
+Whetstone[X]
+
+MS_CHARM12
+S・・・・・・・・[X]
+
+MS_CHARM13
+Battleaxe[X]
+
+MS_CHARM14
+Fletcher[X]
+
+MS_CHARM15
+Sorcerer[X]
+
+MS_CHARM16
+Apotrope[X]
+
+MS_CHARM17
+Recovery[X]
+
+MS_CHARM18
+Gravity[X]
+
+MS_CHARM19
+Umbra[X]
+
+MS_CHARM20
+Generosity[X]
+
+MTHL_カード
+Choose a card for this squad.[X]
+
+MTHL_カード編集
+Select a squad to change its card.[X]
+
+MTHL_トップ
+What would you like to do?[X]
+
+MTHL_確認
+Select the squad you wish to view.[X]
+
+MTHL_作成
+Choose a location to create your squad.[X]
+
+MTHL_削除
+Select the squad you want to delete.[X]
+
+MTHL_対戦
+Select a squad to deploy.[X]
+
+MTHL_編成
+Make your preparations.[X]
+
+MTHL_名前
+Enter a name for this squad.[X]
+
+MTM_カード編集
+Card[X]
+
+MTM_確認
+View[X]
+
+MTM_作成
+New[X]
+
+MTM_削除
+Delete[X]
+

@@ -1,0 +1,143 @@
+MSJI_ARCHER
+Armored fighters who wield bows.
+They attack from a short distance away.[X]
+
+MSJI_ARMORKNIGHT
+Heavily armored knights. High defense
+offsets their lack of speed and mobility.[X]
+
+MSJI_BERSERKER
+Seasoned pirates who fare well in mountains
+or on water and often deal critical hits.[X]
+
+MSJI_BISHOP
+Seasoned curates and clerics capable
+of wielding tomes and staves alike.[X]
+
+MSJI_COMMAND
+Units with little combat skill of their own,
+but who can assume a comrade's form.[X]
+
+MSJI_DANCER
+Units who invigorate allies with their
+captivating dances. Able to use swords.[X]
+
+MSJI_DARKMAGE
+Sinister conjurers who wield magic tomes.
+Powerful against those with high defense.[X]
+
+MSJI_DRAGONKNIGHT
+Promoted pegasus knights who ride dragons.
+Vulnerable only to bows and magic.[X]
+
+MSJI_EARTHDRAGON
+UNUSED[X]
+
+MSJI_FALCONKNIGHT
+Promoted pegasus knights who are swift as
+the wind. Vulnerable against bows.[X]
+
+MSJI_FIGHTER
+Axe-wielding clansmen from outlying
+kingdoms. Strong, but poor at defense.[X]
+
+MSJI_FIREDRAGON
+UNUSED[X]
+
+MSJI_GENERAL
+Seasoned knights who boast tremendous
+strength and defense.[X]
+
+MSJI_GODDESSDRAGON
+UNUSED[X]
+
+MSJI_HERO
+Seasoned mercenaries and consummate
+swordsmen who deftly deal critical hits.[X]
+
+MSJI_HORSEMEN
+Seasoned hunters who race across the
+battlefield armed with swords and bows.[X]
+
+MSJI_HUNTER
+Bow wielders in light armor who fight best
+in the wild. Not well protected, but strong.[X]
+
+MSJI_LORD
+Marth, prince of Aritia and pivotal player
+in our story.[X]
+
+MSJI_MAGE
+Magic users who wield tomes as weapons.
+Effective against foes with high defense.[X]
+
+MSJI_MAGICDRAGON
+UNUSED[X]
+
+MSJI_MAMKUTE
+A fabled race said to be able to take dragon
+form. Once, they ruled the world.[X]
+
+MSJI_MERCENARY
+Professional soldiers-for-hire with
+excellent abilities all around.[X]
+
+MSJI_PALADIN
+Seasoned cavaliers with superior abilities
+all around.[X]
+
+MSJI_PEGASUSKNIGHT
+Knights who soar the skies astride pegasi.
+Resistant to magic. Weak against bows.[X]
+
+MSJI_PIRATES
+Freebooters who carry axes, like fighters.
+Tough as nails while on the water.[X]
+
+MSJI_PRIEST
+Men of the staff who come to the aid of
+allies. Unable to attack.[X]
+
+MSJI_SAGE
+Seasoned mages capable of wielding
+tomes and staves alike.[X]
+
+MSJI_SHOOTER
+Powerful long-range attackers with high
+defense, but their ballistae slow them down.[X]
+
+MSJI_SISTER
+Women of the staff who come to the aid
+of allies. Unable to attack.[X]
+
+MSJI_SNIPER
+Seasoned archers whose arrows fly truer
+than those of any other class.[X]
+
+MSJI_SOCIALKNIGHT
+Mounted knights with superior movement.
+A finely balanced class.[X]
+
+MSJI_SOLDIER
+UNUSED[X]
+
+MSJI_SORCERER
+Seasoned dark mages capable of
+wielding tomes and staves alike.[X]
+
+MSJI_SWORDFIGHTER
+Swift and skilled warriors who specialize in
+the blade. They often deal critical hits.[X]
+
+MSJI_SWORDMASTER
+Seasoned myrmidons who strike with
+critical hits as sure and quick as lightning.[X]
+
+MSJI_THIEF
+Organized rogues who raze villages.
+Poor at fighting, but talented with locks.[X]
+
+MSJI_WARRIOR
+Seasoned fighters with unparalleled
+strength and stamina.[X]
+

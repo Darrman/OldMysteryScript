@@ -1,0 +1,177 @@
+MDWC_0001
+Your Nintendo Wi-Fi Connection
+User Information may have been
+erased. Check your connection
+settings. For help,
+visit support.nintendo.com.[X]
+
+MDWC_0002
+Connect to Nintendo Wi-Fi
+Connection?[X]
+
+MDWC_0003
+Nintendo Wi-Fi Connection treats
+your Nintendo DS Game Card and
+Nintendo DSi as a set.
+Save this Nintendo DSi system's
+Nintendo Wi-Fi Connection User
+Information to this Game Card and
+connect to Nintendo Wi-Fi Connection?[X]
+
+MDWC_0004
+Nintendo Wi-Fi Connection User
+Information for this Nintendo DSi has
+been saved to the Game Card.
+From now on, please use this
+Nintendo DSi to connect to
+Nintendo Wi-Fi Connection.[X]
+
+MDWC_0005
+Unable to connect to Nintendo
+Wi-Fi Connection because the
+Nintendo Wi-Fi Connection User
+Information from the Nintendo DSi
+and the Game Card do not match.[X]
+
+MDWC_0006
+Update Nintendo Wi-Fi Connection
+User Information saved on the
+Game Card?
+When you update your Nintendo
+Wi-Fi Connection User Information,
+you will lose all data used to connect
+to Nintendo Wi-Fi Connection.[X]
+
+MDWC_0006_RecoveryInfo
+Even if you update Nintendo Wi-Fi
+Connection User Information,
+your Friend Roster will be saved.
+However, your friends will have
+to reregister your new Friend Code.[X]
+
+MDWC_0007
+Do you still want to update?[X]
+
+MDWC_0008
+Connecting to Nintendo Wi-Fi
+Connection...
+Please wait a moment...[X]
+
+MDWC_0009
+You cannot access Nintendo
+Wi-Fi Connection using this
+user name. Please change
+your user name and try again.[X]
+
+MDWC_0010
+OK to disconnect from Nintendo
+Wi-Fi Connection?[X]
+
+MDWC_0011
+Disconnecting from Nintendo
+Wi-Fi Connection...[X]
+
+MDWC_0012
+You have been disconnected from
+Nintendo Wi-Fi Connection.[X]
+
+MDWC_0013
+Please configure your connection
+settings from the system settings.[X]
+
+MWiFiErr_20101
+Either Nintendo Wi-Fi Connection
+is experiencing high traffic volumes
+or the service is down. Please try
+again later. For help, visit
+support.nintendo.com.[X]
+
+MWiFiErr_20108
+This Nintendo Wi-Fi Connection ID
+was removed because it was
+inactive for a long time. For help,
+visit support.nintendo.com.[X]
+
+MWiFiErr_20110
+Nintendo Wi-Fi Connection service for
+this software has been discontinued.
+Visit support.nintendo.com
+for a list of current Nintendo
+Wi-Fi Connection-compatible software.[X]
+
+MWiFiErr_20XXX
+Unable to connect to Nintendo Wi-Fi
+Connection. For help, check the
+Software Instruction Booklet, or visit
+support.nintendo.com.[X]
+
+MWiFiErr_31XXX_Cont
+Download failed.
+For help, visit support.nintendo.com.[X]
+
+MWiFiErr_500XX
+No access point in range. Please
+try again when closer to an
+access point. For help, visit
+support.nintendo.com.[X]
+
+MWiFiErr_505XX
+You must agree to the Terms of Service.
+Please confirm the Terms of Service
+from the system settings.[X]
+
+MWiFiErr_506XX
+Wireless communication is not
+enabled. Please enable it
+from the system settings.[X]
+
+MWiFiErr_510XX
+No compatible access point
+in range. Check your connection
+settings and try again. For help,
+visit support.nintendo.com.[X]
+
+MWiFiErr_512XX
+The access point is busy. Unable
+to connect. Please try again later.
+For help, visit support.nintendo.com.[X]
+
+MWiFiErr_52000
+Unable to connect to
+Nintendo Wi-Fi Connection.
+Confirm connection settings
+and access point settings.
+For help, visit support.nintendo.com.[X]
+
+MWiFiErr_80430
+There is no response. Either
+the player is not connected to
+Nintendo Wi-Fi Connection or
+you have been removed from
+the player's Friend Roster.[X]
+
+MWiFiErr_80431
+There is no response from
+the player.[X]
+
+MWiFiErr_80432
+There is no response from
+the player.[X]
+
+MWiFiErr_Fatal
+Communication error. You
+cannot connect to Nintendo
+Wi-Fi connection. Please
+reset the game and try again.
+For help, visit support.nintendo.com.[X]
+
+MWiFiErr_Other
+Communication error. You
+have been disconnected from
+Nintendo Wi-Fi Connection.
+For help, visit support.nintendo.com.[X]
+
+MWiFiErr_Other_Cont
+Communication error.
+For help, visit support.nintendo.com[X]
+

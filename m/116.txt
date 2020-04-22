@@ -1,0 +1,170 @@
+MS116_PRE1
+[TargetLeft][LoadPortrait=EREMIYA][TargetRight][LoadPortrait=KATARINA][LoadBackground=BBG66][TargetLeft]So the Aritian army has reclaimed
+Aritia Castle.[A][ClearBox]Master Garnef is rightfully livid[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Lady Eremiah[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]And yet, Eine.[Pause=3]
+All you can do is stand there,
+doing nothing.[A][ClearBox]Are you not ashamed of being alive?[Pause=3][A][ClearBox]To die for my sake[SpecialSymbol=0x96]
+is that not the natural recourse?[A][ClearBox][TargetRight][EyeCommand=ec][FreezeMouth]...[UnfreezeMouth]Yes[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS116_PRE1_01
+[TargetLeft]Eine, you are worthless trash.
+There is no value in your life.[Pause=3]
+You're a child the world never wanted.[A][ClearBox]Tell me, who was it that saved you?[Pause=3]
+Who should you thank for allowing your
+wretched existence to continue?[A][ClearBox][TargetRight]It's all thanks[FreezeMouth]...[UnfreezeMouth][Pause=3]
+to you, Lady Eremiah.[A][ClearBox][TargetLeft]Kill them.[A][ClearBox][TargetRight][EyeCommand=ed]But[FreezeMouth]... [UnfreezeMouth]Lady Eremiah[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][Pause=3]
+I[FreezeMouth]... [UnfreezeMouth]sniff[FreezeMouth]... [UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]Silence, worthless puppet.[A][ClearBox]You cannot defy my orders.[Pause=3]
+That's what I've "taught" you since
+you were little.[A][ClearBox]The words I engraved upon your
+then-young soul will remain there, forever.[A][ClearBox][TargetRight][EyeCommand=ec][FreezeMouth]...[UnfreezeMouth]Sniff[FreezeMouth]...[UnfreezeMouth] sniff[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]O-hoh hoh![Pause=3]
+I'll use you until you break.[Pause=3]
+My little puppet[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS116_PRE1_02
+[Unknown0x4=F][X]
+
+MS116_OP2
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG16][TargetLeft][LoadPortrait=KATARINA][TargetRight]Katarina[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth]
+Prince Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=MARS]Katarina, if you have reasons,
+I would like to hear them.[A][ClearBox]I'm sure we can settle this,
+without resorting to fighting.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]I'm sorry.[A][ClearBox][EyeCommand=ec]I[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I have no choice but to do this.[A][ClearBox][X]
+
+MS116_TK1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=][TargetLeft][LoadPortrait=KATARINA][TargetRight]Katarina[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73][SpecialText0x14=0x39].[Pause=3]
+I[FreezeMouth]... [UnfreezeMouth]had a dream.[A][ClearBox]It was short[FreezeMouth]...[UnfreezeMouth][Pause=3]
+but it was a very happy dream.[A][ClearBox][EyeCommand=ec][SpecialText0x14=0x39], you and I[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Both of us became Royal Guards[FreezeMouth]...[UnfreezeMouth][A][ClearBox]We saved many people,
+received many thanks[FreezeMouth]...[UnfreezeMouth][Pause=3]
+And then, the two of us[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ed][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth] I[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ec]I'm sorry[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm talking nonsense.
+There's no going back for me.[A][ClearBox][EyeCommand=ed][FreezeMouth]...[UnfreezeMouth]Let us resume our battle,[Pause=3] [SpecialText0x14=0x39].[A][ClearBox][X]
+
+MS116_TK2
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=][TargetLeft][LoadPortrait=KATARINA][TargetLeft][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+There's nothing left for us to say.[Pause=3]
+You and I are enemies[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Please fight me.[Pause=3]
+If you don't,[Pause=3] I'll kill you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS116_TK3_PCF1
+[TargetRight][LoadPortrait=PLAYER][LoadBackground=][TargetLeft][LoadPortrait=KATARINA][TargetRight]Katarina[FreezeMouth]![UnfreezeMouth][Pause=3]
+Listen to me.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS116_TK3_PCM1
+[TargetRight][LoadPortrait=PLAYER][LoadBackground=][TargetLeft][LoadPortrait=KATARINA][TargetRight]Katarina[FreezeMouth]![UnfreezeMouth][Pause=3]
+Please listen to me.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS116_TK3_1_PCF1
+[SpecialText0x14][TargetLeft][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+Why?[Pause=3]
+Why do you refuse to fight[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]You must know that you'll die[Pause=3]
+if you don't kill me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+And yet, why do you hesitate[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Because you're my friend.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]You can't have forgotten:[Pause=3]
+Our days training as knights[FreezeMouth]...[UnfreezeMouth][A][ClearBox]The times we fought together with
+Luke, Rody, Ryan and Cecil[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]"Together, we'd be an unstoppable team"[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That's what you told me.[A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS116_TK3_1_PCM1
+[SpecialText0x14][TargetLeft][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+Why?[Pause=3]
+Why do you refuse to fight[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]You must know that you'll die[Pause=3]
+if you don't kill me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+And yet, why do you hesitate[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Because you're my friend.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]You can't have forgotten:[Pause=3]
+Our days training as knights[FreezeMouth]...[UnfreezeMouth][A][ClearBox]The times we fought together with
+Luke, Rody, Ryan and Cecil[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]"Together, we'd be an unstoppable team"[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That's what you told me.[A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS116_TK3_2_PCF1
+[SpecialText0x14][Fade=48][EyeCommand=f2][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][Unknown0x12]0[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG40][TargetLeft][LoadPortrait=KATARINA][TargetLeft][FaceCommand=0x73][EyeCommand=f0][SpecialText0x14=0x39], that's a wonderful name.[Pause=3]
+We're here for the same reason, then.[A][ClearBox]My name is Katarina.[Pause=3]
+I came because I wish to serve Prince Marth.[A][ClearBox][Fade=32][EyeCommand=f2][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG16][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73][TargetLeft][EyeCommand=f0]Thank goodness[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x39], you won.[Pause=3] I knew you could do it.[A][ClearBox][Fade=32][EyeCommand=f2][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][TargetRight][LoadPortrait=PLAYER][FaceCommand=0x61][LoadBackground=BBG03][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73][TargetLeft][EyeCommand=f0]I[FreezeMouth]...[UnfreezeMouth]
+I'd like be a Royal Guard, if you're in with me..[A][ClearBox]Together, we'd be an unstoppable team[FreezeMouth]...[UnfreezeMouth][A][ClearBox]When I imagine a future like that, I feel very
+happy.[A][ClearBox][FreezeMouth]...[UnfreezeMouth]Um, what about you, [SpecialText0x14=0x39]?[Pause=3]
+Do you, perhaps, feel the same as I[FreezeMouth]...?[UnfreezeMouth][A]
+[Fade=48][EyeCommand=f1][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][Unknown0x12]0[TargetRight][LoadPortrait=PLAYER][LoadBackground=][TargetLeft][LoadPortrait=KATARINA][TargetLeft][EyeCommand=f0][TargetLeft][FaceCommand=0x61]That was[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ec]That was all[FreezeMouth]... [UnfreezeMouth]a lie.[Pause=3]
+Everything I did was to deceive you[FreezeMouth]...[UnfreezeMouth][A][ClearBox]It was all just a ruse[FreezeMouth]...[UnfreezeMouth][Pause=3]
+The truth is[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I don't care about you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]If that's the case[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS116_TK3_2_PCM1
+[SpecialText0x14][Fade=48][EyeCommand=f2][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][Unknown0x12]0[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG40][TargetLeft][LoadPortrait=KATARINA][TargetLeft][FaceCommand=0x73][EyeCommand=f0][SpecialText0x14=0x39], that's a wonderful name.[Pause=3]
+We're here for the same reason, then.[A][ClearBox]My name is Katarina.[Pause=3]
+I came because I wish to serve Prince Marth.[A][ClearBox][Fade=32][EyeCommand=f2][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG16][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73][TargetLeft][EyeCommand=f0]Thank goodness[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x39], you won.[Pause=3] I knew you could do it.[A][ClearBox][Fade=32][EyeCommand=f2][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][TargetRight][LoadPortrait=PLAYER][FaceCommand=0x61][LoadBackground=BBG03][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73][TargetLeft][EyeCommand=f0]I[FreezeMouth]...[UnfreezeMouth]
+I'd like be a Royal Guard, if you're in with me.[A][ClearBox]Together, we'd be an unstoppable team[FreezeMouth]...[UnfreezeMouth][A][ClearBox]When I imagine a future like that, I feel very
+happy.[A][ClearBox][FreezeMouth]...[UnfreezeMouth]Um, what about you, [SpecialText0x14=0x39]?[Pause=3]
+Do you, perhaps, feel the same as I[FreezeMouth]...?[UnfreezeMouth][A]
+[Fade=48][EyeCommand=f1][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][Unknown0x12]0[TargetRight][LoadPortrait=PLAYER][LoadBackground=][TargetLeft][LoadPortrait=KATARINA][TargetLeft][EyeCommand=f0][TargetLeft][FaceCommand=0x61]That was[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ec]That was all[FreezeMouth]... [UnfreezeMouth]a lie.[Pause=3]
+Everything I did was to deceive you[FreezeMouth]...[UnfreezeMouth][A][ClearBox]It was all just a ruse[FreezeMouth]...[UnfreezeMouth][Pause=3]
+The truth is[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I don't care about you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]If that's the case[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS116_TK3_3_PCF1
+[SpecialText0x14][TargetRight]Then why are you crying, now?[A][ClearBox][TargetLeft][EyeCommand=ed][FreezeMouth]...[UnfreezeMouth]I'm[FreezeMouth]... [UnfreezeMouth]not[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Katarina.[Pause=3]
+You don't belong there.[A][ClearBox]You want to fight alongside me,
+for Prince Marth.[Pause=3]
+I'm certain of it.[A][ClearBox][TargetLeft]It's[FreezeMouth]... [UnfreezeMouth]too late for that.[Pause=3]
+I've committed too many unforgivable sins[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Then, you'll just have to start
+atoning for them.[A][ClearBox]It won't be easy.[Pause=3]
+Many people from both Aritia and your
+organization will turn you a cold shoulder[FreezeMouth]...[UnfreezeMouth][A][ClearBox]But, I can promise you this.[Pause=3]
+No matter what happens[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I'll stand by your side.[A][ClearBox][TargetLeft][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Return to us, Katarina.[A][ClearBox][TargetLeft][EyeCommand=ec][FreezeMouth]...[UnfreezeMouth]Sob[FreezeMouth]... [UnfreezeMouth]sob[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[FreezeMouth]...[UnfreezeMouth][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][SpecialText0x14=0x39][FreezeMouth]... [UnfreezeMouth][Pause=3][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS116_TK3_3_PCM1
+[SpecialText0x14][TargetRight]Then why are you crying, now?[A][ClearBox][TargetLeft][EyeCommand=ed][FreezeMouth]...[UnfreezeMouth]I'm[FreezeMouth]... [UnfreezeMouth]not[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Katarina.[Pause=3]
+You don't belong there.[A][ClearBox]You want to fight alongside me,
+for Prince Marth.[Pause=3]
+I'm certain of it.[A][ClearBox][TargetLeft]It's[FreezeMouth]... [UnfreezeMouth]too late for that.[Pause=3]
+I've committed too many unforgivable sins[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Then, you'll just have to start
+atoning for them.[A][ClearBox]It won't be easy.[Pause=3]
+Many people from both Aritia and your
+organization will turn you a cold shoulder[FreezeMouth]...[UnfreezeMouth][A][ClearBox]But, I can promise you this.[Pause=3]
+No matter what happens[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I'll stand by your side.[A][ClearBox][TargetLeft][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Return to us, Katarina.[A][ClearBox][TargetLeft][EyeCommand=ec][FreezeMouth]...[UnfreezeMouth]Sob[FreezeMouth]... [UnfreezeMouth]sob[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[FreezeMouth]...[UnfreezeMouth][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][SpecialText0x14=0x39][FreezeMouth]... [UnfreezeMouth][Pause=3][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS116_BT_BOSS
+[LoadBackground=][TargetLeft][LoadPortrait=KATARINA]I am a puppet[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I exist only to serve Lady Eremiah[FreezeMouth]...[UnfreezeMouth][Pause=3]
+My life has no value[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS116_DIE_BOSS
+[SpecialText0x14][LoadBackground=][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73]Thank[FreezeMouth]... [UnfreezeMouth]you[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Now I[FreezeMouth]...[UnfreezeMouth][Pause=3]
+won't have to hurt [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+anymore[FreezeMouth]...[UnfreezeMouth][A][ClearBox][SpecialText0x14=0x39][FreezeMouth]... [UnfreezeMouth][Pause=3]
+I'm[FreezeMouth]...[UnfreezeMouth][Pause=3] glad I could meet you[FreezeMouth]...[UnfreezeMouth][A][ClearBox]During those days of training[FreezeMouth]...[UnfreezeMouth]
+you showed me a beautiful, happy dream[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Hey, [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+Today's training[FreezeMouth]...[UnfreezeMouth]
+is about to begin[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Look, there's Prince Marth and the others[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[EyeCommand=ec]Don't[FreezeMouth]...[UnfreezeMouth] wait for me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[FreezeMouth]... [UnfreezeMouth][FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS116_ED2_A
+[TargetRight][LoadPortrait=KATARINA][LoadBackground=BBG16][TargetLeft][LoadPortrait=MARS][TargetRight][FreezeMouth]...[UnfreezeMouth]Prince Marth,
+I have committed many unforgivable sins.[A][ClearBox]Please, hand me punishment[FreezeMouth]...[UnfreezeMouth][Pause=3]
+worthy of my crimes.[Pause=3]
+Please execute me[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS116_ED2_A_01
+[TargetLeft][FaceCommand=0x73]Raise your head, Katarina.[Pause=3]
+I have no intention of taking your life.[A][ClearBox][TargetRight]But[FreezeMouth]... [UnfreezeMouth]why?[Pause=3]
+I don't deserve to live.[Pause=3]
+Please let me atone with my death[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]That's no atonement.[Pause=3]
+You're just running from your sins.[A][ClearBox][TargetRight]Oh[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]If you truly regret what you've done,
+then live.[Pause=3] I want you to atone
+with your life, not your death.[A][ClearBox][TargetRight]Atone with my life[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]But, how?[Pause=3]
+What should I do[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+How could I even begin to atone?[A][ClearBox][TargetLeft][FaceCommand=0x73]I cannot give you that answer.[A][ClearBox]Until now, you've only followed orders,
+never thinking for yourself.[A][ClearBox]But that's going to change now.[Pause=3]
+You will think for yourself,
+and find your own answer.[A][ClearBox]That is my punishment to you.[A][ClearBox][TargetRight]Prince Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS116_ED2_B
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG16][TargetLeft][LoadPortrait=MARS][TargetRight][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth]
+I've forced you to play a painful role.[A][ClearBox]I won't forgive the villain who
+led her to this path.
+Let's go, [SpecialText0x14=0x39].[A][ClearBox][Fade=40][Unknown0x4=F][X]
+

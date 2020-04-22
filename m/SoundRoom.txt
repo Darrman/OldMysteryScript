@@ -1,0 +1,342 @@
+MBGM_BTL_BOSS1
+Stalwart Opposition[X]
+
+MBGM_BTL_BOSS4
+Confronting a Strong Foe[X]
+
+MBGM_BTL_BOSS5
+Dark Emperor Hardin[X]
+
+MBGM_BTL_BOSS6
+Reign of Despair[X]
+
+MBGM_BTL_BOSS7
+Tearing Shadows[X]
+
+MBGM_BTL_CP1
+Adversary[X]
+
+MBGM_BTL_CP2
+Opposition[X]
+
+MBGM_BTL_MAFU1
+Bellowing Darkness[X]
+
+MBGM_BTL_PL1
+Strike![X]
+
+MBGM_BTL_PL2
+Initiative[X]
+
+MBGM_BTL_STARLIGHT1
+The Sacred Light[X]
+
+MBGM_BTL_TOUGIJOU1_2
+Days of Training[X]
+
+MBGM_BTL_TUE2
+Return to Us, Friend[X]
+
+MBGM_EVT_ANOTHER1
+Scorching Otherworld[X]
+
+MBGM_EVT_ANOTHER2
+Foreign Otherworld[X]
+
+MBGM_EVT_ARITIA1
+Paean[X]
+
+MBGM_EVT_DAILY1
+Soldiers' Daily Lives[X]
+
+MBGM_EVT_DESTINY1
+One Who Accepts Fate[X]
+
+MBGM_EVT_DESTINY2
+One Who Challenges Fate[X]
+
+MBGM_EVT_DISGUST1
+Mischievous Heart[X]
+
+MBGM_EVT_ENEMY1
+The Uninvited Guest[X]
+
+MBGM_EVT_ENEMY2
+The Proud Commander[X]
+
+MBGM_EVT_ENEMY3
+The Ancient Mage-Dragon[X]
+
+MBGM_EVT_ENEMY4
+Conspiracy[X]
+
+MBGM_EVT_ENEMY5
+Whisperers[X]
+
+MBGM_EVT_EPILOGUE1
+Epilogue[X]
+
+MBGM_EVT_GAG1
+Funny People[X]
+
+MBGM_EVT_GANEF1
+Garnef, Lord of Shadow[X]
+
+MBGM_EVT_GATO1
+Gato, White Sage[X]
+
+MBGM_EVT_GRAVE1
+The Right Road[X]
+
+MBGM_EVT_KATARINA1
+Puppets Don't Cry[X]
+
+MBGM_EVT_KIKI1
+Trouble![X]
+
+MBGM_EVT_KIKI2
+Dark Clouds Gather[X]
+
+MBGM_EVT_LEGEND1
+Divine Dragon ~ Old Saga[X]
+
+MBGM_EVT_LEGEND2
+Divine Dragon ~ New Saga[X]
+
+MBGM_EVT_LOVE1
+Theme of Love[X]
+
+MBGM_EVT_LOVE2
+Eternal Bond[X]
+
+MBGM_EVT_MEDIUS1_2
+The Dark Dragon's Ire[X]
+
+MBGM_EVT_MEET1
+Together, We Ride![X]
+
+MBGM_EVT_MEET_AGAIN1
+Reunited[X]
+
+MBGM_EVT_NINA1
+Nina, Forlorn Princess[X]
+
+MBGM_EVT_PEACEFUL1
+Moment of Serenity[X]
+
+MBGM_EVT_SAD1
+The People's Lament[X]
+
+MBGM_EVT_SINGEKI1
+Keep Marching On[X]
+
+MBGM_EVT_SINGEKI2
+With Heads Held High[X]
+
+MBGM_EVT_SINGEKI3
+Off to War[X]
+
+MBGM_EVT_SINGEKI4
+Combining our Strengths[X]
+
+MBGM_EVT_TAPESTRY1
+Festival of Narga[X]
+
+MBGM_EVT_TIKI1
+The Little Divine Dragon[X]
+
+MBGM_EVT_VILLAGE1
+Renewed Purpose[X]
+
+MBGM_EVT_WIN1
+Sweet Victory[X]
+
+MBGM_EVT_WIN2
+After the Battle[X]
+
+MBGM_EVT_WIN3
+Towards Victory[X]
+
+MBGM_GMAP4
+A New Journey[X]
+
+MBGM_GMAP5
+Seeking the Legend[X]
+
+MBGM_GMAP6
+War of Heroes[X]
+
+MBGM_MAP_CP1
+Blade of Treachery[X]
+
+MBGM_MAP_CP10
+For Whose Sake?[X]
+
+MBGM_MAP_CP11
+Dragon's Altar[X]
+
+MBGM_MAP_CP12
+Last Revels[X]
+
+MBGM_MAP_CP14
+Those who Approach[X]
+
+MBGM_MAP_CP15
+Murderous Puppets[X]
+
+MBGM_MAP_CP2
+Onset[X]
+
+MBGM_MAP_CP3
+A Mighty Host Appears[X]
+
+MBGM_MAP_CP4
+The Shadow Lengthens[X]
+
+MBGM_MAP_CP6
+Looming Danger[X]
+
+MBGM_MAP_CP8
+Insurrection[X]
+
+MBGM_MAP_CP9
+Beyond the Silence[X]
+
+MBGM_MAP_PL1
+Footsteps of Fate[X]
+
+MBGM_MAP_PL10
+Liberation[X]
+
+MBGM_MAP_PL11
+Holy War[X]
+
+MBGM_MAP_PL12
+Forbidden Sanctuary[X]
+
+MBGM_MAP_PL13
+Young Light[X]
+
+MBGM_MAP_PL14
+Carve a New History[X]
+
+MBGM_MAP_PL15
+Endless Struggle[X]
+
+MBGM_MAP_PL16
+Victory is Ours![X]
+
+MBGM_MAP_PL2
+The Time to Act[X]
+
+MBGM_MAP_PL3
+For Liberty[X]
+
+MBGM_MAP_PL4
+A Hero's Destiny[X]
+
+MBGM_MAP_PL6
+Into the Darkness[X]
+
+MBGM_MAP_PL8
+Advance[X]
+
+MBGM_MAP_PL9
+Expedition[X]
+
+MBGM_SYS_BUKIYA1
+Armory[X]
+
+MBGM_SYS_CC1
+Leaps and Bounds[X]
+
+MBGM_SYS_COMMUNI1
+Positioned to Win[X]
+
+MBGM_SYS_DIE1
+A Painful Farewell[X]
+
+MBGM_SYS_DIE_MARTH1
+Hero Falls[X]
+
+MBGM_SYS_DOUGUYA1
+Vendor[X]
+
+MBGM_SYS_ENDING4
+Light and Shadow[X]
+
+MBGM_SYS_ENDING6_1
+An Ending[X]
+
+MBGM_SYS_GAMEOVER1
+Requiem for the Brave[X]
+
+MBGM_SYS_GOPENING2
+Mystery of the Emblem[X]
+
+MBGM_SYS_MENU1
+Where Stories Begin[X]
+
+MBGM_SYS_PL_MAKE1
+Your Name is...[X]
+
+MBGM_SYS_SECRET1
+Secret Shop[X]
+
+MBGM_SYS_SINGEKI2
+Before Battle[X]
+
+MBGM_SYS_TOUGIJOU1_2
+The Valiant Challenger[X]
+
+MBGM_SYS_TOUGIJOU2_2
+The Valiant's Reward[X]
+
+MHL_SOUNDROOM
+Please select a track to hear.[X]
+
+MLINKREC_DATE
+Date[X]
+
+MLINKREC_LOSE
+L[X]
+
+MLINKREC_MYTEAM
+You[X]
+
+MLINKREC_OPPOTEAM
+Opponent[X]
+
+MLINKREC_RECORD
+Battle Data[X]
+
+MLINKREC_TOTAL
+Battle Record[X]
+
+MLINKREC_UNITDRAW
+D[X]
+
+MLINKREC_UNITWAR
+B[X]
+
+MLINKREC_UNITWIN
+W[X]
+
+MLINKREC_WIN
+W[X]
+
+MLINKREC_WINLOSE
+W/L[X]
+
+MSTRM_SYS_ENDING5
+Friendship[X]
+
+MSTRM_SYS_ENDING6_2
+Here After...[X]
+
+MSTRM_SYS_OPENING2
+Another Hero[X]
+
+MSTRM_SYS_TITLE1
+Fire Emblem Theme[X]
+

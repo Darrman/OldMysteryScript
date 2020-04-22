@@ -1,0 +1,15 @@
+MRECBT_HELP
+Select a scene to watch.[X]
+
+MRECBT_TITLE_BASE_F
+Base: Fem.[X]
+
+MRECBT_TITLE_BASE_M
+Base: Male[X]
+
+MRECBT_UNKNOWN
+???[X]
+
+MTH_‹’“_‰ï˜b
+Choose a conversation to listen to.[X]
+

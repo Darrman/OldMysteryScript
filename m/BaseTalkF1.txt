@@ -1,0 +1,650 @@
+MBTK_206_1_PCF1
+[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG75][TargetLeft][LoadPortrait=FREY]Today's lecture[Pause=3] is about Akaneia's most
+valued treasure, the "Fire Emblem."[A][ClearBox][TargetRight]The "Fire Emblem"[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I hear Prince Marth fought the last war
+with it in hand.[A][ClearBox][TargetLeft]That's right. In the previous War of
+Shadows,[Pause=3] the abominable shadow dragon,
+Mediuth, invaded Akaneia.[A][ClearBox]Akaneia was crushed by Mediuth's troops,
+and House Akaneia was wiped out,[Pause=3] save
+for Princess Nina.[A][ClearBox]And it was Princess Nina who entrusted
+Prince Marth with the proof of Akaneian
+royalty: the "Fire Emblem."[A][ClearBox][EyeCommand=f2][Unknown0x12]0[TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetLeft][LoadPortrait=NIENA][TargetLeft][EyeCommand=f0]Then let me give you this.[Pause=4]
+This crest is called the Fire Emblem.[A][ClearBox]House Akaneia bestows it only upon a
+true champion,[Pause=2] one we believe has the
+power to save the world.[A][ClearBox][Fade=48][EyeCommand=f1][Unknown0x12]0[TargetLeft][LoadPortrait=FREY][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG75][TargetLeft][EyeCommand=f0][TargetLeft]Therefore, our connection with Akaneia
+runs very deep.[Pause=3] Don't forget that.[A][ClearBox][X]
+
+MBTK_206_2_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=KATARINA][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG75][TargetLeft]Oh, [SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][Pause=3]
+I'm going out for a bit.[A][ClearBox][TargetRight]Katarina?[Pause=3]
+Why are you[Pause=3] in such a rush?[A][ClearBox][TargetLeft][FaceCommand=0x73]I've found someone in another platoon who
+could join us.[Pause=3] I'm off to talk to her.[A][ClearBox]She's called Cecil.
+I can vouch for her ability.[Pause=3][A][ClearBox]All of her comrades have deserted,[Pause=3] and it
+seems she's in a pickle, now that she's all
+alone.[A][ClearBox][TargetRight]Right, I see.[Pause=3]
+In that case, I'd be happy if she joined us.[A][ClearBox]Sir Jeigan did say our battles are going to
+become fiercer from now on.[Pause=3]
+We need manpower[SpecialSymbol=0x96]every soldier counts.[A][ClearBox][TargetLeft]Yes, I'll do my best.[Pause=3]
+Also, I'm hoping to bring along some powerful
+weapons as well.[A][ClearBox][TargetRight][FaceCommand=0x61]Weapons?[Pause=3]
+Can you get them?[A][ClearBox][TargetLeft]Err, the truth is[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I have some secret connections.[Pause=3]
+I can't get them ready right now,[A][ClearBox]but I'll do my best so they'll be available for
+your next battle, [SpecialText0x14=0x39].[A][ClearBox][TargetRight]I don't really get it, but[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You're not getting involved with anything
+dangerous, are you?[Pause=3] You needn't go so far.[A][ClearBox][TargetLeft][FaceCommand=0x73]It's alright. Please leave it to me.[Pause=3]
+I want to help you, [SpecialText0x14=0x39], any little that
+I can.[A][ClearBox]Well, I'll be off now.[A][ClearBox][TargetLeft][RemovePortrait][X]
+
+MBTK_206_3_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=JEIGUN][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG75][TargetRight][SpecialText0x14=0x39], reporting.[Pause=3]
+Sir Jeigan, did you call for me?[A][ClearBox][TargetLeft]Relax, it's nothing serious.[A][ClearBox]You said your name is [SpecialText0x14=0x39].[Pause=3]
+Where did you learn how to fight?[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]I was originally[Pause=3] [SpecialText0x14=0x30][A][ClearBox]Since I was young, I've been living in a small
+village named Sera,[A][ClearBox]together with my grandfather.[Pause=3]
+He was the one who trained me.[A][ClearBox]Grandfather was very strict,[Pause=3] and
+worked me to the bone, every day.[Pause=3]
+Many times, I thought I was going to die[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]What's your grandfather's name?[A][ClearBox][TargetRight]His name was Maclir.[Pause=3]
+I heard he was once a knight of Aritia.[A][ClearBox][TargetLeft]Maclir?[Pause=3]
+I see. You must mean Sir Maclir[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Were you acquainted with my grandfather?[A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_206_ARG_A_PCF1
+a noble, but I left the
+castle due to family circumstances[FreezeMouth]...[UnfreezeMouth][Pause=3][X]
+
+MBTK_206_ARG_B_PCF1
+an orphan; I was picked
+up when still a baby.[Pause=3][X]
+
+MBTK_206_ARG_C_PCF1
+from the country.[Pause=3][X]
+
+MBTK_206_ARG_D_PCF1
+a bishop's daughter,
+but then my parents died[FreezeMouth]...[UnfreezeMouth][Pause=3][X]
+
+MBTK_206_ARG_E_PCF1
+a peddler's daughter,
+but later my parents divorced[FreezeMouth]...[UnfreezeMouth][Pause=3][X]
+
+MBTK_206_3B_PCF1
+[SpecialText0x14][TargetLeft]Yes.[Pause=3] [SpecialText0x14=0x39], your grandfather was an
+old friend of mine.[A][ClearBox]He left the front lines due to injury, [Pause=3]but his
+loyalty to House Aritia was unmatched.[A][ClearBox]I see. So Sir Maclir trained you hard and well
+so you could become a knight of Aritia.[A][ClearBox][TargetRight][EyeCommand=ec]"[SpecialText0x14=0x39], become Aritia's sword.
+Acquire unbreakable power and loyalty."[A][ClearBox][EyeCommand=ed]That's what my grandfather used to say
+when he was still alive.[Pause=3]
+I grew up with his wish in mind.[A][ClearBox][TargetLeft]I see.[Pause=3]
+I understand your strength now.[A][ClearBox]You are amazingly capable.[Pause=3]
+The lads who will themselves to battle
+these days don't have that much power.[A][ClearBox]Clearly, that's[Pause=3] the result of hard training
+from an early age.[A][ClearBox][SpecialText0x14=0x39], I ask of you too.[Pause=3]
+Never stop tempering your skills.[Pause=3][A][ClearBox]Your power is sure to be of use to Prince
+Marth.[A][ClearBox][X]
+
+MBTK_207_1_PCF1
+[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG75][TargetLeft][LoadPortrait=FREY]Continuing from the previous lecture,[Pause=3] today's
+lecture is about the Kingdom of Akaneia.[A][ClearBox]Today is an exceptional day,
+for Prince Marth will speak to you.[Pause=3]
+If you would, sire.[A][ClearBox][TargetLeft][LoadPortrait=MARS][FaceCommand=0x73]Akaneia, was it?[A][ClearBox]The Kingdom of Akaneia is technically
+Aritia's suzerain nation.[A][ClearBox]Princess Nina is the last of their royal line,[Pause=3]
+and there was debate as to decide who
+would rule Akaneia,[A][ClearBox]but I hear Hardin was crowned Emperor of
+Akaneia soon after.[A][ClearBox][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth][Pause=3]
+What kind of person is Emperor Hardin?[A][ClearBox][TargetLeft][FaceCommand=0x73]He's a wonderful person.[Pause=3]
+In the previous war, Hardin was a precious
+ally of ours.[A][ClearBox]As King Orleans's younger brother, he fought
+to protect Princess Nina, who had escaped
+to the Lea of Orleans.[A][ClearBox][EyeCommand=f2][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][Unknown0x12]0[TargetRight][LoadPortrait=HARDIN2][LoadBackground=BBG16][TargetLeft][LoadPortrait=MARS][FaceCommand=0x73][EyeCommand=f0][TargetRight]Tsk, Princess Nina would not be pleased
+to hear us nitpicking over who will be
+listed in the history books.[A][ClearBox]Take command, so we can oust this
+Macedonian scum and be done with it.[A][TargetLeft]Lord Hardin, thank you[FreezeMouth]. [UnfreezeMouth][Pause=4]
+That is an honor.[A][ClearBox]If you don't mind me saying so...[A][ClearBox]I feel as though I've made a good friend.[Pause=4]
+We share the same ideals, I think.[A][ClearBox][Fade=48][EyeCommand=f1][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][Unknown0x12]0[TargetLeft][LoadPortrait=MARS][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG75][FaceCommand=0x73][TargetLeft][EyeCommand=f0]Hardin is well qualified to be emperor.[Pause=3]
+If he puts Akaneia into order,
+I'm sure everything will go well.[A][ClearBox][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_207_2_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=CECIL][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG75][TargetLeft]Let me introduce myself again.[Pause=3]
+I am Cecil,[Pause=3] junior knight of the former
+9th Platoon.[A][ClearBox]I'd like to make it clear that I'll show no
+mercy for those who underestimate me
+because I'm a woman[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=ROOK]Sigh.[Pause=3]
+I wish our female knight was a sexy, big
+sister type...[A][ClearBox]When we finally get another girl[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Why is it Cecil[SpecialSymbol=0x96]the 9th platoon's infamous
+violent girl[SpecialSymbol=0x96]of all people?[A][ClearBox][TargetRight][LoadPortrait=CECIL]You little[FreezeMouth]...[UnfreezeMouth]
+Who's the violent girl[FreezeMouth]!?[UnfreezeMouth][Pause=3]
+Take this[FreezeMouth]![UnfreezeMouth][Pause=3] And this[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Yikes, w-wait[FreezeMouth]![UnfreezeMouth][Pause=3]
+Please don't hit me[FreezeMouth]![UnfreezeMouth][Pause=3]
+B-be gentle[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=PLAYER]Sorry.[Pause=3]
+I apologize for Luke's rudeness.[Pause=3]
+He can be such a troublesome guy[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Commander [SpecialText0x14=0x39],[Pause=3] I think you and I are
+going to get along very well.[A][ClearBox]Since I've joined this platoon,[Pause=3] I'll fight under
+you.[Pause=3] My life is in your hands.[A][ClearBox][X]
+
+MBTK_207_3_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=KATARINA][EyeCommand=ec][LoadBackground=BBG18][FreezeMouth]...Å@[UnfreezeMouth][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=PLAYER]Katarina,[Pause=3] what are you doing here?[A][ClearBox][TargetLeft][EyeCommand=ed]Oh, [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]I was looking for you.[Pause=3]
+Let's go,[Pause=3] it's almost time for the final test[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Huh[FreezeMouth]?![UnfreezeMouth][Pause=3]
+Katarina,[Pause=3] are you crying?[A][ClearBox][TargetLeft]Oh[FreezeMouth]...[UnfreezeMouth] err[FreezeMouth]...[UnfreezeMouth] this is[FreezeMouth]...[UnfreezeMouth][Pause=3]
+It's nothing[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]What happened?[Pause=3]
+You can tell me.[Pause=3]
+Did anyone do anything to you?[A][ClearBox]We're friends.[Pause=3]
+I won't let someone who made you cry get
+away with it.[A][ClearBox][TargetLeft][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+No, that wasn't it.[Pause=3]
+I'm[FreezeMouth]...[UnfreezeMouth] just sad[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I'll tell you the reason later[FreezeMouth]...[UnfreezeMouth][Pause=3]
+So, let's hurry to the test.[Pause=3]
+I'm alright now.[A][ClearBox][TargetRight]Are you really alright?[A][ClearBox][TargetLeft]Yes[FreezeMouth]... [UnfreezeMouth][Pause=3]
+Your feelings alone are enough for me.[Pause=3]
+Thank you, [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_207_4_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=MARS][FaceCommand=0x73][TargetRight][LoadPortrait=PLAYER][FaceCommand=0x73][LoadBackground=BBG17][TargetLeft]Hello, [SpecialText0x14=0x39].[Pause=3]
+It's rare for us to meet at a place like this.[A][ClearBox][TargetRight]Yes, it is, sire.[Pause=3]
+Are you going somewhere?[A][ClearBox][TargetLeft][FaceCommand=0x61]Yes. Beyond here[FreezeMouth]...[UnfreezeMouth] are the graves where
+sleep the soldiers who fell during the
+previous war.[A][ClearBox][Unknown0x4=F32][TargetRight][FaceCommand=0x61]I see[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][Music=BGM_EVT_GRAVE1]My father among them[FreezeMouth]...[UnfreezeMouth]
+Many Aritians sacrificed their lives in the
+previous war.[A][ClearBox]I couldn't save them[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That's something I must never forget.[A][ClearBox][TargetRight]Sire[FreezeMouth]...[UnfreezeMouth][A][ClearBox]From the day I decided that being a knight
+was my goal, I was prepared to die fighting.[A][ClearBox]Those who fought in the previous war[FreezeMouth]...[UnfreezeMouth]
+Weren't they, too, prepared to give their
+lives for the kingdom?[A][ClearBox]It's painful, I know, but it isn't something you
+must brood over alone, sire[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][A][ClearBox]Thank you.
+I'm happy to hear that.[A][ClearBox]But I[FreezeMouth]...[UnfreezeMouth] still feel pain.
+When my comrades get hurt and fall,
+I can't help but to feel pain[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Even if I'm deluding myself[FreezeMouth]...[UnfreezeMouth]
+I don't want to let even a single one of my
+comrades die.[A][ClearBox][TargetRight]Sire[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_207_4_2
+[SpecialText0x14][TargetLeft][FreezeMouth]...[UnfreezeMouth]Jeigan often tells me that, too.[Pause=3]
+"He who leads people must see the big
+picture."[A][ClearBox]If one sacrifices few to save many,
+that was the correct decision to take.[Pause=3]
+I understand that, too.[A][ClearBox]But[FreezeMouth]...[UnfreezeMouth] I don't want that.[Pause=3]
+Having to sacrifice someone[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Maybe I'm unfit to be king[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Perhaps it's a naive way to think[FreezeMouth]...[UnfreezeMouth][A][ClearBox]But, that's how I really feel.[Pause=3]
+And I can't betray my feelings.[A][ClearBox][TargetRight]Sire[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Ah, sorry[FreezeMouth]...[UnfreezeMouth]
+I must have confused you by suddenly[Pause=3]
+talking about all this.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth][A][ClearBox]No, I understand.[A][ClearBox]I do understand[Pause=3] your feelings, sire[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][SpecialText0x14=0x39][FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight]I don't want any of my comrades to fall,
+I want everyone to be alright[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I think that, too.[A][ClearBox][FaceCommand=0x73]Sire[FreezeMouth]...[UnfreezeMouth]
+I want to help you accomplish that.[A][ClearBox][TargetLeft][FaceCommand=0x73][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox]Thank you, [SpecialText0x14=0x39].[A][ClearBox][X]
+
+MBTK_208_1_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=CECIL][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG11][TargetLeft]H-hey[FreezeMouth]![UnfreezeMouth][Pause=3]
+What the hell is this?[Pause=3]
+Why is Katarina[FreezeMouth]...[UnfreezeMouth][FreezeMouth]!?[UnfreezeMouth][A][ClearBox][TargetRight]I don't know, either.[A][ClearBox]But when I think about it[FreezeMouth]...[UnfreezeMouth][Pause=3] there were some
+signs.[Pause=3] Although I never imagined it would come
+to this[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=LIAN]Err, [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+What are we going to do?[A][ClearBox]Are we[FreezeMouth]...[UnfreezeMouth][Pause=3] going to fight Katarina?[A][ClearBox][TargetRight][EyeCommand=ec][FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ed]We are knights.[Pause=3]
+Protecting Prince Marth is our foremost
+duty.[A][ClearBox][X]
+
+MBTK_208_2_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=MARS][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG11][TargetLeft][FreezeMouth]...[UnfreezeMouth][SpecialText0x14=0x39], it would seem we've fallen into
+the enemy's trap. It's too dangerous to
+fight them head-on like this.[A][ClearBox]Besides, this is your knighthood ceremony[FreezeMouth]...[UnfreezeMouth]
+I don't want to lose promising people in a
+place like this.[A][ClearBox]Please leave everything to me.
+I'll find a way of escaping alone.
+You don't need to[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Speak no further, sire.[A][ClearBox]I shall fight alongside you.[A][ClearBox][TargetLeft]But[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Sire, you told me before that you don't want
+to let your comrades die.[A][ClearBox]I feel the same way.
+Just like you, sire, wish to protect us[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I, too, wish to protect you.
+That's what I believe.[A][ClearBox][TargetLeft][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_208_2_2_PCF1
+[SpecialText0x14][TargetLeft][RemovePortrait][TargetLeft][LoadPortrait=ROOK][FaceCommand=0x73]Hold it, [SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][Pause=3]
+I won't let you hog the spotlight all for
+yourself[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]Luke[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetLeft][LoadPortrait=RODY][FaceCommand=0x73]I agree with Luke.
+We are knights; protecting our liege is our
+duty.[A][ClearBox][TargetLeft][RemovePortrait][TargetLeft][LoadPortrait=LIAN][FaceCommand=0x73]Yes, I[FreezeMouth]...[UnfreezeMouth] want to[FreezeMouth]...[UnfreezeMouth] protect Prince Marth too.[A][ClearBox][TargetLeft][RemovePortrait][TargetLeft][LoadPortrait=CECIL][FaceCommand=0x73]That's right. We are the 7th Platoon!
+We've defeated all our enemies so far.
+We can do it[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Everyone[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight]Alright.
+Then, are you all ready?[A][ClearBox][TargetLeft][LoadPortrait=ROOK]No kidding[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]The 7th Platoon shall battle together with
+our prince[FreezeMouth]![UnfreezeMouth] And we shall prevail[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MBTK_001_1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=MARS][LoadBackground=BBG75][SpecialText0x14=0x39], this is the first time you've been
+outside of Aritia, isn't it?[A][ClearBox][TargetRight]Yes.[Pause=3]
+Sire, did you come to Grunia[Pause=3] in the previous
+war?[A][ClearBox][TargetLeft]Indeed. In the War of Darkness, Grunia was
+our enemy.[Pause=3] However, the general and the
+people were not to blame.[A][ClearBox]There were many admirable people[Pause=3] that I did
+not want to fight.[Pause=3] General Lawrence comes to
+mind[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Fortunately, in the previous war, he fought
+as our ally.[A][ClearBox][EyeCommand=f2][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][Unknown0x12]0[TargetRight][LoadPortrait=ROLENSE][LoadBackground=BBG24][TargetLeft][LoadPortrait=MARS][TargetRight][EyeCommand=f0]So, I will stand by you instead,[Pause=1] Prince[SpecialSymbol=0x96][Pause=4]
+and hope the future is a bit easier to
+spot from there.[A][Fade=48][EyeCommand=f1][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][Unknown0x12]0[TargetLeft][LoadPortrait=MARS][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG75][TargetLeft][EyeCommand=f0]Thanks to the war, Grunia was devastated
+and it now follows the Kingdom of
+Akaneia's rule,[A][ClearBox]but, by Akaneia's grace, General Lawrence
+was allowed to govern it.[A][ClearBox]He's an excellent leader who thinks of his
+people.[Pause=3] It's because of him that the people
+of Grunia can live in peace.[A][ClearBox][TargetRight]I understand.[Pause=3]
+But then, I wonder why did a rebellion occur?[A][ClearBox][TargetLeft]That, I don't know.[Pause=3]
+Just what is going on in this country[FreezeMouth]?[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_001_2_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][SpecialText0x14=0x39],[Pause=3] how are the new knights?[A][ClearBox][TargetRight]Sir[FreezeMouth]![UnfreezeMouth][Pause=3] Everyone is brimming with energy.[A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]Good to hear.[A][ClearBox]About our expeditionary forces[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I am already old,[Pause=3] and would be of no use in
+the front lines.[A][ClearBox]Our main force will consist of[Pause=3] you rookies,
+Gordon, Doga[Pause=3] and the Paladin Alan.[A][ClearBox]The strongest among us is Sir Alan.[Pause=3]
+Let me introduce you.[A][ClearBox][TargetLeft][LoadPortrait=ARAN]Royal Guard [SpecialText0x14=0x39], [Pause=3]this is the first time
+we talk face-to-face.[Pause=3]
+I am Alan.[A][ClearBox][TargetRight][SpecialText0x14=0x39], sir.[Pause=3]
+It is an honor to fight alongside you, sir.[A][ClearBox][TargetRight][LoadPortrait=JEIGUN]Sir Alan, as far as our reports go,[Pause=3]
+our enemies are bandits.[Pause=3]
+They are no match for a Paladin like you.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_001_2_2_PCF1
+[SpecialText0x14][TargetLeft]Of course. However, Sir Jeigan,[Pause=3] if possible,
+please give a chance to [SpecialText0x14=0x39] and the
+other new knights.[A][ClearBox]I can't become much stronger than I already
+am.[Pause=3] However, they're young and have
+potential.[A][ClearBox]As [SpecialText0x14=0x39] and the others experience
+actual battles,[Pause=3] they should eventually grow
+enough to surpass me.[A][ClearBox][TargetRight][LoadPortrait=PLAYER][FreezeMouth]Ah![UnfreezeMouth]
+Sir Alan[FreezeMouth]... [UnfreezeMouth][A][ClearBox][TargetLeft][SpecialText0x14=0x39], [Pause=3]gain strength in the battlefield,[Pause=3]
+and surpass me as soon as possible.[A][ClearBox]The one who will support the future of Aritia
+isn't me: it is you.[A][ClearBox][TargetRight]Sir[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I shall engrave the importance of being[Pause=3]
+an Aritian knight upon my soul.[A][ClearBox][X]
+
+MBTK_002_1_PCF1
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=MARS][LoadBackground=BBG75][TargetLeft]Macedonia... [Pause=3]
+To think that I'd have to fight here again.[A][ClearBox][TargetRight]Sire, are you perchance acquainted with
+Princess Minerva,[Pause=3] who's in the enemy's
+hands?[A][ClearBox][TargetLeft]Yes. Princess Minerva[Pause=3] fought in the
+previous war as our ally.[A][ClearBox]She even took it upon herself to fight
+her own brother, Prince Misheil.[Pause=3]
+All for the peace of Macedonia.[A][ClearBox][EyeCommand=f2][Unknown0x12]0[TargetRight][LoadPortrait=MINERBA][LoadBackground=BBG40][TargetLeft][LoadPortrait=MISHEIL][TargetLeft][EyeCommand=f0][TargetLeft]Minerva,[Pause=3] I have missed you, Sister.[Pause=4]
+Let us embrace one last time[FreezeMouth]![UnfreezeMouth][A][TargetRight]Misheil[FreezeMouth]...[UnfreezeMouth][A]
+[Fade=48][EyeCommand=f1][Unknown0x12]0[TargetLeft][LoadPortrait=MARS][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG75][TargetLeft][EyeCommand=f0]The princess had the three knight sisters,
+Paola, Katua and Est, as subordinates.[A][ClearBox]Each of them is strong on their own,[Pause=3] but
+together their power is unmatched.[A][ClearBox][EyeCommand=f2][Unknown0x12]0[LoadBackground=BBG16][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][EyeCommand=f0][TargetRight][LoadPortrait=PAORA][TargetRight]With me,[Pause=3] sisters[FreezeMouth]! [UnfreezeMouth][Pause=4]
+Triangle [Pause=1]Attack[FreezeMouth]!![UnfreezeMouth][A][TargetRight][LoadPortrait=KATUA][TargetRight]We have you now[FreezeMouth]! [UnfreezeMouth][Pause=4]
+Triangle [Pause=1]Attack[FreezeMouth]!![UnfreezeMouth][A][TargetRight][LoadPortrait=EST][TargetRight]It's just you and me[Pause=1]... And my sisters[FreezeMouth]![UnfreezeMouth][Pause=3]
+Triangle [Pause=1]Attack[FreezeMouth]!![UnfreezeMouth][A]
+[Fade=48][EyeCommand=f1][Unknown0x12]0[TargetLeft][LoadPortrait=MARS][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG75][TargetRight][EyeCommand=f0]Is that so.[Pause=3]
+Sounds like they'll be good to have around.[A][ClearBox][TargetLeft]Yes.[Pause=3] However, Est, the youngest of the three,
+has retired from knighthood and is living 
+happily in Aritia.[A][ClearBox]Katua and Paola should still be here in
+Macedonia.[Pause=3] I hope they're safe[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_003_1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=MARS][LoadBackground=BBG75][TargetRight]Sire, according to the intel from our scouts,
+this will be the next battlefield.[A][ClearBox][TargetLeft]That's a lot of villages.[Pause=3]
+We have to fight to prevent the villagers
+from being harmed by rogues.[A][ClearBox][FaceCommand=0x73]That reminds me, I believe[Pause=3] Julian and Rena
+lived around here.[A][ClearBox][TargetRight]Hmm?
+Julian and Rena[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Allies from the previous war?[A][ClearBox][TargetLeft]Yes. I should tell you about them, [SpecialText0x14=0x39].[Pause=3]
+Julian and Rena are now working[Pause=3] in a
+convent, taking care of orphans.[A][ClearBox]I wonder if they tied the knot yet.[Pause=3]
+Julian is an ex-thief,[Pause=3] and Rena is a very
+kind cleric.[A][ClearBox]Julian risked his life to rescue Rena,
+who had been captured by bandits.[Pause=3]
+That was when I met them.[A][ClearBox][EyeCommand=f2][FaceCommand=0x61][Unknown0x12]0[TargetRight][LoadPortrait=JURIAN][TargetLeft][LoadPortrait=RENA][LoadBackground=BBG20][EyeCommand=f0][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_003_1_2_PCF1
+[TargetLeft]Julian, [Pause=4]you go ahead.[Pause=3]
+Save yourself[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Uh-uh, honey. No can do.[Pause=4]
+I didn't [Pause=3]betray my boys back there[Pause=2] so you
+could zap me on out of here alone.[A][ClearBox][Fade=48][EyeCommand=f1][Unknown0x12]0[FaceCommand=0x73][TargetLeft][LoadPortrait=MARS][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG75][TargetLeft][EyeCommand=f0]Oh right, Rena also has an older brother
+called Machis.[Pause=3] He's apparently in the
+Macedonian army.[A][ClearBox][TargetRight][FaceCommand=0x61]By Macedonian army, do you mean that
+Machis might be among our enemies?[A][ClearBox][TargetLeft]Yes.[Pause=3]
+I'd rather not fight him if I could.[A][ClearBox]If we had Julian or Rena with us, we could
+perhaps persuade him[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_004_1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetRight]Sir Jeigan.[Pause=3] I have returned with the scouts.[Pause=3]
+These are the details.[A][ClearBox][TargetLeft]Hmm.[Pause=3]
+We have to rescue Sir Oguma's group as soon
+as possible[FreezeMouth]...[UnfreezeMouth][A][ClearBox]What's this?[Pause=3]
+Who is the Paladin right beside Sir Oguma?[A][ClearBox][TargetRight]The details are unclear.[Pause=3]
+The scouts say he's a masked man of
+unknown identity.[A][ClearBox][TargetLeft]Hm[FreezeMouth]...[UnfreezeMouth] But if he's a Paladin,[Pause=3] I doubt he's
+conspiring with those bandits.[A][ClearBox]Depending on how we talk to him,
+he might even become our ally.[A][ClearBox][X]
+
+MBTK_005_1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JURIAN][LoadBackground=BBG75]Hey, [SpecialText0x14=0x39].[Pause=3]
+There's something botherin' me.[A][ClearBox]If I'm not mistaken,[Pause=3] my pal lives around here.[A][ClearBox][TargetRight]Your pal?[A][ClearBox][TargetLeft]Yeah, a thief called Ricardo.[Pause=3]
+I've washed my hands of thievery, but[Pause=3]
+I hear Ricardo continues his thievin' ways.[A][ClearBox]If you see him, leave him to me.[Pause=3]
+I'll persuade him to quit that shady business.[A][ClearBox][X]
+
+MBTK_005_2_PCF1
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=OGUMA][LoadBackground=BBG75][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Sir Oguma,[Pause=3] is something troubling you?[A][ClearBox][TargetLeft]Yes, I am indeed troubled.[A][ClearBox]About a former subordinate of mine[FreezeMouth]...[UnfreezeMouth][Pause=3]
+A man named Barts.[A][ClearBox][TargetRight]Sir Barts[FreezeMouth]... [UnfreezeMouth]was it?[Pause=3]
+When you say subordinate,[Pause=3] you mean from
+Talis?[A][ClearBox][TargetLeft]Yes, he used to be[Pause=3] a mercenary fighting for
+King Talis and Princess Sheeda, just like me.[A][ClearBox]After the previous war was over,[Pause=3] it seems
+he had an idea[Pause=3] and left for Akaneia.[A][ClearBox][TargetRight]Then he's with the enemy?[A][ClearBox][TargetLeft]No, it seems he did join the Akaneian army,[Pause=3]
+but left it because he tired of fighting.[A][ClearBox]If you happen to meet Barts[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll talk to him.[Pause=3]
+Leave it to me.[A][ClearBox][X]
+
+MBTK_006_1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=BBG75][SpecialText0x14=0x39],[Pause=3] may I have your opinion on
+something?[Pause=3] I'm worried[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]About Prince Marth?[Pause=3]
+Or about our next battle?[A][ClearBox][TargetLeft]Both of them. This is just a rumor, but[FreezeMouth]... [UnfreezeMouth][Pause=3]
+It seems Lang[Pause=3] has hired the swordsman
+Navarre.[A][ClearBox][TargetRight]Navarre[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I've heard that name before.[Pause=3]
+He's a remarkable swordsman, right?[A][ClearBox][TargetLeft]Yes.[Pause=3] But Navarre was our ally in the last
+war,[Pause=3] so I'm sure he'll understand if I talk to
+him.[A][ClearBox][EyeCommand=f2][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][Unknown0x12]0[TargetRight][LoadPortrait=NABARL][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=BBG20][EyeCommand=f0][TargetLeft]Or, if you will not, [Pause=3]then turn[Pause=3] it on me now[Pause=2]
+instead[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Nay,[Pause=3] I'll turn no blade of mine on a
+woman.[A][ClearBox][Fade=48][EyeCommand=f1][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][Unknown0x12]0[TargetLeft][LoadPortrait=SHEEDA][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG75][TargetRight][EyeCommand=f0]S-so that's how you persuaded him[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]Hmm?
+Yes, why[FreezeMouth]?[UnfreezeMouth][A][ClearBox][SpecialText0x14=0x39],[Pause=3] if you happen to meet Navarre,[Pause=3]
+let me talk to him[FreezeMouth]... [UnfreezeMouth]please.[A][ClearBox][X]
+
+MBTK_007_1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=MARS][LoadBackground=BBG75][SpecialText0x14=0x39],[Pause=3] about the free company
+defending Cashmere bridge northwest[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Yes, sire?[A][ClearBox][TargetLeft]I'd like you to leave them alone.[Pause=3]
+Their leader is Astria, hero of Akaneia.[A][ClearBox]He wields the sword Miracle, one of the
+three regalia, and is one of the strongest
+men in the continent.[A][ClearBox][TargetRight]A powerful opponent, I see.[A][ClearBox][TargetLeft]That isn't the only reason why I don't wish to
+fight him.[Pause=3] In the previous war, Astria was
+our ally.[A][ClearBox]He's a very serious[Pause=3] and loyal person[SpecialSymbol=0x96]
+his devotion to Princess Nina unmatched.[A][ClearBox][EyeCommand=f2][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][Unknown0x12]0[TargetRight][LoadPortrait=ASTRIA][LoadBackground=BBG16][TargetLeft][LoadPortrait=MARS][TargetRight][EyeCommand=f0]...[Pause=3]Forgive my lack of courtesy,[Pause=2] but you
+and I need to be clear on a certain
+point.[A][ClearBox]While I have decided to lend you my
+sword,[Pause=2] my allegiance lies with Princess
+Nina-[Pause=3] not you,[Pause=1] my lord.[A][ClearBox]I will follow your orders,[Pause=2] but should I
+learn you have been false to her,[Pause=2] or that
+you are manipulating her...[A][ClearBox]Heads will roll.[A][ClearBox][Fade=48][EyeCommand=f1][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][Unknown0x12]0[TargetLeft][LoadPortrait=MARS][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG75][TargetLeft][EyeCommand=f0]I do not think we can persuade him.[Pause=3]
+At least, not now[FreezeMouth]... [UnfreezeMouth][A][ClearBox]I'd rather not fight him unless necessary.[Pause=3]
+[SpecialText0x14=0x39], I'd like you to avoid battle with him
+as well, if possible.[A][ClearBox][TargetRight]Yes, understood.[Pause=3]
+However, should your life be in danger, sire[FreezeMouth]... [UnfreezeMouth][A][ClearBox]I'll do anything to protect you.[A][ClearBox][X]
+
+MBTK_008_1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=MARS][LoadBackground=BBG75][SpecialText0x14=0x39], in the next battle[FreezeMouth]...[UnfreezeMouth][Pause=3]
+The one guarding the castle should be
+General George.[A][ClearBox]General George is Gordon's tutor and friend
+and has visited Aritia on many occasions.[A][ClearBox]I'd like to speak with him.[Pause=3]
+[SpecialText0x14=0x39], I'm counting on your assistance.[A][ClearBox][X]
+
+MBTK_008_2_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=BBG75]In the previous war, there was a man named
+Roger among our allies.[A][ClearBox]He was a very nice man and listened to me
+even though we fought on opposing sides
+when we first met.[A][ClearBox][EyeCommand=f2][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][Unknown0x12]0[TargetRight][LoadPortrait=ROJAR][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=BBG16][EyeCommand=f0][TargetLeft][FaceCommand=0x73]Tell me:[Pause=3] do you believe in love?[Pause=4]
+Oh,[Pause=2] listen to me.[Pause=4] I'm sure you already
+have a sweetheart back in Grunia.[A][ClearBox][Fade=48][EyeCommand=f1][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][Unknown0x12]0[TargetLeft][LoadPortrait=SHEEDA][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG75][TargetRight][EyeCommand=f0]D-did you really say that to him[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][SpecialText0x14=0x39], should we meet Roger again,
+I'll try to talk to him.[A][ClearBox][X]
+
+MBTK_009_1_PCF1
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=RINDA][LoadBackground=BBG75]Khadein, the realm of magic[FreezeMouth]...[UnfreezeMouth][Pause=3]
+To think I'd come here like this.[A][ClearBox][TargetRight]Are you familiar with Khadein, Linda?[Pause=3]
+If there's anything we should pay attention
+to during battle, I'd like you to tell me.[A][ClearBox][TargetLeft]Oh yes[FreezeMouth]...[UnfreezeMouth]
+As you can see, Khadein is a desert.[A][ClearBox]Most people get their feet caught up in the
+sand and have a hard time moving.[A][ClearBox]But as mages dress lightly,[Pause=3] they can move
+around like normal in the desert.[A][ClearBox]Of course that goes for enemy mages too,
+so do be careful.[A][ClearBox][TargetRight][FaceCommand=0x73]Got it[FreezeMouth]...[UnfreezeMouth] That was useful.[Pause=3]
+Thank you, Linda.[A][ClearBox][X]
+
+MBTK_010_1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=WENDEL][LoadBackground=BBG75][FaceCommand=0x73]Dame [SpecialText0x14=0x39], [Pause=3]Marich told much me about
+you.[A][ClearBox]How, before becoming a[Pause=3] knight, you spent
+your days training in Aritia Castle.[A][ClearBox][TargetRight][FaceCommand=0x73]Yes.[Pause=3] I still remember the days when I fought
+together with my fellow knights-in-training.[A][ClearBox][TargetLeft]I see, with your companions[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That's wonderful.[A][ClearBox]Are all of your companions[Pause=3] now Aritian
+knights?[A][ClearBox][TargetRight][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth][A][ClearBox]No.[Pause=3]
+One of them[Pause=3] became our enemy.[A][ClearBox]But I[FreezeMouth]...[UnfreezeMouth][Pause=3] don't want to fight her, if possible.[Pause=3]
+That's how I feel.[A][ClearBox][TargetLeft][FaceCommand=0x61]Indeed[FreezeMouth]...[UnfreezeMouth][Pause=3]
+There's nothing sadder than[Pause=3] fighting your
+former comrades.[A][ClearBox]I have no love for conflict.[Pause=3]
+Especially between comrades who were
+supposed to learn and grow together[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Dame [SpecialText0x14=0x39],[Pause=3] I too wish to stop the fighting
+between my disciples[FreezeMouth]... [UnfreezeMouth][Pause=3]That's how I feel.[A][ClearBox][TargetRight]Disciples[FreezeMouth]...[UnfreezeMouth] Do you mean Sir Marich?[A][ClearBox][TargetLeft]Once upon a time, I had two[Pause=3] brilliant young
+disciples.[Pause=3] One was Marich, the other was
+Ellerean.[A][ClearBox]However, for some reason,[Pause=3] Ellerean grew to
+despise Marich,[Pause=3] and the two are now fighting
+in Khadein.[A][ClearBox]Dame [SpecialText0x14=0x39],[Pause=3] I must go to Ellerean[Pause=3] and
+bring an end to this battle.[A][ClearBox][X]
+
+MBTK_011_1_PCF1
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=MARICH][LoadBackground=BBG75][TargetRight]Sir Marich, are you familiar with Anri's Way?[A][ClearBox][TargetLeft]I don't know it in detail,[Pause=3] but it seems to be
+a land ruled by mighty dragons and
+barbarians.[A][ClearBox]I've heard that among them, the wyverns
+are particularly dangerous.[A][ClearBox][TargetRight]Wyverns[FreezeMouth]...[UnfreezeMouth]
+Do they have any weakness?[A][ClearBox][TargetLeft]Yes. Wyverns are weak to[Pause=3] wind magic, like
+Excalibur,[Pause=3] as well as arrows.[A][ClearBox]Myself included, it would be a wise choice
+to prepare a number of people with those.[A][ClearBox][TargetRight][FaceCommand=0x73]I see[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You have my thanks, Sir Marich.[A][ClearBox][X]
+
+MBTK_011_2_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=BBG75][SpecialText0x14=0x39], listen to me.[Pause=3]
+When I was scouting out in the desert[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I saw someone who might have been an ally
+from the previous war.[A][ClearBox]I can't be certain because I saw him from
+afar, but I think it was Jake.[A][ClearBox][TargetRight]Jake?[A][ClearBox][TargetLeft]Yes.[Pause=3]
+Jake used to be a Grunian ballistician,
+and had a girlfriend named Anna.[A][ClearBox]They were really close, and Jake did his best
+for Anna's sake.[A][ClearBox][EyeCommand=f2][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][Unknown0x12]0[TargetRight][LoadPortrait=JEIK][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=BBG16][EyeCommand=f0][TargetRight][FaceCommand=0x73]She would? Hmmm...[Pause=3]
+All right, you win.[Pause=4]
+But I'm doin' it for Anna- just to be clear[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=48][EyeCommand=f1][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][Unknown0x12]0[TargetLeft][LoadPortrait=SHEEDA][TargetRight][LoadPortrait=PLAYER][FaceCommand=0x61][LoadBackground=BBG75][TargetLeft][EyeCommand=f0][TargetLeft][SpecialText0x14=0x39], I'll try and talk to Jake.[Pause=3]
+Perhaps he would fight alongside us again.[A][ClearBox][X]
+
+MBTK_012_1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft][SpecialText0x14=0x39], this is the inhospitable region
+known as Anri's Way.[Pause=3] You must take great
+caution.[A][ClearBox]If you fall, so does our army.[Pause=3]
+So, for Prince Marth's sake as well,[Pause=3]
+you must survive.[A][ClearBox][TargetRight]Yes sir. I understand.[A][ClearBox]By the way, Sir Jeigan,[Pause=3] why exactly is it
+called Anri's Way[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]Oh yes.[Pause=3] It's a long story, but I'll tell you the
+legend of Anri.[A][ClearBox]A century ago[FreezeMouth]...[UnfreezeMouth][Pause=3] The Holy Kingdom of
+Akaneia, governor of this continent,
+was ravaged by the dragonkin.[A][ClearBox]The people back then lived days of misery,
+as the dragons' slaves.[A][ClearBox]House Akaneia, the people's only hope,
+was eradicated,[Pause=3] and the world descended
+into despair.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]But, at the time, there were rumors of an
+Akaneian princess hiding out in Aritia,[A][ClearBox]which back then was no more than a
+provincial town among many.[A][ClearBox]The furious Durhuan Empire sent troops to
+Aritia,[Pause=3] demanding the princess's extradition.[A][ClearBox][TargetRight]Oh heavens above[FreezeMouth]...[UnfreezeMouth][A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_012_1_2_PCF1
+[TargetLeft]That princess[Pause=3][SpecialSymbol=0x96]Artemis[SpecialSymbol=0x96]planned to sacrifice 
+her own life in order to save the citizens.[A][ClearBox]However, the people of Aritia protected her,
+and vowed to fight, knowing they would be
+massacred.[A][ClearBox][FreezeMouth]...[UnfreezeMouth]Well, let's stop there for today.[Pause=3]
+We still have a long road ahead of us[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_013_1_PCF1
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft]Thanks to the heroic people of Aritia who
+stood up to protect the princess,[A][ClearBox]the people of Akaneia came to know she
+was alive,[Pause=3] and resumed their battle against
+Durhua.[A][ClearBox]Their liberation army was led by Duke Cartas,
+who fought with the royal shield given to him
+by Artemis,[A][ClearBox]and thanks to their efforts, the tides of
+battle turned to their favor.[A][ClearBox]However, the king of the earth dragons,
+Mediuth, finally decided to make his move.[A][ClearBox][TargetRight]Mediuth[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Before his overwhelming might, it seemed like
+Aritia's resistance wouldn't last any longer.[A][ClearBox]But then, a sage appeared before them.[Pause=3]
+He spoke of a divine sword enshrined in
+the ice shrine in the distant north.[A][ClearBox]With that blade, it would be possible to fell
+Mediuth,[Pause=3] but the way to obtain it would be by
+no means easy[FreezeMouth]...[UnfreezeMouth][A][ClearBox]And that would be Anri's Way.[Pause=3]
+The way we're going through right now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_014_1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft][SpecialText0x14=0x39], [Pause=3]the Ice Dragons' Temple stands
+before our eyes.[A][ClearBox]For his beloved Artemis, Anri[SpecialSymbol=0x96]Aritia's
+forefather[SpecialSymbol=0x96][Pause=3]obtained the divine sword
+Falchion here.[A][ClearBox]He then proceeded to defeat Mediuth and,[Pause=3]
+acclaimed by the people of Aritia,[Pause=3] become
+their first king.[A][ClearBox]However[FreezeMouth]...[UnfreezeMouth] though Anri and Artemis loved
+each other, they could not marry[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Why?[A][ClearBox][TargetLeft]The nobles of Akaneia didn't want Anri, a
+commoner, to become their king.[A][ClearBox]More than that, they strongly encouraged[Pause=3]
+the princess to wed Duke Cartas, who led
+the liberation army.[A][ClearBox]Princess Artemis had no way of refusing.[A][ClearBox]"The bearer of the Fire Emblem must give
+their life to the royal family."[A][ClearBox]That is a saying passed down unchangingly
+in House Akaneia.[A][ClearBox]And so, without telling a word to Anri,[Pause=3] the
+princess accepted her engagement to Duke
+Cartas.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MBTK_014_1_2_PCF1
+[TargetRight]No way[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Then, King Anri[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]The princess was just as worthy of pity.[Pause=3]
+It's said she died soon after giving birth to
+her newborn prince.[A][ClearBox]King Anri never married.[A][ClearBox]So, the kingdom of Aritia was then succeeded[Pause=3]
+by his younger brother, King Marcelus[SpecialSymbol=0x96]
+Prince Marth's great-grandfather.[A][ClearBox][TargetRight]What a tragedy[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]That was Artemis's Curse.[Pause=3]
+The sorrowful curse associated[Pause=3] with the
+Fire Emblem[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_015_1_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=JEIGUN][TargetRight][LoadPortrait=MARS][LoadBackground=BBG75]What in the blazes[FreezeMouth]?[UnfreezeMouth][Pause=3]
+Abel is among our enemies[FreezeMouth]...[UnfreezeMouth][FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]Indeed, sire[FreezeMouth]...[UnfreezeMouth]
+Sadly,[Pause=3] that's the inescapable truth.[A][ClearBox][TargetRight][LoadPortrait=PLAYER]Sire, Sir Jeigan,[Pause=3] what's going on?[A][ClearBox][TargetLeft][LoadPortrait=MARS][SpecialText0x14=0x39].[Pause=3]
+I should tell you about Abel, too.[A][ClearBox]Before your arrival,[Pause=3] Abel was a knight of
+Aritia and Kain's trusted partner.[A][ClearBox]Afterwards, he retired[Pause=3] to live together with
+Est in Aritia, but now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]As you know, our enemy is the Akaneian
+army that has occupied Aritia[FreezeMouth]...[UnfreezeMouth]
+And Abel is among their ranks.[A][ClearBox][TargetRight][FreezeMouth]What?[UnfreezeMouth]
+In other words, he's now our enemy?[A][ClearBox][TargetLeft]It would seem so.[Pause=3]
+But who'd have guessed[FreezeMouth]...[UnfreezeMouth][Pause=3]
+It's simply unfathomable.[A][ClearBox][TargetRight]Sir Jeigan.[Pause=3]
+I am not acquaintanced with Sir Abel, but[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I don't think someone who used to be a
+knight in Prince Marth's service[Pause=3] would
+betray Aritia without reason.[A][ClearBox]There must be something going on.[A][ClearBox][TargetLeft]Yes, indeed[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Otherwise, there is no way Abel would betray
+the prince.[A][ClearBox][TargetLeft][LoadPortrait=MARS]I think the same.[Pause=3]
+Jeigan, [SpecialText0x14=0x39],[Pause=3] I'll try to talk to him.[A][ClearBox]If I go,[Pause=3] I'm sure Abel will tell me his reasons.[A][ClearBox][X]
+
+MBTK_016_1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JORJUE][LoadBackground=BBG75][SpecialText0x14=0x39], [Pause=3]it seems Astria is among the
+enemies inside the castle.[A][ClearBox][TargetRight]Are you familiar with Sir Astria, Sir George?[A][ClearBox][TargetLeft]Yes,[Pause=3] I've known him for a long time.[A][ClearBox]He's not a bad fellow, but[FreezeMouth]...[UnfreezeMouth][Pause=3]
+It seems blood rushed to his head when[Pause=3]
+he heard Aritia had betrayed Akaneia.[A][ClearBox]Charged with pursuing us,[Pause=3] he has pursued us
+relentlessly until now.[Pause=3] There was no way he'd
+listen to us then.[A][ClearBox]However, now that he's charged with castle
+defense duty, he might listen.[Pause=3]
+I'll try and persuade him.[A][ClearBox][TargetRight]However, wouldn't that be dangerous?[A][ClearBox][TargetLeft]I've known him for a long time,[Pause=3] so I know his
+personality well.[Pause=3] Leave this to me.[A][ClearBox][X]
+
+MBTK_017_1_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=MARS][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG75]Sire, I have a report.[Pause=3]
+Our enemy is a mixed army of soldiers from
+Akaneia and Gra[FreezeMouth]...[UnfreezeMouth][A][ClearBox]But it seems Gra's[Pause=3] soldiers have no will to
+fight, and are simply being coerced by
+Akaneia's men.[A][ClearBox][TargetLeft]Then, if we defeat the Akaneian soldiers,[Pause=3]
+we might not need to battle those from Gra[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I want to avoid pointless sacrifices as much
+as possible.[Pause=3] [SpecialText0x14=0x39], convey that to
+everyone.[A][ClearBox][TargetRight]Yes, understood.[A][ClearBox][X]
+
+MBTK_018_1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75]Besides the Akaneian army, Emperor Hardin
+has one other strong[Pause=3] set of troops under his
+command.[A][ClearBox]They're the Orleanian Knights[FreezeMouth]...[UnfreezeMouth][Pause=3]
+A powerful army nicknamed the Wolfguard.[A][ClearBox][TargetRight]The Wolfguard[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Yes.[Pause=3]
+In the previous war[FreezeMouth]... [UnfreezeMouth]the Wolfguard fought
+as Hardin's subordinates.[A][ClearBox]They were reliable allies back then,[Pause=3] but since
+Hardin is now our enemy,[Pause=3] so is the
+Wolfguard.[A][ClearBox]They have sworn loyalty to Hardin,[Pause=3]
+and would die for him.[A][ClearBox][SpecialText0x14=0x39], their loyalty[Pause=3] is comparable to yours.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Take good care once they arrive on the
+battlefield, [SpecialText0x14=0x39].[A][ClearBox][X]
+
+MBTK_019_1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetLeft][SpecialText0x14=0x39], [Pause=3]we've gotten a new report about
+the Wolfguard, whose forces withdrew
+yesterday.[A][ClearBox]It seems some of them have merged[Pause=3] with the
+Akaneian army.[A][ClearBox]The Wolfguard's commander, Wolf[FreezeMouth]...[UnfreezeMouth][Pause=3]
+is confirmed to be among them.[A][ClearBox][TargetRight]Then, we'll have to fight them again[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]Yes. It'd be ideal if we could persuade them.
+But[FreezeMouth]...[UnfreezeMouth][Pause=3] if we don't know how,[Pause=3] we may have no
+choice but to fight.[A][ClearBox]They're strong.[Pause=3]
+[SpecialText0x14=0x39], be very careful.[A][ClearBox][X]
+
+MBTK_020_1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75][SpecialText0x14=0x39], I must remind you of a crucial fact.[A][ClearBox]Only with the Light Orb can we hope to
+prevail against Hardin.[A][ClearBox]So you must be absolutely sure that whoever
+challenges him carries the Light Orb.[A][ClearBox][TargetRight]Understood, Sir Jeigan.[A][ClearBox][X]
+
+MBTK_021_1_PCF1
+[TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG75]Sire, I bring news.[Pause=3]
+According to an inhabitant of a nearby
+village[FreezeMouth]...[UnfreezeMouth][A][ClearBox]A young dragon knight,[Pause=3] badly wounded and on
+the verge of death, has taken refuge there[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]A dragon knight?[Pause=3]
+I wonder who it is?[A][ClearBox][TargetLeft]I don't know who. But[FreezeMouth]...[UnfreezeMouth][Pause=3] the knight reportedly
+suffered a deep wound that would've killed
+any ordinary man[FreezeMouth]...[UnfreezeMouth][A][ClearBox]And, as if talking in delirium,[Pause=3] was apparently
+calling your name, sire[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]Make route for the village at once![Pause=3]
+I want to ascertain the knight's identity.[Pause=3]
+I must meet with them[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_022_1_PCF1
+[TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=MARS][LoadBackground=BBG69]So this is the Dragon's Altar[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]An ominous place for sure.[Pause=3]
+I can hear the roars of dragons coming from
+somewhere[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Yes, it's dangerous to stay here for too long.[Pause=3]
+Once we're ready,[Pause=3] let's go deeper at once.[A][ClearBox][X]
+
+MBTK_023_1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG69][TargetRight]Sir Jeigan,[Pause=3] in the innermost room, he[SpecialSymbol=0x96][Pause=3]
+the Demon King Garnef is waiting[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][SpecialText0x14=0x39], listen well.[Pause=3]
+Garnef cannot be damaged by regular
+weapons.[A][ClearBox]The Maph tome he possesses[Pause=3] has the power
+to block our attacks.[A][ClearBox]Only the Starlight tome can pierce Garnef's
+shadowy veil.[A][ClearBox]If we don't have Starlight,[Pause=3] then we'll have no
+choice but to try and[Pause=3] seize the throne
+without fighting Garnef[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_024_1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=MINERBA][LoadBackground=BBG69]Dame [SpecialText0x14=0x39],[Pause=3] I have a little sister named
+Maria.[A][ClearBox]She was kidnapped by Garnef, and now[FreezeMouth]...[UnfreezeMouth][Pause=3]
+It seems she's by Mediuth's side.[A][ClearBox]I want to save her.[Pause=3]
+I want to talk to her[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]However, according to the Demon King, [Pause=3]
+they have become living offerings and their
+hearts have been lost[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Even so, I must talk to her.[Pause=3]
+Even if I discover nothing I can do can bring
+her back[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Even if I have to put an end to her misery[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I will save her.[A][ClearBox][TargetRight]Princess[FreezeMouth]...[UnfreezeMouth] Very well.[Pause=3]
+If you're willing to go that far,[Pause=3] I will not
+attempt to stop you.[A][ClearBox]I, too, shall support you so that you'll be able
+to speak to Princess Maria.[A][ClearBox][X]
+
+MBTK_024_2_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=SIRIUS][LoadBackground=BBG69]Dame [SpecialText0x14=0x39],[Pause=3] I have a request for you.[A][ClearBox][TargetRight]Sir Sirius,[Pause=3] what is it?[A][ClearBox][TargetLeft]According to Garnef[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Princess Nina, who had been kidnapped,[Pause=3]
+is now a living offering to Mediuth.[A][ClearBox]And now she'll never return to normal[FreezeMouth]...[UnfreezeMouth][Pause=3]
+However, I want to talk to her.[A][ClearBox]I wonder if you could arrange things so[Pause=3]
+Prince Marth would allow me to take part in
+the next battle?[A][ClearBox][TargetRight]However, why Princess Nina?[Pause=3]
+Are you familiar with the princess, Sir Sirius?[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]No.[Pause=3]
+I just want to save her.[A][ClearBox]As the princess of a mighty kingdom,[Pause=3] she
+had to endure much sorrow all this time[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But, this end would be just too miserable.[A][ClearBox]I cannot make her happy.[Pause=3]
+But, at least, I want to save her[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MBTK_024_3_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=MARICH][LoadBackground=BBG69][SpecialText0x14=0x39], I have a request.[Pause=3]
+Please lend me your strength in the[Pause=3] next
+battle. I want to save Princess Ellis.[A][ClearBox][TargetRight]Princess Ellis[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Prince Marth's elder sister, correct?[A][ClearBox][TargetLeft]Yes. Ellis is very precious to me.[A][ClearBox]I heard Ellis's heart has been shattered,[Pause=3]
+and she now stands with Mediuth[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But, I haven't given up.[A][ClearBox]I want to talk to her.[Pause=3]
+If both of us take part in the next battle[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I'd like you to help me create a chance to
+talk to Ellis.[Pause=3] Please, I beg of you.[A][ClearBox][TargetRight]Very well.[Pause=3] I have yet to repay you for helping
+me before, Sir Marich.[Pause=3] I shall assist you.[A][ClearBox][X]
+
+MBTK_024_4_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=JURIAN][LoadBackground=BBG69]Prince Marth[FreezeMouth]![UnfreezeMouth][Pause=3]
+Is it true that Rena's been found?[A][ClearBox][TargetRight]Yes. According to our scouts,[Pause=3] Rena is
+currently with my sister and the others.[A][ClearBox][TargetLeft]I have to save Rena.[Pause=3]
+Let me talk to her.[Pause=3] I just know I can make
+her return to normal.[A][ClearBox][TargetRight]Julian, I understand your feelings.[Pause=3]
+I, too, would like for you to speak to Rena.[A][ClearBox]I still haven't decided who's going to take
+part in the final battle, but[FreezeMouth]...[UnfreezeMouth][Pause=3] [SpecialText0x14=0x39], your
+opinion?[A][ClearBox][TargetLeft][LoadPortrait=PLAYER]I don't know exactly how deep the
+relationship between them runs.[Pause=3]
+However[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I feel that[Pause=3] Julian's strength will be required[Pause=3]
+if we intend to save Sister Rena.[A][ClearBox][TargetRight]Indeed.[Pause=3]
+I will think hard and well about[Pause=3] who to bring
+to this next battle.[A][ClearBox]To find the best solution,[Pause=3] not only to win this
+battle,[Pause=3] but also to rescue everyone.[A][ClearBox][X]
+

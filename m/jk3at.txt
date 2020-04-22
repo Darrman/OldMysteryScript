@@ -1,0 +1,173 @@
+MSDL001_OP1
+[Unknown0x12]3[LoadBackground=BS_bg]Khadein, the city of magic[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Once ruled by the Demon King Garnef,
+these lands were liberated by Marth during
+the War of Darkness.[A][ClearBox]However, rumors say the Demon King still
+holds mysterious rituals in the ruins that
+litter the surrounding desert.[A][ClearBox]Following the orders of his teacher Wendel,
+Marich, wind mage of Khadein, leaves to
+investigate those ruins[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=80][Unknown0x12]3[X]
+
+MSDL001_OP2
+[TargetRight][LoadPortrait=MARICH][LoadBackground=BBG76][TargetRight]So here we are[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I can feel an ominous presence inside.[A][ClearBox]Ellerean[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=ELREAN]Hmph.[Pause=3]
+You didn't even need to mention it.[Pause=3]
+I already noticed it long ago.[A][ClearBox]However, what is the meaning of this?
+Didn't Garnef die in the previous war?[A][ClearBox][TargetRight]True. But according to Master Wendel,[Pause=3]
+Garnef's subordinates[SpecialSymbol=0x96]the heretic bishops[SpecialSymbol=0x96]
+are on the prowl.[A][ClearBox]
+[TargetLeft][LoadPortrait=RINDA]Garnef[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Even after his death, he still tries to bring
+disaster to this world.[A][ClearBox][TargetRight]Linda[FreezeMouth]... [UnfreezeMouth]Are you fine with coming here?[Pause=3]
+It's dangerous inside.[Pause=3] Maybe you'd better
+return to Princess Nina[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]We've already talked over this.
+I'm an experienced mage just like you.[A][ClearBox]And besides[FreezeMouth]...[UnfreezeMouth]
+We're friends, right?[Pause=3]
+And friends always help each other.[A][ClearBox][TargetRight][FaceCommand=0x73]Alright. [Pause=3]
+Then I'll borrow your strength.[Pause=3]
+Thank you, Linda.[A][ClearBox][TargetLeft][LoadPortrait=ETZEL]This is most unusual though.
+An all-mage party[FreezeMouth]...[UnfreezeMouth]
+Will we be alright?[A][ClearBox]I'm lending you my strength because I owe
+Khadein, but[FreezeMouth]...[UnfreezeMouth][Pause=3] this is going to be a difficult
+battle.[A][ClearBox][TargetRight][FaceCommand=0x61]You speak truly, Sir Etzel.[A][ClearBox]None of us can withstand many enemy
+attacks.[Pause=3] We must proceed with caution.[A][ClearBox][X]
+
+MSDL001_EV1
+[TargetRight][LoadPortrait=MISHEIL][TargetLeft][LoadPortrait=FINA][LoadBackground=BBG76]Hey, where are we?[Pause=3]
+I don't know why, but this place gives me the
+creeps[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Hey, don't ignore me[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Woman[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I have no time to waste with you.[A][ClearBox]I have to go and save my sister.
+Dig yourself a hole and hide or whatever
+takes your fancy.[A][ClearBox][TargetLeft]W-wait, you don't have to be so mean![A][ClearBox]Well, I'm grateful because you saved me
+when those barbarians tried to kidnap me.[A][ClearBox]But, how am I supposed to get back to town
+if you just leave me here?[A][ClearBox]You're a man, so you have to take
+responsibility until the very end.[Pause=3]
+If you do, then I'll[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][TargetLeft]Ah, wait, waaait[FreezeMouth]![UnfreezeMouth]
+Don't leave me behind[FreezeMouth]![UnfreezeMouth][A][ClearBox]Meanie. I bet you've got a terrible
+relationship with your sister![A][ClearBox][TargetRight][LoadPortrait=MISHEIL][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Oh[FreezeMouth]...[UnfreezeMouth] bull's eye?[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]As if.[Pause=3]
+More like you missed the mark completely.[A][ClearBox]But, what gave you the idea?[A][ClearBox][TargetLeft]Oh, that's easy.
+You may be pretty handsome, but you don't
+understand a girl's heart at all.[A][ClearBox][TargetRight][RemovePortrait][TargetLeft]Understand?
+You know, girls are[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[FaceCommand=0x61]Hey, w-wait[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MSDL001_TK1
+[TargetRight][LoadPortrait=MARICH][TargetLeft][LoadPortrait=ELREAN][LoadBackground=][TargetRight]Ellerean, are you well?[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Is it not obvious?[Pause=3]
+These foes are hardly a match for me.[A][ClearBox][TargetRight][FaceCommand=0x73]That's Ellerean for you.[Pause=3]
+This is your first real battle, yet you're as
+cool as a cucumber. I'm amazed.[A][ClearBox][TargetLeft]Naturally.[A][ClearBox][TargetRight][RemovePortrait][TargetLeft]As if I would falter and commit a mistake in
+front of you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=MARICH][FaceCommand=0x61]Huh?
+Did you say something?[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]No, I did not.[Pause=3]
+It's time we got back to the battle.[A][ClearBox][X]
+
+MSDL001_TK2
+[TargetRight][LoadPortrait=MARICH][TargetLeft][LoadPortrait=MISHEIL][LoadBackground=][TargetRight]You're[FreezeMouth]... [UnfreezeMouth]Prince Misheil[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][Pause=3]
+So you survived[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]The wind mage, is it?[A][ClearBox][TargetRight]Why did you come to these ruins[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]I don't need to answer.[A][ClearBox][TargetRight]Ah, please wait.
+If you aren't our enemy, then I wonder if
+you could help us?[A][ClearBox]If we could fight together[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]I refuse.[Pause=3]
+I'm not like Prince Marth.[Pause=3]
+I don't intend to rely on others.[A][ClearBox]But, indeed[FreezeMouth]...[UnfreezeMouth][Pause=3]
+If you don't get in my way, then I suppose I
+could lend you my strength.[A][ClearBox][X]
+
+MSDL001_BT_ELREAN
+[TargetRight][LoadPortrait=ELREAN][LoadBackground=]Look well, Marich.[Pause=3]
+This is the power of my magic[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MSDL001_BT_ETZEL
+[TargetRight][LoadPortrait=ETZEL][LoadBackground=]Fighting doesn't fit my personality, but[FreezeMouth]...[UnfreezeMouth]
+I'll lend you my strength, for Khadein.[A][ClearBox][X]
+
+MSDL001_BT_FINA
+[TargetRight][LoadPortrait=FINA][LoadBackground=][EyeCommand=ec]Eee-eeek[FreezeMouth]![UnfreezeMouth][Pause=3]
+I-I can't fight[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MSDL001_BT_MARICH
+[TargetRight][LoadPortrait=MARICH][EyeCommand=ec][LoadBackground=][FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSDL001_BT_MISHEIL
+[TargetRight][LoadPortrait=MISHEIL][LoadBackground=][FreezeMouth]...[UnfreezeMouth]Scram.[Pause=3]
+You are not my enemy.[A][ClearBox][X]
+
+MSDL001_BT_RINDA
+[TargetRight][LoadPortrait=RINDA][LoadBackground=]I won't lose.[Pause=3]
+I'm fighting for my friends.[A][ClearBox][X]
+
+MSDL001_DIE_ELREAN
+[TargetRight][LoadPortrait=ELREAN][LoadBackground=]Damn[FreezeMouth]... [UnfreezeMouth]How humilliating[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Do I have no choice but to retreat in
+disgrace[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MSDL001_DIE_ETZEL
+[TargetRight][LoadPortrait=ETZEL][LoadBackground=]Sorry, they got me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll fall back while I'm still alive[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSDL001_DIE_FINA
+[TargetRight][LoadPortrait=FINA][LoadBackground=]I-I'm dying[FreezeMouth]... [UnfreezeMouth][A][ClearBox]Sorry[FreezeMouth]...[UnfreezeMouth]
+I need to hide... quickly[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSDL001_DIE_MARICH
+[TargetRight][LoadPortrait=MARICH][LoadBackground=]I'm sorry[FreezeMouth]... [UnfreezeMouth]everyone[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSDL001_DIE_MISHEIL
+[TargetRight][LoadPortrait=MISHEIL][LoadBackground=]This can't be[FreezeMouth]... [UnfreezeMouth]I[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Guh[FreezeMouth]... [UnfreezeMouth]I can't afford to die in a place like
+this[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSDL001_DIE_RINDA
+[TargetRight][LoadPortrait=RINDA][LoadBackground=]I'm sorry[FreezeMouth]... [UnfreezeMouth]Marich[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm[FreezeMouth]... [UnfreezeMouth]just a burden[FreezeMouth]... [UnfreezeMouth][A][ClearBox]I'll[FreezeMouth]... [UnfreezeMouth]fall back[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSDL001_ED1
+[Fade=40][TargetLeft][LoadPortrait=ELREAN][TargetRight][LoadPortrait=MARICH][LoadBackground=BBG11][TargetRight][TargetRight]Ellerean, it seems we've vanquished all the
+enemies in the ruins.[A][ClearBox][TargetLeft]Marich, look.[A][ClearBox][TargetRight]Hmm?
+This magic circle[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Apparently, the heretic bishops were
+planning to hold some sort of ritual here.[A][ClearBox]Not only that, but this is Garnef's[FreezeMouth]...[UnfreezeMouth]
+forbidden magic[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Bah.
+Is that all you've noticed?[Pause=3][A][ClearBox]Look at this offering and the pattern of the
+circle[FreezeMouth]...[UnfreezeMouth] I'm sure Master Wendel has taught
+you what they mean.[A][ClearBox][TargetRight]Ah[FreezeMouth]![UnfreezeMouth]
+I see. This is[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Dark magic to raise a dead body back to
+life[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Were the heretic bishops trying to resurrect
+Garnef's body[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]What fools.[Pause=3]
+There's no point in resurrecting the body if
+the soul is no longer here.[A][ClearBox]Although, had they suceeded in this ritual,
+they might have given birth to a monster
+taking Garnef's appearance[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Indeed.[Pause=3]
+But it seems we managed to avoid that.[A][ClearBox][FaceCommand=0x73]That's because we worked together.[Pause=3]
+You too, Ellerean.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Hmph. Don't misunderstand.[Pause=3]
+I didn't fight for your sakes or anything.[A][ClearBox][TargetRight]I still want to thank you.[Pause=3]
+Because you're helping me.
+Right now.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Bah[Pause=3]
+You've always been a nutter.[A][ClearBox]But ever since the War of Darkness ended[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You've been acting nuttier than usual.[Pause=3]
+Is it because of Prince Marth?[A][ClearBox][TargetRight]You're correct.[A][ClearBox][FaceCommand=0x61]Ever since I was a child[FreezeMouth]... [UnfreezeMouth]
+I wanted to protect those precious to me.[A][ClearBox]I studied hard, here in Khadein, because I
+really desired that power.[A][ClearBox]However, being together with Prince Marth,
+and fighting that war by his side[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I learned something.[A][ClearBox]That the key to success, more than pursuing
+power alone[FreezeMouth]...[UnfreezeMouth] is to join forces with your
+comrades.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Ellerean, you always rejected me when I asked
+you to be my friend[FreezeMouth]...[UnfreezeMouth][A][ClearBox]But, I hope we'll be able to fight side-by-side
+again, like we did this time.[A][ClearBox]If we join forces, even Garnef would be no
+match for us.[Pause=3] That's what I believe.[A][ClearBox][TargetLeft]Marich[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FreezeMouth]...[UnfreezeMouth]Hmph.
+I'll think about it.[A][ClearBox]There might still be enemies hiding.
+Marich, let's split up and search around.[A][ClearBox][TargetRight]Got it[FreezeMouth]![UnfreezeMouth][A][ClearBox][Unknown0x4=F][Fade=40][X]
+
+MSDL001_ED2
+[TargetRight][LoadPortrait=ELREAN][FaceCommand=0x73][LoadBackground=BBG71]Gah, that damn Marich[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FreezeMouth]...[UnfreezeMouth]Comrades, huh[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSDL001_ED2_01
+[Fade=40][Pause=6][TargetLeft][LoadPortrait=GARNEF][FreezeMouth]...[UnfreezeMouth]Comrades[FreezeMouth]...?[UnfreezeMouth]
+Mere fiction[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]Wha[FreezeMouth]!?[UnfreezeMouth]
+Who's there[FreezeMouth]...[UnfreezeMouth][FreezeMouth]!?[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Don't let yourself be deceived.[Pause=3]
+Everyone else is an enemy trying to trick
+you[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Envy, hatred[FreezeMouth]...[UnfreezeMouth]
+That's the source of your power[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Just as it is mine[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]You[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Don't tell me you're[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Heh heh heh[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight]Disappeared[FreezeMouth]... [UnfreezeMouth]huh[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][EyeCommand=ec]Damn[FreezeMouth]... [UnfreezeMouth]
+Is it because of the battle[FreezeMouth]...?[UnfreezeMouth]
+My vision feels hazy[FreezeMouth]... [UnfreezeMouth][A][ClearBox]Was that[FreezeMouth]... [UnfreezeMouth]an illusion?
+Or was it[FreezeMouth]... [UnfreezeMouth][A][ClearBox]Envy[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Hatred[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That's[FreezeMouth]... [UnfreezeMouth]my[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Marich[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Unknown0x4=F][Fade=40][X]
+

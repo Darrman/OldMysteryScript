@@ -1,0 +1,240 @@
+MSGMP_GOP_YAS
+Once, there was a war known as the
+"War of Darkness."[A][ClearBox]An epic battle between Prince Marth's heroes
+and the Durhuan Empire,[A][ClearBox]which ended with the defeat of the Earth 
+Dragon King, Mediuth.[A][ClearBox][UnfreezeMouth][UnfreezeMouth]The warriors who had united under the
+Fire Emblem returned to their own lands,[A][ClearBox]devoting themselves to the reconstruction of
+their homelands.[A][ClearBox][UnfreezeMouth]Among the nations that made up the
+"Seven Kingdoms of Akaneia",[A][ClearBox]Gra and Grunia were devastated.[A][ClearBox]Aritia, Orleans, Macedonia and Talis were left
+deeply scarred,[A][ClearBox]and even the mighty Kingdom of Akaneia was
+undergoing restoration.[A][ClearBox][UnfreezeMouth]However, in Pales still shaken by war,
+one important event took place.[A][ClearBox]Hardin, the younger brother of King Orleans,
+was married to Princess Nina,[A][ClearBox]becoming the twenty-fourth king of House
+Akaneia.[A][ClearBox]After ascending the throne,[A][ClearBox]Hardin aggressively restored the country
+in the twinkling of an eye,[A][ClearBox]and formed a powerful army by gathering
+many soldiers.[A][ClearBox]He then proclaimed the restoration of the
+Holy Akaneian Empire, and himself Emperor.[A][ClearBox][UnfreezeMouth]One year has passed since the war with Durhua.[A][ClearBox]The world seemed to be moving towards an
+era of peace.[A][ClearBox][UnfreezeMouth]However, unbeknownst to man, the cogs of
+destiny had started spiralling out of order.[A][ClearBox][X]
+
+MSGMP_001
+It has been a year since the War of Darkness
+ended. The war-ravaged kingdom of Aritia[A][ClearBox]was finally starting to regain stability thanks
+to Prince Marth's efforts.[A][ClearBox]Prince Marth's engagement to Princess Sheeda
+was announced,[A][ClearBox]and the people of Aritia rejoiced, sharing their
+happiness.[A][ClearBox]However...
+Nearing the day of their wedding,[A][ClearBox]an unexpected letter arrived from the
+imperial palace, containing an imperial edict.[A][ClearBox]"Dear Prince Marth of Aritia,[A][ClearBox]"In the kingdom of Grunia, now under imperial
+  rule, a large-scale rebellion has broken out.[A][ClearBox]"I request your kingdom's assistance in its
+  subjugation.[A][ClearBox]"Your Highness is to lead the entire army of
+  Aritia and sortie at once,[A][ClearBox]"supressing the Grunian rebellion.
+  [SpecialSymbol=0x96]The Emperor of Akaneia"[A][ClearBox]The Kingdom of Akaneia was Aritia's
+suzerain, so its orders were absolute.[A][ClearBox]Forced to comply, Marth ordered the knight
+Kain to protect his homeland,[A][ClearBox]and together with Jeigan, the paladin Alan,
+and the young, newly appointed knights[A][ClearBox]left Aritia on the Grunian expedition.[A][ClearBox][X]
+
+MSGMP_002
+Leaving painful memories behind, Marth and
+his companions left Grunia.[A][ClearBox]They landed in Macedonia; their new mission to
+rescue Princess Minerva.[A][ClearBox]After the War of Darkness, Macedonia was led
+by Minerva,[A][ClearBox]who exiled the oppressive generals and
+attempted to reform the military.[A][ClearBox]However, the influential General Ryuke
+opposed Minerva's peace-seeking ways.[A][ClearBox]He assembled the exiled officers to instigate
+a coup d'etat.[A][ClearBox]Caught unprepared, Minerva was captured
+by Ryuke's followers,[A][ClearBox]and his rebel army seized control of Macedonia.[A][ClearBox]Then, they dispached powerful dragon knights
+to guard the country's forested borders.[A][ClearBox][X]
+
+MSGMP_003
+Once upon a time, the region of Macedonia
+was a territory under Durhuan rule.[A][ClearBox]A century ago, the dragonkin rulers sent
+many slaves to these wild forests,[A][ClearBox]to excavate ruins and build a country.[A][ClearBox]Many slaves were forced to work to their
+limits, barely fed, and then slaughtered.[A][ClearBox]A young man stood up against such tragic
+conditions. Iote was his name.[A][ClearBox]He and his companions fled to the forests and
+fought, astride wyverns, to free the slaves.[A][ClearBox]After Durhua's demise, the slaves established
+their own country in these now abundant lands.[A][ClearBox]And the hero Iote was chosen as their first
+king.[A][ClearBox]And so was born the Kingdom of Macedonia,
+later feared as the domain of dragon knights.[A][ClearBox]However, the mighty Macedonia[A][ClearBox]was stripped of Prince Misheil, said to be
+the second coming of Iote,[A][ClearBox]and is now on the brink of losing Princess
+Minerva, the so-called "Crimson Dragoon."[A][ClearBox][X]
+
+MSGMP_004
+Marth was unable to reunite with Princess
+Minerva, and so,[A][ClearBox]in order to help Oguma and the Grunian royal
+children,[A][ClearBox]he decided to visit Wendel, who was once the
+childrens' guardian.[A][ClearBox]However, the "Holm Beach" where Wendel
+resides[A][ClearBox]is dominion of the infamous Macedonian Vikings.[A][ClearBox]Countless pirates await in Marth's path.[A][ClearBox]Will Marth be able to safely rescue the
+children...?[A][ClearBox][X]
+
+MSGMP_005
+The shocking news brought by Sheeda was a
+terrible blow to Marth.[A][ClearBox]Hardin was once not only a comrade-in-arms,[A][ClearBox]but a trusted confidant and irreplaceable
+friend.[A][ClearBox]"Yet... why attack Aritia?
+What have I done wrong?"[A][ClearBox]Filled with frustration, Marth hurried his
+return to his homeland,[A][ClearBox]but the first barrier stood in his way:[A][ClearBox]Olbern Keep, headquarters of the Grunian
+Occupation Army led by the evil General Lang...[A][ClearBox]also known as the "Nest of Vice."[A][ClearBox][X]
+
+MSGMP_006
+Grunia has been liberated.[A][ClearBox]All that remains is Olbern Keep, where
+General Lang remains barricaded.[A][ClearBox]Lang used his influence to steal belongings,
+daughters and lives from the people of Grunia.[A][ClearBox]Was there ever a man as cruel as he is?[A][ClearBox]"I cannot forgive him.
+I shall take him down without fail!"[A][ClearBox]Prince Marth raised his sword to the skies
+and ordered firmly:[A][ClearBox]"Aritian knights, charge!!"[A][ClearBox][X]
+
+MSGMP_007
+Having liberated Grunia, Marth and his
+companions accepted Wendel's request[A][ClearBox]and stopped by the Raman Temple in search
+of the missing orbs.[A][ClearBox]However, the ancient temple built to worship
+Narga had been wrecked by constant warring,[A][ClearBox]and was now nothing more than a den of
+thieves.[A][ClearBox]"They're escaping with the temple's valuable
+treasures. We must catch them!"[A][ClearBox]"Stay clear of the free company guarding
+Cashmere Bridge. We cannot defeat them."[A][ClearBox]"It seems a dancer is lost inside the forest.
+We must find her before the bandits do!"[A][ClearBox]As the soldiers received their orders,[A][ClearBox]the flames of a new battle around the
+Raman Temple were ignited.[A][ClearBox][X]
+
+MSGMP_008
+Soon after reclaiming the Raman Temple,[A][ClearBox]Marth's army fears pursuit from the Akaneian
+army and escapes towards Cashmere Bridge.[A][ClearBox]However, a new enemy attacks the Aritian
+army upon reaching the central islet.[A][ClearBox]"The Akaneian army is coming from the
+north; we'll be surrounded like this."[A][ClearBox]The situation is desperate! Can Marth and
+his friends overcome the many perils?[A][ClearBox][X]
+
+MSGMP_009
+Marth barely succeeded in escaping,
+disembarking in the desert of Khadein.[A][ClearBox]He elected to await his subordinates' safe
+arrival.[A][ClearBox]Khadein, the city of magic, is a sanctuary
+for mages.[A][ClearBox]Many prospecting mages come here and
+undergo rigorous training.[A][ClearBox]Magic relies on containing nature's energies
+in "tomes" and "staves",[A][ClearBox]freely manipulating these energies to harness
+great power.[A][ClearBox]A few centuries ago, a lone sage founded
+an academy here, teaching magic's secrets.[A][ClearBox]However, instead of bringing happiness,
+magic was soon used as a tool of war[A][ClearBox]and a thing to be traded.[A][ClearBox]The sage was disappointed, and vanished
+from the pages of history.[A][ClearBox]Though there is no confirmation, some say
+that was the Archsage Gato.[A][ClearBox]Currently, advanced magic like Aura cannot
+be made without the orbs' power,[A][ClearBox]and their use is restricted to a few chosen
+ones.[A][ClearBox]Those conditions are set by their creator,[A][ClearBox]and they can only be inherited by those who
+qualify.[A][ClearBox]Khadein, the city of magic... the proud
+Sanctuary of Sorcery.[A][ClearBox][X]
+
+MSGMP_010
+Khadein is an independent city-state,
+taking orders from no foreign nation.[A][ClearBox]The Archmage has many pontifices under him,
+governing according to their counsel.[A][ClearBox]In the previous war, Archbishop Garnef allied
+with Durhua and dragged Khadein into war,[A][ClearBox]and the city suffered great damage as result.[A][ClearBox]As Khadein had lost all of its pontifices,[A][ClearBox]Wendel became its Archmage and started
+rebuilding the city.[A][ClearBox]However, Wendel left on a journey to fulfill
+a mission given to him by Gato.[A][ClearBox]He then left Khadein in the care of two
+young men.[A][ClearBox]They were two skilled and promising young
+mages... Marich and Ellerean.[A][ClearBox][X]
+
+MSGMP_011
+Seeking the Light Orb, Marth and his
+friends headed for the Tower of Thabes.[A][ClearBox]Thabes is an ancient city buried under the
+sands, along with many treasures.[A][ClearBox]The legend of Thabes, city of illusion, lured
+many adventurous men to the desert.[A][ClearBox]However, in the end... not one of them ever
+returned.[A][ClearBox]As the sages once said... stay clear of
+Marmotord, the desert of death.[A][ClearBox]There lies the cursed Dark City.[A][ClearBox][X]
+
+MSGMP_012
+Marth and his friends follow Chainy,
+marching towards the northern lands.[A][ClearBox]Before their eyes are walls of towering
+mountains, sheer cliffs and deep valleys...[A][ClearBox]After passing countless mountains, they are
+assaulted by scorching heat.[A][ClearBox]Magma flowing like a river and rumbling like
+thunder blocks their way.[A][ClearBox]Truly a dreadful scene, as if straight out of
+a nightmare.[A][ClearBox][X]
+
+MSGMP_013
+This was truly a journey beyond all imagination.[A][ClearBox]Five thousand meters...
+No, perhaps even higher than that.[A][ClearBox]The clouds already below them, they ascend
+the frozen mountain.[A][ClearBox]Suffocation...
+Vertigo...[A][ClearBox]They were already approaching the limits of
+their strengths.[A][ClearBox][X]
+
+MSGMP_014
+The unexpected truth revealed by Chainy took
+Marth by surprise.[A][ClearBox]Chiki was the daughter of the Divine Dragon
+King, Narga,[A][ClearBox]and was sleeping in the temple because the
+king so willed.[A][ClearBox]The Divine Dragon King's fear of Chiki's
+power was that of a loving parent.[A][ClearBox]Were Chiki to awaken, her dreadful hidden
+power would eventually destroy the world...[A][ClearBox]So thought the king.[A][ClearBox]However, Banutu, the king's servant,[A][ClearBox]changed his mind after centuries of watching
+Chiki,[A][ClearBox]waking her from her slumber and whisking her
+away.[A][ClearBox]That's why Chiki's memories are just the ten
+years she lived as a human...[A][ClearBox]"Poor Chiki..."[A][ClearBox]Marth was too bewildered to think.[A][ClearBox][X]
+
+MSGMP_015
+Transported to Aritia's outskirts by Gato's
+mighty Warp magic, Marth and his army[A][ClearBox]finally began the battle to liberate their
+homeland.[A][ClearBox]However, General Eibel, commander of the
+Akaneian army,[A][ClearBox]ordered the Gra knights to attack, in order
+to buy time.[A][ClearBox]In the meantime, he prepared his own devious
+tactics[A][ClearBox]with the aim of crushing the Aritian army in
+one fell swoop.[A][ClearBox]With their dear homeland before them, Marth
+and the others start yet another battle.[A][ClearBox]"Recapture Anri, our capital!
+We shall now reclaim our homeland!"[A][ClearBox]Prince Marth's voice resounded through the
+serene skies of Aritia.[A][ClearBox]One of the objectives of their long and
+difficult journey was already within reach.[A][ClearBox][X]
+
+MSGMP_016
+It was a fierce battle like no other.[A][ClearBox]However, Aritia has been liberated.
+Yes, our homeland has been liberated.[A][ClearBox]"Only the castle remains... If we regain
+Aritia Castle, where I was born and raised..."[A][ClearBox]"Thank you, my friends...
+Thank you for believing in me..."[A][ClearBox]Tears shimmered down Marth's face.[A][ClearBox]And the girl who gently wiped away his tears
+couldn't stop her own...[A][ClearBox][X]
+
+MSGMP_017
+Marth once again departed from Aritia,
+heading towards the capital of Akaneia.[A][ClearBox]However, the Kingdom of Gra, ally to
+Akaneia, stood in their path.[A][ClearBox]Gra allied with Durhua in the previous war; King
+Jiol fell in battle, and the kingdom was lost.[A][ClearBox]Gra was annexed to Aritia at one point,[A][ClearBox]but, by Emperor Hardin's order, it was
+returned to Akaneia.[A][ClearBox]Hardin found King Jiol's daughter, Princess
+Sheema, and allowed her to take the throne,[A][ClearBox]providing support to Gra.[A][ClearBox]Sheema received fanatical support from her
+people.[A][ClearBox]To them, Sheema was their only hope.[A][ClearBox]The youths volunteered to become soldiers
+one after the other.[A][ClearBox]And then, happily moved out to exact
+revenge on Aritia, their bitter enemy.[A][ClearBox]However, their dreams were shattered...[A][ClearBox]Before the fast approaching Aritian elites,
+the Gra soldiers lost the will to fight[A][ClearBox]and started fleeing for their lives.[A][ClearBox][X]
+
+MSGMP_018
+Aiming to avoid needless battles, the Aritian
+army[A][ClearBox]decided to cross the central mountain range,
+thought to be impassable by a large army.[A][ClearBox]Should they go through the Adria Pass,
+they would reach Pales directly.[A][ClearBox]"Hurry, we cannot let the enemy notice us!
+We must charge straight through!"[A][ClearBox]Praying for success, Marth and the others
+walked through the narrow mountain pass.[A][ClearBox]However, despite their prayers,[A][ClearBox]they were attacked by an unexpected enemy
+in the pass.[A][ClearBox]The northern Kingdom of Orleans's elite force,
+which had moved south to aid Akaneia...[A][ClearBox]The "Wolfguard."[A][ClearBox][X]
+
+MSGMP_019
+Imperial calendar, the year 3, February....[A][ClearBox]The holy palace of Akaneia was enveloped
+by a strange silence.[A][ClearBox]Following a rebellion in Akaneia,[A][ClearBox]many capable knights, starting with the
+Paladin Midia, were captured.[A][ClearBox]However, even then Akaneia had double
+Aritia's manpower,[A][ClearBox]Pales's streets teeming with soldiers.[A][ClearBox]Nearly one year has passed since the
+Grunian expedition...[A][ClearBox]And now, the decisive battle that would settle
+the fate of two nations was about to begin.[A][ClearBox][X]
+
+MSGMP_020
+Saint Akaneia: the largest kingdom in the
+continent.[A][ClearBox]Pales: a golden capital proud of its six
+hundred years of history.[A][ClearBox]However, under the attack of Aritia's allied
+forces, it fell in a mere day.[A][ClearBox]The Akaneians welcomed them as liberators,
+supporting them without sparing efforts.[A][ClearBox]All of them had bitter words about Hardin and
+his bodyguards, who were inside the castle.[A][ClearBox]The people now called Hardin the Dark Emperor.[A][ClearBox]A title symbolic of the people's hatred for he
+who had killed so many.[A][ClearBox]"I didn't wish to fight, given the choice,
+but now that it's come to this..."[A][ClearBox]Marth raises Anri's flag up high, issuing his
+final order.[A][ClearBox]"Go, heroes of Aritia!
+This is the final battle.[A][ClearBox]All forces, charge into Pales!!"[A][ClearBox][X]
+
+MSGMP_021
+Guided by Archsage Gato,[A][ClearBox]Marth and his companions moved to the
+"Dragon's Dale", located north of Macedonia.[A][ClearBox]The dale is a savage land populated by
+wyverns and ruled by barbarians.[A][ClearBox]However, Marth had no time to waste.[A][ClearBox]The world's fate was in his hands![A][ClearBox][X]
+
+MSGMP_022
+In front of the towering craggy mountain,
+a stone bridge.[A][ClearBox]Then, a stone, spiralling stairway[A][ClearBox]that seemed to stretch up towards the
+heavens.[A][ClearBox]From the rough bare rocks, ominous roars
+and deep breathing can be heard,[A][ClearBox]as if the very mountain itself were alive.[A][ClearBox]The Dragon's Altar... An ancient relic of the
+old dragonkin.[A][ClearBox]The place where Narga, the Divine Dragon
+King, sealed the earth dragons.[A][ClearBox]And now, six hundred years later, the earth
+dragons were awakening.[A][ClearBox]Countless evil demons were being born...[A][ClearBox][X]
+
+
+[X]
+

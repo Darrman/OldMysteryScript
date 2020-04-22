@@ -1,0 +1,465 @@
+MS208_OP0_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG05][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73][Fade=40][TargetLeft]Good morning, [SpecialText0x14=0x39].[Pause=3]
+Oh, you changed your hairstyle, didn't you?[Pause=3]
+I think it looks wonderful.[A][ClearBox][TargetRight][FaceCommand=0x73]Y-you think so?[A][ClearBox][TargetLeft][LoadPortrait=CECIL][FaceCommand=0x73]Ah, [SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][Pause=3]
+Well, isn't your hair just awesome[FreezeMouth]![UnfreezeMouth][Pause=3]
+Man, you look so psyched[FreezeMouth]![UnfreezeMouth][A][ClearBox]Are you going to have it like that all the time
+from now?[A][ClearBox][TargetRight]Let me think about it a little more[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I might want to change it back again.[A][ClearBox][FaceCommand=0x61]Well then, let's leave it at hairstyles and
+assemble.[Pause=3] Today is a big day after all.[A][ClearBox][Fade=40][X]
+
+MS208_OP0_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG05][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73][Fade=40][TargetLeft]Good morning, [SpecialText0x14=0x39].[Pause=3]
+Oh, you changed your hairstyle, didn't you?[Pause=3]
+Wow, it looks great![A][ClearBox][TargetRight][FaceCommand=0x73]Y-you think so?[A][ClearBox][TargetLeft][LoadPortrait=CECIL][FaceCommand=0x73]Ah, [SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][Pause=3]
+Well, isn't your hair just awesome[FreezeMouth]![UnfreezeMouth][Pause=3]
+Man, you look so psyched[FreezeMouth]![UnfreezeMouth][A][ClearBox]Are you going to have it like that all the time
+from now?[A][ClearBox][TargetRight]Let me think about it a little more[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I might want to change it back again.[A][ClearBox][FaceCommand=0x61]Well then, let's leave it at hairstyles and
+assemble.[Pause=3] Today is a big day after all.[A][ClearBox][Fade=40][X]
+
+MS208_OP1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG05][TargetLeft][LoadPortrait=ROOK][TargetLeft][FaceCommand=0x73][SpecialText0x14=0x30], today's the day
+we've been waiting for[FreezeMouth]![UnfreezeMouth]
+The day we accept our knighthood[FreezeMouth]![UnfreezeMouth][A][ClearBox]It's thanks to [SpecialText0x14=0x30] that
+we've come this far.[Pause=3][A][ClearBox]Aren't you all glad that I conceded
+commandership to her[FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=CECIL]Oh, Luke[FreezeMouth]...[UnfreezeMouth] Boisterous 'til the end.[Pause=3][A][ClearBox]But he does have a point.[Pause=3]
+We made it this far because you were here,
+[SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]It wasn't just me alone.[Pause=3]
+It was the strength of us as a team.[A][ClearBox][TargetLeft][LoadPortrait=RODY]But, it was because you, Commander,
+led us that we were able to succeed.[Pause=3]
+I'm honestly grateful.[A][ClearBox][TargetLeft][LoadPortrait=LIAN]Y-yes. Me too[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x39], thank you so much[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]Um[FreezeMouth]...[UnfreezeMouth] I'm not very good at accepting praise,
+but, er[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=CECIL][FaceCommand=0x73]What, are you embarrassed?[Pause=3]
+You're such a cutie![Pause=3]
+Right, Katarina?[A][ClearBox][TargetLeft][LoadPortrait=KATARINA]Indeed, Cecil[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x39], the time since we met sure has
+gone in the blink of an eye, hasn't it[FreezeMouth]?[UnfreezeMouth][A][ClearBox][EyeCommand=ec]I won't ever forget[FreezeMouth]...[UnfreezeMouth][Pause=3]
+The time that we spent together[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Hey, is something wrong?[Pause=3]
+I wouldn't expect you of all people to
+suddenly get nostalgic[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ed]Ah, indeed[FreezeMouth]...[UnfreezeMouth]
+I'm just being strange, aren't I?[Pause=3]
+I'm sorry.[A][ClearBox]It's time, everyone.
+We should head to the ceremony room.[Pause=3]
+Our induction will be held there.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS208_OP1_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG05][TargetLeft][LoadPortrait=ROOK][TargetLeft][FaceCommand=0x73][SpecialText0x14=0x30], today's the day
+we've been waiting for[FreezeMouth]![UnfreezeMouth]
+The day we accept our knighthood[FreezeMouth]![UnfreezeMouth][A][ClearBox]It's thanks to [SpecialText0x14=0x30] that
+we've come this far.[Pause=3][A][ClearBox]Aren't you all glad that I conceded
+commandership to him[FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=CECIL]Oh, Luke[FreezeMouth]...[UnfreezeMouth] Boisterous 'til the end.[Pause=3][A][ClearBox]But he does have a point.[Pause=3]
+We made it this far because you were here,
+[SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]It wasn't just me alone.[Pause=3]
+It was the strength of us as a team.[A][ClearBox][TargetLeft][LoadPortrait=RODY]But, it was because you, Commander,
+led us that we were able to succeed.[Pause=3]
+I'm honestly grateful.[A][ClearBox][TargetLeft][LoadPortrait=LIAN]Y-yes. Me too[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x39], thank you so much[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]Um[FreezeMouth]...[UnfreezeMouth] I'm not very good at accepting praise,
+but, er[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=CECIL][FaceCommand=0x73]What, are you embarrassed?[Pause=3]
+You're such a cutie![Pause=3]
+Right, Katarina?[A][ClearBox][TargetLeft][LoadPortrait=KATARINA]Indeed, Cecil...[UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x39], the time since we met sure has
+gone in the blink of a eye, hasn't it[FreezeMouth]?[UnfreezeMouth][A][ClearBox][EyeCommand=ec]I won't ever forget[FreezeMouth]...[UnfreezeMouth][Pause=3]
+The time that we spent together[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Hey, is something wrong?[Pause=3]
+I wouldn't expect you of all people to
+suddenly get nostalgic[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ed]Ah, indeed[FreezeMouth]...[UnfreezeMouth]
+I'm just being strange, aren't I?[Pause=3]
+I'm sorry.[A][ClearBox]It's time, everyone.
+We should head to the ceremony room.[Pause=3]
+Our induction will be held there.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS208_OP2_PCF1
+[SpecialText0x14][Fade=40][LoadBackground=BBG11][TargetLeft][LoadPortrait=JEIGUN][TargetLeft][SpecialText0x14=0x39], to the front.[A][ClearBox][TargetRight][LoadPortrait=PLAYER]Yes sir.[A][ClearBox][TargetLeft][LoadPortrait=MARS]In the name of Aritia's great ancestor,
+Anri, and by my name[FreezeMouth]...[UnfreezeMouth][A][ClearBox][SpecialText0x14=0x39], I appoint you a knight.[A][ClearBox][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth]And now you are Aritian knights.[Pause=3]
+You've done well up until now.[A][ClearBox][TargetLeft][LoadPortrait=ROOK][FaceCommand=0x73]I'm a knight[FreezeMouth]...[UnfreezeMouth]
+To think this day has finally come.[A][ClearBox][TargetRight][LoadPortrait=RODY][FaceCommand=0x73]Sigh[FreezeMouth]...[UnfreezeMouth]
+I almost didn't think we would make it.[A][ClearBox][TargetLeft][LoadPortrait=LIAN][FaceCommand=0x73]I-I'm so happy[FreezeMouth]...[UnfreezeMouth]
+I think I'm gonna cry[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=CECIL][FaceCommand=0x61]W-well, I'm not going to cry o-or do anything
+silly like that[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x61][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][Unknown0x4=F32][TargetRight][LoadPortrait=SOLDIER_BLUE]S-sire[FreezeMouth]![UnfreezeMouth]
+Sir Jeigan[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]What in the world has happened that's
+important enough for you to interrupt
+this sacred induction?[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_OP2_PCM1
+[SpecialText0x14][Fade=40][LoadBackground=BBG11][TargetLeft][LoadPortrait=JEIGUN][TargetLeft][SpecialText0x14=0x39], to the front.[A][ClearBox][TargetRight][LoadPortrait=PLAYER]Yes sir.[A][ClearBox][TargetLeft][LoadPortrait=MARS]In the name of Aritia's great ancestor,
+Anri, and by my name[FreezeMouth]...[UnfreezeMouth][A][ClearBox][SpecialText0x14=0x39], I appoint you a knight.[A][ClearBox][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth]And now you are Aritian knights.[Pause=3]
+You've done well up until now.[A][ClearBox][TargetLeft][LoadPortrait=ROOK][FaceCommand=0x73]I'm a knight[FreezeMouth]...[UnfreezeMouth]
+To think this day has finally come.[A][ClearBox][TargetRight][LoadPortrait=RODY][FaceCommand=0x73]Sigh[FreezeMouth]...[UnfreezeMouth]
+I almost didn't think we would make it.[A][ClearBox][TargetLeft][LoadPortrait=LIAN][FaceCommand=0x73]I-I'm so happy[FreezeMouth]...[UnfreezeMouth]
+I think I'm gonna cry[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=CECIL][FaceCommand=0x61]W-well, I'm not going to cry o-or do anything
+silly like that[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x61][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][Unknown0x4=F32][TargetRight][LoadPortrait=SOLDIER_BLUE]S-sire[FreezeMouth]![UnfreezeMouth]
+Sir Jeigan[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]What in the world has happened that's
+important enough for you to interrupt
+this sacred induction?[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_OP2_01_PCF1
+[TargetRight][LoadPortrait=SOLDIER_BLUE]I-it's an attack[FreezeMouth]![UnfreezeMouth][Pause=3]
+Aritia Castle is under attack by an enemy
+force[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]What[FreezeMouth]?![UnfreezeMouth][Pause=3]
+How[FreezeMouth]...[UnfreezeMouth] What are their numbers[FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=SOLDIER_BLUE]I-I don't know.[Pause=3]
+I just know they're in the castle[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][TargetLeft]I will assume command.[Pause=3]
+You lot stay here and protect the prince[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=RODY]Yes, sir[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][X]
+
+MS208_OP2_01_PCM1
+[TargetRight][LoadPortrait=SOLDIER_BLUE]I-it's an attack[FreezeMouth]![UnfreezeMouth][Pause=3]
+Aritia Castle is under attack by an enemy
+force[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]What[FreezeMouth]?![UnfreezeMouth][Pause=3]
+How[FreezeMouth]...[UnfreezeMouth] What are their numbers[FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=SOLDIER_BLUE]I-I don't know.[Pause=3]
+I just know they're in the castle[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][TargetLeft]I will assume command.[Pause=3]
+You lot stay here and protect the prince[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=RODY]Yes, sir[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][X]
+
+MS208_OP3_PCF1
+[Fade=40][TargetLeft][LoadPortrait=ROOK][LoadBackground=BBG11][TargetLeft][FreezeMouth]......[UnfreezeMouth]
+Hey, aren't things getting dangerous?[Pause=3]
+Shouldn't we go and help, too?[A][ClearBox][TargetRight][LoadPortrait=RODY]There's no need to be worried.[Pause=3]
+There are plenty of soldiers protecting
+the castle.[Pause=3][A][ClearBox]If it really is an attack, then[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FreezeMouth]...[UnfreezeMouth]The soldiers won't be able to help.[Pause=3]
+Because I drugged them.[A][ClearBox]It won't kill them, but they won't be able
+to move well for a few days[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=PLAYER]Katarina, what are you saying[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]"If there is someone who can move freely
+  within the castle,[A][ClearBox]"they can easily drug the guards,
+  or act as a guide for their accomplices[FreezeMouth]...[UnfreezeMouth][A][ClearBox]"So until you can be trusted, you will spend
+  every day waiting for such an opportunity."[Pause=3][A][ClearBox]Those were my orders.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=PLAYER]What[FreezeMouth]?![UnfreezeMouth]
+I don't believe this[FreezeMouth]...![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=CECIL]Katarina[FreezeMouth]![UnfreezeMouth]
+Wait, where are you going[FreezeMouth]?![UnfreezeMouth]
+You can't just go outside[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=KATARINA]I am not Katarina.[A][ClearBox][TargetRight]Excuse me?[A][ClearBox][TargetLeft]Forgive me, everyone[FreezeMouth]...[UnfreezeMouth][A][ClearBox]My real name is Eine.[Pause=3]
+My reason for coming here was to kill
+Prince Marth.[A][ClearBox][TargetLeft][RemovePortrait][Fade=40][Unknown0x4=F][X]
+
+MS208_OP3_PCM1
+[Fade=40][TargetLeft][LoadPortrait=ROOK][LoadBackground=BBG11][TargetLeft][FreezeMouth]......[UnfreezeMouth]
+Hey, aren't things getting dangerous?[Pause=3]
+Shouldn't we go and help, too?[A][ClearBox][TargetRight][LoadPortrait=RODY]There's no need to be worried.[Pause=3]
+There are plenty of soldiers protecting
+the castle.[Pause=3][A][ClearBox]If it really is an attack, then[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FreezeMouth]...[UnfreezeMouth]The soldiers won't be able to help.[Pause=3]
+Because I drugged them.[A][ClearBox]It won't kill them, but they won't be able
+to move well for a few days[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=PLAYER]Katarina, what are you saying[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]"If there is someone who can move freely
+  within the castle,[A][ClearBox]"they can easily drug the guards,
+  or act as a guide for their accomplices[FreezeMouth]...[UnfreezeMouth][A][ClearBox]"So until you can be trusted, you will spend
+  every day waiting for such an opportunity."[Pause=3][A][ClearBox]Those were my orders.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=PLAYER]What[FreezeMouth]?![UnfreezeMouth]
+Is this some sort of joke[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=CECIL]Katarina[FreezeMouth]![UnfreezeMouth]
+Wait, where are you going[FreezeMouth]?![UnfreezeMouth]
+You can't just go outside[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=KATARINA]I am not Katarina.[A][ClearBox][TargetRight]Excuse me?[A][ClearBox][TargetLeft]Forgive me, everyone[FreezeMouth]...[UnfreezeMouth][A][ClearBox]My real name is Eine.[Pause=3]
+My reason for coming here was to kill
+Prince Marth.[A][ClearBox][TargetLeft][RemovePortrait][Fade=40][Unknown0x4=F][X]
+
+MS208_OP4
+[TargetRight][LoadPortrait=RORO][LoadBackground=BBG01]Weeheehee[FreezeMouth]![UnfreezeMouth][Pause=3]
+I can see you, Prince Marth.[Pause=3]
+Everything is going exactly as planned.[A][ClearBox]And all I had to do was create a situation
+where they'd risk their lives to protect
+some poor Aritian villagers from bandits[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]Marth's trust can be bought so easily.[A][ClearBox]Eine, I brought help.[Pause=3]
+I'll leave Marth to you.[Pause=3][A][ClearBox]I'll be watching very carefully,[Pause=3] so do make
+sure you kill him.[A][ClearBox][TargetRight][LoadPortrait=KATARINA][FreezeMouth]......[UnfreezeMouth][A][ClearBox][X]
+
+MS208_BT_BOSS
+[LoadBackground=][TargetLeft][LoadPortrait=KATARINA][FreezeMouth]......[UnfreezeMouth][A][ClearBox][X]
+
+MS208_BT_BOSS_PC_PCF1
+[SpecialText0x14][LoadBackground=][TargetLeft][LoadPortrait=KATARINA][FreezeMouth]...[UnfreezeMouth][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ec]Yes, it was all a lie.[Pause=3]
+I deceived you.
+Forgive me, [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS208_BT_BOSS_PC_PCM1
+[SpecialText0x14][LoadBackground=][TargetLeft][LoadPortrait=KATARINA][FreezeMouth]...[UnfreezeMouth][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ec]Yes, it was all a lie.[Pause=3]
+I deceived you.
+I'm so sorry[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS208_DIE_BOSS
+[SpecialText0x14][LoadBackground=][TargetLeft][LoadPortrait=KATARINA][TargetLeft][EyeCommand=ec]Urgh[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ed]Roro[FreezeMouth]...[UnfreezeMouth] I'm going to retreat.[Pause=3]
+I cannot win against [SpecialText0x14=0x39]'s forces[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=RORO]Huh? Is that so?[Pause=3][A][ClearBox]No matter, we'll just have to find another
+opportunity to kill him, then.[Pause=3]
+Well, time to run, run![A][ClearBox][X]
+
+MS208_ED1
+[SpecialText0x14][LoadBackground=BBG11][TargetLeft][LoadPortrait=JEIGUN][TargetLeft]I see, so you let her escape[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But, what in the world[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+The girl was working as an assassin[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=MARS][TargetLeft]Sire.[Pause=3]
+This is all my fault.[Pause=3][A][ClearBox]I am prepared to receive any kind of
+punishment.[A][ClearBox][TargetRight]No, it's not your fault, Jeigan.[Pause=3]
+Who among us could possibly have known,
+anyway?
+[A][ClearBox][TargetLeft][LoadPortrait=PLAYER][TargetRight][SpecialText0x14=0x39], Katarina looked at you with such
+gentle eyes.[A][ClearBox]Perhaps there was some sort of
+unavoidable circumstance for her.
+Perhaps she was being forced[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]Sire[FreezeMouth]...[UnfreezeMouth] My goodness[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]To think you would be concerned for the very
+assassin who made an attempt on your life[FreezeMouth]...[UnfreezeMouth][A][ClearBox]With the Dark Dragon gone, and the world
+supposedly heading towards a path of peace
+and prosperity[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Who in the world would try to assassinate
+you, sire[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED2
+[SpecialText0x14][TargetLeft]At this rate, you will likely be targeted
+by assassins time and time again.[A][ClearBox]We must prepare a guard who will defend
+you, sire, with his or her life[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]
+Then I'd like to delegate that role to
+[SpecialText0x14=0x39].[Pause=3][A][ClearBox]As we discussed before, if [SpecialText0x14=0x39] were
+to follow me as a Royal Guard, I would rest
+assured.[A][ClearBox][TargetLeft]Understood, sire.
+I'll make the necessary arrangements.[A][ClearBox][TargetLeft][LoadPortrait=PLAYER][TargetRight][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+This won't be the last we've seen of Katarina.[A][ClearBox]When the time comes, I want you to guard me.[Pause=3]
+And, if possible[FreezeMouth]...[UnfreezeMouth][Pause=3] I want you to help her.[A][ClearBox]Because I believe that is something only you
+can do[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=40][X]
+
+MS208_ED3_END
+[Fade=20][X]
+
+MS208_ED3_HAIKEI
+[LoadBackground=BBG11][TargetRight][LoadPortrait=PLAYER][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED4
+[SpecialText0x14][LoadBackground=BBG11][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=CECIL][SpecialText0x14=0x39], I still can't believe it[FreezeMouth]...[UnfreezeMouth][Pause=3]
+How did Katarina wind up as our enemy[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]Only this morning[FreezeMouth]...[UnfreezeMouth]
+We were laughing together, us three[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]............[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]I'm sorry.[Pause=3]
+Getting upset about it won't solve anything[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]Us knights, we'll just have to adapt[FreezeMouth]...[UnfreezeMouth]
+Oh yeah, [SpecialText0x14=0x39], what about that headband
+of yours?[Pause=3][A][ClearBox]Are you going to change it back?[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED4_A_PCF1
+[SpecialText0x14][TargetRight][FaceCommand=0x73]Yes, that's right.[Pause=3]
+I was trying to be more like you, but
+it doesn't suit me like it does you.[A][ClearBox][TargetLeft][FaceCommand=0x73]I see.
+That's a little disappointing, but I'll forgive
+you this time.[A][ClearBox][FaceCommand=0x61][SpecialText0x14=0x39], all of us in the 7th Platoon,
+we're partners.[Pause=3] That will never change.[A][ClearBox]Let's[FreezeMouth]...[UnfreezeMouth] all of us, together[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Let's get Katarina back.[Pause=3]
+Someday, definitely[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS208_ED4_A_PCM1
+[SpecialText0x14][TargetRight][FaceCommand=0x73]Yes, you guessed right.[Pause=3]
+I was trying to be more like you, but
+it doesn't suit me like it does you.[A][ClearBox][TargetLeft][FaceCommand=0x73]I see.
+That's a little disappointing, but I'll forgive
+you this time.[A][ClearBox][FaceCommand=0x61][SpecialText0x14=0x39], all of us in the 7th Platoon,
+we're partners.[Pause=3] That will never change.[A][ClearBox]Let's[FreezeMouth]...[UnfreezeMouth] all of us, together[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Let's get Katarina back.[Pause=3]
+Someday, definitely[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS208_ED4_B_PCF1
+[SpecialText0x14][TargetRight][FaceCommand=0x73]No, let's leave it like this.[Pause=3]
+I'm very pleased with how this looks.[A][ClearBox][TargetLeft][FaceCommand=0x73]Really?[Pause=3]
+Well, I'm happy that you say that.[A][ClearBox][FaceCommand=0x61][SpecialText0x14=0x39], all of us in the 7th Platoon,
+we're partners.[Pause=3] That will never change.[A][ClearBox]Let's[FreezeMouth]...[UnfreezeMouth] all of us, together[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Let's get Katarina back.[Pause=3]
+Someday, definitely[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS208_ED4_B_PCM1
+[SpecialText0x14][TargetRight][FaceCommand=0x73]No, let's leave it like this.[Pause=3]
+I actually really like this headband.[A][ClearBox][TargetLeft][FaceCommand=0x73]Really?[Pause=3]
+Well, I'm happy that you say that.[A][ClearBox][FaceCommand=0x61][SpecialText0x14=0x39], all of us in the 7th Platoon,
+we're partners.[Pause=3] That will never change.[A][ClearBox]Let's[FreezeMouth]...[UnfreezeMouth] all of us, together[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Let's get Katarina back.[Pause=3]
+Someday, definitely[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS208_ED3_1A
+[SpecialText0x14][LoadBackground=BBG11][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=EST][FaceCommand=0x73][SpecialText0x14=0x39], I'm returning home.[Pause=3]
+I think Abel is getting worried about me.[A][ClearBox][TargetRight][FaceCommand=0x61]Abel[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]You don't know Abel[FreezeMouth]?[UnfreezeMouth][Pause=3]
+Well, you see, Abel is a former Aritian knight.[A][ClearBox]A long time ago, he was Sir Kain's partner.[A][ClearBox]Now he's left the army and lives with me.[A][ClearBox]Oh, if you'd like, you can come and visit us
+anytime.[A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED3_1A_PCF1
+[SpecialText0x14][LoadBackground=BBG11][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=EST][FaceCommand=0x73][SpecialText0x14=0x39], I'm returning home.[Pause=3]
+I think Abel is getting worried about me.[A][ClearBox][TargetRight][FaceCommand=0x61]Abel[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]You don't know Abel[FreezeMouth]?[UnfreezeMouth][Pause=3]
+Well, you see, Abel is a former Aritian knight.[A][ClearBox]A long time ago, he was Sir Kain's partner.[A][ClearBox]Now he's left the army and lives with me.[A][ClearBox]Oh, if you'd like, you can come and visit us
+anytime.[A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED3_1A_PCM1
+[SpecialText0x14][LoadBackground=BBG11][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=EST][FaceCommand=0x73][SpecialText0x14=0x39], I'm returning home.[Pause=3]
+I think Abel is getting worried about me.[A][ClearBox][TargetRight][FaceCommand=0x61]Abel[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]You don't know Abel[FreezeMouth]?[UnfreezeMouth][Pause=3]
+Well, you see, Abel is a former Aritian knight.[A][ClearBox]A long time ago, he was Sir Kain's partner.[A][ClearBox]Now he's left the army and lives with me.[A][ClearBox]Oh, if you'd like, you can come and visit us
+anytime.[A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED3_1B_PCF1
+[SpecialText0x14][LoadBackground=BBG11][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=KAIN][TargetLeft][FaceCommand=0x73][SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][Pause=3]
+You defended Prince Marth most admirably
+today.[Pause=3][A][ClearBox]Even a veteran like me must admit it was
+an impressive first job[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Thank you for your kind words, Sir Kain.[A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED3_1B_PCM1
+[SpecialText0x14][LoadBackground=BBG11][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=KAIN][TargetLeft][FaceCommand=0x73][SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][Pause=3]
+You defended Prince Marth most admirably
+today.[Pause=3][A][ClearBox]Even a veteran like me has to admit it was
+an impressive first job[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Thank you for your kind words, Sir Kain.[A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED3_1_2A_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=OGUMA][SpecialText0x14=0x39], I bid you farewell here.[A][ClearBox]I received a new request from Princess
+Sheeda's father[SpecialSymbol=0x96]King Talis.[Pause=3]
+It seems I must venture to Grunia.[A][ClearBox][TargetRight][FaceCommand=0x61]That's too bad.[Pause=3]
+I wanted to learn more about fighting from
+you, Sir Oguma.[A][ClearBox][TargetLeft][FaceCommand=0x73]Don't worry. I'm sure our paths will cross
+again, some day.[Pause=3]
+Until then, don't you dare die.[A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED3_1_2A_PCM1
+[SpecialText0x14][TargetLeft][LoadPortrait=OGUMA][SpecialText0x14=0x39], I bid you farewell here.[A][ClearBox]I received a new request from Princess
+Sheeda's father[SpecialSymbol=0x96]King Talis.[Pause=3]
+It seems I must venture to Grunia.[A][ClearBox][TargetRight][FaceCommand=0x61]That's too bad.[Pause=3]
+I wanted to learn more about fighting from
+you, Sir Oguma.[A][ClearBox][TargetLeft][FaceCommand=0x73]Don't worry. I'm sure our paths will cross
+again, some day.[Pause=3]
+Until then, don't you dare die.[A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED3_1_2B_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=DOHGA][FaceCommand=0x61]Hmm, perhaps that assassin was[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Well, in any case, I ought to guard the
+castle's defenses even more diligently.[A][ClearBox][FaceCommand=0x73][SpecialText0x14=0x39], I would like you to consult with me
+on this later.[A][ClearBox][TargetRight]Gladly, Sir Doga.[A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED3_1_2B_PCM1
+[SpecialText0x14][TargetLeft][LoadPortrait=DOHGA][FaceCommand=0x61]Hmm, perhaps that assassin was[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Well, in any case, I ought to guard the
+castle's defenses even more diligently.[A][ClearBox][FaceCommand=0x73][SpecialText0x14=0x39], I would like you to consult with me
+on this later.[A][ClearBox][TargetRight]Gladly, Sir Doga.[A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED3_2_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=MARICH][FaceCommand=0x61][SpecialText0x14=0x39], I'm heading back to Khadein,
+the city of magic.[A][ClearBox]There's something I have to do for Marth.[Pause=3]
+He's a very important person to me, so[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]I understand.[Pause=3]
+I will guard him well, Sir Marich.[A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED3_2_PCM1
+[SpecialText0x14][TargetLeft][LoadPortrait=MARICH][FaceCommand=0x61][SpecialText0x14=0x39], I'm heading back to Khadein,
+the city of magic.[A][ClearBox]There's something I have to do for Marth.[Pause=3]
+He's a very important person to me, so[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]I understand, Sir Marich.[Pause=3]
+I will protect him to the best of my ability.[A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED3_3A_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=GOHDON][FaceCommand=0x73]We have to do our best, too, to protect
+Prince Marth.[Pause=3] [SpecialText0x14=0x39], my best regards
+from here on.[A][ClearBox][TargetRight][FaceCommand=0x73]Yes, mine too.[A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED3_3A_PCM1
+[SpecialText0x14][TargetLeft][LoadPortrait=GOHDON][FaceCommand=0x73]We have to do our best, too, to protect
+Prince Marth.[Pause=3] [SpecialText0x14=0x39], my best regards
+from here on.[A][ClearBox][TargetRight][FaceCommand=0x61]The pleasure is mine.[A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED3_3B_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=ATHENA][FaceCommand=0x61]Ve are also going on a journey.[Pause=3]
+Ve vill search for the villains who targeted
+Marth.[Pause=3][A][ClearBox][FaceCommand=0x73]But [SpecialText0x14=0x39], ve could meet again.[A][ClearBox][TargetRight][FaceCommand=0x61]Miss Athena[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Please, stay well.[Pause=3]
+[FaceCommand=0x73]I'd be happy if we could meet again.[A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED3_3B_PCM1
+[SpecialText0x14][TargetLeft][LoadPortrait=ATHENA][FaceCommand=0x61]Ve are also going on a journey.[Pause=3]
+Ve vill search for the villains who targeted
+Marth.[Pause=3][A][ClearBox][FaceCommand=0x73]But [SpecialText0x14=0x39], ve could meet again.[A][ClearBox][TargetRight][FaceCommand=0x61]Miss Athena[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Please, stay well.[Pause=3]
+[FaceCommand=0x73]I'd be happy if we could meet again.[A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED3_4_2_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=NORN][FaceCommand=0x73]Well then, Dame [SpecialText0x14=0x39],
+I'm returning to my village.[A][ClearBox]Apparently Ryan's wounds are going
+to heal soon. That's good, isn't it?[A][ClearBox][TargetRight][FaceCommand=0x73]Thank you for everything up until now,
+Miss Norne.[A][ClearBox][TargetLeft]I was glad to be of assistance.
+If anything happens again, don't
+hesitate to call on me, alright?[A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED3_4_2_PCM1
+[SpecialText0x14][TargetLeft][LoadPortrait=NORN][FaceCommand=0x73]Well then, Sir [SpecialText0x14=0x39],
+I'm returning to my village.[A][ClearBox]Apparently Ryan's wounds are going
+to heal soon. That's good, isn't it?[A][ClearBox][TargetRight][FaceCommand=0x73]Thank you for everything up until now,
+Miss Norne.[A][ClearBox][TargetLeft]I was glad to be of assistance.
+If anything happens again, don't
+hesitate to call on me, alright?[A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED3_4_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=RIFF][FaceCommand=0x73]Dame [SpecialText0x14=0x39], I'm going on a journey for
+a while.[Pause=3][A][ClearBox]Thank you for having me here.[A][ClearBox][TargetRight][FaceCommand=0x73]No, Riff,[Pause=3] thank YOU for helping us.[A][ClearBox][TargetLeft]Knowing fate, if two people are tied together,
+they will meet again, sooner or later.[Pause=3][A][ClearBox]Please, take care[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED3_4_PCM1
+[SpecialText0x14][TargetLeft][LoadPortrait=RIFF][FaceCommand=0x73]Sir [SpecialText0x14=0x39], I'm going on a journey for
+a while.[Pause=3][A][ClearBox]Thank you for having me here.[A][ClearBox][TargetRight][FaceCommand=0x73]No, Riff,[Pause=3] thank YOU for helping us.[A][ClearBox][TargetLeft]Knowing fate, if two people are tied together,
+they will meet again, sooner or later.[Pause=3][A][ClearBox]Please, take care[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS208_ED3_5_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=SHEEDA][FaceCommand=0x73][SpecialText0x14=0x39], thank you...[Pause=3] for keeping Marth
+safe.[A][ClearBox][FaceCommand=0x61]But, I[FreezeMouth]...[UnfreezeMouth][Pause=3] I still feel uneasy.[A][ClearBox]I just can't shake the feeling that Marth will
+only be in more danger from now on[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ec]I want to protect Marth, but I can't do even
+that, and it troubles me greatly[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Please don't worry, Princess.[Pause=3]
+I'm certain Prince Marth will be safe.[Pause=3][A][ClearBox]I will protect the prince in my lady's stead,
+without fail.[A][ClearBox][TargetLeft][FaceCommand=0x73][EyeCommand=ed]Thank you, [SpecialText0x14=0x39].[Pause=3]
+Yes, if you are there, then surely[FreezeMouth]...[UnfreezeMouth][A][ClearBox]My apologies, [SpecialText0x14=0x39].[Pause=3]
+Marth and I only ever ask favors of you.[A][ClearBox]But if you are with him, then I know[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Yes, Marth and I believe that you'll manage.[A][ClearBox][SpecialText0x14=0x39], from this moment I ask that you
+always stay by Marth's side[FreezeMouth]...[UnfreezeMouth][Pause=3] and help him[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=50][Unknown0x4=F][X]
+
+MS208_ED3_5_PCM1
+[SpecialText0x14][TargetLeft][LoadPortrait=SHEEDA][FaceCommand=0x73][SpecialText0x14=0x39], thank you...[Pause=3] for keeping Marth
+safe.[A][ClearBox][FaceCommand=0x61]But, I[FreezeMouth]...[UnfreezeMouth][Pause=3] I still feel uneasy.[A][ClearBox]I just can't shake the feeling that Marth will
+only be in more danger from now on[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ec]I want to protect Marth, but I can't do even
+that, and it troubles me greatly[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Please don't worry, Princess.[Pause=3]
+I'm certain Prince Marth will be safe.[Pause=3][A][ClearBox]I will protect the prince in my lady's stead,
+without fail.[A][ClearBox][TargetLeft][FaceCommand=0x73][EyeCommand=ed]Thank you, [SpecialText0x14=0x39].[Pause=3]
+Yes, if you are there, then surely[FreezeMouth]...[UnfreezeMouth][A][ClearBox]My apologies, [SpecialText0x14=0x39].[Pause=3]
+Marth and I only ever ask favors of you.[A][ClearBox]But if you are with him, then I know[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Yes, Marth and I believe that you'll manage.[A][ClearBox][SpecialText0x14=0x39], from this moment I ask that you
+always stay by Marth's side[FreezeMouth]...[UnfreezeMouth][Pause=3] and help him[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=50][Unknown0x4=F][X]
+
+MS208_ARG_1
+[SpecialText0x14][SpecialText0x14=0x39] the Ordinary[X]
+
+MS208_ARG_10
+[SpecialText0x14][SpecialText0x14=0x39] the Wise[X]
+
+MS208_ARG_11
+[SpecialText0x14][SpecialText0x14=0x39] the Ordinary[X]
+
+MS208_ARG_12
+[SpecialText0x14][SpecialText0x14=0x39] the Kind[X]
+
+MS208_ARG_13
+[SpecialText0x14][SpecialText0x14=0x39] the Terrible[X]
+
+MS208_ARG_14
+[SpecialText0x14][SpecialText0x14=0x39] the Sly[X]
+
+MS208_ARG_15
+[SpecialText0x14][SpecialText0x14=0x39] the Ordinary[X]
+
+MS208_ARG_16
+[SpecialText0x14][SpecialText0x14=0x39] the Sly[X]
+
+MS208_ARG_17
+[SpecialText0x14][SpecialText0x14=0x39] the Wise[X]
+
+MS208_ARG_18
+[SpecialText0x14][SpecialText0x14=0x39] the Beast[X]
+
+MS208_ARG_19
+[SpecialText0x14]Captain [SpecialText0x14=0x39][X]
+
+MS208_ARG_2
+[SpecialText0x14][SpecialText0x14=0x39] the Kind[X]
+
+MS208_ARG_20
+[SpecialText0x14][SpecialText0x14=0x39] the Timid[X]
+
+MS208_ARG_21
+[SpecialText0x14]Masked [SpecialText0x14=0x39][X]
+
+MS208_ARG_22
+[SpecialText0x14]Masked [SpecialText0x14=0x39][X]
+
+MS208_ARG_3
+[SpecialText0x14][SpecialText0x14=0x39] the Terrible[X]
+
+MS208_ARG_4
+[SpecialText0x14][SpecialText0x14=0x39] the Sly[X]
+
+MS208_ARG_5
+[SpecialText0x14][SpecialText0x14=0x39] the Ordinary[X]
+
+MS208_ARG_6
+[SpecialText0x14][SpecialText0x14=0x39] the Sly[X]
+
+MS208_ARG_7
+[SpecialText0x14][SpecialText0x14=0x39] the Wild[X]
+
+MS208_ARG_8
+[SpecialText0x14][SpecialText0x14=0x39] the Scarred[X]
+
+MS208_ARG_9
+[SpecialText0x14]Captain [SpecialText0x14=0x39][X]
+

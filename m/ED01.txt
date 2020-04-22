@@ -1,0 +1,680 @@
+MSGED_20_ED1_PCF1
+[TargetRight][LoadPortrait=MARS][FaceCommand=0x73][LoadBackground=BBG11][TargetLeft][LoadPortrait=JEIGUN][FaceCommand=0x73][FaceCommand=0x73]Sire, the war is over.[Pause=3]
+Look over there!
+It's the princess and the other clerics[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Sister[FreezeMouth]![UnfreezeMouth] And Princess Nina[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Rena, Maria; you're all safe.[A][ClearBox][TargetLeft][LoadPortrait=NIENA][FaceCommand=0x61]Marth, I'm so happy you made it[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Please lend me your valor in order to
+rebuild Akaneia.[A][ClearBox][TargetLeft][LoadPortrait=ERICE]You did well, Marth.[Pause=3]
+I am so proud of you.[A][ClearBox][TargetLeft][LoadPortrait=RENA]Prince Marth, between the four of us,
+we managed to defeat Garnef.[Pause=3]
+Please be at ease.[A][ClearBox][TargetLeft][LoadPortrait=MARIA]Our world has been saved.[Pause=3]
+Prince, you should return to Aritia as soon
+as you can.[A][ClearBox][TargetRight]I see, I'm glad you're all well.
+But you all don't look too good...[A][ClearBox][TargetLeft][LoadPortrait=NIENA]Everybody is tired from battling Garnef.
+But it doesn't matter now,
+so please don't worry.[A][ClearBox][TargetRight][FaceCommand=0x61]Really?
+Princess Nina, please forgive me.[Pause=3]
+I couldn't save Hardin in the end.[A][ClearBox][TargetLeft]It is fine.[Pause=3]
+He was dead long ago, after he lost
+himself to his fiendish ambitions.[A][ClearBox][FaceCommand=0x73]Marth, you ought to return to
+your kingdom.[Pause=3]
+Your people must be worried about you.[A][ClearBox]With your remaining time,
+you must live well.[A][ClearBox]As long as people still exist in this world,
+your name shall not be forgotten.[A][ClearBox][Fade=120][X]
+
+MSGED_20_ED1_PCM1
+[TargetRight][LoadPortrait=MARS][FaceCommand=0x73][LoadBackground=BBG11][TargetLeft][LoadPortrait=JEIGUN][FaceCommand=0x73][FaceCommand=0x73]Sire, the war is over.[Pause=3]
+Look over there!
+It's the princess and the other clerics[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Sister[FreezeMouth]![UnfreezeMouth] And Princess Nina[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Rena, Maria; you're all safe.[A][ClearBox][TargetLeft][LoadPortrait=NIENA][FaceCommand=0x61]Marth, I'm so happy you made it[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Please lend me your valor in order to
+rebuild Akaneia.[A][ClearBox][TargetLeft][LoadPortrait=ERICE]You did well, Marth.[Pause=3]
+I am so proud of you.[A][ClearBox][TargetLeft][LoadPortrait=RENA]Prince Marth, between the four of us,
+we managed to defeat Garnef.[Pause=3]
+Please be at ease.[A][ClearBox][TargetLeft][LoadPortrait=MARIA]Our world has been saved.[Pause=3]
+Prince, you should return to Aritia as soon
+as you can.[A][ClearBox][TargetRight]I see, I'm glad you're all well.
+But you all don't look too good...[A][ClearBox][TargetLeft][LoadPortrait=NIENA]Everybody is tired from battling Garnef.
+But it doesn't matter now,
+so please don't worry.[A][ClearBox][TargetRight][FaceCommand=0x61]Really?
+Princess Nina, please forgive me.[Pause=3]
+I couldn't save Hardin in the end.[A][ClearBox][TargetLeft]It is fine.[Pause=3]
+He was dead long ago, after he lost
+himself to his fiendish ambitions.[A][ClearBox][FaceCommand=0x73]Marth, you ought to return to
+your kingdom.[Pause=3]
+Your people must be worried about you.[A][ClearBox]With your remaining time,
+you must live well.[A][ClearBox]As long as people still exist in this world,
+your name shall not be forgotten.[A][ClearBox][Fade=120][X]
+
+MSGED_24_ED1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG15][TargetLeft][LoadPortrait=GATO][TargetLeft]Marth, brave prince of Aritia.[A][ClearBox]Thanks to your valiant efforts,
+Dark Dragon Mediuth has been
+completely obliterated.[A][ClearBox]Mediuth's servants[SpecialSymbol=0x96]the earth dragons[SpecialSymbol=0x96]
+have once again returned to darkness.[A][ClearBox]As long as the Shield of Seals exists,
+they will never see the light again.[A][ClearBox]Marth, the chosen Prince of Light,
+descendant of the hero Anri.[A][ClearBox]You have not only saved mankind,
+but us dragonkin as well[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_24_ED1_2_A
+[TargetLeft][LoadPortrait=TIKI][FaceCommand=0x73]Mar-Mar[FreezeMouth]!![UnfreezeMouth][Pause=3]
+Does this mean I don't need to go back
+to the Ice Dragons' Temple anymore?[A][ClearBox]I'm so happy[FreezeMouth]![UnfreezeMouth]
+I love being with everyone, after all.[A][ClearBox]I don't want to be all alone ever again.[A][ClearBox]This is like[FreezeMouth]... [UnfreezeMouth]a dream come true.[Pause=3]
+I'm so happy, so very happy.
+I love you, Mar-Mar[FreezeMouth]!![UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_24_ED1_2_B
+[TargetLeft][LoadPortrait=TIKI][FaceCommand=0x73]Mar-Mar[FreezeMouth]!![UnfreezeMouth][Pause=3]
+Does this mean I don't need to go back
+to the Ice Dragons' Temple anymore?[A][ClearBox]I'm so happy[FreezeMouth]![UnfreezeMouth]
+I love being with everyone, after all.[A][ClearBox]I don't want to be all alone ever again.[A][ClearBox]This is like[FreezeMouth]... [UnfreezeMouth]a dream come true.[Pause=3]
+I'm so happy, so very happy.
+I love you, Mar-Mar[FreezeMouth]!![UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_24_ED1_2_B_02
+[TargetLeft][LoadPortrait=GATO][TargetLeft][FaceCommand=0x61]Now, Chiki[FreezeMouth]...[UnfreezeMouth]
+You must respect Marth's feelings.[Pause=3]
+Many have fallen in this battle.[A][ClearBox]Marth, I realize this victory
+is bittersweet at best to you.[A][ClearBox]Having lost the one you loved,
+you must now live on alone.[A][ClearBox]I'm deeply sorry, Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox]In exchange for this world's future,
+you have lost something far more precious[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_24_ED1_2_D
+[TargetLeft]Marth, I realize this victory
+is bittersweet at best to you.[A][ClearBox]Having lost the one you loved,
+you must now live on alone.[A][ClearBox]I'm deep sorry, Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox]In exchange for this world's future,
+you have lost something far more precious[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_24_ED2
+[TargetLeft][RemovePortrait][TargetRight][RemovePortrait][TargetRight][LoadPortrait=SHEEDA][TargetLeft][LoadPortrait=MARICIA][TargetLeft][FaceCommand=0x61]Honestly, Chiki, for how long do
+you plan on hogging Prince Marth[FreezeMouth]?[UnfreezeMouth][A][ClearBox]Prince Marth looks like he's enjoying it too.[Pause=3]
+Doesn't he worry that you might
+get mad, Princess Sheeda?[A][ClearBox][TargetRight][FaceCommand=0x73]Please Malliesia, you're so silly.[Pause=3]
+But you're right, Marth looks happy[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Who wouldn't? Especially after having a
+heavy burden lifted from their shoulders?[A][ClearBox][FaceCommand=0x61]Prince Marth has always been forced to
+carry such a heavy responsibility.
+It must have been hard on him.[A][ClearBox]But Princess, you didn't have
+an easy time either, am I right?[A][ClearBox]With everyone surrounding Marth day
+and night, you could seldom talk to him.
+You must have felt lonely.[A][ClearBox][TargetRight][EyeCommand=ec]Yes I did[FreezeMouth]... [UnfreezeMouth]but it's alright.[Pause=3]
+As long as Marth is safe,
+I have no other wish.[A][ClearBox][FaceCommand=0x61][EyeCommand=ed]You see, I prayed to God.[Pause=3]
+When I found out Marth had been tasked
+with such an important mission,[A][ClearBox]I asked for God to take my life,
+should Marth ever have to sacrifice his[FreezeMouth]...[UnfreezeMouth][A][ClearBox]That's all I could do for Marth.[A][ClearBox][TargetLeft][EyeCommand=ec][FreezeMouth]...[UnfreezeMouth]Sigh, I give up.
+There's no way I could compare to
+you, Princess.[A][ClearBox][FaceCommand=0x73][EyeCommand=ed]But, you'll have to wait no longer.[Pause=3]
+Because your prince has finally come back
+to you.[A][ClearBox]Look, Princess,
+he's looking over here.[Pause=3]
+Be brave[FreezeMouth]![UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_24_ED2_2
+[X]
+
+MSGED_24_ED3
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG15][TargetLeft][LoadPortrait=SHEEDA][FaceCommand=0x73]Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]Sheeda, it's finally over.[Pause=3]
+I've made you suffer, too.
+Please accept my apologies.[A][ClearBox][TargetLeft][FaceCommand=0x61]No, I'm the one who ought to
+apologize[FreezeMouth]...[UnfreezeMouth]
+I wasn't any help to you.[A][ClearBox][TargetRight][FaceCommand=0x73]Don't be silly.[Pause=3]
+I've only come this far because
+you were by my side, Sheeda.[A][ClearBox][FaceCommand=0x61]And besides, the hard part begins now.[A][ClearBox]The seven kingdoms of Akaneia are
+to be unified.[A][ClearBox]And everyone expects me to accept
+responsibility of the new kingdom.[A][ClearBox]However, there's no way I could
+handle such a position by myself.[Pause=3]
+[FaceCommand=0x73]Sheeda, I want your assistance.[A][ClearBox]I need you.[A][ClearBox][TargetLeft][FaceCommand=0x73][EyeCommand=ec]Marth, let me tell you something[FreezeMouth]...[UnfreezeMouth][Pause=3]
+When I left Talis, I made a vow.[A][ClearBox][EyeCommand=ed]I swore that I would go wherever
+you went, and that I'd trust you no
+matter what happened.[A][ClearBox]So, no matter how painful the war
+was, I was able to endure.[A][ClearBox]Because, Marth[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSGED_ED2A_PCF1
+[X]
+
+MSGED_ED2A_PCM1
+[X]
+
+MSGED_ED2B_PCF1
+[X]
+
+MSGED_ED2B_PCM1
+[X]
+
+MSGED_ED2A_2_PCF1
+[X]
+
+MSGED_ED2A_2_PCM1
+[X]
+
+MSGED_ED2B_2_PCF1
+[X]
+
+MSGED_ED2B_2_PCM1
+[X]
+
+MSGED_ED0A
+[LoadBackground=BBG11]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED0B
+[LoadBackground=BBG15]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1A
+[LoadBackground=BBG11][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1B
+[LoadBackground=BBG15][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_1
+[TargetRight][LoadPortrait=JEIGUN][FaceCommand=0x73]Sire[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You've done such a magnificent job.[Pause=3]
+I'm speechless for words.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_3
+[TargetRight][LoadPortrait=ARAN][FaceCommand=0x73]The fact I could devote my last moments
+to fight under Prince Marth's banner[Pause=3]
+is my life's pride.[A][ClearBox][TargetLeft][LoadPortrait=KAIN][FaceCommand=0x73]Truly[FreezeMouth]![UnfreezeMouth][Pause=3]
+We're honored to be by the prince's side.[A][ClearBox][TargetRight][LoadPortrait=ABEL][FaceCommand=0x73]Yes. Even though I'm no knight now[FreezeMouth]...[UnfreezeMouth][Pause=3]
+fighting together with Prince Marth
+was my honor.[A][ClearBox][TargetLeft][LoadPortrait=ERICE][FaceCommand=0x73]Marth[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Please be happy from now on[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_4
+[TargetRight][LoadPortrait=DOHGA][FaceCommand=0x73]Seems we'll be busy from now on[FreezeMouth]![UnfreezeMouth][Pause=3]
+All the kingdoms need to be rebuilt,
+so we have a mountain of work to do.[A][ClearBox][TargetLeft][LoadPortrait=FREY][FaceCommand=0x73]True.[Pause=3]
+And yet, we can see hope in the eyes
+of all people.[A][ClearBox][TargetRight][LoadPortrait=GOHDON]If we work hard now, we can turn the
+world onto the right path[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That's what I truly believe.[A][ClearBox][TargetLeft][LoadPortrait=NORN]I'm sure the people of this world
+have received that hope.[Pause=3]
+Because of Prince Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft] [RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_5_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=LIAN][FaceCommand=0x73]W-we've won?[Pause=3]
+It feels so unreal[FreezeMouth]...[UnfreezeMouth]
+Somebody pinch me[SpecialSymbol=0x96]ouch[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=ROOK][FaceCommand=0x73]Hey, you asked for it[FreezeMouth]![UnfreezeMouth][Pause=3]
+But truly, our battles will be told
+as legends for generations to come[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=RODY][FaceCommand=0x73]Getting carried away, I see[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But, I'm glad everyone from the
+7th Platoon is safe.[A][ClearBox][TargetLeft][LoadPortrait=CECIL][FaceCommand=0x73]Yup. The fact we can laugh together
+as friends like this is what pleases
+me the most.[A][ClearBox][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x73][TargetLeft]And Katarina, that you includes you
+of course.[A][ClearBox][TargetRight][FaceCommand=0x73]Yes[FreezeMouth]...[UnfreezeMouth]
+I feel everyone's happiness as well.[A][ClearBox][TargetLeft][LoadPortrait=PLAYER][FaceCommand=0x73][TargetRight][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Yes, we'll be together forever.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_5_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=LIAN][FaceCommand=0x73]W-we've won?[Pause=3]
+It feels so unreal[FreezeMouth]...[UnfreezeMouth]
+Somebody pinch me[SpecialSymbol=0x96]ouch[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=ROOK][FaceCommand=0x73]Hey, you asked for it[FreezeMouth]![UnfreezeMouth][Pause=3]
+But truly, our battles will be told
+as legends for generations to come[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=RODY][FaceCommand=0x73]Getting carried away, I see[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But, I'm glad everyone from the
+7th Platoon is safe.[A][ClearBox][TargetLeft][LoadPortrait=CECIL][FaceCommand=0x73]Yup. The fact we can laugh together
+as friends like this is what pleases
+me the most.[A][ClearBox][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x73][TargetLeft]And Katarina, that you includes you
+of course.[A][ClearBox][TargetRight][FaceCommand=0x73]Yes[FreezeMouth]...[UnfreezeMouth]
+I feel everyone's happiness as well.[A][ClearBox][TargetLeft][LoadPortrait=PLAYER][FaceCommand=0x73][TargetRight][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Yes, we'll be together forever.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_6
+[TargetRight][LoadPortrait=RIFF][FaceCommand=0x73]The bonds of people are truly a
+wondrous sight, no matter your age.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_7
+[TargetRight][LoadPortrait=YUBELLO][FaceCommand=0x73]Ah, Sir Sirius?[Pause=3]
+Where did he go?
+He was here until a moment ago[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=YUMINA][FaceCommand=0x73]It's okay, Yubello.
+We must become stronger from here on.[Pause=3]
+I'm sure Sirius wanted that, too[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft] [RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_8
+[TargetRight][LoadPortrait=ROJAR][FaceCommand=0x73]I gotta return to Grunia and work hard
+to rebuild my motherland.[A][ClearBox]Say Malliesia,
+you, er, wanna go back with me?[A][ClearBox][TargetLeft][LoadPortrait=MARICIA][FaceCommand=0x73]Sorry, but this girl's taken.[Pause=3]
+I have to look for my prince, after all[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_8_2
+[TargetRight][LoadPortrait=BELF][FaceCommand=0x73]Robert, Leiden.[Pause=3]
+Let's move out.
+[A][ClearBox][TargetLeft][LoadPortrait=ROBERTO][FaceCommand=0x73]Understood.
+We shall now become knights who
+protect the weak.[A][ClearBox][TargetLeft][LoadPortrait=LEIDEN][FaceCommand=0x73]That's what General Camus would have
+wanted us to do.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_9
+[TargetLeft][LoadPortrait=MINERBA][FaceCommand=0x73]Paola, Katua, Est.[Pause=3]
+The war is finally over.[Pause=3]
+You've done well.[A][ClearBox][TargetRight][LoadPortrait=PAORA][FaceCommand=0x73]Commander, your ideal world where
+all can live in peace[FreezeMouth]...[UnfreezeMouth][Pause=3]
+It may finally become a reality.[A][ClearBox][TargetLeft][LoadPortrait=KATUA][FaceCommand=0x73]I agree.[Pause=3]
+As long as Prince Marth is here,
+I'm sure it will[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=EST][FaceCommand=0x73]Oh, that's right.[Pause=3]
+Let's all go to Aritia.[Pause=3]
+We must thank Prince Marth[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=MARIA][FaceCommand=0x73]Ooh, I would love that[FreezeMouth]![UnfreezeMouth][Pause=3]
+I want to see his dashingness too[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_10
+[TargetLeft][LoadPortrait=RENA][FaceCommand=0x73][TargetRight][LoadPortrait=MATIS][FaceCommand=0x73]Rena[FreezeMouth]![UnfreezeMouth]Å@I was worried about you.[Pause=3]
+Tell me, did Julian make any distasteful
+advances on you?[A][ClearBox][TargetLeft][LoadPortrait=JURIAN][FaceCommand=0x61]Hey, and why would I do somethin'
+like that?[Pause=3]
+C'mon, at a time like this[FreezeMouth]...![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=RENA][FaceCommand=0x73]Teehee, I see you two have been
+getting along while I was away.[A][ClearBox][TargetRight][LoadPortrait=RICARD][FaceCommand=0x73]Chief, don't you leave me behind![Pause=3]
+We vowed to stay together, didn't we?[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_10_2
+[TargetLeft][LoadPortrait=WOLLEN][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth]I don't like the noise.[Pause=3]
+But, I've discovered the worth of friendship.[Pause=3]
+Thanks.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_11
+[TargetLeft][LoadPortrait=SHEEDA][FaceCommand=0x73]Oguma, fellow Talisians.[Pause=3]
+I must express my gratitude to you all
+for protecting Marth in my stead[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=MAJI][FaceCommand=0x73]Princess, we'd go through hell and
+high water for you and yer husband.[A][ClearBox][TargetLeft][LoadPortrait=SAJI][FaceCommand=0x73]Well, that and Oguma asked us to.[Pause=3]
+Right, boss[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=OGUMA][FaceCommand=0x73]Yeah.
+Saji, Maji, you did well.[Pause=3]
+Barts, you helped a lot too.[A][ClearBox][TargetLeft][LoadPortrait=BARTS][FaceCommand=0x73]It was nothin'.[Pause=3]
+I just wanted to live my days
+in peace again.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_12
+[TargetLeft][LoadPortrait=KASHIM][FaceCommand=0x73]It's time I return to me hometown.[Pause=3]
+Thankfully, I've saved up a lot of gold.[A][ClearBox][TargetRight][LoadPortrait=DAROSS][FaceCommand=0x73]I should try and earn money too,
+but by doing honest work instead.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_13
+[TargetLeft][LoadPortrait=RINDA][FaceCommand=0x73]Princess Nina!
+Oh, Princess, I'm so glad you're safe[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=NIENA][FaceCommand=0x73]Linda[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I apologize for making you worry.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_14
+[TargetRight][LoadPortrait=ASTRIA][FaceCommand=0x73]Midia, I'm sorry.[Pause=3]
+I was overtaken by anger and forgot what
+was most important.[A][ClearBox][TargetLeft][LoadPortrait=MIDIA][FaceCommand=0x73]You needn't apologize, Astria.[Pause=3]
+Just don't ever leave my side again[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][TargetRight][LoadPortrait=JORJUE][FaceCommand=0x73]Good heavens,
+it seems we're in the way here.[A][ClearBox]Sir Horace, where might you off to?[A][ClearBox][TargetLeft][LoadPortrait=HORUS][FaceCommand=0x73]I must inform the people[Pause=3]
+about the advent of peace.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_14_2
+[TargetRight][LoadPortrait=TOMS][FaceCommand=0x73]Mishelan, I shall not return to
+the military.[A][ClearBox][TargetLeft][LoadPortrait=MISHRAN][FaceCommand=0x73]Yeah, we oughta try and rebuild
+Akaneia as part of its people.[A][ClearBox][TargetRight][LoadPortrait=THORMAS][FaceCommand=0x73]I'm coming along too.
+For the people of Akaneia[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_15
+[TargetRight][LoadPortrait=RADEI][FaceCommand=0x73]It's over at last.[Pause=3]
+Now, we can save her.[Pause=3]
+Aren't you glad, Caesar?[A][ClearBox][TargetLeft][LoadPortrait=SEAZER][FaceCommand=0x73]Of course.[Pause=3]
+And I have you to thank, Raddy.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_16
+[TargetLeft][LoadPortrait=NABARL][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=FINA][FaceCommand=0x73]W-Wait, Navarre[FreezeMouth]![UnfreezeMouth][Pause=3]
+Where're you going? Don't forget me![Pause=3]
+Wait for meeee![A][ClearBox][TargetRight][LoadPortrait=SAMTO][FaceCommand=0x73]Navarre[FreezeMouth]![UnfreezeMouth][Pause=3]
+I want to become your disciple.[Pause=3]
+Wait for meee[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_16_2
+[TargetRight][LoadPortrait=JEIK][FaceCommand=0x73]Well, s'bout time I went back to Anna.
+Beck, what're you going to do?[A][ClearBox][TargetLeft][LoadPortrait=BECK][FaceCommand=0x73]I was reckonin' about a new journey.
+Let us meet by Anna's shop again, someday.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_17
+[TargetRight][LoadPortrait=HYMIR][FaceCommand=0x73]I'm goin' back to the village.[Pause=3]
+Everyone is waitin' for me.[A][ClearBox][TargetLeft][LoadPortrait=ATHENA][FaceCommand=0x73]Ve[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Ve finally repaid favor.[Pause=3]
+This voman vill return to her country[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_17_2
+[TargetLeft][LoadPortrait=FROST][FaceCommand=0x73]I'm heading back home to my family.[Pause=3]
+You two are really close, aren't you?
+You kinda remind me of my family.[A][ClearBox][TargetRight][LoadPortrait=DICE][FaceCommand=0x73]That we are.[Pause=3]
+Oh yeah, this 'ole family talk reminds me:
+I can't stay gamblin' forever.[A][ClearBox]Gotta find a man for mah hardworkin' gal.[Pause=3]
+Right, Maris?[A][ClearBox][TargetLeft][LoadPortrait=MARIS][FaceCommand=0x73]Quit yer nonsense, Pops[FreezeMouth]![UnfreezeMouth][Pause=3]
+I don't want no man[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_18
+[TargetLeft][LoadPortrait=WOLF][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth]So it's over.[A][ClearBox][TargetRight][LoadPortrait=ZAGARO][FaceCommand=0x61]Yeah. Everything is[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=ROSHE][FaceCommand=0x61][EyeCommand=ec]Coyote, did we do the right thing[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=BIRAKU][FaceCommand=0x73]No, Roshe. Never question yourself.[A][ClearBox][TargetLeft][LoadPortrait=WOLF][FaceCommand=0x73][EyeCommand=ed]That's right.
+We must continue to fight.[Pause=3]
+To clear Coyote's name.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_19
+[TargetLeft][LoadPortrait=WENDEL][FaceCommand=0x73]At last, a world without war is born.[Pause=3]
+Marich, Ellerean, you both did well.[A][ClearBox][TargetRight][LoadPortrait=ELREAN][FaceCommand=0x73]Teacher[FreezeMouth]![UnfreezeMouth][Pause=3] The words you spoke to me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I think I understand them now.[Pause=3]
+I must apologize to Marich[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=MARICH][FaceCommand=0x73]Ellerean[FreezeMouth]...[UnfreezeMouth][Pause=3]
+No apology is needed; I'm your friend.[Pause=3]
+Ever since the day we met.[A][ClearBox][TargetRight][LoadPortrait=ETZEL][FaceCommand=0x73]Seeing the bonds of people dissolving
+the conflicts between them[FreezeMouth]...[UnfreezeMouth][Pause=3]
+'Tis a promising new world indeed.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_20
+[TargetRight][LoadPortrait=SIMA][FaceCommand=0x73]The war is over.[Pause=3]
+Samson, will you[FreezeMouth]...[UnfreezeMouth][Pause=3]
+stay with me from now on?[A][ClearBox][TargetLeft][LoadPortrait=SAMSON][FaceCommand=0x73]Didn't I already give you my answer,
+Sheema?[Pause=3]
+I'll go anywhere you wish.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_21
+[TargetRight][LoadPortrait=TIKI][FaceCommand=0x73]Ban-Ban[FreezeMouth]![UnfreezeMouth][Pause=3]
+Let's go to the village together again.[Pause=3]
+It's been so long, I wanna see everyone[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=BANUTU][FaceCommand=0x73]Ooh, indeed.[Pause=3]
+Once they see your smile,
+I'm sure they'll all be happy, too.[A][ClearBox][TargetRight][LoadPortrait=CHEINE][FaceCommand=0x73]Those guys are so carefree.[Pause=3]
+But I suppose I can start slacking off
+as well.[A][ClearBox][TargetLeft][LoadPortrait=NAGA][FaceCommand=0x73]Indeed.[Pause=3]
+I, too, can finally[FreezeMouth]...[UnfreezeMouth][Pause=3]
+return to my eternal sleep[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ED1_END
+[X]
+
+MSGED_ABEL
+[TargetRight][LoadPortrait=ABEL][FaceCommand=0x73]The war is over at last.[Pause=3]
+The days of peace and tranquility
+will soon return[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ARAN
+[TargetRight][LoadPortrait=ARAN][FaceCommand=0x73]My dream has been fulfilled[FreezeMouth]...[UnfreezeMouth]
+Now, I can go without regrets[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ASTRIA
+[TargetRight][LoadPortrait=ASTRIA][FaceCommand=0x73]So I was mistaken[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I must work to make amends.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ATHENA
+[TargetRight][LoadPortrait=ATHENA][FaceCommand=0x73]Ve von.
+Ve must thank every vun.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_BANUTU
+[TargetRight][LoadPortrait=BANUTU][FaceCommand=0x73]With the war past us, I shall watch
+over the world quietly[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_BARTS
+[TargetRight][LoadPortrait=BARTS][FaceCommand=0x73][TargetRight]Yeah! Time to drink the night away
+for a change.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_BECK
+[TargetRight][LoadPortrait=BECK][FaceCommand=0x73]Well, I reckon it's time I start
+a new journey[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_BELF
+[TargetRight][LoadPortrait=BELF][FaceCommand=0x73]General Camus, the Dark Dragon
+has been vanquished.[Pause=3]
+It's all over now.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_BIRAKU
+[TargetRight][LoadPortrait=BIRAKU][FaceCommand=0x61]I still have my doubts.
+But, it was better this way[FreezeMouth]...[UnfreezeMouth][A][ClearBox][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_CECIL
+[SpecialText0x14][TargetRight][LoadPortrait=CECIL][FaceCommand=0x73]Prince Marth[FreezeMouth]...[UnfreezeMouth]
+[SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth]
+Everyone[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_CHEINE
+[TargetRight][LoadPortrait=CHEINE][FaceCommand=0x73]A world of men, huh?
+Well, I guess it ain't so bad[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_DAROSS
+[TargetRight][LoadPortrait=DAROSS][FaceCommand=0x73]Well, whadya know? A hopeless guy
+like me was o' use to Prince Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_DICE
+[TargetRight][LoadPortrait=DICE][FaceCommand=0x73]Once I get my reward from the prince,
+I'mma gamble like no tomorrow.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_DOHGA
+[TargetRight][LoadPortrait=DOHGA][FaceCommand=0x73]I'm sure the people throughout the lands
+will be joyous.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ELREAN
+[TargetRight][LoadPortrait=ELREAN][FaceCommand=0x73]Alone, I couldn't possibly accomplish
+something like this.
+So this is the power of friendship[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ERICE
+[TargetRight][LoadPortrait=ERICE][FaceCommand=0x73]Marich[FreezeMouth]... [UnfreezeMouth]Thank you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_EST
+[TargetRight][LoadPortrait=EST][FaceCommand=0x73]It's finally over.
+Abel, I[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ETZEL
+[TargetRight][LoadPortrait=ETZEL][FaceCommand=0x73]The era of war is over[FreezeMouth]...[UnfreezeMouth]
+The peaceful world she wanted will
+now come to fruition[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_FINA
+[TargetRight][LoadPortrait=FINA][FaceCommand=0x73]Shall I show everyone my victory dance?[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_FREY
+[TargetRight][LoadPortrait=FREY][FaceCommand=0x73]Splendid battle,[Pause=3] sire.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_FROST
+[TargetRight][LoadPortrait=FROST][FaceCommand=0x73]Now my family will finally be able to
+live in peace.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_GOHDON
+[TargetRight][LoadPortrait=GOHDON][FaceCommand=0x73]Prince Marth really did it!
+Now, peace will reign forever[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_HITOKOTO_END
+[TargetRight][RemovePortrait][X]
+
+MSGED_HORUS
+[TargetRight][LoadPortrait=HORUS][FaceCommand=0x73]My people will surely be overjoyed[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_HYMIR
+[TargetRight][LoadPortrait=HYMIR][FaceCommand=0x73][TargetRight]Marth is amazing.
+I worked hard, too.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_JEIK
+[TargetRight][LoadPortrait=JEIK][FaceCommand=0x73][TargetRight]Anna, we did it.[Pause=3]
+I'll tell you all about it, later![A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_JORJUE
+[TargetRight][LoadPortrait=JORJUE][FaceCommand=0x73]Now, Akaneia will return to its
+former glory[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_JURIAN
+[TargetRight][LoadPortrait=JURIAN][FaceCommand=0x73]It's over, at last[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_KAIN
+[TargetRight][LoadPortrait=KAIN][FaceCommand=0x73]A splendid battle, and a splendid victory[FreezeMouth]![UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_KASHIM
+[TargetRight][LoadPortrait=KASHIM][FaceCommand=0x73][TargetRight]Mother, I'm comin' back soon.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_KATARINA
+[SpecialText0x14][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x73]Prince Marth[FreezeMouth]...[UnfreezeMouth]
+[SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth]
+I'm so happy[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_KATUA
+[TargetRight][LoadPortrait=KATUA][FaceCommand=0x73]Prince Marth[FreezeMouth]...[UnfreezeMouth] I'm glad[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_LEIDEN
+[TargetRight][LoadPortrait=LEIDEN][FaceCommand=0x73]If only General Camus were here
+to see us[FreezeMouth]...[UnfreezeMouth]
+That's my only regret.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_LIAN
+[TargetRight][LoadPortrait=LIAN][FaceCommand=0x73]W-we really did it[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_MAJI
+[TargetRight][LoadPortrait=MAJI][FaceCommand=0x73][TargetRight]Time to celebrate our victory.
+I'mma go wild tonight[FreezeMouth]![UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_MARIA
+[TargetRight][LoadPortrait=MARIA][FaceCommand=0x73]Misheil[FreezeMouth]...[UnfreezeMouth]
+Minerva[FreezeMouth]...[UnfreezeMouth]
+Can we be a happy family again[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_MARICH
+[TargetRight][LoadPortrait=MARICH][FaceCommand=0x73]As long as Prince Marth and the others
+are around[FreezeMouth]...[UnfreezeMouth]
+No age of darkness threatens us.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_MARICIA
+[TargetRight][LoadPortrait=MARICIA][FaceCommand=0x73]Granny[FreezeMouth]...[UnfreezeMouth]
+We did it. We did it![A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_MARIS
+[TargetRight][LoadPortrait=MARIS][FaceCommand=0x73]Its over, it's really over.[Pause=3]
+Y'know, I'm lookin' forward to my reward.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_MARS
+[TargetRight][LoadPortrait=MARS][FaceCommand=0x73][TargetRight]The war is, at long last, over.[Pause=3]
+Thank you, my friends.[Pause=3]
+My words cannot express my thanks[FreezeMouth]...[UnfreezeMouth][A][ClearBox][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_MATIS
+[TargetRight][LoadPortrait=MATIS][FaceCommand=0x61][TargetRight]What? It's over?
+I'm not[FreezeMouth]...[UnfreezeMouth] dead?[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_MIDIA
+[TargetRight][LoadPortrait=MIDIA][FaceCommand=0x73]My nation has collapsed[FreezeMouth]...[UnfreezeMouth]
+But even so, I shall continue to live
+as a knight of Akaneia.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_MINERBA
+[TargetRight][LoadPortrait=MINERBA][FaceCommand=0x73]Splendid work, Prince Marth.
+You've managed the feat that nobody else
+could have done[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_MISHEIL
+[TargetRight][LoadPortrait=MISHEIL][FaceCommand=0x73]It was obvious we'd prevail.[Pause=3]
+You had me on your side, after all.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_MISHRAN
+[TargetRight][LoadPortrait=MISHRAN][FaceCommand=0x73]Now, the people of Akaneia need
+suffer no longer.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_NABARL
+[TargetRight][LoadPortrait=NABARL][FaceCommand=0x73]Prince Marth[FreezeMouth]... [UnfreezeMouth]well done.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_NAGA
+[TargetRight][LoadPortrait=NAGA][FaceCommand=0x73][TargetRight]This is[FreezeMouth]... [UnfreezeMouth]good[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_NIENA
+[TargetRight][LoadPortrait=NIENA][FaceCommand=0x73]Camus[FreezeMouth]... [UnfreezeMouth]you're[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_NORN
+[TargetRight][LoadPortrait=NORN][FaceCommand=0x73]Was I of use, I wonder?[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_OGUMA
+[TargetRight][LoadPortrait=OGUMA][FaceCommand=0x73]The war is over. I must inform
+King Talis of the good news[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_PAORA
+[TargetRight][LoadPortrait=PAORA][FaceCommand=0x73]It was a long war.
+But now, finally[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_PLAYER_PCF1
+[TargetRight][LoadPortrait=PLAYER][FaceCommand=0x73]Sire, you did it[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_PLAYER_PCM1
+[TargetRight][LoadPortrait=PLAYER][FaceCommand=0x73]Sire, you did it[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_RADEI
+[TargetRight][LoadPortrait=RADEI][FaceCommand=0x73]We can save her now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_RENA
+[TargetRight][LoadPortrait=RENA][FaceCommand=0x73]Julian[FreezeMouth]...[UnfreezeMouth]
+It was only because you were there
+that I could[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_RICARD
+[TargetRight][LoadPortrait=RICARD][FaceCommand=0x73]Heh heh, I wonder how much treasure
+I can get my hands on?[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_RIFF
+[TargetRight][LoadPortrait=RIFF][FaceCommand=0x73]The most important thing is that
+peace has returned.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_RINDA
+[TargetRight][LoadPortrait=RINDA][FaceCommand=0x73]Darkness may return time and time again[FreezeMouth]...[UnfreezeMouth]
+But the light will forever shine on.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ROBERTO
+[TargetRight][LoadPortrait=ROBERTO][FaceCommand=0x73]The people will be oppressed no longer.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_RODY
+[TargetRight][LoadPortrait=RODY][FaceCommand=0x73]The war is over.
+I can return to my motherland at last.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ROJAR
+[TargetRight][LoadPortrait=ROJAR][FaceCommand=0x73]New world, new encounters[FreezeMouth]...[UnfreezeMouth]
+Sounds good to me.[A][ClearBox][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ROOK
+[TargetRight][LoadPortrait=ROOK][FaceCommand=0x73]I did it[FreezeMouth]![UnfreezeMouth]
+And thus marks the end of the
+Legend of the Knight Luke[FreezeMouth]![UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ROSHE
+[TargetRight][LoadPortrait=ROSHE][FaceCommand=0x61]Coyote[FreezeMouth]...[UnfreezeMouth]
+Did you see us[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_SAJI
+[TargetRight][LoadPortrait=SAJI][FaceCommand=0x73]Jus' tonight, I'm gonna drink until
+I fall and then some[FreezeMouth]![UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_SAMSON
+[TargetRight][LoadPortrait=SAMSON][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth]'Twas a good battle.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_SAMTO
+[TargetRight][LoadPortrait=SAMTO][FaceCommand=0x73]Oh yeah, now I'll become famous, too.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_SEAZER
+[TargetRight][LoadPortrait=SEAZER][FaceCommand=0x73]Please hang in there.
+I'll be back soon, I promise[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_SHEEDA
+[TargetRight][LoadPortrait=SHEEDA][FaceCommand=0x73][TargetRight]I'm glad[FreezeMouth]...[UnfreezeMouth] Marth is safe[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_SIMA
+[TargetRight][LoadPortrait=SIMA][FaceCommand=0x73]My country's fate will finally change[FreezeMouth]...[UnfreezeMouth]
+You have my thanks, Prince Marth.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_SIRIUS
+[TargetRight][LoadPortrait=SIRIUS][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_THORMAS
+[TargetRight][LoadPortrait=THORMAS][FaceCommand=0x73]Akaneia and Gra[FreezeMouth]...[UnfreezeMouth]
+will surely improve now[FreezeMouth]...[UnfreezeMouth]
+That's what I want to believe.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_TIKI
+[TargetRight][LoadPortrait=TIKI][FaceCommand=0x73]Yay[FreezeMouth]![UnfreezeMouth]
+I'm so happy[FreezeMouth]![UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_TOMS
+[TargetRight][LoadPortrait=TOMS][FaceCommand=0x73]This war may be over.
+But the battle for our motherland's
+true peace begins now.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_WENDEL
+[TargetRight][LoadPortrait=WENDEL][FaceCommand=0x73]Lord Gato[FreezeMouth]...[UnfreezeMouth]
+People have once again overcome their fate[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_WOLEN
+[TargetRight][LoadPortrait=WOLLEN][FaceCommand=0x73]And now[FreezeMouth]... [UnfreezeMouth]back to my old life.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_WOLF
+[TargetRight][LoadPortrait=WOLF][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth][A][ClearBox][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_YUBERO
+[TargetRight][LoadPortrait=YUBELLO][FaceCommand=0x73]Lawrence[FreezeMouth]...[UnfreezeMouth]
+I'll keep on working hard.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_YUMINA
+[TargetRight][LoadPortrait=YUMINA][FaceCommand=0x73]Father, mother[FreezeMouth]...[UnfreezeMouth]
+It's finally over[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSGED_ZAGARO
+[TargetRight][LoadPortrait=ZAGARO][FaceCommand=0x61]Coyote[FreezeMouth]...[UnfreezeMouth][A][ClearBox][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+

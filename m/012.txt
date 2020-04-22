@@ -1,0 +1,123 @@
+MS012_OP1
+[Unknown0x12]1[TargetRight][LoadPortrait=MARS][LoadBackground=BBG35][TargetLeft][LoadPortrait=CHEINE][TargetRight]This place[FreezeMouth]...[UnfreezeMouth] It's incredible[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I feel as though I'm burning up just by
+standing here.[A][ClearBox][TargetLeft]This is Flame Barrel[FreezeMouth]...[UnfreezeMouth]
+The fire dragons' graveyard.[Pause=3][A][ClearBox]It's where the fire dragons who've
+degenerated into savage beasts come to
+wait for their death.[A][ClearBox][TargetRight]Degenerated, you say[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+What do you mean by that?[A][ClearBox][TargetLeft]I'm not sure if you're aware, but the dragon
+tribe is dyin'.[A][ClearBox]Those who don't confine their true, dragon
+form in a stone eventually lose all reason
+and become monsters.[A][ClearBox][TargetRight]So that's why they become Mamkutes?[A][ClearBox]Chainy, if you know something about the
+dragon tribe, please tell me.[A][ClearBox][TargetLeft]If you really wanna know[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Tens of thousands of years ago, the
+dragon tribe settled down on this continent,
+and created a civilization.[A][ClearBox]They possessed intellect and abilities far
+exceedin' those of humans.[A][ClearBox]But suddenly, outta nowhere, their day of
+destruction came.[A][ClearBox]At first, they couldn't bear children.
+Then they began to lose their minds,
+goin' berserk one after the next.[A][ClearBox]The elders warned that the end of
+dragons as a species was approachin'.[Pause=3]
+There was no longer any way to prevent it.[A][ClearBox]However, there was one way they could
+survive: to discard their identities as
+dragons and live on as humans.[A][ClearBox]The dragons fell into a panic.[A][ClearBox]Those who believed the elders sealed their
+forms within stones and became humans.[A][ClearBox]But those who couldn't throw away their
+pride as a dragon; those who adamantly
+refused to become human[FreezeMouth]...[UnfreezeMouth][A][ClearBox]They eventually lost their minds and became
+naught but beasts[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Those fire dragons before us[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Yeah, they're a livin' example.[Pause=3]
+And it's not just them.
+There are many others.[A][ClearBox]But they've all gone feral now.[Pause=3]
+There's no way for them to go back[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Worse still, they've been manipulated and
+degraded like cattle by the fire clans who
+rule over this valley.[A][ClearBox][FaceCommand=0x73]Well, princey.
+Whadya say we get out of here?[A][ClearBox]The clansmen around here ain't friendly;
+if we hang around, we'll end up as bait for
+their dragon pets.[A][ClearBox][X]
+
+MS012_TK1
+[Unknown0x12]1[TargetRight][LoadPortrait=MARS][LoadBackground=][TargetLeft][LoadPortrait=DAROSS][TargetRight]Daros[FreezeMouth]![UnfreezeMouth][Pause=3] What brings you here[FreezeMouth]?![UnfreezeMouth][Pause=3]
+I thought you had washed your hands of
+your pirating days[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Prince Marth[FreezeMouth]...[UnfreezeMouth] Forgive me.[A][ClearBox][EyeCommand=ec]I was lookin' t'start anew, but there be no
+place t'go for an outcast like me[FreezeMouth]...[UnfreezeMouth][A][ClearBox]To resume and continue these crimes;
+'tis dishonorable indeed.[A][ClearBox][TargetRight]I see[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Daros, you cannot stay here.[Pause=3]
+Come with us.[A][ClearBox][TargetLeft][EyeCommand=ed]Prince Marth[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Ye would still accept a fool like me[FreezeMouth]...[UnfreezeMouth][FreezeMouth]?[UnfreezeMouth][A][ClearBox]Prince, I[FreezeMouth]...[UnfreezeMouth][Pause=3]
+This time, I be changin' for sure.[Pause=3]
+Me life is yours[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS012_BT_DAROSS
+[LoadBackground=][TargetLeft][LoadPortrait=DAROSS][TargetLeft]Please forgive me.
+I never wanted this[FreezeMouth].[UnfreezeMouth][A][ClearBox][X]
+
+MS012_DIE_DAROSS
+[LoadBackground=][TargetLeft][LoadPortrait=DAROSS][TargetLeft]Of course[FreezeMouth]...[UnfreezeMouth][Pause=3]
+'Course I'd die[FreezeMouth]...[UnfreezeMouth] for what I've done[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS012_ED1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG64][TargetLeft][LoadPortrait=CHEINE][TargetLeft]Phew! And that be the end of the fire
+dragons' valley.[Pause=3] How you doin', princey?[A][ClearBox][TargetRight]I'm fine[FreezeMouth]...[UnfreezeMouth] I think.[A][ClearBox]Chainy, I believe you said that there were
+other feral dragon tribes.[A][ClearBox][TargetLeft]Yeah.[Pause=3] In addition to this valley, there's the
+Dragon's Dale, the Ice Dragons' Temple and
+the Dragon's Altar[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]The Dragon's Altar[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]It's a demon dragon graveyard in the
+mountains of Macedonia.[Pause=3] There, the earth
+dragons sleep.[A][ClearBox]Earth Dragons...!? There are other
+Earth Dragons besides Mediuth!?[A][ClearBox][TargetLeft]Of course. Amongst the dragon tribe
+they are closest in strength to the Divine
+Dragons, and possess tremendous power.[A][ClearBox]They didn't agree with the elders and
+left to form their own group.[A][ClearBox]They currently reside at the Durhua
+region, but... their fate didn't change.[A][ClearBox]Eventually the Earth Dragons all lost
+their minds and, together with the Demon
+Dragons and Flying Dragons[A][ClearBox]who had also degenerated, started to
+attack humans. 'Course, the humans
+barely stood a chance.[Pause=3][A][ClearBox]Most were annihilated, and the rest pushed
+into the desolate corners of the continent.[A][ClearBox]And then[FreezeMouth]...[UnfreezeMouth] the divine dragon Narga, strongest
+of them all, waged a war for humanity.[A][ClearBox]It was a fierce battle, but Narga emerged
+victorious in the end, and sealed the earth
+dragons below Durhua, in a deep sleep.[A][ClearBox]And so that the power of the seal would not
+wither,[A][ClearBox]she created the "shield of the five orbs"
+and placed it in the Raman Temple.[A][ClearBox]But that is already ancient history...
+In fact it occurred over 1000 years ago.[A][ClearBox][TargetRight]I see[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I understand now.[A][ClearBox]In other words, our guardian deity Narga
+depicted in legend was the divine dragon
+that saved humanity.[A][ClearBox]But then, what about the divine sword
+Falchion?[A][ClearBox][TargetLeft]Narga took pity on you humans, with no way of
+protecting yourselves, so she created it
+from one of her fangs.[A][ClearBox]Then, together with the shield, she sealed
+it in Raman, and a powerful spell was cast
+on the temple, so that only Divine Dragons[A][ClearBox]could enter it. Narga had the remainin' dragon
+houses watch over humanity.[A][ClearBox]She put the newly born Chiki to sleep and thus
+ended her 5,000-year life.[A][ClearBox]'Cause of all this, Gato's tryin' his best to
+carry out Narga's order.[A][ClearBox][TargetRight]Wait, Chainy[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Are you telling me[FreezeMouth]...!?[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Yes: Gato is a divine dragon.[Pause=3]
+And guess what? So am I[FreezeMouth].[UnfreezeMouth][A][ClearBox][TargetRight]Wa-wait, Chainy.
+I still don't understand.
+What exactly did you mean?[A][ClearBox][TargetLeft]Phew, my throat is really dry.
+I can't stand the heat anymore.
+Marth, let's hurry along.[A][ClearBox][Fade=40][X]
+
+MS012_ED2
+[X]
+
+MS012_ED2_A
+[X]
+
+MS012_ED2_B
+[X]
+
+MS012_ED2_C
+[X]
+
+MS012_ED_BS
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG64][TargetLeft][LoadPortrait=BELF][TargetLeft]Please pardon my sudden rudeness,[Pause=3]
+but might you be Prince Marth?[A][ClearBox][TargetRight]Who are you[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]I am Belf, and these men here are Robert
+and Leiden.[Pause=3] We rushed here because we wish
+to join your battle.[A][ClearBox][TargetLeft][LoadPortrait=ROBERTO]We were once knights of the Sable Order
+of Grunia, but we have now separated from
+our homeland.[A][ClearBox][TargetLeft][LoadPortrait=LEIDEN]We threw away our ranks as knights, and
+now live to protect those who are powerless.[A][ClearBox][TargetRight]The Sable Order of Grunia[FreezeMouth]...[UnfreezeMouth][A][ClearBox]But in the previous war, we fought against
+the Sable Order as enemies.[A][ClearBox]Despite that, you're willing to join our army?[A][ClearBox][TargetLeft][LoadPortrait=BELF]Our general wished for us to protect the
+weak, regardless of nationality.[A][ClearBox]He is gone now,[Pause=3] so we would like to fulfill his
+final wish[FreezeMouth].[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]............[UnfreezeMouth][A][ClearBox][FaceCommand=0x73]I see.[Pause=3]
+You seem to speak truly.[Pause=3]
+Very well. I'd like you to fight alongside us.[A][ClearBox][Unknown0x4=F][X]
+

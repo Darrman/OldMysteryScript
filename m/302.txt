@@ -1,0 +1,242 @@
+MS302_OP1
+[Unknown0x12]3[LoadBackground=BS_bg]Orleans: a nation situated in the
+north-eastern plains of the continent.[A][ClearBox]A verdant kingdom, sharing the deepest
+bonds[Pause=3] with the Holy Kingdom of Akaneia
+since its foundation.[A][ClearBox]However, as a result of the aggressive
+attack of the Macedonian dragon knights
+led by Princess Minerva,[Pause=3][A][ClearBox]Orleans had already ceded most of its
+territory to the Durhuan empire.[A][ClearBox]As Princess Minerva[Pause=3] returned to her post in
+Orleans with her subordinates,[Pause=3] a certain
+village caught her eye[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Unknown0x12]3[Fade=80][X]
+
+MS302_OP2
+[TargetLeft][LoadPortrait=BANDIT][FaceCommand=0x73][TargetRight][LoadPortrait=WOMAN1][LoadBackground=BBG26]No[FreezeMouth]![UnfreezeMouth] Get away from me[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Heh heh heh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Jus' come o'er 'ere already.[A][ClearBox][TargetRight][LoadPortrait=MAN2]Please, I beg o' you, leave her be[FreezeMouth]![UnfreezeMouth][Pause=3]
+She's me girlfriend![A][ClearBox][TargetLeft][FaceCommand=0x61]Shut yer trap[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Nngaaah[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][X]
+
+MS302_OP3
+[TargetRight][LoadPortrait=MINERBA][TargetLeft][LoadPortrait=MAN1][LoadBackground=BBG26]Aiyee[FreezeMouth]![UnfreezeMouth][Pause=3]
+The Macedonian army is here as well?[A][ClearBox][TargetRight]Wait, what's going on here?[Pause=3]
+What are those men doing?[A][ClearBox][TargetLeft]Ehh?[Pause=3]
+You ain't on their side?[A][ClearBox]In that case, I beg o' you[FreezeMouth]![UnfreezeMouth][Pause=3]
+Please drive those foul demons away.[A][ClearBox]They kidnap women,[Pause=3] loot everythin',[Pause=3] and act
+like this town's theirs[FreezeMouth]...[UnfreezeMouth][A][ClearBox]We just can't keep livin' like this.[Pause=3]
+So, please, you have to help us[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]To think the Macedonian army[Pause=3] houses such
+shameless scoundrels[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I demand an explanation.[A][ClearBox][TargetLeft][LoadPortrait=PAORA]I've heard rumors[Pause=3] that deserters from our
+army are in cahoots with the local bandits[FreezeMouth]...[UnfreezeMouth][A][ClearBox]And they've been committing atrocities using
+the Macedonian army's name[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=KATUA]I wonder if those men are the ones you're
+describing?[A][ClearBox][TargetRight]Either way,[Pause=3] we cannot just let them be.[A][ClearBox][TargetLeft][LoadPortrait=EST]Oh, Commander[FreezeMouth]![UnfreezeMouth][Pause=3]
+Please look over there[FreezeMouth]![UnfreezeMouth][A][ClearBox][Unknown0x4=F][X]
+
+MS302_OP4
+[TargetRight][LoadPortrait=HARDIN2][TargetLeft][LoadPortrait=BANDIT][LoadBackground=BBG26][TargetRight][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetLeft]W-what the hell is wrong with you[FreezeMouth]!?[UnfreezeMouth][Pause=3]
+Stay outta our way if you value yer life[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Your vile deeds[FreezeMouth]...[UnfreezeMouth][Pause=3] cannot be overlooked.[A][ClearBox][TargetLeft]T-these guys[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Damn you[FreezeMouth]... [UnfreezeMouth]We'll remember this[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][Pause=5][TargetLeft][LoadPortrait=MINERBA]Sir, what is your name?[A][ClearBox][Unknown0x4=F32][TargetRight]I have no name worthy of note.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS302_OP4_01
+[TargetLeft][FaceCommand=0x73]Bah[FreezeMouth]...[UnfreezeMouth] I see.
+Well, fair enough.[A][ClearBox]The actions of those men offended me, too,[Pause=3]
+but I see you were faster to the hunt.[A][ClearBox][TargetRight]By any chance, are you[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Dame Minerva of Macedonia?[A][ClearBox][TargetLeft]Indeed I am.
+But how did you know?[A][ClearBox][TargetRight][FaceCommand=0x73]I heard the Macedonian army had a
+beautiful woman, clad in scarlet armor.[A][ClearBox]Rumors say she's a gifted soldier,
+nicknamed the Crimson Dragoon.[A][ClearBox][TargetLeft]Heh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Those rumors are grossly exaggerated.[A][ClearBox][TargetRight][FaceCommand=0x61]Either way,[Pause=3] I presume those men weren't
+official Macedonian soldiers?[Pause=3]
+Are they deserters?[A][ClearBox][TargetLeft][FaceCommand=0x61]As much as it shames me,[Pause=3] that seems to be
+the case.[A][ClearBox][TargetRight]I see.[Pause=3]
+Then, I believe I have a firm grasp of the
+situation.[A][ClearBox][TargetLeft]Where do you[Pause=3] intend to go, now?[A][ClearBox][TargetRight]I am heading towards the fortress near here.[A][ClearBox]According to the villagers, the scoundrels
+we saw before are using it as their base
+and ravaging the nearby villages.[A][ClearBox]Apparently the kidnapped village maidens[Pause=3]
+were taken there as well.[Pause=3]
+There isn't a moment to waste.[A][ClearBox][TargetLeft]What in heavens[FreezeMouth]!?[UnfreezeMouth][Pause=3]
+There's a large group of them?[A][ClearBox]I don't believe it[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth]
+That can't be[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]So, if you'll excuse me, I must hurry ahead[FreezeMouth]![UnfreezeMouth][Pause=3]
+Wolf, Roshe, let's go.[A][ClearBox][TargetRight][RemovePortrait][TargetLeft]Ah, wait[FreezeMouth]![UnfreezeMouth][Pause=3]
+[FreezeMouth]...[UnfreezeMouth]They're gone.[A][ClearBox][TargetRight][LoadPortrait=PAORA]Commander,[Pause=3] what are our orders?[A][ClearBox][TargetLeft]Paola[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll follow them, together with Katua and Est.[A][ClearBox]You are to go ahead to the castle and bring
+reinforcements.[A][ClearBox][TargetRight]Yes, understood.[Pause=3]
+The castle isn't[Pause=3] far from here.[A][ClearBox]I shall return as soon as I can,[Pause=3] so please
+don't push yourselves.[A][ClearBox][FaceCommand=0x73]Katua, Est.[Pause=3]
+Take care of the commander.[A][ClearBox][TargetLeft][LoadPortrait=KATUA][FaceCommand=0x73]Yes, sister.[A][ClearBox][TargetLeft][LoadPortrait=EST][FaceCommand=0x73]Leave it to us[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=MINERBA]Katua, Est,[Pause=3] let's follow them at once.[A][ClearBox][TargetLeft][LoadPortrait=KATUA]Understood[FreezeMouth]![UnfreezeMouth][A][ClearBox][Unknown0x4=F][Fade=40][X]
+
+MS302_OP5
+[Fade=40][TargetRight][LoadPortrait=FROST][TargetLeft][LoadPortrait=RUBEN][LoadBackground=BBG40]Father Frost.[Pause=3]
+Have you made your decision?[A][ClearBox][TargetRight]No matter how many times you ask, my
+answer is the same.[Pause=3] I will not betray
+Macedonia[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]What?[Pause=3]
+You still spouting that rubbish?[A][ClearBox]That's fine by me.[Pause=3]
+If you can't obey my orders,[Pause=3] then I'll have
+your head on a plate.[A][ClearBox]And not only your head, but the heads of
+your family and relatives as well.[Pause=3]
+That's a lot of plates I'll be needing.[A][ClearBox][TargetRight]D-damn[FreezeMouth]...[UnfreezeMouth]
+Just what[FreezeMouth]...[UnfreezeMouth][Pause=3] am I supposed to do[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][Unknown0x4=F][Fade=40][X]
+
+MS302_TK1
+[TargetLeft][LoadPortrait=HARDIN2][TargetRight][LoadPortrait=MINERBA][LoadBackground=][TargetLeft]Dame Minerva, are you unhurt?[A][ClearBox][TargetRight]Yes, you needn't worry about my well-being.[Pause=3]
+What about you, sir?[A][ClearBox][TargetLeft]No issues here, either.[Pause=3]
+However, the enemies are many,[Pause=3] so we
+mustn't lower our guards.[A][ClearBox][TargetRight]To think so many shameless scoundrels[Pause=3]
+would claim to be part of the noble
+Macedonian army[FreezeMouth]...[UnfreezeMouth][A][ClearBox]The misdeeds of Macedonia are my
+responsibility.[Pause=3] Do not interfere.[A][ClearBox][TargetLeft]With all due respect,[Pause=3] Dame Minerva, a battle
+cannot be won alone.[A][ClearBox]As we share the same contempt towards the
+enemy,[Pause=3] it would benefit both of us to join
+forces against them.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Very well.[Pause=3]
+However, don't overwork yourself.[A][ClearBox][TargetLeft][FaceCommand=0x73]Your worry is superfluous.
+I am at home, here.[Pause=3]
+Well, let us go[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS302_TK2
+[TargetLeft][LoadPortrait=KATUA][TargetRight][LoadPortrait=MINERBA][LoadBackground=]Katua[FreezeMouth]![UnfreezeMouth][Pause=3]
+The enemy general is mine.[Pause=3]
+I shall leave the other soldiers to you.[A][ClearBox]However, don't underestimate them.[Pause=3]
+Be sure to finish each of them in one blow.[A][ClearBox][TargetLeft]Understood, Commander.[A][ClearBox][X]
+
+MS302_TK3
+[TargetLeft][LoadPortrait=EST][TargetRight][LoadPortrait=MINERBA][LoadBackground=]Est.[Pause=3]
+This battlefield is wide,[Pause=3] but don't go too far
+ahead by yourself.[A][ClearBox]And keep an eye out for enemies as you
+proceed.[A][ClearBox][TargetLeft][FaceCommand=0x73]Yes ma'am[FreezeMouth]![UnfreezeMouth][Pause=3]
+I'll do my best[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS302_TK4
+[TargetLeft][LoadPortrait=FROST][LoadBackground=]Oh,[Pause=3] this dragon knight is[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=MINERBA]Father Frost,[Pause=3] so it was you[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Why are you aiding those vile excuses for
+people?[A][ClearBox][TargetLeft]Princess Minerva[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Forgive me[FreezeMouth]...[UnfreezeMouth][A][ClearBox]The truth is, Ruben threatened me.[Pause=3]
+If I didn't do what he wanted, he said he
+would do away with my family and I[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]I see[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[FaceCommand=0x73]Father Frost,[Pause=3] you may rest at ease.[A][ClearBox]We shall destroy the bandits.[Pause=3]
+We won't let them lay a single finger on you
+or your family.[A][ClearBox]I swear upon my honor.[A][ClearBox][TargetLeft][FaceCommand=0x73]Oh, Princess Minerva[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm glad I could count on you.[A][ClearBox]Please, protect my family[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS302_VIL1
+[TargetCenter][LoadPortrait=WOMAN2][LoadBackground=BBG26]Oh gosh[FreezeMouth]... [UnfreezeMouth]You're the people from before[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I beg of you.[Pause=3] Please, please save our village.[A][ClearBox]We can't do anything to help[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But at least, take this vulnerary.[Pause=3]
+Please take care[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS302_VIL2
+[TargetCenter][LoadPortrait=UNCLE][LoadBackground=BBG26]Oh-ho, it's you again[FreezeMouth]![UnfreezeMouth]
+The ones who are goin' to exterminate
+those fiendish ruffians[FreezeMouth]![UnfreezeMouth][A][ClearBox]Please have this strength potion.[Pause=3]
+I beg o' you, avenge us![A][ClearBox][X]
+
+MS302_EV1
+[TargetRight][LoadPortrait=MINERBA][LoadBackground=]Katua, Est.[Pause=3] There are archers nearby.[Pause=3]
+Beware their attacks or it could cost you
+dearly.[A][ClearBox][TargetLeft][LoadPortrait=HARDIN2][FaceCommand=0x73]Dame Minerva,[Pause=3] leave the archers to us.
+We shall make mincemeat of them.[Pause=3]
+You fly on ahead.[A][ClearBox][TargetRight][FaceCommand=0x73]Very well.
+I'll leave that in your hands.[Pause=3]
+Then, let's go.[A][ClearBox][X]
+
+MS302_EV2
+[TargetLeft][LoadPortrait=RUBEN][LoadBackground=][TargetRight][LoadPortrait=SOLDIER_RED]Lord Ruben, it's an enemy attack[FreezeMouth]![UnfreezeMouth][Pause=3]
+An unknown force led by a dragon knight is
+headin' this way[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Did you say a dragon knight?[Pause=3]
+Who would want to come to a backwater
+place like this[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]But they don't seem that dangerous.[Pause=3]
+Don't worry about them.[A][ClearBox]Should they approach this fortress,[Pause=3]
+I'll make short work of them.[A][ClearBox][X]
+
+MS302_EV3
+[TargetLeft][LoadPortrait=RUBEN][TargetRight][LoadPortrait=SOLDIER_RED][LoadBackground=][TargetLeft]Hey, you there.[Pause=3]
+How does the battle fare?[A][ClearBox][TargetRight]Sir,[Pause=3] the enemy is fast approachin' this
+fortress.[A][ClearBox][TargetLeft]Damn[FreezeMouth]...[UnfreezeMouth]
+What a bunch of annoying rats.[A][ClearBox]Alright, send the reinforcements.[Pause=3]
+Call back everyone who left for the other
+villages[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Yes sir[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS302_BT_BOSS
+[TargetLeft][LoadPortrait=RUBEN][LoadBackground=]Come at me[FreezeMouth]![UnfreezeMouth][Pause=3]
+I'm not the one who's about to die[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS302_BT_BOSS_2
+[TargetLeft][LoadPortrait=RUBEN][LoadBackground=]Munchin' Manaketes[FreezeMouth]![UnfreezeMouth][Pause=3]
+Am I surprised to face you directly in the
+battlefield, Princess Minerva.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=MINERBA]You're[FreezeMouth]... [UnfreezeMouth]Ruben.[A][ClearBox]I didn't think I'd find you here,[Pause=3] not after you
+were banished from the army for your acts
+of brutality against civilians.[A][ClearBox][FreezeMouth]...[UnfreezeMouth]So you lead the deserters.[Pause=3]
+Surrender.[A][ClearBox]If you don't,[Pause=3] I shall strike you down as an
+enemy of Macedonia[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][TargetLeft][LoadPortrait=RUBEN]Heh[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][Pause=3]
+I don't take orders from you anymore.[A][ClearBox]For some reason, the folks at Macedonia
+worship you royals as if you were gods.[A][ClearBox]Yet, the crown prince fancies himself a
+patricide,[Pause=3] the older sister is a charmless
+buffoon[FreezeMouth]...[UnfreezeMouth][A][ClearBox]and the younger sister is a brat whose only
+talent is getting kidnapped.[A][ClearBox]Who on earth could put up with the stupid
+military, when even the country's like that
+too?[A][ClearBox]Wouldn't you agree,[Pause=3] Minerva the Buffoon[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=MINERBA]Dastard[FreezeMouth]...[UnfreezeMouth] How dare you belittle us[FreezeMouth]![UnfreezeMouth][Pause=3]
+I believe you've just shown your readiness
+to accept your fate.[A][ClearBox][TargetRight][RemovePortrait][TargetLeft][LoadPortrait=RUBEN]Heh[FreezeMouth]![UnfreezeMouth][Pause=3]
+Not if I kill you first[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS302_BT_FROST_E
+[TargetLeft][LoadPortrait=FROST][LoadBackground=]I don't want to fight[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But if I don't, my family will be[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS302_DIE_BOSS
+[TargetRight][LoadPortrait=RUBEN][LoadBackground=]Gyaaaah[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS302_DIE_EST
+[TargetRight][LoadPortrait=EST][LoadBackground=]Commander[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Sisters[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm[FreezeMouth]... [UnfreezeMouth]sorry[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS302_DIE_FROST
+[TargetRight][LoadPortrait=FROST][LoadBackground=]Princess Minerva[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Please[FreezeMouth]...[UnfreezeMouth]
+I leave my family in your hands[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS302_DIE_FROST_E
+[TargetLeft][LoadPortrait=FROST][LoadBackground=]I don't care if I die[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But[FreezeMouth]... [UnfreezeMouth]my family[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS302_DIE_HARDIN
+[TargetRight][LoadPortrait=HARDIN2][LoadBackground=]Guh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I've been[FreezeMouth]... [UnfreezeMouth]defeated[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS302_DIE_KATUA
+[TargetRight][LoadPortrait=KATUA][LoadBackground=]Commander[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Forgive me for being useless[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS302_DIE_MINERBA
+[TargetRight][LoadPortrait=MINERBA][LoadBackground=]Guh[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][Pause=3]
+How could I[FreezeMouth]...[UnfreezeMouth][Pause=3]
+How[FreezeMouth]... [UnfreezeMouth]pathetic of me[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS302_DIE_ROSHE
+[TargetRight][LoadPortrait=ROSHE][LoadBackground=]Coyote[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Everyone[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS302_DIE_WOLF
+[TargetRight][LoadPortrait=WOLF][LoadBackground=]Coyote[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Forgive me[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS302_ED1
+[TargetRight][LoadPortrait=MINERBA][LoadBackground=][TargetLeft][LoadPortrait=PAORA]Commander[FreezeMouth]![UnfreezeMouth][Pause=3]
+Are you alright?[A][ClearBox][TargetRight][FaceCommand=0x73]Paola.[Pause=3]
+Don't worry about us, we're fine.[Pause=3]
+What of the reinforcements?[A][ClearBox][TargetLeft][FaceCommand=0x73]They are almost here already.[A][ClearBox][TargetRight]Good job.[A][ClearBox][TargetLeft][LoadPortrait=SOLDIER_BLUE]Princess Minerva, please leave the rest to
+us[FreezeMouth]![UnfreezeMouth][Pause=3][A][ClearBox]We shall deliver a heavy punishment[Pause=3] to the
+criminals who dared to sully Macedonia's good
+name![A][ClearBox]But, Princess, there's something important[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Isn't that knight Hardin of Orleans?[A][ClearBox][TargetRight][FaceCommand=0x61]What do you mean?[A][ClearBox][TargetLeft]Why, he's the spitting image of the[Pause=3] infamous
+Coyote, leader of the rebel army.[A][ClearBox]Should we capture and interrogate him[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Nonsense.[Pause=3]
+There is no way that man is Hardin.[A][ClearBox][TargetLeft]But as I said, he's the spitting[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]I said he isn't.[Pause=3]
+Now leave us[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]P-pardon me, ma'am[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][Unknown0x4=F][Fade=40][X]
+
+MS302_ED2
+[Fade=40][TargetRight][LoadPortrait=MINERBA][TargetLeft][LoadPortrait=HARDIN2][FaceCommand=0x73][LoadBackground=BBG16]Dame Minerva, so the rumors were true.[Pause=3]
+The Crimson Dragoon is truly a wise,
+courageous and able commander.[A][ClearBox]Hahaha[FreezeMouth]![UnfreezeMouth] I look forward to seeing you again
+in the battlefield[FreezeMouth]![UnfreezeMouth][Pause=3] Now, if you'll excuse me.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][FaceCommand=0x73]Coyote[FreezeMouth]... [UnfreezeMouth]Hardin.[A][ClearBox][TargetLeft][LoadPortrait=PAORA]Commander,[Pause=3] did you say something?[A][ClearBox][TargetRight]No, nothing.[Pause=3]
+Let's go.[A][ClearBox][TargetLeft][FaceCommand=0x73]Understood.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS302_ED3
+[Fade=40][Unknown0x12]3[LoadBackground=BS_bg]Princess Minerva of Macedonia.[Pause=3][FreezeMouth][UnfreezeMouth][A][ClearBox]Filled with awe and respect, the people[Pause=3]
+called her the "Crimson Dragoon."[A][ClearBox][Unknown0x12]3[Fade=80][X]
+

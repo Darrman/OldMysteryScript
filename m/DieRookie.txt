@@ -1,0 +1,348 @@
+MDIE_ABEL
+[TargetRight][LoadPortrait=ABEL][LoadBackground=][TargetRight]Have my skills weakened so much
+after leaving the army[FreezeMouth]...?[UnfreezeMouth]
+Sorry, I'm withdrawing[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_ARAN
+[TargetRight][LoadPortrait=ARAN][LoadBackground=][TargetRight]Cough[FreezeMouth]...[UnfreezeMouth] Damn[FreezeMouth]...[UnfreezeMouth]
+Seems like I've reached my limit[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I have no choice but to retreat for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_ASTRIA
+[TargetRight][LoadPortrait=ASTRIA][LoadBackground=][TargetRight]Nngh[FreezeMouth]![UnfreezeMouth]
+That was an oversight[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Apologies, but I must withdraw[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_ATHENA
+[TargetRight][LoadPortrait=ATHENA][LoadBackground=][TargetRight]Ve[FreezeMouth]...[UnfreezeMouth] failed[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Ve vill be careful[FreezeMouth]... [UnfreezeMouth]next time[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_BANUTU
+[TargetRight][LoadPortrait=BANUTU][LoadBackground=][TargetRight]How terrible[FreezeMouth]...[UnfreezeMouth][Pause=3]
+It seems[FreezeMouth]...[UnfreezeMouth] I must retreat[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_BARTS
+[TargetRight][LoadPortrait=BARTS][LoadBackground=][TargetRight]Guh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I can't fight like this any longer.
+I'm gonna retreat for now.[A][ClearBox][X]
+
+MDIE_BECK
+[TargetRight][LoadPortrait=BECK][LoadBackground=][TargetRight]I can't[FreezeMouth]...[UnfreezeMouth] carry on anymore[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I reckon I should fall back[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_BELF
+[TargetRight][LoadPortrait=BELF][LoadBackground=]Nngh[FreezeMouth]![UnfreezeMouth] That was a mistake[FreezeMouth]...[UnfreezeMouth][Pause=3]
+It pains me, but[FreezeMouth]...[UnfreezeMouth] I must retreat for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_BIRAKU
+[TargetRight][LoadPortrait=BIRAKU][LoadBackground=]Damn it[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll have to withdraw[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Sorry, but I leave the rest to you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_BOHA
+[TargetRight][LoadPortrait=BOHA][LoadBackground=][TargetRight]Urgh[FreezeMouth]... [UnfreezeMouth]
+I'm retreating[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_CECIL
+[TargetRight][LoadPortrait=CECIL][LoadBackground=]No, not now[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Sorry, I'm pulling back for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_CHEINE
+[TargetRight][LoadPortrait=CHEINE][LoadBackground=][TargetRight]Damn[FreezeMouth]...[UnfreezeMouth] I thought it'd all turn out
+fine somehow[FreezeMouth]...[UnfreezeMouth][Pause=3] Guess I'll retreat for now.
+The rest is on you[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MDIE_DAROSS
+[TargetRight][LoadPortrait=DAROSS][LoadBackground=]I can't[FreezeMouth]... [UnfreezeMouth] fight any longer[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I be retreatin' now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][RemovePortrait][X]
+
+MDIE_DICE
+[TargetRight][LoadPortrait=DICE][LoadBackground=]Damn[FreezeMouth]...[UnfreezeMouth]
+I knew I shoudn't have gambled[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'mma fall back[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MDIE_DOHGA
+[TargetRight][LoadPortrait=DOHGA][LoadBackground=][TargetRight]To think my armor wasn't enough
+to block that[FreezeMouth]...[UnfreezeMouth]
+Forgive me, but I'll retreat for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_ELREAN
+[TargetRight][LoadPortrait=ELREAN][LoadBackground=]I-it can't be[FreezeMouth]...[UnfreezeMouth]
+How could I[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Bah[FreezeMouth]...[UnfreezeMouth] I'm retreating[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_ERICE
+[TargetRight][LoadPortrait=ERICE][LoadBackground=][TargetRight][FreezeMouth]...[UnfreezeMouth]I am no longer of use here[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I will fall back[FreezeMouth]...[UnfreezeMouth]
+Marth, please do your best[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_EST
+[TargetRight][LoadPortrait=EST][LoadBackground=][TargetRight]I failed[FreezeMouth]...[UnfreezeMouth][Pause=3]
+There's nothing more I can do[FreezeMouth]...[UnfreezeMouth]
+I'll fall back for now, m'kay[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_ETZEL
+[TargetRight][LoadPortrait=ETZEL][LoadBackground=][TargetRight]Damn[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][Pause=3]
+This is so unlike me[FreezeMouth]...[UnfreezeMouth]
+I suppose I must retreat for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_FINA
+[TargetRight][LoadPortrait=FINA][LoadBackground=]Ugh[FreezeMouth]...[UnfreezeMouth]
+There's no way I can keep dancing[FreezeMouth]...[UnfreezeMouth][Pause=3]
+If it's alright, I'll fall back for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_FREY
+[TargetRight][LoadPortrait=FREY][LoadBackground=][TargetRight]Nngh[FreezeMouth]![UnfreezeMouth][Pause=3]
+This is[FreezeMouth]...[UnfreezeMouth] the result of my ineptitude[FreezeMouth]...[UnfreezeMouth]
+Forgive me, but I must withdraw[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_FROST
+[TargetRight][LoadPortrait=FROST][LoadBackground=]Guh[FreezeMouth]...[UnfreezeMouth]
+I can't help you guys wounded like this[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll withdraw for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_GATO
+[TargetRight][LoadPortrait=GATO][LoadBackground=][TargetRight]To think I'd be cornered like this[FreezeMouth]...[UnfreezeMouth]
+My sincerest apologies, but I must withdraw[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_GOHDON
+[TargetRight][LoadPortrait=GOHDON][LoadBackground=][TargetRight]Ugh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll just be a burden in this state[FreezeMouth]...[UnfreezeMouth]
+I have no choice but to retreat[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_HORUS
+[TargetRight][LoadPortrait=HORUS][LoadBackground=][TargetRight]Guh[FreezeMouth]...[UnfreezeMouth]
+Did I underestimate the enemy[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Apologies, but I must withdraw for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_HYMIR
+[TargetRight][LoadPortrait=HYMIR][LoadBackground=][TargetRight]Nngh[FreezeMouth]...[UnfreezeMouth] It hurts[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Sorry, but I have to retreat[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_JEIK
+[TargetRight][LoadPortrait=JEIK][LoadBackground=][TargetRight]Crap[FreezeMouth]...[UnfreezeMouth][Pause=3]
+For Anna's sake[FreezeMouth]...[UnfreezeMouth]
+I'll fall back for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_JORJUE
+[TargetRight][LoadPortrait=JORJUE][LoadBackground=][TargetRight]I still have a long way to go[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll retreat for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_JURIAN
+[TargetRight][LoadPortrait=JURIAN][LoadBackground=][TargetRight]Urgh, damn[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I know it's shameless of me,
+but I'll retreat for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_KAIN
+[TargetRight][LoadPortrait=KAIN][LoadBackground=][TargetRight]Wha[FreezeMouth]...[UnfreezeMouth] I've been defeated[FreezeMouth]?[UnfreezeMouth][Pause=3]
+I'll retreat for now[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MDIE_KASHIM
+[TargetRight][LoadPortrait=KASHIM][LoadBackground=][TargetRight]Ugh[FreezeMouth]...[UnfreezeMouth] I can't move anymore[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Guess it's time for me to flee.[A][ClearBox][X]
+
+MDIE_KATARINA
+[TargetRight][LoadPortrait=KATARINA][LoadBackground=]No[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I failed my mission[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm sorry, but I'll retreat for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_KATUA
+[TargetRight][LoadPortrait=KATUA][LoadBackground=][TargetRight]Nngh[FreezeMouth]![UnfreezeMouth][Pause=3]
+I'm sorry everyone[FreezeMouth]...[UnfreezeMouth]
+I'll retreat for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_LEIDEN
+[TargetRight][LoadPortrait=LEIDEN][LoadBackground=]Defeat[FreezeMouth]...[UnfreezeMouth]
+To be forced to retreat like this[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Sorry, but I'll pay them back next time[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MDIE_LIAN
+[TargetRight][LoadPortrait=LIAN][LoadBackground=]N-no[FreezeMouth]![UnfreezeMouth]
+I can't become a burden to everyone[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Sorry, I'll withdraw for now.[A][ClearBox][X]
+
+MDIE_MAJI
+[TargetRight][LoadPortrait=MAJI][LoadBackground=][TargetRight]Damn[FreezeMouth]...[UnfreezeMouth][Pause=3]
+This is shameful, but I gotta retreat.[A][ClearBox][X]
+
+MDIE_MARIA
+[TargetRight][LoadPortrait=MARIA][LoadBackground=][TargetRight]Did I[FreezeMouth]...[UnfreezeMouth] come too close[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+I'll fall back[FreezeMouth]...[UnfreezeMouth] to the rear[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MARICH
+[TargetRight][LoadPortrait=MARICH][LoadBackground=][TargetRight]It seems I've been gravely wounded[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm sorry, but I'm withdrawing[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MARICIA
+[TargetRight][LoadPortrait=MARICIA][LoadBackground=]No[FreezeMouth]...[UnfreezeMouth]
+I don't want this anymore[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm falling back for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MARIS
+[TargetRight][LoadPortrait=MARIS][LoadBackground=]Damn[FreezeMouth]...[UnfreezeMouth] They got me good[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll withdraw for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MATIS
+[TargetRight][LoadPortrait=MATIS][LoadBackground=][TargetRight]C-curses[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll retreat for now[FreezeMouth]... [UnfreezeMouth]alright[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MIDIA
+[TargetRight][LoadPortrait=MIDIA][LoadBackground=][TargetRight]Damn[FreezeMouth]...[UnfreezeMouth] I'll be a burden like this.[Pause=3]
+I'm retreating[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MINERBA
+[TargetRight][LoadPortrait=MINERBA][LoadBackground=][TargetRight]Guh[FreezeMouth]...[UnfreezeMouth] I lowered my guard[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Sorry, but I'm retreating[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MISHEIL
+[TargetRight][LoadPortrait=MISHEIL][LoadBackground=]I've been defeated[FreezeMouth]...[UnfreezeMouth]
+But, I'm not going to die here[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll retreat for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MISHRAN
+[TargetRight][LoadPortrait=MISHRAN][LoadBackground=][TargetRight]Guh[FreezeMouth]![UnfreezeMouth]
+To fall in a place like this[FreezeMouth]...[UnfreezeMouth][Pause=3]
+It shames me, but[FreezeMouth]...[UnfreezeMouth] I'm withdrawing[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MDIE_NABARL
+[TargetRight][LoadPortrait=NABARL][LoadBackground=][TargetRight]To think I'd need to retreat[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_NAGA
+[TargetRight][LoadPortrait=NAGA][LoadBackground=][TargetRight]I can't[FreezeMouth]...[UnfreezeMouth] help any longer[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll have[FreezeMouth]...[UnfreezeMouth] to retreat for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_NIENA
+[TargetRight][LoadPortrait=NIENA][LoadBackground=][TargetRight]I can't die here[FreezeMouth]...[UnfreezeMouth]
+I'm sorry everyone, but[FreezeMouth]...[UnfreezeMouth]
+I must fall back[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_NORN
+[TargetRight][LoadPortrait=NORN][LoadBackground=][TargetRight]Ahh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I-I'm sorry[FreezeMouth]...[UnfreezeMouth]
+I have to retreat now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_OGUMA
+[TargetRight][LoadPortrait=OGUMA][LoadBackground=][TargetRight]Guh[FreezeMouth]... [UnfreezeMouth] I was careless[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll withdraw for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_PAORA
+[TargetRight][LoadPortrait=PAORA][LoadBackground=][TargetRight]Nngh[FreezeMouth]![UnfreezeMouth]
+I'll be a burden[FreezeMouth]...[UnfreezeMouth][Pause=3] wounded like this[FreezeMouth]... [UnfreezeMouth]
+I'm retreating[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_RADEI
+[TargetRight][LoadPortrait=RADEI][LoadBackground=][TargetRight]Damn[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll retreat for now, but next time[FreezeMouth]...![UnfreezeMouth][A][ClearBox][X]
+
+MDIE_RENA
+[TargetRight][LoadPortrait=RENA][LoadBackground=][TargetRight]Ahh[FreezeMouth]...[UnfreezeMouth]
+Sorry[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll retreat for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_RICARD
+[TargetRight][LoadPortrait=RICARD][LoadBackground=][TargetRight]I-I'm done for[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm gonna retreat for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_RIFF
+[TargetRight][LoadPortrait=RIFF][LoadBackground=][TargetRight]What a pity[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll be no use like this[FreezeMouth]...[UnfreezeMouth]
+I suppose I should withdraw for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_RINDA
+[TargetRight][LoadPortrait=RINDA][LoadBackground=][TargetRight]Oh my[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Sorry, I'm falling back now.[A][ClearBox][X]
+
+MDIE_ROBERTO
+[TargetRight][LoadPortrait=ROBERTO][LoadBackground=]Ugh[FreezeMouth]...[UnfreezeMouth] This is my limit[FreezeMouth]...[UnfreezeMouth]
+Time to retreat.[Pause=3]
+Sorry, but I leave the rest to you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_RODY
+[TargetRight][LoadPortrait=RODY][LoadBackground=]Guh[FreezeMouth]... [UnfreezeMouth] They caught me off-guard[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Sorry, but I'm retreating now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_ROJAR
+[TargetRight][LoadPortrait=ROJAR][LoadBackground=]They got me right where it hurts[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll fall back for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][RemovePortrait][X]
+
+MDIE_ROOK
+[TargetRight][LoadPortrait=ROOK][LoadBackground=]Crap, how could I lose like this[FreezeMouth]...[UnfreezeMouth][Pause=3]
+My bad, but I'll retreat for now[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MDIE_ROSHE
+[TargetRight][LoadPortrait=ROSHE][LoadBackground=][TargetRight]Ugh[FreezeMouth]...[UnfreezeMouth]
+That was[FreezeMouth]...[UnfreezeMouth] too much for me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I must withdraw for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_SAJI
+[TargetRight][LoadPortrait=SAJI][LoadBackground=][TargetRight]What the heck[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Sorry, but I gotta withdraw for now.[A][ClearBox][X]
+
+MDIE_SAMSON
+[TargetRight][LoadPortrait=SAMSON][LoadBackground=][TargetRight]I've been beaten[FreezeMouth]...[UnfreezeMouth]
+I'll retreat for now[FreezeMouth]...[UnfreezeMouth]
+Watch your backs, everyone[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_SAMTO
+[TargetRight][LoadPortrait=SAMTO][LoadBackground=]Guh[FreezeMouth]...[UnfreezeMouth] That really smarts[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I suppose I'd better withdraw[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_SEAZER
+[TargetRight][LoadPortrait=SEAZER][LoadBackground=][TargetRight]I didn't intend to underestimate
+the enemy, but[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll fall back for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_SHEEDA
+[TargetRight][LoadPortrait=SHEEDA][LoadBackground=][TargetRight]Nngh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll retreat for a moment[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_SIMA
+[TargetRight][LoadPortrait=SIMA][LoadBackground=]Guh[FreezeMouth]...[UnfreezeMouth]
+So this is my limit[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Forgive me, I must retreat[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_SIRIUS
+[TargetRight][LoadPortrait=SIRIUS][LoadBackground=]Guh[FreezeMouth]...[UnfreezeMouth]
+I'm useless in battle if I'm wounded[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll withdraw for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_THORMAS
+[TargetRight][LoadPortrait=THORMAS][LoadBackground=][TargetRight]I wonder if I shoulda trained harder[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+[FreezeMouth]...[UnfreezeMouth]Guys, I'm falling back[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_TIKI
+[TargetRight][LoadPortrait=TIKI][LoadBackground=][TargetRight]Oh, I'm sorry[FreezeMouth]...[UnfreezeMouth]
+Mar-Mar[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm going back[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_TOMS
+[TargetRight][LoadPortrait=TOMS][LoadBackground=][TargetRight]Was I[FreezeMouth]...[UnfreezeMouth] too big-headed[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+I got to withdraw[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_WENDEL
+[TargetRight][LoadPortrait=WENDEL][LoadBackground=][TargetRight]So it's come to this[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I have no choice but to retreat for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_WOLEN
+[TargetRight][LoadPortrait=WOLLEN][LoadBackground=]Damn[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll fall back for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_WOLF
+[TargetRight][LoadPortrait=WOLF][LoadBackground=][TargetRight]Guh[FreezeMouth]...[UnfreezeMouth]
+How could I[FreezeMouth]...[UnfreezeMouth] let this happen[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+I'm pulling back for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_YUBERO
+[TargetRight][LoadPortrait=YUBELLO][LoadBackground=]Ouch[FreezeMouth]![UnfreezeMouth] Sorry[FreezeMouth]...[UnfreezeMouth]
+I don't want to burden everyone[FreezeMouth]...[UnfreezeMouth]
+So I'll fall back for now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_YUMINA
+[TargetRight][LoadPortrait=YUMINA][LoadBackground=]Unnh[FreezeMouth]...[UnfreezeMouth]
+Did I[FreezeMouth]...[UnfreezeMouth] push myself too far[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I think I had better fall back[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_ZAGARO
+[TargetRight][LoadPortrait=ZAGARO][LoadBackground=][TargetRight]I'll be[FreezeMouth]...[UnfreezeMouth] a burden like this[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm withdrawing[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+

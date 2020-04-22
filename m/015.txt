@@ -1,0 +1,172 @@
+MS015_OP0
+[X]
+
+MS015_EV1
+[LoadBackground=BBG01][TargetRight][LoadPortrait=EST]I'm sorry, Abel[FreezeMouth]...[UnfreezeMouth][Pause=3]
+It's all my fault[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS015_OP1
+[TargetRight][LoadPortrait=SOLDIER_RED][LoadBackground=BBG40][TargetLeft][LoadPortrait=EIBEL][TargetRight]General, the missing Aritian remnants
+have at long last been sighted![A][ClearBox][TargetLeft][FaceCommand=0x73]Is that so? Heh heh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+How convenient.[Pause=3] We will have Gra's men
+draw them in and be rid of them all at once.[A][ClearBox][TargetRight][FaceCommand=0x61]Understood. But what of that knight?[A][ClearBox][TargetLeft]You mean Abel?[A][ClearBox]Should it look as though he intends to
+betray us[FreezeMouth]...[UnfreezeMouth] Kkkkccchhhh[FreezeMouth]![UnfreezeMouth][Pause=3]
+Kill the hostage[FreezeMouth]!![UnfreezeMouth][A][ClearBox]Besides, he's nothing but a deserter;
+it's far too late for him to pledge
+loyalty to his prince again.[A][ClearBox][FaceCommand=0x73]Heh heh[FreezeMouth]...[UnfreezeMouth] now that Abel is
+their enemy, how will they fight[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+This should be quite the show[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS015_OP2
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG16][TargetLeft][LoadPortrait=TOMS][TargetLeft]Prince Marth,[Pause=3]
+I have been waiting for you.[Pause=3]
+And you have finally returned.[A][ClearBox][TargetRight][FreezeMouth]Oh![UnfreezeMouth] Tomth[FreezeMouth]![UnfreezeMouth][A][ClearBox]You're a general of Akaneia, though;
+why would you come to my side[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]I've given up my position and
+have left Emperor Hardin's side.[A][ClearBox]There is no justice left in Akaneia.[Pause=3]
+But justice lies in your Aritia.[Pause=3]
+And that's why I've come to you.[A][ClearBox][TargetRight]I see.[Pause=3]
+Then Tomth, will you fight with us?[A][ClearBox][TargetLeft]Indeed I shall.[Pause=3]
+Let this battle be a testament to
+my faith in you.[A][ClearBox][X]
+
+MS015_TK1
+[TargetRight][LoadPortrait=MARS][LoadBackground=][TargetLeft][LoadPortrait=ABEL][TargetRight]Abel[FreezeMouth]!?[UnfreezeMouth][Pause=3]
+Why are you[FreezeMouth]...!?[UnfreezeMouth][A][ClearBox]I can't believe you would turn
+against your own motherland[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Prince Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Please forgive me[FreezeMouth]...[UnfreezeMouth]
+They took Est[FreezeMouth]...[UnfreezeMouth]
+I have to fight[FreezeMouth]...[UnfreezeMouth] or they'll kill her.[A][ClearBox][FreezeMouth]...[UnfreezeMouth]But, seeing that I've met you here[FreezeMouth]...[UnfreezeMouth]
+I[SpecialSymbol=0x96]I can't do it anymore[FreezeMouth]...[UnfreezeMouth]
+I just can't fight you, sire.[A][ClearBox][EyeCommand=ec]Est[FreezeMouth]...[UnfreezeMouth] please, forgive me[FreezeMouth]...![UnfreezeMouth][A][ClearBox][X]
+
+MS015_TK2
+[TargetRight][LoadPortrait=EST][LoadBackground=][TargetLeft][LoadPortrait=ABEL][TargetRight]Abel[FreezeMouth]...[UnfreezeMouth]
+I'm sorry.[Pause=3]
+It hurt, didn't it?[A][ClearBox][TargetLeft][FaceCommand=0x73]Est[FreezeMouth]![UnfreezeMouth][Pause=3]
+Thank heavens you're safe.[A][ClearBox][TargetRight][FaceCommand=0x73]Yeah, Prince Marth saved me.[A][ClearBox]You don't have to fight anymore.
+It's okay now.[Pause=3]
+I'm safe.[A][ClearBox][TargetLeft][FaceCommand=0x61]I see[FreezeMouth].[UnfreezeMouth] Those blasted Akaneians![Pause=3]
+How can I possibly make it up to
+Prince Marth[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]I'm so sorry, Abel[FreezeMouth]...[UnfreezeMouth] It's all my fault.[A][ClearBox][TargetLeft]No, Est[FreezeMouth]![UnfreezeMouth]
+That's not true[FreezeMouth]![UnfreezeMouth][A][ClearBox]It was those Akaneians[SpecialSymbol=0x96]
+I won't forgive them[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll show them the true meaning of pain[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS015_VIL1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG26][TargetLeft][LoadPortrait=UNCLE][TargetLeft]So you've come, Prince Marth.[Pause=3]
+I've been waitin' to deliver this to you.[A][ClearBox]There's always been bad blood between--[A][ClearBox][TargetRight]Mmm, I understand.
+But, for the sake of everyone, you
+should start to make up with them...[A][ClearBox][X]
+
+MS015_H1
+[TargetCenter][LoadPortrait=OLDMAN][LoadBackground=BBG25]Apparently there are hordes of enemy
+soldiers waitin' in the fortresses.[Pause=3]
+This ain't the time to let your guard down![A][ClearBox][X]
+
+MS015_H2
+[TargetCenter][LoadPortrait=LADY][LoadBackground=BBG25]You[FreezeMouth]...[UnfreezeMouth]
+Where the hell did you lot disappear to?[A][ClearBox]Nobody had a clue where you went!
+We were worried sick![A][ClearBox][X]
+
+MS015_H3
+[TargetCenter][LoadPortrait=MAN2][LoadBackground=BBG25]Y'know, Gra's not too fond of Aritia.[A][ClearBox]But sometimes I just gotta wonder if
+Akaneia's just forcin' Gra to fight us.[A][ClearBox][X]
+
+MS015_H4
+[TargetCenter][LoadPortrait=WOMAN2][LoadBackground=BBG25]After the castle fell,
+Princess Ellis was stolen away
+by eerie priests in black robes[FreezeMouth].[UnfreezeMouth][A][ClearBox]Oh[FreezeMouth]...[UnfreezeMouth] Princess Ellis[FreezeMouth]...[UnfreezeMouth]
+I sure hope she's safe[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS015_H5
+[TargetCenter][LoadPortrait=WOMAN1][LoadBackground=BBG25]Our days under the empire's occupation
+have been anything but bright.[A][ClearBox]But we kept faith.[Pause=3]
+We knew that you would return for us,
+Prince Marth.[A][ClearBox]If anyone could save us from our
+suffering, t'would be you[FreezeMouth].[UnfreezeMouth][A][ClearBox][FaceCommand=0x73]You, sire, are the warrior of light[SpecialSymbol=0x96]
+chosen by the gods[FreezeMouth]...[UnfreezeMouth]
+Glory to our star and savior[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS015_H6
+[TargetCenter][LoadPortrait=MAN1][LoadBackground=BBG25]There are plenty o' enemy spies
+lurkin' in this region.[A][ClearBox]Be careful[FreezeMouth]![UnfreezeMouth]
+I think I just saw some movement
+from one o' the fortresses.[A][ClearBox][X]
+
+MS015_H7
+[TargetCenter][LoadPortrait=MAN2][LoadBackground=BBG25]The mercenaries protecting the castle
+are the cream of the crop.[A][ClearBox]They're terrifying enemies for sure,
+but I wonder if you could make an
+ally out of them?[A][ClearBox][X]
+
+MS015_BT_ABEL
+[LoadBackground=][TargetLeft][LoadPortrait=ABEL]Prince Marth[FreezeMouth]...[UnfreezeMouth] please, forgive me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I[FreezeMouth]...[UnfreezeMouth] I don't want to lose Est[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS015_BT_BOSS
+[LoadBackground=][TargetLeft][LoadPortrait=EIBEL]Damn it[FreezeMouth]![UnfreezeMouth]
+You're not human!
+No human could defeat my mighty army![A][ClearBox][X]
+
+MS015_DIE_ABEL
+[LoadBackground=][TargetLeft][LoadPortrait=ABEL]Farewell, Est[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS015_DIE_BOSS
+[LoadBackground=][TargetLeft][LoadPortrait=EIBEL]How could Akaneia be defeated[FreezeMouth]...?[UnfreezeMouth]
+Nngh...![A][ClearBox][X]
+
+MS015_ED1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG04][TargetLeft][LoadPortrait=JEIGUN][TargetRight]That was quite a battle.[Pause=3]
+Is everyone alright?[A][ClearBox][TargetLeft]There's no need for concern, sire.[Pause=3]
+Everybody has eagerly awaited this day.[A][ClearBox][TargetRight]Yet, because of Akaneia's actions,
+so many innocent lives have been lost.[A][ClearBox]How can I face them[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]I've caused them great sorrow.
+Because I was too weak[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Was I presumptuous in believing
+I could protect my homeland?[A][ClearBox][TargetLeft]No, your highness, you're wrong![A}[ClearBox]You have a gentle heart, so that is
+why no matter what hardships we face,
+we can endure them.[A][ClearBox]We believe in you, so that
+is why we follow you.[A][ClearBox]Your highness, please raise
+your spirit!! We still haven't reclaimed
+Aritia Castle.[A][ClearBox]There are probably many enemies
+awaiting us, but this is our castle.
+We already know how to fight this battle.[A][ClearBox]Well, Lord Marth!
+Let's go![A][ClearBox][X]
+
+MS015_ED1_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG04][TargetLeft][LoadPortrait=JEIGUN][TargetRight]That was quite a battle.[Pause=3]
+Is everyone alright?[A][ClearBox][TargetLeft]There's no need for concern, sire.[Pause=3]
+Everybody has eagerly awaited this day.[A][ClearBox][TargetRight]Yet, because of Akaneia's actions,
+so many innocent lives have been lost.[A][ClearBox]How can I face them[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]I've caused them great sorrow.
+Because I was too weak[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Was I presumptuous in believing
+I could protect my homeland?[A][ClearBox][TargetLeft]No, your highness, you're wrong![A}[ClearBox]You have a gentle heart, so that is
+why no matter what hardships we face,
+we can endure them.[A][ClearBox]We believe in you, so that
+is why we follow you.[A][ClearBox]Your highness, please raise
+your spirit!! We still haven't reclaimed
+Aritia Castle.[A][ClearBox]There are probably many enemies
+awaiting us, but this is our castle.
+We already know how to fight this battle.[A][ClearBox]Well, Lord Marth!
+Let's go![A][ClearBox][X]
+
+MS015_ED2_PCF1
+[X]
+
+MS015_ED2_PCM1
+[X]
+
+MS015_ED2_01_PCF1
+[X]
+
+MS015_ED2_01_PCM1
+[X]
+
+MS015_ED3
+[SpecialText0x14][Fade=40][TargetRight][LoadPortrait=PLAYER][TargetLeft][LoadPortrait=MARS][LoadBackground=BBG04]Remove the tiara?[A][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS015_ED3_A
+[TargetRight]Yes, thank you.[A][ClearBox][TargetLeft][FaceCommand=0x73]Good, I'm glad we've sorted that out.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS015_ED3_B
+[TargetRight]No, thank you.[Pause=3]
+Maybe it just takes a while for
+the legendary power to manifest.[A][ClearBox][TargetLeft]You, um, still believe Chainy[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]Well, if that's what you really want,
+I suppose I shan't persuade you further.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+

@@ -1,0 +1,237 @@
+MS024_OP0
+[X]
+
+MS024_OP0_1_PCF1
+[X]
+
+MS024_OP0_1_PCM1
+[X]
+
+MS024_OP0_ARG_A
+[X]
+
+MS024_OP0_ARG_B
+[X]
+
+MS024_OP0_ARG_C
+[X]
+
+MS024_OP0_ARG_D
+[X]
+
+MS024_OP0_ARG_E
+[X]
+
+MS024_OP1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG69][TargetRight]I see my sister and the others[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But who are they guarding[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]No, it can't be[FreezeMouth]...[UnfreezeMouth]
+That's[SpecialSymbol=0x96]that's Mediuth[FreezeMouth]...![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=JEIGUN][TargetLeft]With the princesses around him, sire,
+you'll be unable to strike down Mediuth.[A][ClearBox]If we don't do something soon, then the
+other dragons will awaken, and this battle
+will rapidly escalate into mayhem.[A][ClearBox]The princesses will be then be
+in even more pain.[TargetRight]Then, what do you suppose I do[FreezeMouth]?[UnfreezeMouth][A][ClearBox]How on earth can we save them?![Pause=3]
+Tell me, Jeigan![A][ClearBox][TargetLeft]I[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I do not know[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ec]But, if we are to defeat Mediuth,
+we must stop at nothing[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]What?![UnfreezeMouth]
+[FreezeMouth]...[UnfreezeMouth]You can't mean to kill them[FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ed]It may be[FreezeMouth]...[UnfreezeMouth] necessary.[A][ClearBox]As they are now, they suffer greatly.[A][ClearBox]We must save them, even if it should
+cost them their lives[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Jeigan, this[SpecialSymbol=0x96]is this really a
+decision I must make?[A][ClearBox][TargetLeft][EyeCommand=ec]You are Aritia's crown prince, sire.
+A ruler must be ready for anything,
+though it may cost them their happiness.[A][ClearBox]That is all.[A][ClearBox][TargetRight][EyeCommand=ed]Enough, Jeigan. I understand.[Pause=3]
+Still, I cannot accept it.[Pause=3]
+There must be another way.[A][ClearBox]Even till the very end,
+I will never give up[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+
+MS024_OP2_PCF1
+[X]
+
+MS024_OP2_PCM1
+[X]
+
+MS024_TK1
+[TargetRight][LoadPortrait=JURIAN][LoadBackground=BBG69][TargetLeft][LoadPortrait=S_RENA][TargetRight]Rena, snap out of it![Pause=3]
+C'mon, it's me! Julian!
+What's wrong with you, Rena?[A][ClearBox]I know I'm a good-for-nothing scoundrel,
+but for you, I'd do anything.[A][ClearBox]I don't want anything else[SpecialSymbol=0x96]
+I just want to see your smile again.[A][ClearBox]Hey, Rena; could you smile for me?
+Please[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=RENA][FaceCommand=0x73]Oh[FreezeMouth]...[UnfreezeMouth] Julian[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+You came.[A][ClearBox]I knew you'd find me. I knew it.
+That's why, I could continue struggling
+in the darkness of my soul[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Julian, I'm sorry.[Pause=3]
+I've always been a bother to you.[A][ClearBox][TargetRight][FaceCommand=0x73]Are you kiddin' me, Rena[FreezeMouth]...?[UnfreezeMouth]
+I'm just happy to hear your voice again.[A][ClearBox][TargetLeft]Julian, there's something I'd like very much.
+Will you listen?[A][ClearBox][TargetRight]Huh?[Pause=3]
+Sure, Rena, hit me.[Pause=3]
+So long as it's within my power[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Could you call me[FreezeMouth]...[UnfreezeMouth] "honey"?[A][ClearBox]You're always "Rena" this and "Rena" that.
+You speak as though we're barely friends[SpecialSymbol=0x96]
+and I don't like that feeling.[A][ClearBox]That just won't do, especially not after
+we settle down together in Macedonia.[A][ClearBox][TargetRight][FaceCommand=0x61]Huh?[FreezeMouth] ...[UnfreezeMouth]What're you talking about, Rena[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Er[FreezeMouth]...[UnfreezeMouth] I mean[FreezeMouth]...[UnfreezeMouth] H-honey[FreezeMouth]...[UnfreezeMouth]
+Don't tell you and I are gonna[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Uh-huh[FreezeMouth]...[UnfreezeMouth] I'm sure God will forgive me.[A][ClearBox][EyeCommand=ec]After all, you[FreezeMouth]...[UnfreezeMouth]
+You mean the world to me.[A][ClearBox][X]
+
+MS024_TK2
+[TargetRight][LoadPortrait=MINERBA][LoadBackground=BBG69][TargetLeft][LoadPortrait=S_MARIA][TargetRight]Maria[FreezeMouth]![UnfreezeMouth] Please, wake up![Pause=3]
+It's me, Minerva! What's happened to you[FreezeMouth]?![UnfreezeMouth]
+Get a hold of yourself.[A][ClearBox][TargetLeft][LoadPortrait=MARIA]Unh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Ah[FreezeMouth]...[UnfreezeMouth] Minerva[FreezeMouth]...[UnfreezeMouth][A][ClearBox]A-ahhhhhh!
+Mediuth is[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Shh. It's alright now.[Pause=3]
+Everything's going to be okay.[A][ClearBox]I'm so sorry, Maria.
+I've left you alone for so long[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61][EyeCommand=ec]Minerva[FreezeMouth]...[UnfreezeMouth]
+I was scared[FreezeMouth]...[UnfreezeMouth] I was so scared...[A][ClearBox][EyeCommand=ed]Oh[FreezeMouth]![UnfreezeMouth]
+How is Misheil?[A][ClearBox]I think he fought Garnef to save me.[A][ClearBox][TargetRight][FaceCommand=0x61]Misheil[FreezeMouth]...[UnfreezeMouth][Pause=3][FaceCommand=0x73] is fine.
+Don't worry, Maria.[A][ClearBox][TargetLeft][FaceCommand=0x73]Really?[Pause=3]
+Then, once we go home, we'll be together
+again just like before?[A][ClearBox]I'm so glad, Minerva![Pause=3]
+Oh, I hope we can see him soon.[A][ClearBox][TargetRight][FaceCommand=0x61]Maria[FreezeMouth]......[UnfreezeMouth][A][ClearBox][X]
+
+MS024_TK3
+[TargetRight][LoadPortrait=SIRIUS][LoadBackground=BBG69][TargetLeft][LoadPortrait=S_NIENA][TargetRight]Princess Nina!
+Open your eyes!
+Be strong...![A][ClearBox][TargetLeft]Ahh[FreezeMouth]...[UnfreezeMouth]
+I've done something terrible.[A][ClearBox]I was too foolish[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I hurt Hardin[FreezeMouth]...[UnfreezeMouth] I drove him to despair.[A][ClearBox][TargetRight]My queen[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Prince Marth has ended Hardin's suffering.[A][ClearBox]The Emperor loved you till the very end.
+He was sorry for what he'd done to you.[A][ClearBox]It's alright now.[Pause=3]
+You need not worry.[A][ClearBox]It was all just a bad dream[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=NIENA][FreezeMouth]......[UnfreezeMouth]
+Who[FreezeMouth]......?[UnfreezeMouth][A][ClearBox][TargetRight]Princess Nina!
+You mustn't give up.
+You shouldn't be a weak person![TargetLeft][FaceCommand=0x73]Oh[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth] You're[FreezeMouth]...[UnfreezeMouth]
+Camus[FreezeMouth]...[UnfreezeMouth][FreezeMouth]?![UnfreezeMouth]
+Camus[FreezeMouth]!![UnfreezeMouth][A][ClearBox]Why[FreezeMouth]...[UnfreezeMouth] Why are you[FreezeMouth]...[UnfreezeMouth]
+This is a dream, isn't it?
+You're still alive... Ah... It's true...[A][ClearBox][TargetRight][FaceCommand=0x61][FreezeMouth]Nngh![UnfreezeMouth]
+[FreezeMouth]...[UnfreezeMouth]My queen[FreezeMouth]...[UnfreezeMouth] You are mistaken...[A][ClearBox]I am Sirius,
+a soldier of the allied forces.[Pause=3]
+I know not of this Camus[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]Sirius[FreezeMouth]...[UnfreezeMouth][FreezeMouth]?![UnfreezeMouth][Pause=3][FreezeMouth] ...[UnfreezeMouth]It can't be[FreezeMouth]...[UnfreezeMouth]
+No[FreezeMouth]![UnfreezeMouth] You're wrong[FreezeMouth]!![UnfreezeMouth]
+You're[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Please, calm yourself;[Pause=3]
+you must be exhausted.[A][ClearBox]I must depart soon.[A][ClearBox]Queen Nina, listen to me[FreezeMouth]...[UnfreezeMouth]
+You should head to Prince Marth.[A][ClearBox][TargetLeft]You[FreezeMouth]...[UnfreezeMouth]
+Where are you going?[A][ClearBox][TargetRight]I must go to my country.[Pause=3]
+There's[FreezeMouth]...[UnfreezeMouth] someone waiting for me.[A][ClearBox][TargetLeft][EyeCommand=ec]Is[FreezeMouth]...[UnfreezeMouth] Is that so[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+I see[FreezeMouth]...[UnfreezeMouth] Sirius[FreezeMouth]...[UnfreezeMouth]
+Thank you. I am most grateful.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Forgive me[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ed]Pardon[FreezeMouth]...[UnfreezeMouth][FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetRight]No[FreezeMouth]...[UnfreezeMouth] It is nothing[FreezeMouth]...[UnfreezeMouth]
+Now, Queen Nina; go[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS024_TK4
+[TargetRight][LoadPortrait=MARICH][LoadBackground=BBG69][TargetLeft][LoadPortrait=S_ERICE][TargetRight]Princess Ellis[FreezeMouth]![UnfreezeMouth]
+It's me, Marich.[Pause=3]
+Snap out out of it![A][ClearBox]I[SpecialSymbol=0x96]I studied magic ferociously,
+all so that I could protect you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ec]I'm sorry[FreezeMouth]...[UnfreezeMouth]
+I failed.[A][ClearBox]I couldn't be by your side,
+when you needed me most.[A][ClearBox][EyeCommand=ed]Ellis[FreezeMouth]...[UnfreezeMouth] Please.[Pause=3]
+Please open your eyes![A][ClearBox][TargetLeft][LoadPortrait=ERICE]Marich[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][FreezeMouth]...[UnfreezeMouth]Ah[FreezeMouth]![UnfreezeMouth]
+Oh, Marich[FreezeMouth]![UnfreezeMouth][Pause=3][A][ClearBox][EyeCommand=ec]Help me[FreezeMouth]...[UnfreezeMouth] Garnef is[FreezeMouth]...[UnfreezeMouth]
+I'm so frightened[FreezeMouth]...[UnfreezeMouth]
+Please help me[FreezeMouth]![UnfreezeMouth][A][ClearBox][EyeCommand=ed][TargetRight][FaceCommand=0x73]Ellis[FreezeMouth]![UnfreezeMouth]
+Thank goodness, you've come back![A][ClearBox]It's alright now.[Pause=3]
+I'm here, so[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Oh[FreezeMouth]...[UnfreezeMouth] but Prince Marth is[FreezeMouth]...[UnfreezeMouth]
+Everyone's watching, so we can't[FreezeMouth]...[UnfreezeMouth]
+Oh well[FreezeMouth]...[UnfreezeMouth] *ahem*[A][ClearBox]Ellis, I'll never leave your side again.[A][ClearBox]No matter what may come between us[FreezeMouth]...[UnfreezeMouth]
+Never again shall I abandon you![A][ClearBox][X]
+
+MS024_EV2
+[TargetLeft][LoadPortrait=ERICE][LoadBackground=BBG69]Forgive me, Marth[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I've been such a burden.[A][ClearBox][TargetLeft][LoadPortrait=NIENA]We're all safe now.[Pause=3]
+We're free of the Dark Dragon's power.[A][ClearBox][TargetLeft][LoadPortrait=MARIA]Prince Marth[FreezeMouth]![UnfreezeMouth]
+Finish him off[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=RENA]We will heal the wounded,
+so that no one else shall die[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS024_EV2_2_PCF1
+[TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=JEIGUN]Sire, good news.[Pause=3]
+The princesses have come back to us.[A][ClearBox]Your kindness has saved their souls.[A][ClearBox][TargetRight]Thank goodness.
+I'm too happy for words.[A][ClearBox]I suppose some battles require sacrifice[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But that matters not[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I won't give up[SpecialSymbol=0x96]not now, not ever![Pause=3]
+Together, we will win this battle![A][ClearBox][TargetRight][RemovePortrait][TargetLeft][LoadPortrait=MEDIUTH]YOU PRESUMPTUOUS HUMANS[FreezeMouth]...[UnfreezeMouth][Pause=3]
+HOW DARE YOU[SpecialSymbol=0x96]![A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=MARS]Dark Dragon Mediuth[FreezeMouth]![UnfreezeMouth][Pause=3]
+Now, nothing stands between
+this blade and you.[A][ClearBox]Come, let's settle this[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS024_EV2_2_PCM1
+[TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=JEIGUN]Sire, good news.[Pause=3]
+The princesses have come back to us.[A][ClearBox]Your kindness has saved their souls.[A][ClearBox][TargetRight]Thank goodness.
+I'm too happy for words.[A][ClearBox]I suppose some battles require sacrifice[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But that matters not[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I won't give up[SpecialSymbol=0x96]not now, not ever![Pause=3]
+Together, we will win this battle![A][ClearBox][TargetRight][RemovePortrait][TargetLeft][LoadPortrait=MEDIUTH]YOU PRESUMPTUOUS HUMANS[FreezeMouth]...[UnfreezeMouth][Pause=3]
+HOW DARE YOU[SpecialSymbol=0x96]![A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=MARS]Dark Dragon Mediuth[FreezeMouth]![UnfreezeMouth][Pause=3]
+Now, nothing stands between
+this blade and you.[A][ClearBox]Come, let's settle this[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS024_BT_BOSS
+[LoadBackground=BBG69][TargetLeft][LoadPortrait=MEDIUTH]I HAVE[FreezeMouth]...[UnfreezeMouth] REVIVED[FreezeMouth]...[UnfreezeMouth]
+FOOLISH HUMANS[FreezeMouth]...[UnfreezeMouth]
+I WILL LEAVE[FreezeMouth]...[UnfreezeMouth] NONE ALIVE[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS024_BT_BOSS_MARS
+[LoadBackground=BBG69][TargetLeft][LoadPortrait=MEDIUTH]DO YOU PLAN TO[FreezeMouth]...[UnfreezeMouth]
+DEFY ME ONCE MORE[FreezeMouth]...[UnfreezeMouth]
+DESCENDANT OF ANRI[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=MARS]No matter how many times you return,
+mankind will never surrender[FreezeMouth]![UnfreezeMouth][A][ClearBox]This long battle[FreezeMouth]...[UnfreezeMouth]
+I will end it here, once and for all[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS024_BT_BOSS_PC_PCF1
+[LoadBackground=BBG69][TargetLeft][LoadPortrait=MEDIUTH]A MERE HUMAN SUCH AS YOURSELF[FreezeMouth]...[UnfreezeMouth]
+WISHES TO CHALLENGE ME[FreezeMouth]...?[UnfreezeMouth]
+HOW FOOLISH[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=PLAYER]I have come this far, just for this moment.
+My death means nothing, for Prince Marth
+will create a bright future for us all[FreezeMouth]...![UnfreezeMouth][A][ClearBox]As long as I have that hope, I'll fight on.
+I'll come at you with everything I've got[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS024_BT_BOSS_PC_PCM1
+[LoadBackground=BBG69][TargetLeft][LoadPortrait=MEDIUTH]A MERE HUMAN SUCH AS YOURSELF[FreezeMouth]...[UnfreezeMouth]
+WISHES TO CHALLENGE ME[FreezeMouth]...?[UnfreezeMouth]
+HOW FOOLISH[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=PLAYER]I have come this far, just for this moment.
+My death means nothing, for Prince Marth
+will create a bright future for us all[FreezeMouth]...![UnfreezeMouth][A][ClearBox]As long as I have that hope, I'll fight on.
+I'll come at you with everything I've got[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS024_BT_ERICE
+[LoadBackground=BBG69][TargetLeft][LoadPortrait=S_ERICE]WE WILL KILL ALL[FreezeMouth]...[UnfreezeMouth]
+WHO DEFY[FreezeMouth]...[UnfreezeMouth]
+LORD MEDIUTH[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS024_BT_MARIA
+[LoadBackground=BBG69][TargetLeft][LoadPortrait=S_MARIA]WE WILL KILL ALL[FreezeMouth]...[UnfreezeMouth]
+WHO DEFY[FreezeMouth]...[UnfreezeMouth]
+LORD MEDIUTH[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS024_BT_NIENA
+[LoadBackground=BBG69][TargetLeft][LoadPortrait=S_NIENA]WE WILL KILL ALL[FreezeMouth]...[UnfreezeMouth]
+WHO DEFY[FreezeMouth]...[UnfreezeMouth]
+LORD MEDIUTH[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS024_BT_RENA
+[LoadBackground=BBG69][TargetLeft][LoadPortrait=S_RENA]WE WILL KILL ALL[FreezeMouth]...[UnfreezeMouth]
+WHO DEFY[FreezeMouth]...[UnfreezeMouth]
+LORD MEDIUTH[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS024_DIE_BOSS_A
+[LoadBackground=BBG69][TargetLeft][LoadPortrait=MEDIUTH]GWAH[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox]WHY[FreezeMouth]......?[UnfreezeMouth]
+WHY[FreezeMouth]...[UnfreezeMouth] HAVE I[FreezeMouth]...[UnfreezeMouth]
+BEEN DEFEATED[FreezeMouth]...[UnfreezeMouth] SO EASILY[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]IS THIS[FreezeMouth]...[UnfreezeMouth] THE POWER[FreezeMouth]...[UnfreezeMouth]
+[FreezeMouth]...[UnfreezeMouth]OF NARGA'S[FreezeMouth]...[UnfreezeMouth] SHIELD OF SEALS[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]KNOW THIS, HUMANS[FreezeMouth]...[UnfreezeMouth]
+THIS LIGHT IS ONLY A BRIEF RESPITE[FreezeMouth]...[UnfreezeMouth][A][ClearBox]SO LONG AS EVIL LURKS WITHIN THE
+HEARTS OF MAN[FreezeMouth]...[UnfreezeMouth]
+SHOULD THIS ACCURSED SHIELD BE LOST,[A][ClearBox]WE SHALL RISE FROM THE DEPTHS
+OF HELL[FreezeMouth]...[UnfreezeMouth][A][ClearBox]DO NOT[FreezeMouth]...[UnfreezeMouth]
+EVER FORGET[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS024_DIE_BOSS_B
+[LoadBackground=BBG69][TargetLeft][LoadPortrait=MEDIUTH]GAHAHA[FreezeMouth]...[UnfreezeMouth]
+NAIVE HUMANS[FreezeMouth]...[UnfreezeMouth]
+DON'T THINK YOU'VE WON[FreezeMouth]![UnfreezeMouth][A][ClearBox]YOUR NAIVETE[FreezeMouth]...[UnfreezeMouth] SHALL BE YOUR UNDOING[FreezeMouth]...[UnfreezeMouth][A][ClearBox]MY NOBLE THRALLS[FreezeMouth]...[UnfreezeMouth]
+BECOME MY FLESH AND BLOOD[FreezeMouth]...[UnfreezeMouth][A][ClearBox]GIVE ME YOUR STRENGTH[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS024_DIE_ERICE
+[TargetRight][LoadPortrait=ERICE][LoadBackground=][TargetRight]Ohh[FreezeMouth]...[UnfreezeMouth] Marich[FreezeMouth]......[UnfreezeMouth][A][ClearBox][X]
+
+MS024_DIE_MARIA
+[TargetRight][LoadPortrait=MARIA][LoadBackground=][TargetRight]Ah[FreezeMouth]...[UnfreezeMouth] Minerva[FreezeMouth]......[UnfreezeMouth][A][ClearBox][X]
+
+MS024_DIE_NIENA
+[TargetRight][LoadPortrait=NIENA][LoadBackground=][TargetRight]Camus[FreezeMouth]...[UnfreezeMouth] save me[FreezeMouth]......[UnfreezeMouth][A][ClearBox][X]
+
+MS024_DIE_RENA
+[TargetRight][LoadPortrait=RENA][LoadBackground=][TargetRight]Ohh[FreezeMouth]...[UnfreezeMouth] Julian[FreezeMouth]......[UnfreezeMouth][A][ClearBox][X]
+

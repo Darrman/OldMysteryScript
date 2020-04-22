@@ -1,0 +1,272 @@
+MTUTS_TRANSPORTER
+[X]
+
+MTUTS_TRANSPORTER_R
+[X]
+
+MS001_OP1
+[TargetRight][LoadPortrait=MARS][LoadBackground=][TargetLeft][LoadPortrait=JEIGUN]Sire,[Pause=3] this is General Lang, the commanding
+officer of the occupational forces.[A][ClearBox][TargetLeft][LoadPortrait=RANG][FaceCommand=0x73]Oho, so you are Prince Marth?[Pause=3]
+Glad you could make it here.[A][ClearBox]Since you've come all this way, I suppose
+I'll let you have the glory of capturing the
+rebel leader,[Pause=3] General Lawrence.[A][ClearBox][TargetRight]What[FreezeMouth]?![UnfreezeMouth][Pause=3]
+General Lawrence leads the rebels[FreezeMouth]?![UnfreezeMouth][Pause=3][A][ClearBox]What would possess him to rebel of all
+things[FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]Who knows[FreezeMouth]?[UnfreezeMouth][Pause=3]
+I[Pause=3] haven't the foggiest idea, and frankly
+I don't care.[A][ClearBox]Prince.[Pause=3] You are to kill General Lawrence,
+and reclaim the children of the Grunian
+royal family that he's hiding.[A][ClearBox]While you do that[FreezeMouth]...[UnfreezeMouth][A][ClearBox]We will slaughter the families of those who
+participated in this rebellion[Pause=3] and raze their
+homes to the ground.[A][ClearBox][TargetRight]Are you insane[FreezeMouth]?![UnfreezeMouth][Pause=3]
+They're innocent civilians[FreezeMouth]![UnfreezeMouth][A]
+[ClearBox][TargetLeft]"I-[Pause=3]insane[FreezeMouth]"!?[UnfreezeMouth][Pause=3]
+Young man,[Pause=3] are you questioning my orders[FreezeMouth]?![UnfreezeMouth][A]
+[ClearBox]Perhaps[Pause=3] Aritia, too, plans to rebel against
+Akaneia[FreezeMouth]...?[UnfreezeMouth][A]
+[ClearBox][TargetRight]Of course not[FreezeMouth]![UnfreezeMouth][Pause=3] That's not[FreezeMouth]...[UnfreezeMouth][A]
+[ClearBox][TargetLeft]
+Prince Marth,[Pause=3] your tiny country means
+absolutely nothing to me.[A][ClearBox]Your rude behaviour is merely an irritation.[A][ClearBox]Do not forget that I have the power of the
+empire behind me:[Pause=3][A][ClearBox]I can crush weak, pesky insects like you
+any time I wish.[A][ClearBox][X]
+
+MS001_OP1_02
+[TargetRight][LoadPortrait=MARS][LoadBackground=][TargetLeft][LoadPortrait=JEIGUN][TargetLeft][LoadPortrait=JEIGUN][TargetRight]Jeigan[FreezeMouth]...[UnfreezeMouth][Pause=3]
+What in the world is going on here?[Pause=3][A][ClearBox]How could Hardin have entrusted this
+country to such a vile man[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]
+General Lang was once a noble of Akaneia.
+However, in the previous war, he
+supported the Durhua Empire. I heard[A][ClearBox]that he stole from other people,
+to add to his own wealth. I fear he has
+continued his ways at Grunia, and[A][ClearBox]caused suffering to its people. So
+General Lawrence's rebellion is
+completely understandable.[A][ClearBox][TargetRight]Jeigan! How can you say things
+so casually? If we don't inform Hardin of
+the truth, more innocent people will be killed.[A][ClearBox][TargetLeft]Sire,[Pause=3] I understand how you feel.[Pause=3]
+However, Lawrence has begun a rebellion.[Pause=3][A][ClearBox]That much seems to be true, so we ought
+to do something about that first.[A][ClearBox]Sire, why don't you try speaking to
+General Lawrence personally?[A][ClearBox]
+[TargetRight]But the rebels don't know that we're
+from Aritia.
+Can we reach the fortress safely?[A][ClearBox][TargetLeft]Don't worry.
+Most of the rebels have already fled.
+All that remains is Lawrence, and the[A][ClearBox]children in the fortress. Blocking our
+path are only bandits, who have taken
+advantage of the confusion to raid[A][ClearBox]villages. They are no problem for us.
+You can order Alan to defeat them
+in one blow if you want. However,[A][ClearBox]your highness, we have some fresh
+recruits in our army that could use
+some fighting experience.[A][ClearBox]To them, bandits are relatively strong foes.
+So be careful not to push them too much.
+If possible, I would have liked to fight as[A][ClearBox]well, but my body is not what it used to be.
+Allow me to stay by your side and serve
+as your tactician.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS001_OP1_03A_PCF1
+Well then, sire;[Pause=3] let us march onwards[FreezeMouth]![UnfreezeMouth][A][ClearBox][Unknown0x4=F][X]
+
+MS001_OP1_03A_PCM1
+Well then, sire;[Pause=3] let us march onwards[FreezeMouth]![UnfreezeMouth][A][ClearBox][Unknown0x4=F][X]
+
+MS001_OP1_03B
+Well then, sire;[Pause=3] let us march onwards[FreezeMouth]![UnfreezeMouth][A][ClearBox][Unknown0x4=F][X]
+
+MS001_EV0
+[TargetLeft][LoadPortrait=BANDIT][LoadBackground=BBG38][TargetLeft]Oh? A battle, is it?[Pause=3] We're in luck, boys!
+Let's loot 'em villages before 'ey realize
+what's hit 'em[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS001_EV1
+[TargetLeft][LoadPortrait=ROLENSE][TargetRight][LoadPortrait=OGUMA][LoadBackground=BBG40][TargetLeft]Alright,[Pause=3] that will do for now[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Sir Oguma,[Pause=3] please forgive me for getting you
+involved in this mess.[A][ClearBox][TargetRight]I am here on King Talis's orders.[A][ClearBox]As such, I will do everything in my power to
+help.[A][ClearBox][TargetLeft]I see[FreezeMouth]...[UnfreezeMouth] Then I have a favor to ask of you.[Pause=3]
+I want you to escort these children to
+Macedonia.[A][ClearBox]These children[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Prince Yubello and Princess Yumina,
+are King Grunia's orphans.[A][ClearBox]I have always been protecting them in
+secret, but that is no longer possible.[A][ClearBox]If they fell into General Lang's hands, I
+bet he would execute them without question.[A][ClearBox]Please.
+Take them safely to Lord Wendel in
+Macedonia.[A][ClearBox][TargetRight]Understood[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I will guard these two with my life.[A][ClearBox][TargetLeft]Thank you, [Pause=3]Sir Oguma[FreezeMouth]...[UnfreezeMouth][A]
+[ClearBox][TargetRight][LoadPortrait=YUMINA][TargetLeft]Now, [Pause=3]Prince Yubello, [Pause=3]Princess Yumina,
+you will be leaving with Sir Oguma.[A][ClearBox][TargetRight]No[FreezeMouth]![UnfreezeMouth][Pause=3] I'm not going![Pause=3]
+I won't leave you behind![A][ClearBox][TargetLeft]Princess[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I cannot go.[A][ClearBox]With this wound, I can barely even walk.[A][ClearBox]It saddens me, but you two must go on
+without me.[A][ClearBox][TargetRight]You took that grievous wound to protect us[FreezeMouth]...[UnfreezeMouth][A][ClearBox]How can you tell us to just leave you behind
+now[FreezeMouth]?![UnfreezeMouth][A][ClearBox]I[Pause=3] will never leave.[Pause=3]
+We will never leave your side, Lawrence[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=OGUMA]What shall I do, [Pause=3]General?[A][ClearBox][TargetLeft]Hmm[FreezeMouth]...[UnfreezeMouth] this is most troublesome.[A][ClearBox]Princess Yumina is not one to change her
+mind easily[FreezeMouth]...[UnfreezeMouth][Pause=3] We will remain here.[A][ClearBox][TargetRight]In that case,[Pause=3] I will find some other way to
+help you.[A][ClearBox]I will find Lang and bring him down[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I will bury him with this sword, I swear on it.[A][ClearBox]General Lawrence,[Pause=3] you must hold out until then[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS001_TK1
+[TargetLeft][LoadPortrait=ROLENSE][TargetRight][LoadPortrait=MARS][LoadBackground=BBG40][TargetLeft]Prince Marth[FreezeMouth]![UnfreezeMouth]
+So it is you[FreezeMouth]...[UnfreezeMouth][A][ClearBox]How unfortunate,[Pause=3] that I must fight[FreezeMouth]...[UnfreezeMouth]
+the Aritian Army and its prince[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Please, wait.[Pause=3]
+I do not wish to fight with you.[A][ClearBox]I heard about everything from the villagers.[Pause=3]
+I've heard of all the atrocities Akaneia
+has committed.[A][ClearBox]I promise, I will inform Emperor Hardin of
+the truth and rescue Grunia.[A][ClearBox]So please,[Pause=3] lower your weapons.[A][ClearBox][TargetLeft]Prince[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I am [Pause=3]grateful for the offer.[A][ClearBox]But,[Pause=3] I am afraid that I cannot comply.[Pause=3]
+Prince, you know nothing.[A][ClearBox]Do you think that a man of Emperor Hardin's
+caliber would make a general out of a man as
+worthless as Lang without good reason?[A][ClearBox]He called for an invasion: to crush the
+kingdom of Grunia and make it a territory
+of the Empire.[A][ClearBox][TargetRight]No, it can't be[FreezeMouth]![UnfreezeMouth][Pause=3]
+Hardin would never do something like that.[A][ClearBox][TargetLeft]I know it's hard to believe.[Pause=3]
+But I'm afraid that, ever since he became
+emperor, he has changed a great deal.[A][ClearBox]He is no longer the Hardin you once knew.[A][ClearBox]Prince,[Pause=3] I have one final request of you.[A][ClearBox]In this stronghold, [Pause=3]I am protecting the young
+prince and princess of Grunia.[A][ClearBox]Please, find a way to help them.[A][ClearBox]If you can do just that, I will have no regrets.[A][ClearBox][TargetRight][FreezeMouth]What...[UnfreezeMouth][Pause=3]
+General Lawrence, what are you saying[FreezeMouth]...[UnfreezeMouth][FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetLeft]Prince Marth[FreezeMouth]...[UnfreezeMouth]
+My life in exchange for theirs[FreezeMouth]...[UnfreezeMouth][Pause=3]
+By any means necessary, please help them[FreezeMouth]...[UnfreezeMouth][A][ClearBox]This is the last thing I will ask[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS001_TK1_2
+[TargetRight]General Lawrence[FreezeMouth]!![UnfreezeMouth][A][ClearBox][FreezeMouth]......[UnfreezeMouth]This can't be happening[FreezeMouth]......[UnfreezeMouth][A][ClearBox][X]
+
+MS001_H1
+[TargetCenter][LoadPortrait=LADY][LoadBackground=BBG25]I only saw him briefly, but that knight, Alan,
+looked awfully pale.[A][ClearBox]You know,[Pause=3] he's probably hit the wall, so to
+speak.[A][ClearBox]I doubt he'll get any stronger, no matter how
+much he fights[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS001_H2
+[TargetCenter][LoadPortrait=UNCLE][LoadBackground=BBG25]There aren't any young girls left in this
+country.[A][ClearBox]They were all taken away by the imperial
+troops.[A][ClearBox]They say General Lang keeps the really
+pretty ones to himself.[A][ClearBox]What a dark, insane chapter in Grunia's
+history...[A][ClearBox][X]
+
+MS001_H3
+[TargetCenter][LoadPortrait=OLDMAN][LoadBackground=BBG25]The late King Grunia had two children.[A][ClearBox]Princess Yumina and Prince Yubello.
+They're still young.[A][ClearBox]Maybe thirteen,[Pause=3] or fourteen;[Pause=3]
+cute little twins, both of them.[A][ClearBox]In the last war, Garnef, the Demon King,
+kidnapped the twins to blackmail the king.[A][ClearBox]They were taken to Khadein, the city of magic,
+and locked away in a pitch-black room.[A][ClearBox]At great personal risk, Archbishop Wendel
+saved them.[A][ClearBox]He took them to a monastery to protect them.[A][ClearBox][X]
+
+MS001_H4
+[TargetCenter][LoadPortrait=MAN1][LoadBackground=BBG25]General Lawrence took the royal children from
+Lord Wendel and raised them in Grunia.[A][ClearBox]The empire demanded their extradition,
+but Lawrence was afraid they would be killed,
+and hid them.[A][ClearBox]The empire branded Lawrence a traitor,
+and sent General Lang here.[A][ClearBox]Lang did horrible things[Pause=3] to find the royal
+children.[Pause=3] That's why we rose up.[A][ClearBox]But,[Pause=3] we lost.[Pause=3]
+And now Lang is going to kill everyone in
+this entire country[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS001_H5
+[TargetCenter][LoadPortrait=MAN1][LoadBackground=BBG25]I heard that General Lawrence lived in Talis
+when he was young.[A][ClearBox]Talis wasn't unified at the time, so there
+were a number of noble houses contending
+for control.[A][ClearBox]Lawrence lent his power to the young patriarch
+of one house,[Pause=3] and together they unified
+Talis into one country.[A][ClearBox]Lawrence and that patriarch[SpecialSymbol=0x96]now the king of
+Talis[SpecialSymbol=0x96]remain close friends to this day.[A][ClearBox][X]
+
+MS001_H6
+[TargetCenter][LoadPortrait=WOMAN1][LoadBackground=BBG25]After the last war,[Pause=3] Princess Nina let this
+country keep its sovereignty under the rule
+of General Lawrence.[A][ClearBox]However,[Pause=3] as soon as Hardin became
+emperor, General Lawrence was banished
+and Lang's troops came crawling in.[A][ClearBox]Lang stole everything from us.[A][ClearBox]He stole our gold, of course,[Pause=3] but he even
+stole our food and our loved ones[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Ah[FreezeMouth]...[UnfreezeMouth][Pause=3]
+If only General Camus were here![A][ClearBox]Then we wouldn't have to live in fear of
+people like Lang![A][ClearBox][X]
+
+MS001_VIL1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG26][TargetLeft][LoadPortrait=OLDWOMAN][TargetLeft]Oh[FreezeMouth]...[UnfreezeMouth]
+Please, show mercy to just this child.[Pause=3]
+She's only ten years old.[A][ClearBox][TargetRight][FaceCommand=0x73]Ma'am,[Pause=3] please calm yourself.[Pause=3]
+I am not here to take any children.[A][ClearBox][TargetLeft][FaceCommand=0x61]What[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You're not imperial soldiers?[A][ClearBox][TargetRight][FaceCommand=0x73]No[FreezeMouth]...[UnfreezeMouth] We're not.[Pause=3]
+We didn't come to fight.[A][ClearBox]If there's anything you need, please ask.[Pause=3]
+It's not much, but we can give you food.[A][ClearBox][TargetLeft][LoadPortrait=MARICIA][TargetLeft][FaceCommand=0x61]Wait[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Please,[Pause=3] take me with you[FreezeMouth]...[UnfreezeMouth][A]
+[ClearBox][TargetRight][FaceCommand=0x61]Huh[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+You're[FreezeMouth]...[UnfreezeMouth] Are you really ten?[A][ClearBox][TargetLeft]No[FreezeMouth]...[UnfreezeMouth] I'm a grown woman, but[Pause=3] Granny lied so
+that I wouldn't be taken away by the soldiers.[A][ClearBox]Lang's soldiers are all monstrous.[Pause=3]
+But you're different.[Pause=3]
+You have very sweet eyes.[A][ClearBox]Please, [Pause=3]take me with you.[Pause=3]
+I want you to take me away from this
+country, and take me to yours.[A][ClearBox][TargetLeft][LoadPortrait=OLDWOMAN]It's not safe for her to stay here.[Pause=3]
+Please take her with you, and protect her.[A][ClearBox]You can marry her, too, if you like.[A][ClearBox]Malliesia is a beautiful, good-natured lady,
+just like me[FreezeMouth]![UnfreezeMouth][Pause=3] I'm sure she'll make a fine
+wife.[A][ClearBox][TargetRight][LoadPortrait=MARICIA][FaceCommand=0x73]No-no-no[FreezeMouth]![UnfreezeMouth][Pause=3]
+Granny, it's far too early for that[FreezeMouth]![UnfreezeMouth][Pause=3]
+Now you've made Malliesia all flustered[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS001_BT_BOSS
+[TargetLeft][LoadPortrait=ROLENSE][LoadBackground=]What[FreezeMouth]?![UnfreezeMouth][Pause=3] You're[FreezeMouth]...[UnfreezeMouth][Pause=3] the Aritian army?![A][ClearBox]So even Aritia has turned on us[FreezeMouth]...[UnfreezeMouth][A][X]
+
+MS001_DIE_BOSS
+[TargetLeft][LoadPortrait=ROLENSE][LoadBackground=]Forgive me,[Pause=3] people of Grunia[FreezeMouth]...[UnfreezeMouth][A][X]
+
+MS001_ED0
+[TargetLeft][LoadPortrait=VILHEAD][TargetRight][LoadPortrait=MARS][LoadBackground=BBG40][TargetLeft]Prince Marth[FreezeMouth]...[UnfreezeMouth][Pause=3]
+General Lawrence entrusted everything to you.[A][ClearBox]You spared his life,[Pause=3] and even heard him out.[Pause=3]
+We, the people of Grunia, thank you.[A][ClearBox]Please, let me offer you a token of our
+gratitude.[Pause=3] Here.[A][ClearBox]We're protecting Prince Yubello and
+Princess Yumina in this stronghold.[Pause=3][A][ClearBox]I beg you, do what you must to protect
+our last fragments of hope[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS001_ED1
+[TargetLeft][LoadPortrait=YUBELLO][TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetRight]You, you're[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Grunia's royal heirs[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Prince Yubello and Princess Yumina[FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ec]Sniff[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Lawrence[FreezeMouth]...[UnfreezeMouth] He's gone.[Pause=3]
+How can we live on without him?[A][ClearBox][TargetLeft][RemovePortrait][TargetLeft][LoadPortrait=YUMINA][EyeCommand=ed]You monsters[FreezeMouth]!![UnfreezeMouth][Pause=3] Stay away[FreezeMouth]![UnfreezeMouth][Pause=3]
+Otherwise, we'll kill ourselves[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetRight]No, you have it all wrong![FreezeMouth]![UnfreezeMouth][Pause=3]
+We just[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS001_ED1_01
+[TargetLeft][LoadPortrait=RANG][TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetLeft]Ah[FreezeMouth]...[UnfreezeMouth] Prince Marth.[Pause=3]
+You finally caught these filthy traitors.[A][ClearBox][TargetRight]General Lang[FreezeMouth]![UnfreezeMouth][Pause=3] Wait, please![Pause=3]
+These children have done nothing wrong.[Pause=3]
+Allow me to take custody of them.[A][ClearBox][TargetLeft]Don't make me laugh.[Pause=3]
+These brats are coming with me to my castle.[A][ClearBox]I must also execute them as soon as
+possible, so that other people dare
+not defy us.[A][ClearBox]Besides, my dear prince,[Pause=3] you have other,
+more important, priorities.[A][ClearBox]I have received reports that there
+has been a military revolt in Macedonia,
+and Princess Minerva has been imprisoned.[A][ClearBox][TargetRight]What[FreezeMouth]...?![UnfreezeMouth]
+How could that happen to Macedonia[FreezeMouth]?![UnfreezeMouth][A]
+[ClearBox]I understand my obligations,[Pause=3] General Lang.[Pause=3]
+If it's to rescue Princess Minerva,
+I will gladly go.[A][ClearBox]Still,[Pause=3] these children[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Let them stay with me,[Pause=3] please.[A][ClearBox][Unknown0x4=F32][TargetLeft]Prince, do not try my patience[FreezeMouth]![UnfreezeMouth][Pause=3]
+Listen up you two! You're coming with me[FreezeMouth]![UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS001_ED1_02
+[TargetRight][LoadPortrait=YUMINA][TargetRight]No,[Pause=3] let me go[FreezeMouth]!![UnfreezeMouth][Pause=3]
+Yubello[FreezeMouth]...[UnfreezeMouth][Pause=3] help me[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=YUBELLO]Yumina[FreezeMouth]...[UnfreezeMouth][Pause=3] Yumina[FreezeMouth]...!![UnfreezeMouth][A][ClearBox][X]
+
+MS001_ED1_03_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetRight]Wait[FreezeMouth]!![UnfreezeMouth][Pause=3]
+Lang[FreezeMouth]![UnfreezeMouth][Pause=3] Release them at once[FreezeMouth]![UnfreezeMouth][A][ClearBox]
+[TargetRight][LoadPortrait=JEIGUN]Sire,[Pause=3] don't do it[FreezeMouth]!![UnfreezeMouth][Pause=3][A][ClearBox]
+If we oppose Lang right here, right now,
+we run the risk of being branded traitors
+by Akaneia.[A][ClearBox][TargetLeft][LoadPortrait=MARS]But Jeigan,[Pause=3] are you telling me to simply allow
+Lang to take them[FreezeMouth]?![UnfreezeMouth][Pause=3]
+I cannot stand for that[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]I understand how you feel, sire[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But please remain patient for a little longer[FreezeMouth].[UnfreezeMouth][A][ClearBox]If we head to Macedonia[FreezeMouth]...[UnfreezeMouth][Pause=3] then rescue
+Princess Minerva, Macedonia will surely lend
+us its strength.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS001_ED1_03_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetRight]Wait[FreezeMouth]!![UnfreezeMouth][Pause=3]
+Lang[FreezeMouth]![UnfreezeMouth][Pause=3] Release them at once[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=JEIGUN]Sire,[Pause=3] don't do it[FreezeMouth]!![UnfreezeMouth][Pause=3][A][ClearBox]If we oppose Lang right here, right now,
+we run the risk of being branded traitors
+by Akaneia.[A][ClearBox][TargetLeft][LoadPortrait=MARS]But Jeigan,[Pause=3] are you telling me to simply allow
+Lang to take them[FreezeMouth]?![UnfreezeMouth][Pause=3]
+I cannot stand for that[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]I understand how you feel, sire[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But please remain patient for a little longer[FreezeMouth].[UnfreezeMouth][A][ClearBox]If we head to Macedonia[FreezeMouth]...[UnfreezeMouth][Pause=3] then rescue
+Princess Minerva, Macedonia will surely lend
+us its strength.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+
+[X]
+

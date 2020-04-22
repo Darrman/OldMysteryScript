@@ -1,0 +1,7 @@
+MSUP_001
+[TargetLeft][LoadPortrait=MARS][TargetRight][LoadPortrait=JEIGUN][LoadBackground=BBG75][TargetRight]Sire,[Pause=2] we've received an offer of help.[Pause=4]
+It would seem there are those who wish to
+join our ranks.[A][ClearBox][TargetLeft]We do sorely need the help...[Pause=4]
+If they still wish to fight,[Pause=3] tell them I will
+gladly have them![A][X]
+

@@ -1,0 +1,613 @@
+PROLOGUE:
+Eliminated. No need to revise it!
+(Clobber some scenes in Prologue 1 and put Tapestry and Mystery of the Emblem cutscenes in their place.)
+
+CHAPTER 1:
+MTUTS_TRANSPORTER, ...R:
+Removed
+
+OP1: (Lang introduces himself)
+No changes
+
+OP1_02: (Jeigan explains the situation)
+Severely cut down from FE3
+Partially moved to "Expeditionary Forces" base convo in FE12, but details about Lang are gone
+
+OP1_03A: Kris variant, replace with non-Kris variant... which is just the final line of FE3's intro
+
+EV0:
+Not in FE3, but not Kris, retain
+
+EV1: (Lawrence and Oguma event)
+Implication that Lang will kill the twins restored
+
+TK1: (Lawrence blows up)
+No changes. Restoring the explosion is beyond me.
+
+Houses aren't a priority. The 1st of April is dangerously close.
+
+VIL1: (Recruiting Malliesia)
+No changes. I won't kill Malliesia's third person talk, it's in the original.
+
+ED0:
+Not in the original. Retaining.
+
+ED1: (You find the twins)
+Lang killing the kids removed again, Yumina no longer threatens suicide, pointless Kris interjection, Marth doesn't explicitly go to Macedonia for Minerva's sake anymore
+
+ED1_02: (And Lang runs off with them)
+No changes, Lang still takes the kids away
+
+_03: Kris interjection removed
+
+CHAPTER 2:
+
+MS002_OP0:
+Additional Kris scene; cutting
+
+MTUTS_FE24
+I won't disable How's Everyone (I don't know how) but I'll cut its tutorial
+
+OP1: (Katua flies in)
+No change
+
+I know one house got changed because the boss doesn't have a knight killer in FE12 anymore
+
+TK1: (Recruiting Warren)
+No change
+
+ED1: (Linda gives you the FE)
+Shut up Kris, FE12 weakens implications of Linda wandering around alone
+
+VIL1:
+Not in the original game. Don't care enough to re-cut the removed characters. 
+
+CHAPTER 3:
+
+MS003_OP0:
+Kris scene, removing
+
+OP1: (Rena's disappeared)
+Julian doesn't tell Paola he can't help save Maria anymore
+
+EV1: (Misheil's alive)
+Ryuke suggests Minerva is merely dying instead of dead
+
+VIL1: (Recruiting Julian)
+No change
+
+VIL2: (Silver Axe)
+Completely replaced, Silver Axe becomes an axe guy
+
+VIL3:
+A textless hidden event in the original
+
+TK1: (Recruiting Machis)
+No change
+
+ED1:
+Jeigan doesn't call Lang nonsensical anymore
+
+ED2: (Jeigan's finest hour)
+Kris butts in and steals the limelight, scene flow in general gets muddled. Kris motivates Marth when he opens his gob instead of Marth taking the initiave when the twins are safe
+They did program a non-Kris version, but it uses Kris anyway
+ED2_02:
+More reshuffling of line positions, most removed lines are unimportant, most important loss is that Marth doesn't resolve to save the twins anymore, even if it involves fighting Lang
+
+ED3: (Lang's run off now)
+Jeigan doesn't jab Lang as much, Kris steals a line from him here too, Marth doesn't care about Minerva anymore
+
+ED4:
+Not in the original game, a gaiden entry. I'll leave Kris intact for gaiden related stuff. Interestingly there's a yes to gaiden option, so maybe they could be declined at some point...
+
+CHAPTER 4:
+
+MS004_OP0:
+Kris scene, removed.
+
+OP1: (Oguma and the kids)
+No changes.
+
+EV1:
+Not in the original, reinforcement warning added. Retaining.
+
+TK1: (Recruiting Sirius)
+No changes.
+
+VIL1: (Recruiting Kashim)
+No changes.
+
+VIL2: (Wendel's Shaver)
+No changes.
+
+ED1: (Sheeda escapes)
+Jeigan no longer apologies for attacking Lang, his lines on chivalry are also gone, Kris line removed, Sheeda no longer mentions Abel and Est
+
+ED2:
+Hair lines, severely truncated to avoid anything breaking
+
+CHAPTER 5:
+
+MTUTS_TRAINING:
+Drill grounds advertising, removed.
+
+MS005_OP1: (Lang leaves a ballista to guard the Nest of Vice)
+No changes.
+
+EV0:
+Reinforcement warning, retained.
+
+EV1: (George gets his orders)
+Moved from Turn 2 Enemy Phase to chapter opening, no dialogue changes
+
+TK1: (Recruiting Ricardo)
+No real changes. The heart isn't that important.
+
+TK2, 3, 4: 
+Not in the original game. Barts is the best axe guy.
+
+VIL1: (Rena's gone, old man)
+No changes.
+
+ED1: Removed Kris line.
+
+CHAPTER 6:
+
+MS006_OP0:
+Kris lines, removed.
+
+OP1 (Lang's last stand):
+No changes.
+
+EV0:
+Not in the original game. Reinforcement warning.
+
+EV1:
+Not in the original game. Frey comes back from the dead.
+
+TK1: (Ch6 Ricardo version)
+No changes.
+
+TK2: (Recruiting Samto, Sheeda version)
+No changes.
+
+TK3: (Recruiting Samto, Oguma version)
+No changes.
+
+ED1: (Wendel got locked up here)
+Lang's motivation for imprisoning him changed: he was conscripted into dealing with the Grunians in FE3, while he's accused of collaborating with them in the remake. Info on the state of Khadein also disappeared. Wendel no longer directly asks Marth to find the Star Shards.
+
+ED1_ADD:
+Kris scene, removed.
+
+CHAPTER 7:
+
+MS007_OP0:
+Kris scene, removed.
+
+OP1: (Oh, Feena)
+No changes.
+
+EV1:
+Not in the original game, reinforcement warning and AI hints.
+
+EV2:
+Not in the original game, the dragon just appears when you approach.
+
+ED1: (The Guardian God Narga)
+Marth no longer reacts to Raman's destruction, Kris cameos, no number dropped for the remaining human population, no name dropped for the Akaneian holy book 
+
+ED2:
+Kris gets a pope hat, truncated to avoid issues.
+
+CHAPTER 8:
+MS008_OP0:
+Kris scene, removed.
+
+OP1: (Kain rides in)
+Kris line removed
+
+EV1: (Time's up, Hardin's moving)
+No change.
+
+EV2:
+Not in the original, more foreboding for Hardin's first appearance
+
+EV3:
+Not in the original, serves a similar purpose
+
+TK1: (Recruiting George)
+No change.
+
+TK2:
+Not in the original, Marth can recruit George as well in the remake.
+
+TK3:
+Not in the original, Sheeda recruits Roger here.
+
+VIL1: (Banutu lost his stone again)
+No change.
+
+ED1:
+FE12 makes Kris the hero here. Not on my watch, he isn't.
+
+ED2:
+Not in the original. Hat returning scene, clipped down severely.
+
+CHAPTER 9:
+
+MS009_OP0:
+Removed.
+
+OP1: (Misheil leaves Minerva in the desert)
+Misheil no longer details how he'd stab Durhua in the back once he was done with them, implication that Maria saved his life weakened, Misheil isn't an atheist anymore
+
+OP2: (Khadein is on Akaneia's side)
+Kris significantly intrudes here, these lines removed
+
+EV1:
+Not in the original, reinforcement warning.
+
+EV2:
+Not in the original, Astria makes his presence known. They even have a variant if he's dead!
+
+TK1:
+Not in the original, Etzel recruitment.
+
+VIL1: (Recruiting Minerva)
+No changes.
+
+ED1: (Into Khadein temple we go)
+Marth isn't concerned about Marich anymore
+
+CHAPTER 10:
+MS010_OP0:
+Kris scene, you know the drill.
+
+OP1: (Excalibur versus Thoron)
+
+Ellerean no longer accuses Marich of getting Excalibur just because he's a noble, Marich no longer apologises to him and no longer says he's Wendel's only possible successor, Ellerean accuses Aritia of invading Akaneia instead of being punished for rebelling
+
+EV1:
+Not in the original, hint for the Silver Card
+
+TK1: (Wendel snaps Ellerean out of it)
+Wendel no longer mentions Garnef was a good man once, doesn't rhetorically ask if Ellerean follows in Garnef's footsteps anymore
+
+ED1: (Your next mission: Anri's Way)
+Marth somehow summoned Gato originally, Marth doesn't ask why Hardin's invincible, positive aspects of the Dark Orb stripped away, FE12 has the Dark Orb go with instead of against the Light Orb, Marth no longer considers Hardin strong-willed, Anri isn't mentioned as the sole human to clear Anri's Way
+
+ED2:
+Not in the original, Silver Card just appears in the original. Jeigan says the line instead.
+
+ED_BS:
+Not in the original, BSFE characters just appear. Kris lines rewritten to fit Marth, but not a priority.
+
+CHAPTER 11:
+Here starts Anri's Way, that which was horrendeously mutilated in the remake...
+
+MS011_OP0:
+Kris scene, begone.
+
+OP1: (Oh, what did FE12 do to you?)
+Completely and utterly gutted in favour of Kris worship, sections moved to the "Anri Saga" and "Anri's Way" base convos but details are often still missing.
+
+Anri Saga:
+People no longer fought back against the dragons at first.
+
+Anri's Way:
+Dragon breath no longer halves attack, true in gameplay as well as story.
+
+TK1:
+Not in the original, recruiting Jake, sans ballista.
+
+ED1: (Chiki? No, Chainy.)
+Kris lines removed, Chainy isn't angry he had to wait around anymore
+
+CHAPTER 12:
+
+MS012_OP1: (Degeneration.)
+No change. Somehow.
+
+TK1:
+Not in the original, recruiting Daros.
+
+ED1: (Gato's actually a dragon!)
+The fate of the Demon and Flying Dragons is no longer stated, Earth Dragon description severly cut down, FE3 implies Narga had 5000 more years to live but that could be a mistranslation?
+
+ED2: Chainy complaining about the heat becomes Jeigan instead in a Kris scene.
+
+ED_BS:
+More random BSFE guys not in the original!
+
+CHAPTER 13:
+
+MS013_OP0
+Kris. Line. Gone.
+
+OP1: (Why Mediuth fought the humans)
+No longer mentioned that the Divine Dragons are all but extinct, Mediuth no longer fooled the rest of his tribe, Marth goes from reliable to flaky
+
+TK1:
+Not in the original. Beck is here. For some reason.
+
+ED1: (The ins and outs of orbs)
+Better off not knowing becomes long story
+
+ED2:
+Not in the original, gaiden entry.
+
+CHAPTER 14:
+
+MS014_OP1: (Artemis's curse... right?)
+COMPLETELY. AND UTTERLY. DESTROYED. CUTSCENE ALL BUT REMOVED. The scene got moved to the "Artemis's Curse" base convo instead...
+
+Artemis's Curse:
+Marth's replies removed since KRIS gets told all the backstory instead...
+
+OP2: (Stand in front of a wall!)
+Moved from approaching the middle to the actual opening event.
+
+EV1: (Do you have all the star shards?)
+No changes.
+
+EV2_A: (Yes? Good ending, here we come!)
+ADRAH IS NO LONGER STATED TO HAVE STOLE THE SHIELD OF SEALS!!! Marth no longer reacts to that as a result.
+
+EV2_B: (You missed some? Bad ending.)
+No changes.
+
+EV3: (Here's Chiki! For real, this time.)
+Marth doesn't need to wake her up anymore
+
+EV4:
+Not in the original, giving text to not-Marth sitting in front of Gato.
+
+EV5:
+Not in the original, Gato doesn't let you get Chiki if on the bad ending route.
+
+ED1: (Gato feels bad)
+No changes.
+
+ED2: (Garnef's back!)
+No changes.
+
+CHAPTER 15:
+
+MS015_OP0:
+Bye.
+
+OP1:
+No longer mentions Gra soldiers
+
+OP2:
+Not in the original, useless prison armour #1
+
+EV1:
+Not in the original, draws attention to Est
+
+TK1: (Recruiting Abel, Marth edition)
+No changes.
+
+TK2: (Recruiting Abel, Est edition)
+No changes.
+
+VIL1: (Power Ring or Dragon Shield?)
+Marth doesn't tell them to make up anymore
+
+ED1: (Marth doubts himself)
+Kris steals Jeigan's role in perking him up
+
+ED2:
+Kris accessory scene. You know the drill.
+
+CHAPTER 16:
+
+MS016_OP0:
+It's an OP0. Those are Kris scenes. Goodbye.
+
+OP1: (Where's the Earth Orb?)
+Dismount mention removed, since dismount is gone.
+
+OP1_2:
+Not in the original game, useless prison armour #2
+
+TK1: (Took you long enough, Astria)
+Mention of Eibel removed
+
+EV1:
+Not in the original game, hinting towards the chest gimmick
+
+EV2:
+Not in the original, plays when reinforcements begin
+
+ED1: (Ellis ain't here)
+Kris steals Jeigan's first line, Gato doesn't mention Maria anymore
+
+ED2:
+Not in the original, gaiden entrance.
+
+CHAPTER 17:
+
+MS_017_OP0:
+Same as all these scenes.
+
+OP1: (Don't touch the Gra soldiers!)
+Sheema isn't mentioned to have stayed in Pales for a time
+
+EV1:
+Not in the original, event plays when you kill a Gra soldier and turns Sheema red again
+
+EV2:
+As above, if Samson's already dead
+
+TK1: (And Sheema abdicates)
+Isn't mentioned how Aritia split after Anri died
+
+TK2: (Samson's gotta do what he has to do)
+No changes.
+
+VIL1: (My most important treasure~<3)
+No changes.
+
+VIL2:
+Not in the original, useless prison idiot #3
+
+ED1: (MARTH concocts an invasion plan)
+Kris steals Marth's plan, which has less details about the local geography
+
+ED_BS:
+Not in the original, random BSFE encounter.
+
+CHAPTER 18:
+
+MS018_OP0:
+Yep. So long.
+
+OP1: (Tensions in the Wolfguard)
+Zagaro doesn't elaborate on Marth's "conquests"
+
+EV1:
+Not in the original, hinting you must visit the village
+
+VIL1: (Orleans get, Life Orb get)
+Nina doesn't send the King of Orleans a letter anymore detailing Hardin's madness, doesn't ask you to stop attacking his knights, the king doesn't explain how he got the Life Orb
+
+ED1: (Midia's rose in revolt)
+No Kris, you did not come up with the idea, Marth did, Midia no longer leads the coup and mentions of her were removed
+
+CHAPTER 19:
+
+MS019_OP1: (Akaneia's sick of the Dark Emperor)
+Kris takes some of Jeigan's lines but details are missing about the army composition
+
+EV1:
+Not in the original game, enter Biraku
+
+TK1:
+Not in the original, Roshe recruits Biraku
+
+TK2:
+...Biraku recruits Zagaro...
+
+TK3:
+...and Zagaro recruits Wolf.
+
+VIL1: (Roshe, the sole survivor)
+Hints added for the Wolfguard chain recruitment. Remake added a variant if he's dead.
+
+ED1: (You look rough, Boa)
+Marth doesn't mention Camus, Garnef doesn't pose as a Dark Orb merchant, Nina and Boa don't communicate anymore, implication of sacrifice weakened
+
+CHAPTER 20:
+
+MS020_PRE1: (Don't forget the Light Orb)
+No changes.
+
+OP1: (Midia's on the chopping block)
+No changes.
+
+EV1: (Only room for one hero)
+Gradius no longer name-dropped
+
+Bad Ending: (The sisters saved themselves. I swear!)
+Marth doesn't notice the "sisters" look off and "Nina" doesn't need to handwave it, "Nina" doesn't talk about Marth's "remaining time" anymore
+
+ED1_A: (Good ending confirmed!)
+Marth thinks the sisters are safe in the good ending as well, some Jeigan lines were stolen by Kris
+
+CHAPTER 21:
+
+MS_021_OP1: (We're on the border)
+Additional Kris line
+
+EV1:
+Not in the original game, Ymir joins
+
+EV2:
+Not in the original, Minerva saves Misheil
+
+VIL1: (Gimme Starlight, you dead man)
+Misheil assumes Minerva is always alive
+
+ED1: (Gato catches on to the plot)
+No changes.
+
+ED2:
+Not in the original, Kris hat scene.
+
+ED3:
+Not in the original, conformation Misheil's death has been reversed.
+
+FINAL CHAPTER 1:
+MS022_OP0: (Bring the sisters' relatives... now.)
+Kris hat reaction. Original pre-battle prep scene completely removed, and will be restored in its place.
+
+OP1: (Don't wait about!)
+Nagi introduction added onto the original scene.
+
+EV1:
+Not in the original, Nagi introduction proper.
+
+ED1: (Wall!)
+Kris steals Jeigan's line, walls become stairs
+
+ED2:
+Not in the original, Kris hat reaction.
+
+FINAL CHAPTER 2:
+MS023_OP0:
+Yet more Kris stuff...
+
+OP1: (Long time no see, Garnef)
+Removed repetition of the sisters being sacrifices
+
+ED1: (Stairway!)
+Kris steals Jeigan's line.
+
+FINAL CHAPTER 3:
+
+MS024_OP0
+Final one of these. Good night, additional Kris scenes.
+
+OP1: (You might need to kill them, Marth)
+Princess pain becomes utter mayhem
+
+OP2:
+Not in the original, Kris snatches the spotlight in this addendum
+
+TK1: (Saving Rena)
+No changes.
+
+TK2: (Saving Maria)
+No changes.
+
+TK3: (Saving Nina)
+Camus's first and third lines are gone, Nina doesn't acknolwedge Camus didn't die
+
+TK4: (Saving Ellis)
+No changes.
+
+EV2:
+Not in the original, indication that all the sisters are safe
+
+TRUE ENDING:
+
+MSGED_24_ED1: (The dragons are saved!)
+No changes, but displays if Chiki is dead now.
+
+ED1_2_A/B: (No more sleeping for Chiki)
+No changes.
+
+ED1_2_D: (The world's safe, but your girlfriend's dead)
+No changes.
+
+ED2: (Malliesia knows she's beaten)
+No changes.
+
+ED3: (Come on, spit it out, you two!)
+No changes.
+
+There's a ton of additional scenes, which I won't touch. Bar one exception...
+MSGED_ED2(A/B):
+Nuked. From. Orbit. The last words are Sheeda saying "I love you" to Marth, not Marth saying "You're my other half" to Kris.

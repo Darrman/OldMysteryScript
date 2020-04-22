@@ -1,0 +1,260 @@
+MDIE_ABEL
+[TargetRight][LoadPortrait=ABEL][LoadBackground=][TargetRight]Est[FreezeMouth]...[UnfreezeMouth] Farewell[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_ARAN
+[TargetRight][LoadPortrait=ARAN][LoadBackground=][TargetRight]To find my end[FreezeMouth]...[UnfreezeMouth][Pause=3] in battle[FreezeMouth]...[UnfreezeMouth][Pause=3]
+was my one true wish[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_ASTRIA
+[TargetRight][LoadPortrait=ASTRIA][LoadBackground=][TargetRight]Goodbye[FreezeMouth]...[UnfreezeMouth] Midia[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_ATHENA
+[TargetRight][LoadPortrait=ATHENA][LoadBackground=][TargetRight]Ve[FreezeMouth]...[UnfreezeMouth][Pause=3] vere[FreezeMouth]...[UnfreezeMouth] too veak[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_BANUTU
+[TargetRight][LoadPortrait=BANUTU][LoadBackground=][TargetRight]Forgive me[FreezeMouth]...[UnfreezeMouth][Pause=3] Chiki[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_BARTS
+[TargetRight][LoadPortrait=BARTS][LoadBackground=][TargetRight]Sorry[FreezeMouth]... [UnfreezeMouth]
+This was all I could do[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_BECK
+[TargetRight][LoadPortrait=BECK][LoadBackground=][TargetRight]D-damn[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You, too[FreezeMouth]...[UnfreezeMouth] Pony[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_BELF
+[TargetRight][LoadPortrait=BELF][LoadBackground=]Sir Camus[FreezeMouth]...[UnfreezeMouth] I had so much to[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_BIRAKU
+[TargetRight][LoadPortrait=BIRAKU][LoadBackground=][FreezeMouth]...[UnfreezeMouth]Coyote[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_BOHA
+[TargetRight][LoadPortrait=BOHA][LoadBackground=][TargetRight]Princess Nina[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Please forgive me[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_CECIL
+[TargetRight][LoadPortrait=CECIL][LoadBackground=]Prince Marth[FreezeMouth]...[UnfreezeMouth] It was an honor[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_CHEINE
+[TargetRight][LoadPortrait=CHEINE][LoadBackground=][TargetRight]So long, princey[FreezeMouth]...[UnfreezeMouth]
+It's been[FreezeMouth]...[UnfreezeMouth] fun[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_DAROSS
+[TargetRight][LoadPortrait=DAROSS][LoadBackground=][FreezeMouth]...[UnfreezeMouth]So this be[FreezeMouth]...[UnfreezeMouth] me obvious reward[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_DICE
+[TargetRight][LoadPortrait=DICE][LoadBackground=]What's going' on[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Maris, where are ya[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_DOHGA
+[TargetRight][LoadPortrait=DOHGA][LoadBackground=][TargetRight]Luck be[Pause=3] with you, sire[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_ELREAN
+[TargetRight][LoadPortrait=ELREAN][LoadBackground=]Master Wendel[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_ERICE
+[TargetRight][LoadPortrait=ERICE][LoadBackground=][TargetRight]Ohh[FreezeMouth]...[UnfreezeMouth] Marich[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_EST
+[TargetRight][LoadPortrait=EST][LoadBackground=][TargetRight]Nngh[FreezeMouth]...[UnfreezeMouth] Abel[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_ETZEL
+[TargetRight][LoadPortrait=ETZEL][LoadBackground=][TargetRight]This war[FreezeMouth]...[UnfreezeMouth][Pause=3] will[FreezeMouth]...[UnfreezeMouth][Pause=3] someday[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_FINA
+[TargetRight][LoadPortrait=FINA][LoadBackground=]Navarre[FreezeMouth]...[UnfreezeMouth]
+Save me[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_FREY
+[TargetRight][LoadPortrait=FREY][LoadBackground=][TargetRight]Luck be[Pause=3] with you, sire[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_FROST
+[TargetRight][LoadPortrait=FROST][LoadBackground=]If my family is safe[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I am[FreezeMouth]...[UnfreezeMouth] satisfied[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_GATO
+[TargetRight][LoadPortrait=GATO][LoadBackground=][TargetRight]To think[FreezeMouth]...[UnfreezeMouth][Pause=3] I would fall here[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_GOHDON
+[TargetRight][LoadPortrait=GOHDON][LoadBackground=][TargetRight]Forgive me[FreezeMouth]...[UnfreezeMouth] Ryan[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_HORUS
+[TargetRight][LoadPortrait=HORUS][LoadBackground=][TargetRight]I cannot[FreezeMouth]...[UnfreezeMouth][Pause=3] die here[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_HYMIR
+[TargetRight][LoadPortrait=HYMIR][LoadBackground=][TargetRight]Was I[FreezeMouth]...[UnfreezeMouth] useful, everyone[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_JEIK
+[TargetRight][LoadPortrait=JEIK][LoadBackground=][TargetRight]Anna[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Forgive[FreezeMouth]...[UnfreezeMouth][Pause=3] me[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_JORJUE
+[TargetRight][LoadPortrait=JORJUE][LoadBackground=][TargetRight]Princess Nina[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I fought[FreezeMouth]...[UnfreezeMouth] my best[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_JURIAN
+[TargetRight][LoadPortrait=JURIAN][LoadBackground=][TargetRight]Sorry[FreezeMouth]...[UnfreezeMouth] Rena.[A][ClearBox][X]
+
+MDIE_KAIN
+[TargetRight][LoadPortrait=KAIN][LoadBackground=][TargetRight]Luck be[Pause=3] with you, sire[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_KASHIM
+[TargetRight][LoadPortrait=KASHIM][LoadBackground=][TargetRight]Mother[FreezeMouth]...[UnfreezeMouth] I'm sorry[FreezeMouth]...[UnfreezeMouth]
+I can't send you more gold[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_KATARINA
+[SpecialText0x14][TargetRight][LoadPortrait=KATARINA][LoadBackground=][FreezeMouth]...[UnfreezeMouth][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_KATUA
+[TargetRight][LoadPortrait=KATUA][LoadBackground=][TargetRight]Prince Marth[FreezeMouth]...[UnfreezeMouth] Please, be well[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_LEIDEN
+[TargetRight][LoadPortrait=LEIDEN][LoadBackground=]I, Leiden[FreezeMouth]...[UnfreezeMouth][Pause=3]
+leave this world[FreezeMouth]...[UnfreezeMouth] with no regrets[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_LIAN
+[TargetRight][LoadPortrait=LIAN][LoadBackground=]Gordon[FreezeMouth]...[UnfreezeMouth] brother[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MAJI
+[TargetRight][LoadPortrait=MAJI][LoadBackground=][TargetRight]It can't be helped[FreezeMouth]... [UnfreezeMouth]
+I leave the rest to you's guys[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MARIA
+[TargetRight][LoadPortrait=MARIA][LoadBackground=][TargetRight]Ahh[FreezeMouth]...[UnfreezeMouth] Minerva, sister[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MARICH
+[TargetRight][LoadPortrait=MARICH][LoadBackground=][TargetRight]Lady Ellis[FreezeMouth]...[UnfreezeMouth] Please be safe[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MARICIA
+[TargetRight][LoadPortrait=MARICIA][LoadBackground=]No, I don't wanna die here[FreezeMouth]...[UnfreezeMouth]
+Prince Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MARIS
+[TargetRight][LoadPortrait=MARIS][LoadBackground=]Dammit, I lost[FreezeMouth]...[UnfreezeMouth][Pause=3]
+This world sure is[FreezeMouth]...[UnfreezeMouth] big[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MATIS
+[TargetRight][LoadPortrait=MATIS][LoadBackground=][TargetRight]Rena[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Forgive your[FreezeMouth]...[UnfreezeMouth][Pause=3] fool of a brother[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MIDIA
+[TargetRight][LoadPortrait=MIDIA][LoadBackground=][TargetRight]Ugh[FreezeMouth]...[UnfreezeMouth] Astria[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MINERBA
+[TargetRight][LoadPortrait=MINERBA][LoadBackground=][TargetRight]Maria[FreezeMouth]...[UnfreezeMouth] I'm sorry[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MISHEIL
+[TargetRight][LoadPortrait=MISHEIL][LoadBackground=]I've already died many times[FreezeMouth]...[UnfreezeMouth][Pause=3]
+And now, finally[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_MISHRAN
+[TargetRight][LoadPortrait=MISHRAN][LoadBackground=][TargetRight]I regret[FreezeMouth]...[UnfreezeMouth] not seeing[FreezeMouth]...[UnfreezeMouth]
+my motherland[FreezeMouth]...[UnfreezeMouth]
+back to its former glory[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_NABARL
+[TargetRight][LoadPortrait=NABARL][LoadBackground=][TargetRight]Prince Marth[FreezeMouth]...[UnfreezeMouth] don't die.[A][ClearBox][X]
+
+MDIE_NAGA
+[TargetRight][LoadPortrait=NAGA][LoadBackground=][TargetRight]I'm sorry.[FreezeMouth]...[UnfreezeMouth]
+I can't help any longer[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_NIENA
+[TargetRight][LoadPortrait=NIENA][LoadBackground=][TargetRight]Help me[FreezeMouth]...[UnfreezeMouth] Camus[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_NORN
+[TargetRight][LoadPortrait=NORN][LoadBackground=][TargetRight]Heh[FreezeMouth]...[UnfreezeMouth]
+Oops[FreezeMouth]...[UnfreezeMouth] unnh[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_OGUMA
+[TargetRight][LoadPortrait=OGUMA][LoadBackground=][TargetRight]So my end has already come[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_PAORA
+[TargetRight][LoadPortrait=PAORA][LoadBackground=][TargetRight]Abel[FreezeMouth]...[UnfreezeMouth] I'm sorry[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_RADEI
+[TargetRight][LoadPortrait=RADEI][LoadBackground=][TargetRight]For Caesar and her[FreezeMouth]...[UnfreezeMouth]
+I can't[FreezeMouth]...[UnfreezeMouth] die here[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_RENA
+[TargetRight][LoadPortrait=RENA][LoadBackground=][TargetRight]Don't leave me[FreezeMouth]...[UnfreezeMouth] Julian[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_RICARD
+[TargetRight][LoadPortrait=RICARD][LoadBackground=][TargetRight]Chief[FreezeMouth]...[UnfreezeMouth] You won't feel lonely
+without me around, will ya[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_RIFF
+[TargetRight][LoadPortrait=RIFF][LoadBackground=][TargetRight]'Tis a pity[FreezeMouth]...[UnfreezeMouth][Pause=3]
+So my end[FreezeMouth]...[UnfreezeMouth][Pause=3] has come[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_RINDA
+[TargetRight][LoadPortrait=RINDA][LoadBackground=][TargetRight]Ahh[FreezeMouth]...[UnfreezeMouth] Princess Nina[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_ROBERTO
+[TargetRight][LoadPortrait=ROBERTO][LoadBackground=]So, this is where I die[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Sir Camus[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_RODY
+[TargetRight][LoadPortrait=RODY][LoadBackground=][FreezeMouth]...[UnfreezeMouth]Sorry[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_ROJAR
+[TargetRight][LoadPortrait=ROJAR][LoadBackground=][FreezeMouth]...[UnfreezeMouth]I wanted[FreezeMouth]...[UnfreezeMouth]
+[FreezeMouth]...[UnfreezeMouth]to get married[FreezeMouth]... [UnfreezeMouth]before dying[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_ROOK
+[TargetRight][LoadPortrait=ROOK][LoadBackground=]Ugh, it hurts[FreezeMouth]...[UnfreezeMouth]
+Dammit, how can I die here[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_ROSHE
+[TargetRight][LoadPortrait=ROSHE][LoadBackground=][TargetRight]Glory to Orleans[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+
+MDIE_SAJI
+[TargetRight][LoadPortrait=SAJI][LoadBackground=][TargetRight]How disappointin'[FreezeMouth]... [UnfreezeMouth]
+Did my skills grow dull[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_SAMSON
+[TargetRight][LoadPortrait=SAMSON][LoadBackground=][TargetRight]Sheema[FreezeMouth]...[UnfreezeMouth] We had fun times[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_SAMTO
+[TargetRight][LoadPortrait=SAMTO][LoadBackground=]It's tough[FreezeMouth]...[UnfreezeMouth] being hot[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_SEAZER
+[TargetRight][LoadPortrait=SEAZER][LoadBackground=][TargetRight][FreezeMouth]...[UnfreezeMouth]Life sure is cheap[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_SHEEDA
+[TargetRight][LoadPortrait=SHEEDA][LoadBackground=][TargetRight]Marth[FreezeMouth]... [UnfreezeMouth][Pause=3] please be well[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_SIMA
+[TargetRight][LoadPortrait=SIMA][LoadBackground=]Samson[FreezeMouth]...[UnfreezeMouth] I'm sorry[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_SIRIUS
+[TargetRight][LoadPortrait=SIRIUS][LoadBackground=]Sorry[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_THORMAS
+[TargetRight][LoadPortrait=THORMAS][LoadBackground=][TargetRight]Was I[FreezeMouth]...[UnfreezeMouth] a burden all along[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_TIKI
+[TargetRight][LoadPortrait=TIKI][LoadBackground=][TargetRight]Mar-Mar[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_TOMS
+[TargetRight][LoadPortrait=TOMS][LoadBackground=][TargetRight]May peace come[FreezeMouth]...[UnfreezeMouth] to Akaneia[FreezeMouth]...[UnfreezeMouth]
+My motherland[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_WENDEL
+[TargetRight][LoadPortrait=WENDEL][LoadBackground=][TargetRight]Is this what fate[FreezeMouth]...[UnfreezeMouth] intended for me[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_WOLEN
+[TargetRight][LoadPortrait=WOLLEN][LoadBackground=]Bah[FreezeMouth]...[UnfreezeMouth] Damn my foolishness[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_WOLF
+[TargetRight][LoadPortrait=WOLF][LoadBackground=][FreezeMouth]...[UnfreezeMouth]Coyote[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_YUBERO
+[TargetRight][LoadPortrait=YUBELLO][LoadBackground=]Sorry[FreezeMouth]...[UnfreezeMouth] Yumina[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_YUMINA
+[TargetRight][LoadPortrait=YUMINA][LoadBackground=]Ahh[FreezeMouth]...[UnfreezeMouth] Yubello[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MDIE_ZAGARO
+[TargetRight][LoadPortrait=ZAGARO][LoadBackground=][FreezeMouth]...[UnfreezeMouth]Coyote[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+

@@ -1,0 +1,65 @@
+MS023_OP0
+[X]
+
+MS023_OP0_A
+[X]
+
+MS023_OP0_B
+[X]
+
+MS023_OP0_C
+[X]
+
+MS023_OP1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG69][TargetLeft][LoadPortrait=GARNEF][TargetLeft]So you've come, boy.[Pause=3]
+How many times must you get in my way?
+Enough! I tire of our games[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetRight]Garnef, what have you done with
+my sister and the others[FreezeMouth]?![UnfreezeMouth][Pause=3]
+Release them at once[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Heh heh heh[FreezeMouth]...[UnfreezeMouth] I've allowed them the honor
+of being sacrifices for the Dark Dragon's
+resurrection. [Pause=3]You will never see them again.[A][ClearBox]Emperor Mediuth will soon be reborn
+in his true and darkest form,[Pause=3]
+requiring the sisters as live sacrifices.[A][ClearBox]
+And they will usher in a new era.[A][ClearBox]'Tis a pity. Their souls couldn't bear
+the suffering and shattered into pieces[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Even I am powerless to help them.[A][ClearBox]Shame, really. I have them to thank for
+the Dark Dragon's awakening.[Pause=3] Not even the
+Shield of Seals can stop him now.[A][ClearBox][FaceCommand=0x61]I applaud you for coming this far.[Pause=3]
+But[FreezeMouth]...[UnfreezeMouth] little prince[FreezeMouth]...[UnfreezeMouth]
+you will go no further.[A][ClearBox]I will kill you here, and you will die
+knowing that you are nothing[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+
+MS023_BT_BOSS
+[LoadBackground=][TargetLeft][LoadPortrait=GARNEF][FaceCommand=0x73]Heh heh heh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Perhaps[FreezeMouth]...[UnfreezeMouth]
+a taste of Maph's might is necessary.[A][ClearBox][X]
+
+MS023_BT_BOSS_MARS
+[LoadBackground=][TargetLeft][LoadPortrait=GARNEF][FaceCommand=0x73]Your blade is blunt before me, Marth[FreezeMouth]...[UnfreezeMouth]
+I'll smash you and the Shield of Seals
+into pieces[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=MARS]I do not intend to fall here.
+Out of my way, Garnef[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS023_BT_BOSS_PC_PCF1
+[LoadBackground=][TargetLeft][LoadPortrait=GARNEF][FaceCommand=0x73]Heh heh heh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Allow me demonstrate Maph's might[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=PLAYER]I will not let Prince Marth die.
+I won't[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS023_BT_BOSS_PC_PCM1
+[LoadBackground=][TargetLeft][LoadPortrait=GARNEF][FaceCommand=0x73]Heh heh heh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Allow me demonstrate Maph's might[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=PLAYER]I will not let Prince Marth die.
+I won't let the likes of you lay
+even a finger on him[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS023_DIE_BOSS
+[LoadBackground=][TargetLeft][LoadPortrait=GARNEF][FaceCommand=0x73]Heh heh[FreezeMouth]...[UnfreezeMouth]
+You're too late[FreezeMouth]...[UnfreezeMouth][Pause=3]
+The end is nigh[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS023_ED1_PCF1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG73][TargetLeft][LoadPortrait=JEIGUN]Sire, this way.[Pause=3]
+There are stairs here, leading up.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS023_ED1_PCM1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG73][TargetLeft][LoadPortrait=JEIGUN]Sire, this way.[Pause=3]
+There are stairs here, leading up.[A][ClearBox][Fade=40][Unknown0x4=F][X]

@@ -1,0 +1,138 @@
+MS018_OP0
+[X]
+
+MS018_OP0_A
+[X]
+
+MS018_OP0_B
+[X]
+
+MS018_OP0_C
+[X]
+
+MS018_OP1
+[TargetRight][LoadPortrait=ROSHE][LoadBackground=BBG16]Wolf, Zagaro, Biraku.[Pause=3]
+Do you not have second thoughts[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Does the battle plan not trouble you?[A][ClearBox][TargetLeft][LoadPortrait=WOLF]Roshe[FreezeMouth]![UnfreezeMouth]
+Are you still babbling on about
+that nonsense?[A][ClearBox]Look over there!
+The Aritian forces are stretched along
+the narrow pass.[A][ClearBox]Our only chance to crush them is now.[A][ClearBox][TargetLeft][LoadPortrait=BIRAKU]What's wrong with you, Roshe?
+Did the four of us not all pledge that
+we would die for Coyote?[A][ClearBox]It was Coyote who freed us
+plain dwellers from slavery.[A][ClearBox]If we don't fight Aritia here,
+then we can't protect Pales.[A][ClearBox]Are you telling me you WANT
+Hardin to be defeated by them?[A][ClearBox][TargetLeft][LoadPortrait=ZAGARO]That's right[FreezeMouth]![UnfreezeMouth]
+Prince Marth wants to destroy
+Akaneia and everything we hold dear.[A][ClearBox]That's why he joined forces with Macedonia
+to crush Grunia. Now he even has Gra
+under his control.[A][ClearBox]If we leave him be, the entire world
+will eventually fall into his hands.[A][ClearBox][TargetRight]I still find it hard to believe.[Pause=3]
+So the honorable Prince Marth we met is
+supposed to harbor diabolical ambitions?[A][ClearBox][TargetLeft][LoadPortrait=WOLF]Are you calling Coyote a liar[FreezeMouth]?![UnfreezeMouth][A][ClearBox]Do you really believe that he would
+resort to such deceitful tactics[FreezeMouth]?![UnfreezeMouth][A][ClearBox]Enough, Roshe[FreezeMouth]!![UnfreezeMouth][Pause=3]
+I've lost all respect for you.[Pause=3]
+Betray us if you want, I don't care.[A][ClearBox]Zagaro, Biraku, let's go.
+If we delay any more they will pass us.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight]Hey, wait[FreezeMouth]![UnfreezeMouth]
+You know I can't betray you.[Pause=3]
+I understand[FreezeMouth]...[UnfreezeMouth] I'll go, too.[A][ClearBox][X]
+
+MS018_EV1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG17]The Wolfguard of Orleans[FreezeMouth]![UnfreezeMouth][Pause=3]
+Must we fight them as well[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]Sire, please hold on.[Pause=3]
+We've just received word from a
+messenger of King Orleans.[A][ClearBox]It seems Orleans has no plans to war[FreezeMouth]...[UnfreezeMouth][A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS018_EV1_2
+According to the messenger, King Orleans
+wishes to parley with you in the village.[A][ClearBox][TargetRight]What?[Pause=3] What could this mean?[Pause=3]
+That the Wolfguard is moving independent
+of Orleans's orders?[A][ClearBox][TargetLeft]I don't know, but[FreezeMouth]...[UnfreezeMouth] Depending on
+how negotiations go, it's possible
+the Wolfguard may signal a retreat.[A][ClearBox][TargetRight]I see.[Pause=3] It would benefit us all
+if we could avoid pointless fighting.[Pause=3]
+Let's hurry to the village[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS018_VIL1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG26][TargetLeft][LoadPortrait=ORLEAN_KING][FaceCommand=0x73]Oh, Prince Marth.
+Thank the stars I could meet you here.[A][ClearBox][TargetRight][FaceCommand=0x61]King Orleans?[Pause=3]
+What brings you here?[A][ClearBox][TargetLeft][FaceCommand=0x61]I came to halt our attack.[Pause=3]
+And I must apologize to you.[A][ClearBox]I believed Hardin and sided with Akaneia,
+but it seems that I made a mistake.[A][ClearBox]Akaneia's Empress Nina secretly sent me
+a letter, saying that Hardin isn't
+normal and is ill...[A][ClearBox]Orleans has decided to maintain neutrality.[Pause=3]
+My knights will return to their lands.[A][ClearBox]I hope you won't attack my men anymore.[TargetRight]I understand, Your Majesty.[Pause=3]
+I do not wish to fight you, either.[A][ClearBox]Please, find it in yourself to forgive me
+for the many Orleanian lives that I've taken.[A][ClearBox][TargetLeft][FaceCommand=0x73]Ohh[FreezeMouth]![UnfreezeMouth]
+The rumors are true, as I suspected.[A][ClearBox]I am old and frail, and without children.[Pause=3]
+And now, the brother I once trusted
+has become[FreezeMouth]...[UnfreezeMouth] like this.[A][ClearBox]Prince Marth, please,
+protect Orleans in my stead.[Pause=3]
+I entrust everything to you.[A][ClearBox]As a sign of my allegiance,
+I would have you accept this orb.[A][ClearBox]This is a magical jewel containing
+the divine power of life.[A][ClearBox]I spent a lot of gold to buy it
+from a travelling merchant.[A][ClearBox]I believe it will be useful to you.[A][ClearBox][TargetRight]Your Majesty, Hardin is[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Do not worry about my younger brother.[A][ClearBox]A knight can only die a knight's death.
+'Twas always his fate[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS018_BT_BIRAKU
+[LoadBackground=][TargetLeft][LoadPortrait=BIRAKU]As long as we're around
+you will not reach Pales.[Pause=3]
+If you value your lives then turn around[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS018_BT_ROSHE
+[LoadBackground=][TargetLeft][LoadPortrait=ROSHE]I am Roshe of the Wolfguard.[Pause=3]
+I don't want to fight, but I will not
+betray my friends.[Pause=3] I'm sorry[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS018_BT_WOLF
+[LoadBackground=][TargetLeft][LoadPortrait=WOLF]I am Wolf, commander of the Wolfguard.[Pause=3]
+Your head is mine[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS018_BT_ZAGARO
+[LoadBackground=][TargetLeft][LoadPortrait=ZAGARO]You[FreezeMouth]...[UnfreezeMouth]
+Why are you invading other countries?[Pause=3]
+Are you so blinded by your ambition[FreezeMouth]?![UnfreezeMouth][A][ClearBox][X]
+
+MS018_DIE_BIRAKU
+[LoadBackground=][TargetLeft][LoadPortrait=BIRAKU]Coyote[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS018_DIE_ROSHE
+[LoadBackground=][TargetLeft][LoadPortrait=ROSHE]Coyote[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS018_DIE_WOLF
+[LoadBackground=][TargetLeft][LoadPortrait=WOLF]Coyote[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS018_DIE_ZAGARO
+[LoadBackground=][TargetLeft][LoadPortrait=ZAGARO]Coyote[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS018_ED1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetLeft][LoadPortrait=JEIGUN][TargetRight]Jeigan, we've made it through.[Pause=3]
+Pales is not far.[A][ClearBox][TargetLeft]Yes, if we go down from here, we will
+reach the capital of Pales in an instant.[A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]Sire, we've just received urgent news.
+Apparently a coup d'etat broke out
+in Pales.[A][ClearBox]The knights and citizens who opposed
+Emperor Hardin's ways rose in rebellion.[A][ClearBox]It seems their leader was Lady Midia.[A][ClearBox][TargetRight][FaceCommand=0x61]What in the blazes[FreezeMouth]?![UnfreezeMouth]
+What has happened to them now?[A][ClearBox][TargetLeft]Unfortunately, the instigators were all
+defeated and captured[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Rumor has it that the rebels
+are being executed by the day.[A][ClearBox]It is only a matter of time before
+Lady Midia shares the same fate.[TargetRight]Damn it, Hardin[FreezeMouth]...[UnfreezeMouth][Pause=3]
+This is absurd.[A][ClearBox]Alright, let's go and rescue Midia! We
+will head for Pales at once and end this.[Pause=3]
+Jeigan, let's go[FreezeMouth]!![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS018_ED1_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetLeft][LoadPortrait=JEIGUN][TargetRight]Jeigan, we've made it through.[Pause=3]
+Pales is not far.[A][ClearBox][TargetLeft]Yes, if we go down from here, we will
+reach the capital of Pales in an instant.[A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]Sire, we've just received urgent news.
+Apparently a coup d'etat broke out
+in Pales.[A][ClearBox]The knights and citizens who opposed
+Emperor Hardin's ways rose in rebellion.[A][ClearBox]It seems their leader was Lady Midia.[A][ClearBox][TargetRight][FaceCommand=0x61]What in the blazes[FreezeMouth]?![UnfreezeMouth]
+What has happened to them now?[A][ClearBox][TargetLeft]Unfortunately, the instigators were all
+defeated and captured[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Rumor has it that the rebels
+are being executed by the day.[A][ClearBox]It is only a matter of time before
+Lady Midia shares the same fate.[TargetRight]Damn it, Hardin[FreezeMouth]...[UnfreezeMouth][Pause=3]
+This is absurd.[A][ClearBox]Alright, let's go and rescue Midia! We
+will head for Pales at once and end this.[Pause=3]
+Jeigan, let's go[FreezeMouth]!![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+

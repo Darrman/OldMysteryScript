@@ -1,0 +1,153 @@
+MSDL002_OP1
+[Unknown0x12]3[LoadBackground=BS_bg]Not long after the War of Darkness[FreezeMouth]...[UnfreezeMouth][A][ClearBox]The world slowly started to regain stability
+in the wake of Mediuth's destruction.[A][ClearBox]However, the dark powers that Marth
+banished to the abyss began to rise once
+more in corners unseen[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=80][Unknown0x12]3[X]
+
+MSDL002_OP2
+[TargetRight][LoadPortrait=KATARINA][TargetLeft][LoadPortrait=KLEINE][LoadBackground=BBG16][TargetRight][FreezeMouth]...[UnfreezeMouth]The "Soothsires"[FreezeMouth]...[UnfreezeMouth][Pause=3]
+The vicious bandits, once feared as the
+demons of Samsooth Mountains.[A][ClearBox]Apparently, most of them were vanquished
+by Prince Marth in the War of Darkness.[A][ClearBox]However, we have reports that the
+survivors have set up a hideout in this
+forest and are expanding their influence.[A][ClearBox]They've been caught raiding villages,
+kidnapping women and children.
+They're just as evil as before[FreezeMouth].[UnfreezeMouth][A][ClearBox][TargetLeft]Sigh[FreezeMouth]...[UnfreezeMouth]
+It's not like I care what they get up to.[A][ClearBox]Lady Eremiah's order was to kill every last
+one of them, right?[A][ClearBox][TargetRight]Yes. Every last one.[A][ClearBox]The Soothsires have committed far too many
+crimes.[A][ClearBox]If we kill them, nobody will have to suffer by
+their hands again[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Why should we care though?[Pause=3]
+It's only natural that the weak should suffer.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=RORO][TargetRight]Roro, are you going to help us?[A][ClearBox][TargetLeft]Wee hee hee.[Pause=3]
+If Eine and Kleine are fighting, then I'm
+fighting too.[A][ClearBox][TargetLeft][RemovePortrait][TargetLeft][LoadPortrait=RORO]Me too.[A][ClearBox][TargetLeft][RemovePortrait][TargetLeft][LoadPortrait=RORO]Me too, too.[A][ClearBox][TargetRight]Alright.[Pause=3]
+Then, let the operation begin.[A][ClearBox][TargetLeft][LoadPortrait=KLEINE]Wait.
+I'm not letting you take the lead.[A][ClearBox]Eine, Roro, let's go.
+We must fulfill Lady Eremiah's order[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MSDL002_TK1
+[TargetRight][LoadPortrait=KATARINA][TargetLeft][LoadPortrait=KLEINE][LoadBackground=][TargetRight]Kleine, are you safe?[A][ClearBox][TargetLeft]Of course I am.[Pause=3]
+You can be annoying sometimes.[Pause=3]
+Why do you always dangle after me?[A][ClearBox][TargetRight][FaceCommand=0x73]That's because[FreezeMouth]...[UnfreezeMouth]
+I'm your big sister.[A][ClearBox][TargetLeft]That crap again?
+You're really bugging me.[A][ClearBox]Don't say that crap again, not until you've
+killed much more people than me.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][FaceCommand=0x61]Oh, Kleine[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSDL002_TK2
+[TargetRight][LoadPortrait=KATARINA][TargetLeft][LoadPortrait=ATHENA][LoadBackground=][TargetRight]You are[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]Athena. Ve are Athena.
+Ve came to save the vee vuns.[A][ClearBox][TargetRight]Athena[FreezeMouth]... [UnfreezeMouth]you say?[Pause=3]
+The myrmidon who fought alongside
+Prince Marth in the previous war[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]Vat?
+Have ve met before?[A][ClearBox][TargetRight]Oh no, this is the first time.[A][ClearBox][FaceCommand=0x73]Miss Athena, you should stand back rather
+than force yourself.[A][ClearBox][FaceCommand=0x61]We can handle the rest.[A][ClearBox][X]
+
+MSDL002_TK3
+[TargetRight][LoadPortrait=KLEINE][TargetLeft][LoadPortrait=ATHENA][LoadBackground=][TargetRight]What the hell's with you?[Pause=3]
+Why have you come here?[A][ClearBox][TargetLeft]Ve came to save the vee vuns.[Pause=3]
+You too?[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]Oh well,
+I suppose you could put it that way.[Pause=3]
+Explaining it properly would be a pain.[A][ClearBox][TargetLeft][FaceCommand=0x73]Very vell.[Pause=3]
+Then, count this voman on your side.[A][ClearBox][TargetRight]Sigh.[A][ClearBox][FreezeMouth]...[UnfreezeMouth]I think it'd be easier if we just killed her[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Oh, who cares.[Pause=3]
+As long as you don't get in the way,
+you can do whatever pleases you.[A][ClearBox][X]
+
+MSDL002_EV1
+[TargetRight][LoadPortrait=ATHENA][LoadBackground=BBG16]So this is the hideout of the bad men who
+kidnapped the vee vuns.[A][ClearBox]Ve vill not forgive selfish creatures who
+make people suffer.[A][ClearBox]Ve vill rescue the vee vuns.
+It's vat any voman vould do.[A][ClearBox][X]
+
+MSDL002_EV2
+[TargetLeft][LoadPortrait=EREMIYA][LoadBackground=BBG16][FaceCommand=0x73]Work hard, my children[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=GARNEF][FaceCommand=0x73]Heh heh heh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+How is it going, Eremiah?[Pause=3]
+Are those puppets working hard?[A][ClearBox][TargetLeft]Yes, Master Garnef.[A][ClearBox][TargetRight]Good[FreezeMouth]...[UnfreezeMouth]
+I think I'll watch as well.[Pause=3]
+Heh heh heh[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSDL002_BT_ATHENA
+[TargetRight][LoadPortrait=ATHENA][LoadBackground=]Ve vill not forgive the vicked.[A][ClearBox][X]
+
+MSDL002_BT_EREMIYA
+[TargetRight][LoadPortrait=EREMIYA][FaceCommand=0x73][LoadBackground=]Now[FreezeMouth]...[UnfreezeMouth] fear.[A][ClearBox][X]
+
+MSDL002_BT_GARNEF
+[TargetRight][LoadPortrait=GARNEF][FaceCommand=0x73][LoadBackground=]Heh heh heh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Let me teach you the meaning of despair[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MSDL002_BT_KATARINA
+[TargetRight][LoadPortrait=KATARINA][LoadBackground=][FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSDL002_BT_KLEINE
+[TargetRight][LoadPortrait=KLEINE][FaceCommand=0x73][LoadBackground=]You filth. You really think you can survive
+against me?[A][ClearBox][X]
+
+MSDL002_BT_RORO
+[TargetRight][LoadPortrait=RORO][LoadBackground=]Wee hee hee.
+Let us fight fight![A][ClearBox][X]
+
+MSDL002_DIE_ATHENA
+[TargetRight][LoadPortrait=ATHENA][LoadBackground=]Ve[FreezeMouth]...[UnfreezeMouth] vanted[FreezeMouth]... [UnfreezeMouth]to save[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSDL002_DIE_EREMIYA
+[TargetRight][LoadPortrait=EREMIYA][FaceCommand=0x73][LoadBackground=]Oh dear, how terrible[FreezeMouth].[UnfreezeMouth][Pause=3]
+I'd better fall back[FreezeMouth].[UnfreezeMouth][A][ClearBox][X]
+
+MSDL002_DIE_GARNEF
+[TargetRight][LoadPortrait=GARNEF][FaceCommand=0x73][LoadBackground=]Heh heh heh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Maybe I fooled around too much[FreezeMouth]...[UnfreezeMouth]
+I'll fall back for now[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MSDL002_DIE_KATARINA
+[TargetRight][LoadPortrait=KATARINA][LoadBackground=]I knew that[FreezeMouth]... [UnfreezeMouth]it would end[FreezeMouth]...[UnfreezeMouth] like this someday[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MSDL002_DIE_KLEINE
+[TargetRight][LoadPortrait=KLEINE][LoadBackground=]Damn[FreezeMouth]![UnfreezeMouth]
+No choice[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm getting out of here for now.[A][ClearBox][X]
+
+MSDL002_DIE_RORO
+[TargetRight][LoadPortrait=RORO][LoadBackground=]I won't die[FreezeMouth]...[UnfreezeMouth]
+So long as there's another me[FreezeMouth]...[UnfreezeMouth]
+Wee hee hee![A][ClearBox][X]
+
+MSDL002_ED1
+[Fade=40][TargetLeft][LoadPortrait=KATARINA][TargetRight][LoadPortrait=KLEINE][LoadBackground=BBG04][TargetLeft]Kleine, we've annihilated the enemy.[A][ClearBox]There might be prisoners.[Pause=3]
+Let's search inside.[A][ClearBox][TargetRight]Do we have to?
+What a pain.[A][ClearBox]Hm? What's this?
+These are rather expensive-looking
+paintings[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]It seems that stolen artworks are stored
+here;[Pause=3] jewellery, paintings, furniture[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Sigh[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetLeft]Kleine?[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]You go ahead.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Alright.[A][ClearBox][Unknown0x4=F][Fade=40][X]
+
+MSDL002_ED2
+[Fade=40][TargetLeft][LoadPortrait=GARNEF][TargetRight][LoadPortrait=EREMIYA][LoadBackground=BBG16][TargetLeft][FaceCommand=0x73]Heh heh heh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+A perfect result, I'd say.[A][ClearBox]Eremiah.[Pause=3]
+You have raised your children well.[A][ClearBox]I'm sure they will be of use.[Pause=3]
+They're worthy of being my dearest pawns.[A][ClearBox][TargetRight][FaceCommand=0x73]Your praise is too much, Master Garnef.[A][ClearBox][TargetLeft]However[FreezeMouth]...[UnfreezeMouth]
+One of the puppets has an interesting
+connection with the Soothsire subjugation.[A][ClearBox]That girl[FreezeMouth]... [UnfreezeMouth]doesn't know, does she?[Pause=3]
+Her origins[FreezeMouth]...[UnfreezeMouth]
+Why she lost her parents[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Or who pulled the strings behind it all[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Indeed. She knows nothing.[A][ClearBox][TargetLeft]Heh heh heh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Poor little puppet[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Unknown0x4=F][Fade=40][X]
+
+MSDL002_ED3
+[Fade=40][TargetLeft][LoadPortrait=KATARINA][TargetRight][LoadPortrait=KLEINE][LoadBackground=BBG04][TargetLeft][FaceCommand=0x73]Kleine, we've located the captives.[A][ClearBox][TargetRight][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]Kleine[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+What's wrong, you've been acting odd.[A][ClearBox][TargetRight][FreezeMouth]......[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MSDL002_ED3_01
+[FreezeMouth]...[UnfreezeMouth]I've[FreezeMouth]... [UnfreezeMouth]seen[FreezeMouth]... [UnfreezeMouth] this painting[FreezeMouth]...[UnfreezeMouth]
+A long time ago[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Huh[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][EyeCommand=ec]A big, warm room[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Soft carpet[FreezeMouth]...[UnfreezeMouth][Pause=3]
+A family portrait[FreezeMouth]...[UnfreezeMouth][A][ClearBox]The two of them smiled[FreezeMouth]...[UnfreezeMouth][Pause=3]
+And gently[FreezeMouth]...[UnfreezeMouth][Pause=3] patted my head[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Kleine[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][EyeCommand=ed]But[FreezeMouth]...[UnfreezeMouth] but[FreezeMouth]...[UnfreezeMouth]
+Of course, they're[FreezeMouth]...[UnfreezeMouth][A][ClearBox]They're all[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][EyeCommand=ec]It's only natural for the weak[FreezeMouth]...[UnfreezeMouth] to suffer[FreezeMouth]...[UnfreezeMouth][A][ClearBox]But[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=40][X]
+
+MSDL002_ED4
+[Fade=40][TargetLeft][LoadPortrait=BOY][FaceCommand=0x73][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x73][LoadBackground=BBG03]Go, run.[A][ClearBox][TargetLeft][FaceCommand=0x73]Thank you, miss[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=GIRL][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth]Err.[A][ClearBox][TargetRight]Hmm?[A][ClearBox][TargetLeft]My name is Katarina.[Pause=3]
+What's your name, miss?[A][ClearBox][TargetRight]I[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth]I'm called Katarina, too.[Pause=3]
+The same as you.[A][ClearBox][TargetLeft]I see.[Pause=3]
+I'm so happy[FreezeMouth]...[UnfreezeMouth]
+I have the same name as you, miss[FreezeMouth]![UnfreezeMouth][A][ClearBox]See you later[FreezeMouth],[UnfreezeMouth] miss[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight]Yes, later[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Katarina[FreezeMouth]...[UnfreezeMouth]
+Please be happy.[A][ClearBox][TargetLeft][LoadPortrait=KLEINE][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]What are you doing?
+We're going back, Eine.[A][ClearBox]Also[FreezeMouth]... [UnfreezeMouth]
+Don't tell anyone about what happened
+today,[Pause=3] alright?[A][ClearBox][TargetRight]Yes, Kleine[FreezeMouth].[UnfreezeMouth][A][ClearBox][Unknown0x4=F][Fade=40][X]
+

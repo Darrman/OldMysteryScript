@@ -1,0 +1,241 @@
+MS019_OP1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG16][TargetLeft][LoadPortrait=JEIGUN][TargetRight]As expected, the Akaneian army
+is extremely powerful.[Pause=3]
+We must approach with great caution.[A][ClearBox][TargetLeft]Hardin is gambling everything on
+this one battle, and he appears to have
+gathered the entire army of Akaneia here.[A][ClearBox]But, any knights with a conscience
+already joined the coup and have
+nearly all been executed.[A][ClearBox]All that remains are just weak
+mercenaries, so you don't need to
+fear them.[A][ClearBox]Even so, the people have lost their
+faith in Emperor Hardin.
+They welcome us as liberators.[A][ClearBox]It is certainly very reassuring.[A][ClearBox]This is our final battle.[Pause=3]
+It may drag on but all the same,
+I would ask that you take utmost care.[A][ClearBox][TargetRight]I understand.
+Let's go, Jeigan.
+I am worried about Midia.[A][ClearBox][X]
+
+MS019_OP1_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG16][TargetLeft][LoadPortrait=JEIGUN][TargetRight]As expected, the Akaneian army
+is extremely powerful.[Pause=3]
+We must approach with great caution.[A][ClearBox][TargetLeft]Hardin is gambling everything on
+this one battle, and he appears to have
+gathered the entire army of Akaneia here.[A][ClearBox]But, any knights with a conscience
+already joined the coup and have
+nearly all been executed.[A][ClearBox]All that remains are just weak
+mercenaries, so you don't need to
+fear them.[A][ClearBox]Even so, the people have lost their
+faith in Emperor Hardin.
+They welcome us as liberators.[A][ClearBox]It is certainly very reassuring.[A][ClearBox]This is our final battle.[Pause=3]
+It may drag on but all the same,
+I would ask that you take utmost care.[A][ClearBox][TargetRight]I understand.
+Let's go, Jeigan.
+I am worried about Midia.[A][ClearBox][X]
+
+MS019_EV1
+[LoadBackground=BBG16][TargetLeft][LoadPortrait=BIRAKU]I knew it.
+You intend to invade Coyote's palace.[A][ClearBox]The king forbade us from interfering[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But I will do anything to protect Coyote!
+I'll defy his edict if I have to[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS019_TK1
+[TargetRight][LoadPortrait=ROSHE][LoadBackground=][TargetLeft][LoadPortrait=BIRAKU][TargetRight]Biraku[FreezeMouth]![UnfreezeMouth] Why are you here?[Pause=3]
+The king told us not to interfere.[A][ClearBox]Aha! Have you decided to join the
+Aritian army like me?[A][ClearBox][TargetLeft]Roshe, I came to bring you back.[A][ClearBox]Why have you turned to the Aritians?[Pause=3]
+We are Coyote's subordinates.[A][ClearBox]Open your eyes!
+You're being deceived![A][ClearBox][TargetRight]You're wrong, Biraku.[A][ClearBox]The time I spent with the Aritians was
+short, but I know one thing for sure.[A][ClearBox]It's not as Coyote says.
+They're not evil people.[A][ClearBox][TargetLeft]Roshe[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Biraku, please.[Pause=3]
+I don't want to fight all of you.[Pause=3]
+Especially you, Biraku[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]............[UnfreezeMouth][A][ClearBox]Well, Roshe[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You were always the kindest
+out of us in the Wolfguard..[A][ClearBox]You've always been able to tell
+which were the good guys,
+and which were the bad.[A][ClearBox]I can't fight you, Roshe.[Pause=3]
+If you, our brother-in-arms,
+are this sure, then I believe you.[A][ClearBox]I am your ally from now on.[A][ClearBox][TargetRight]Biraku[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS019_TK2
+[TargetRight][LoadPortrait=BIRAKU][LoadBackground=][TargetLeft][LoadPortrait=ZAGARO][TargetRight]Zagaro, hold on.[Pause=3]
+It's me, Biraku.[A][ClearBox][TargetLeft]What's the meaning of this, Biraku?
+Don't tell me you've defected!?[A][ClearBox][TargetRight]Listen, Zagaro.[Pause=3]
+I[SpecialSymbol=0x96]I don't know.[Pause=3]
+What am I supposed to do?[A][ClearBox]I loved Coyote like a brother.[Pause=3]
+All I wanted was to fight for him.[A][ClearBox][EyeCommand=ec]But[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But he has changed for the worse.[Pause=3]
+It's as though he's someone else now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetRight][EyeCommand=ed]I wanted to serve him, always.[Pause=3]
+That's why I've been turning a blind eye.[A][ClearBox]I shut myself, trying to remember
+the Coyote who loved us so long ago.[A][ClearBox]It really hurt to face the truth.[Pause=3]
+That Coyote's not who he used to be[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I just don't know anymore.[Pause=3]
+Hey, Zagaro[FreezeMouth]...[UnfreezeMouth]
+What the hell am I supposed to do?[A][ClearBox][TargetLeft]Biraku[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ec]I too[FreezeMouth]...[UnfreezeMouth] I feel the same way.[Pause=3]
+I know he's gone insane, but I looked
+the other way and blocked my senses.[A][ClearBox][EyeCommand=ed]One day,
+he'll go back to being our Coyote[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That's what I kept telling myself.[A][ClearBox][TargetRight]Roshe has gone over to the Aritians.[Pause=3]
+I cannot fight him.[A][ClearBox]Zagaro, you should come too.[Pause=3]
+I don't know what's right anymore.[Pause=3]
+But I don't want to fight you, either.[A][ClearBox][TargetLeft]Yes[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Even though Coyote's madness
+was clear to me, I did nothing.[Pause=3]
+I have to make this right.[A][ClearBox][X]
+
+MS019_TK3
+[TargetRight][LoadPortrait=ZAGARO][LoadBackground=][TargetLeft][LoadPortrait=WOLF][TargetRight]Wolf[FreezeMouth]![UnfreezeMouth] Hold your fire[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Zagaro[FreezeMouth]![UnfreezeMouth] What are you doing[FreezeMouth]?![UnfreezeMouth]
+So you've chosen to betray Coyote[FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetRight]No, it's not like that[FreezeMouth]![UnfreezeMouth]
+This is for Coyote's own good[FreezeMouth]![UnfreezeMouth][A][ClearBox]Something's wrong with Coyote.
+Even you must know that[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]That changes nothing[FreezeMouth]![UnfreezeMouth]
+I will die at Coyote's side[FreezeMouth]![UnfreezeMouth]
+I swore as much[FreezeMouth]![UnfreezeMouth][A][ClearBox]Though all of you might betray us.
+Though I might be alone.
+I will not abandon him[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Even though you disobey his heart?[A][ClearBox][TargetLeft]What do you mean[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][TargetRight]Wolf, do you remember what Coyote said
+to you, the day you became commander
+of the Wolfguard?[A][ClearBox][TargetLeft][FreezeMouth]......[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]"If I should wander from the path of the
+righteous, please[FreezeMouth]...[UnfreezeMouth] lead me back onto it."
+That's what he said.[A][ClearBox][TargetLeft]I should never have forgotten.[Pause=3]
+The words of Coyote himself[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ec]But, to tell me that time has come[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That we must[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That we must defeat Coyote[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]We have to remind Coyote of the day
+we swore allegiance to him.[A][ClearBox]No matter how painful it may be[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That is our only recourse.[A][ClearBox]I never wanted to believe it
+would come to this[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][EyeCommand=ed]Enough, Zagaro[FreezeMouth]![UnfreezeMouth][A][ClearBox]For goodness sake[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[EyeCommand=ec]It would have been better
+had I died at Adria Pass[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ed]I am the commander of the Wolfguard[FreezeMouth]...[UnfreezeMouth][Pause=3]
+The life that Coyote gave me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I will not waste it.[A][ClearBox]Even if that should lead to
+Coyote's death[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS019_VIL1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG26][TargetLeft][LoadPortrait=ROSHE][FaceCommand=0x73]Prince Marth[FreezeMouth]...[UnfreezeMouth]
+It is I, Roshe of the Wolfguard.[A][ClearBox]I received King Orleans's pardon
+and have been waiting for you.[A][ClearBox][FaceCommand=0x61]I am truly sorry for the battle of the pass.[A][ClearBox]I realize that an apology means little,
+so I will now fight under your banner.[A][ClearBox]But[FreezeMouth]...[UnfreezeMouth] the other Wolfguard members
+have all sided with the Akaneian army.[Pause=3]
+I wonder if I could persuade them.[A][ClearBox]Biraku, at the least[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Biraku might listen to what I have to say.[A][ClearBox][X]
+
+MS019_VIL1_B
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG26][TargetLeft][LoadPortrait=WOMAN1]Sir Roshe of the Wolfguard had always
+opposed the battle against Aritia.[A][ClearBox][EyeCommand=ec]But, he[FreezeMouth]...[UnfreezeMouth]
+In the battle of the pass[FreezeMouth]...[UnfreezeMouth]
+He perished.[A][ClearBox][EyeCommand=ed]I don't hold it against you.
+That's just how war is[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Here, take this.
+All we want is for this war to end soon.[A][ClearBox][X]
+
+MS019_H1
+[LoadBackground=BBG25][TargetCenter][LoadPortrait=LADY]Lord Hardin was once a kind man.[Pause=3]
+Then all of a sudden, it's as if
+he's a terrifying demon[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ec]Ahem[FreezeMouth]...[UnfreezeMouth]
+If they 'ear me saying these things,
+it'll be off with my 'ead as well.[A][ClearBox][X]
+
+MS019_H2
+[LoadBackground=BBG25][TargetCenter][LoadPortrait=MAN1]The Paladin Midia is the pride of Akaneia.[A][ClearBox]She's the daughter of Akaneia's former
+supreme commander, Count Owen.[A][ClearBox]She couldn't bear to watch our suffering,
+so she stood up for us and rebelled.[A][ClearBox]Hey, you[FreezeMouth]...[UnfreezeMouth]
+Please, find a way to help Lady Midia.[A][ClearBox][X]
+
+MS019_H3
+[LoadBackground=BBG25][TargetCenter][LoadPortrait=WOMAN2]When Princess Nina and Prince Hardin
+were married, I thought "peace at last".
+But now everything's gone insane.[A][ClearBox]Oh, God[FreezeMouth]...[UnfreezeMouth]
+What on earth are we supposed to do[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MS019_H4
+[LoadBackground=BBG25][TargetCenter][LoadPortrait=OLDMAN]Such a pity, what befell Lady Midia.[A][ClearBox]She'd just left the ranks and
+taken up with Astria, but now
+they've been torn apart again.[A][ClearBox]It's horrible, for that to
+happen to such a young woman.[Pause=3]
+Can't you do something about it[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MS019_H5
+[LoadBackground=BBG25][TargetCenter][LoadPortrait=MAN2]The Akaneian army has changed.[Pause=3]
+The soldiers you see now ain't nothin'
+but bloodthirsty cutthroats.[A][ClearBox]What's goin' to happen to this kingdom?[A][ClearBox][X]
+
+MS019_H6
+[LoadBackground=BBG25][TargetCenter][LoadPortrait=OLDWOMAN]Sigh, these are dark days.[A][ClearBox]All those who oppose Emperor Hardin
+just wind up getting killed[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Our emperor's possessed by a demon[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS019_BT_BIRAKU
+[LoadBackground=][TargetLeft][LoadPortrait=BIRAKU]As long as we're around
+you shall not reach Pales.[Pause=3]
+If you don't wish to die, go home[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS019_BT_BOSS
+[LoadBackground=][TargetLeft][LoadPortrait=NERING]Gah[FreezeMouth]...[UnfreezeMouth] It's not possible[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That we Akaneians could be defeated![A][ClearBox]But, as long as I stand here, you
+shall not enter this palace[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS019_BT_WOLF
+[LoadBackground=][TargetLeft][LoadPortrait=WOLF]I am Wolf, the Wolfguard's commander.[Pause=3]
+Your head is mine[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS019_BT_ZAGARO
+[LoadBackground=][TargetLeft][LoadPortrait=ZAGARO]You monsters[FreezeMouth]...[UnfreezeMouth]
+Why are you invading other nations?[Pause=3]
+Are you so consumed by petty ambition[FreezeMouth]?![UnfreezeMouth][A][ClearBox][X]
+
+MS019_DIE_BIRAKU
+[LoadBackground=][TargetLeft][LoadPortrait=BIRAKU]Coyote[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS019_DIE_BOSS
+[LoadBackground=][TargetLeft][LoadPortrait=NERING]Long live the empire[FreezeMouth]...[UnfreezeMouth] guh...[A][ClearBox][X]
+
+MS019_DIE_WOLF
+[LoadBackground=][TargetLeft][LoadPortrait=WOLF]Coyote[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS019_DIE_ZAGARO
+[LoadBackground=][TargetLeft][LoadPortrait=ZAGARO]Coyote[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS019_ED1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG01][TargetLeft][LoadPortrait=Y_BOHA][TargetRight]Bishop Boa[FreezeMouth]!?[UnfreezeMouth]
+You're hurt[FreezeMouth]...![UnfreezeMouth]
+What on earth happened?[A][ClearBox][TargetLeft]Ngh[FreezeMouth]...[UnfreezeMouth] this is terrible[FreezeMouth]...[UnfreezeMouth]
+House Akaneia must truly be cursed.[A][ClearBox]As you know, two years ago[FreezeMouth]...[UnfreezeMouth]
+Hardin and Princess Nina were wed.[A][ClearBox]In order to restore Akaneia to glory,
+a king was needed.[A][ClearBox]There were but two suitable individuals:[Pause=3]
+King Orleans's younger brother, Duke Hardin,
+and you, Prince Marth of Aritia[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Princess Nina begged me to wait
+just a while longer, but once
+I insisted of its absolute urgency[FreezeMouth]...[UnfreezeMouth][A][ClearBox]She said that it could not be you,
+for Princess Sheeda would grieve.
+In the end, Hardin was our only choice[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Let me get this straight.[Pause=3]
+I understand that Akaneia
+could not be without a king.[A][ClearBox]But Princess Nina, she already[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]You speak of Sir Camus of Grunia?[Pause=3]
+The people must never know[FreezeMouth]...[UnfreezeMouth]
+'Twould be heresy.[A][ClearBox]The decision cost us dearly,
+but what choice did we have?
+It was for our country.[A][ClearBox]On the bright side, Hardin was happy.[A][ClearBox]In fact, the thought that he was to
+be Princess Nina's husband pleased him
+greater than his ascension to the throne.[A][ClearBox][TargetRight]I know of his feelings.[A][ClearBox]I know that he would have given
+his life for Princess Nina.[A][ClearBox]But, did he know about Camus?
+If he did, I don't believe
+he would be so happy.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS019_ED1_2
+[TargetLeft]Mmm... Of course we kept that a secret,
+and we also persuaded Nina to hide it
+as best as she could.[A}[ClearBox]But, Lord Hardin was a very sensitive man.[A][ClearBox]He soon realized that
+Princess Nina did not reciprocate his love.[A][ClearBox]It pained him greatly[FreezeMouth]...[UnfreezeMouth][Pause=3]
+He shut himself into his room, drinking
+away his sorrows, and saw no one.[A][ClearBox]Spotting an opportune moment,
+as Hardin wallowed in heartbreak,
+Garnef appeared.[A][ClearBox]He took on the guise of a merchant
+to approach Hardin, and showed
+him the Dark Orb.[A][ClearBox]The despairing emperor's heart was
+gripped by the Dark Orb in an instant.[A][ClearBox]He completely changed as a
+person from then.[A][ClearBox]I've made a terrible mistake,
+out of my concern for this kingdom.
+[EyeCommand=ec]Please forgive me, Prince Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]So that's how it is.[Pause=3]
+[FreezeMouth]...[UnfreezeMouth]And what of Princess Nina?
+How is she now?[A][ClearBox][TargetLeft]When Hardin discovered that she had
+taken the Emblem Shield, he had her
+confined in her room.[A][ClearBox]After that, she would still communicate
+in secret with me.[A][ClearBox]However, Hardin found out and wounded me.[A][ClearBox][EyeCommand=ed]He then handed Princess Nina to Garnef.[A][ClearBox]Garnef said that he required the blood
+of noble-born clerics in order to resurrect
+the Dark Dragon[FreezeMouth]...[UnfreezeMouth][A][ClearBox]And so...
+He took Nina...
+To use her as a live sacrifice...[A][ClearBox]Prince Marth, my end is nigh.[Pause=3]
+I shall give you my tome and staff.[A][ClearBox]Please save Princess Nina.[A][ClearBox]Even if Akaneia's destruction
+cannot be undone[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Make sure that she is safe[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+

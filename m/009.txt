@@ -1,0 +1,161 @@
+MS009_OP0
+[X]
+
+MS009_OP0_A
+[X]
+
+MS009_OP0_B
+[X]
+
+MS009_OP0_C
+[X]
+
+MS009_OP1
+[TargetRight][LoadPortrait=MINERBA][LoadBackground=BBG48][TargetLeft][LoadPortrait=MISHEIL][TargetLeft]Minerva,[Pause=3] if you wait in this village,
+you will most certainly run into Marth.[A][ClearBox]I don't like him, but he is indeed noble.[Pause=3]
+Join forces with him.[A][ClearBox][TargetRight]Brother, what are you going to do now?[Pause=3]
+Won't you come with me[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]I have no intention of doing that.[Pause=3]
+I only wish to find Maria and bring her home
+to Macedonia.[A][ClearBox][TargetRight]You've changed, Brother[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Or should I say, you've returned to how you
+used to be.[A][ClearBox]As I thought, back then you were being
+controlled by Garnef's dark magic.[A][ClearBox][TargetLeft]No, no magic could bend my will.[A][ClearBox]I wished to crush the arrogant Akaneia,
+and establish Macedonian supremacy over
+this continent.[A][ClearBox]I originally planned to ally with Durhua
+to destroy Akaneia, and then later join
+forces with Grunia's Camus to defeat Durhua.[A][ClearBox]But Father, without bending his ear to me,
+distanced himself from me and later had me
+banished.[A][ClearBox][TargetRight]Are you saying that's why you murdered
+Father[FreezeMouth]?[UnfreezeMouth][A][ClearBox]What a fool you were[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Didn't you realize that was Garnef's
+plotting all along?[A][ClearBox]Yes, Father was strict with you.[A][ClearBox]But it was only because he loved you.[Pause=3]
+Why couldn't you see that[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]Enough, Minerva.[Pause=3]
+Do you take me for a fool?[A][ClearBox][EyeCommand=ec]After I was defeated, I wandered the gap
+between life and death.[A][ClearBox]When I had come to, in front of me,
+I saw Maria[SpecialSymbol=0x96]her eyes full of tears[SpecialSymbol=0x96]
+praying to the gods.[A][ClearBox]She saved me, by selflessly and tirelessly
+taking care of me, even though her
+face was completely in tears.[A][ClearBox]I don't believe in the gods, but at that time
+she truly looked like an angel.[A][ClearBox]While I treated her like a pawn,
+Maria, she shed tears for me[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ed]Minerva, I'm going now.[Pause=3]
+I have to save Maria.[Pause=3]
+At least that can be my atonement[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Misheil[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS009_OP2_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG67][TargetLeft][LoadPortrait=JEIGUN][TargetRight]Jeigan, everybody appears to be safe.
+That's great to see.[A][ClearBox][TargetLeft]Sire.[Pause=3]
+How shall we proceed from here?[A][ClearBox][TargetRight]Hmm[FreezeMouth]...[UnfreezeMouth] I want to go home to Aritia,
+but if we can't prevail against Hardin,
+then we can't go back.[A][ClearBox]What in the world are we supposed to do[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]Sire, it's an emergency[FreezeMouth]![UnfreezeMouth][Pause=3]
+I have just come into some new information.[A][ClearBox]The Khadein mage corps has launched an
+offensive against us.[A][ClearBox][TargetRight]What[FreezeMouth]!?[UnfreezeMouth][Pause=3]
+Even Khadein means to be our enemy[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Marich, what are you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]At this rate, it seems we have no choice.[A][ClearBox][TargetLeft]Sire, we need to break into the sanctuary,
+but you must be prepared to make sacrifices.[A][ClearBox]If we don't hurry, Akaneia's pursuit force
+will reach our rear and we'll be trapped.[A][ClearBox][TargetRight]I understand. We've no choice.[A][ClearBox]Everyone, let's break into the sanctuary![Pause=3]
+But avoid needless fights if possible[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS009_OP2_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG67][TargetLeft][LoadPortrait=JEIGUN][TargetRight]Jeigan, everybody appears to be safe.
+That's great to see.[A][ClearBox][TargetLeft]Sire.[Pause=3]
+How shall we proceed from here?[A][ClearBox][TargetRight]Hmm[FreezeMouth]...[UnfreezeMouth] I want to go home to Aritia,
+but if we can't prevail against Hardin,
+then we can't go back.[A][ClearBox]What in the world are we supposed to do[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]Sire, it's an emergency[FreezeMouth]![UnfreezeMouth][Pause=3]
+I have just come into some new information.[A][ClearBox]The Khadein mage corps has launched an
+offensive against us.[A][ClearBox][TargetRight]What[FreezeMouth]!?[UnfreezeMouth][Pause=3]
+Even Khadein means to be our enemy[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Marich, what are you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]At this rate, it seems we have no choice.[A][ClearBox][TargetLeft]Sire, we need to break into the sanctuary,
+but you must be prepared to make sacrifices.[A][ClearBox]If we don't hurry, Akaneia's pursuit force
+will reach our rear and we'll be trapped.[A][ClearBox][TargetRight]I understand. We've no choice.[A][ClearBox]Everyone, let's break into the sanctuary![Pause=3]
+But avoid needless fights if possible[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS009_EV1
+[LoadBackground=MARS][TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=JEIGUN]An update, sire[FreezeMouth]![UnfreezeMouth][Pause=3]
+The Akaneia army is, at present,
+approaching from the south.[A][ClearBox][TargetRight]I see.[Pause=3]
+Hasten the march;
+don't let them catch up[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS009_EV2A
+[LoadBackground=BBG67][TargetLeft][LoadPortrait=ASTRIA]Do not think you can escape, Aritians.[Pause=3]
+I'll turn this desert into your graveyard.[A][ClearBox][X]
+
+MS009_EV2B
+[LoadBackground=BBG67][TargetLeft][LoadPortrait=SOLDIER_RED]Do not think you can escape, Aritians.[Pause=3]
+We will avenge Captain Astria[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS009_H1
+[LoadBackground=BBG25][TargetCenter][LoadPortrait=LADY]From here on north, you won't see no more
+shops.[A][ClearBox]If you're going that way, you should stock
+up now.[A][ClearBox][X]
+
+MS009_H2
+[LoadBackground=BBG25][TargetCenter][LoadPortrait=OLDMAN]A swordslayer will demonstrate your might
+against a mercenary or a hero.[A][ClearBox]You should definitely get one if you can.[A][ClearBox][X]
+
+MS009_H3
+[LoadBackground=BBG25][TargetCenter][LoadPortrait=MAN1]The person commanding Khadein's mage
+corps is a young man named Ellerean.[A][ClearBox]He's not a bad man, but he can be a bit
+uncooperative.[A][ClearBox]Seems he regards his old rival, Marich,
+with disdain.[A][ClearBox]Hmm[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I reckon only Lord Wendel could talk some
+sense into him.[A][ClearBox][X]
+
+MS009_TK1
+[TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=ETZEL][LoadBackground=][TargetRight]You're[FreezeMouth]...[UnfreezeMouth] Etzel[FreezeMouth]![UnfreezeMouth]
+Why are you here?[A][ClearBox][TargetLeft]I have my ties to Khadein as well.[A][ClearBox]"Prince Marth has succumbed to his
+ambitions and invaded Akaneia."[A][ClearBox]When I was told that, there was no way I
+could sit still![A][ClearBox][TargetRight][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetLeft]But[FreezeMouth]...[UnfreezeMouth] No matter how I put it, I just couldn't
+imagine you'd become that sort of person.[A][ClearBox]Prince Marth, you said to me long ago[Pause=3] that
+you wanted to let the era of war end.[A][ClearBox]Do you still stand by those words?[A][ClearBox][TargetRight]Yes, I do.[Pause=3]
+I do not seek to fight.[A][ClearBox][TargetLeft][FaceCommand=0x73][FreezeMouth]...[UnfreezeMouth]I see.[Pause=3]
+I, too, do not seek as such.[Pause=3]
+Allow me to join you once more.[A][ClearBox][X]
+
+MS009_VIL1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG48][TargetLeft][LoadPortrait=MINERBA][TargetRight]Huh[FreezeMouth]?[UnfreezeMouth][Pause=3]
+Princess Minerva, why are you here?[A][ClearBox][TargetLeft]My brother[FreezeMouth]...[UnfreezeMouth] Misheil, he helped me.[A][ClearBox][TargetRight][FaceCommand=0x73]Really? That's good to hear.[Pause=3]
+I was so worried once I heard that
+Prince Misheil had taken you.[A][ClearBox][FaceCommand=0x61]But, for him to rescue you:
+what in the world happened?[A][ClearBox][TargetLeft]Maria saved Misheil's life.[A][ClearBox][EyeCommand=ec]She's kind, unlike myself[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Maria's kindness was able to touch the
+heart of even a man like Misheil.[A][ClearBox][TargetRight][FaceCommand=0x73]But, isn't that what you wanted?
+That's why you deliberately avoided killing
+Misheil.[A][ClearBox]Am I wrong, Princess?[A][ClearBox][TargetLeft][EyeCommand=ed]Hmm[FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]I can understand.[Pause=3]
+No one can sever the ties between family
+so easily.[A][ClearBox]Princess, please lift your spirits.[Pause=3]
+I would like you to fight with us again,
+just like before.[A][ClearBox]I would like Macedonia's strength and yours
+in order to put a stop to Hardin's designs.[A][ClearBox][X]
+
+MS009_BT_ASTRIA
+[TargetLeft][LoadPortrait=ASTRIA][LoadBackground=]You traitors[FreezeMouth]![UnfreezeMouth][Pause=3]
+I'll show you the might of Miracle[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+
+MS009_BT_BOSS
+[TargetLeft][LoadPortrait=YODEL][LoadBackground=]I will not forgive intruders upon our
+holy sanctuary[FreezeMouth]![UnfreezeMouth]
+Earth, show your fury[FreezeMouth]![UnfreezeMouth] Bolganone[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+
+MS009_BT_ETZEL
+[TargetLeft][LoadPortrait=ETZEL][LoadBackground=]I don't want to fight you, but I owe Khadein.
+What a troublesome ordeal I am in[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS009_DIE_ASTRIA
+[TargetLeft][LoadPortrait=ASTRIA][LoadBackground=]Midia[FreezeMouth]...[UnfreezeMouth] My love[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS009_DIE_BOSS
+[TargetLeft][LoadPortrait=YODEL][LoadBackground=]Ellerean[FreezeMouth]...[UnfreezeMouth]
+Was this really what you wanted[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MS009_DIE_ETZEL
+[TargetLeft][LoadPortrait=ETZEL][LoadBackground=]This war[FreezeMouth]...[UnfreezeMouth][Pause=3] will[FreezeMouth]...[UnfreezeMouth][Pause=3] someday[FreezeMouth]...[UnfreezeMouth][A][X]
+
+MS009_ED1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG01][TargetLeft][LoadPortrait=JEIGUN]The atmosphere inside the building seems
+somewhat strange.[A][ClearBox][TargetRight]Indeed, something seems to be happening.[A][ClearBox]Let's go, Jeigan.
+I'm worried about Marich![A][ClearBox][X]
+
+MS009_ED1_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG01][TargetLeft][LoadPortrait=JEIGUN]The atmosphere inside the building seems
+somewhat strange.[A][ClearBox][TargetRight]Indeed, something seems to be happening.[A][ClearBox]Let's go, Jeigan.
+I'm worried about Marich![A][ClearBox][X]

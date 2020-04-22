@@ -1,0 +1,136 @@
+Mエディット_WELCOME
+[EyeCommand=dl][EyeCommand=da][EyeCommand=ds][FaceCommand=0x41][TargetCenter][LoadPortrait=ANNA_HOUSE][LoadBackground=BBG68][FaceCommand=0x73][ClearBox]Welcome!
+Today, another hero will be born.
+One who will help decide the world's fate[FreezeMouth]...[UnfreezeMouth][A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+Mエディット_Q_NAME
+[ClearBox]What's your name, hero?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+Mエディット_Q_GENDER
+[ClearBox]Are you a boy, or a girl?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+Mエディット_Q_GENDER_F
+Female[X]
+
+Mエディット_Q_GENDER_M
+Male[X]
+
+Mエディット_Q_JOB
+[ClearBox]What's your occupation?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+Mエディット_ARCHER
+Armored bowmen. They attack from a distance.[X]
+
+Mエディット_ARCHER_F
+Armored bowmen. They attack from a distance.[X]
+
+Mエディット_ARMORKNIGHT
+Heavily-armored knights. Slow but sturdy.[X]
+
+Mエディット_FIGHTER
+Axe-wielding clansmen. Strong, but poor defence.[X]
+
+Mエディット_MAGE
+Magic users who prevail against physical foes.[X]
+
+Mエディット_MAGE_F
+Magic users who prevail against physical foes.[X]
+
+Mエディット_MERCENARY
+Professional sellswords. Balanced in all attributes.[X]
+
+Mエディット_PEGASUSKNIGHT_F
+Aerial units. Weak to bows, but resistant to magic.[X]
+
+Mエディット_SOCIALKNIGHT
+Mounted knights with superior movement.[X]
+
+Mエディット_SOCIALKNIGHT_F
+Mounted knights with superior movement.[X]
+
+Mエディット_SWORDFIGHTER_F
+Swift and skilled warriors dedicated to the blade.[X]
+
+Mエディット_Q_FACE
+[ClearBox]And what do you look like?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+Mエディット_EYE
+Eyes[X]
+
+Mエディット_HAIR
+Hair[X]
+
+Mエディット_HAIRCOLOR
+Color[X]
+
+Mエディット_Q_1
+[ClearBox]I shall now predict your journey using
+your past, present, and future.[A][ClearBox]Beginning with your past, what sort of
+circumstances were you born into?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+Mエディット_Q_1_1
+Noble's child[X]
+
+Mエディット_Q_1_2
+Orphan[X]
+
+Mエディット_Q_1_3
+Farmer's child[X]
+
+Mエディット_Q_1_4
+Priest's child[X]
+
+Mエディット_Q_1_5
+Merchant's child[X]
+
+Mエディット_Q_2
+[ClearBox]And what about you now?
+What is your most impressive attribute?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+Mエディット_Q_2_1
+Beauty[X]
+
+Mエディット_Q_2_2
+Diversity[X]
+
+Mエディット_Q_2_3
+Strength[X]
+
+Mエディット_Q_2_4
+Kindness[X]
+
+Mエディット_Q_2_5
+Wisdom[X]
+
+Mエディット_Q_3
+[ClearBox]Finally, your future.
+What kind of future trait do you strive
+to attain?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+Mエディット_Q_3_1
+Honorable[X]
+
+Mエディット_Q_3_2
+Recluse[X]
+
+Mエディット_Q_3_3
+Enlightened[X]
+
+Mエディット_Q_3_4
+Humane[X]
+
+Mエディット_Q_3_5
+Wealthy[X]
+
+Mエディット_BYE
+[ClearBox]With everything now complete, let us
+begin your story posthaste[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Unknown0x4=F32][X]
+

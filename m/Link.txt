@@ -1,0 +1,119 @@
+MLink_BreakUp
+Other player has disconnected.[X]
+
+MLink_Collect
+Transmitting data...[X]
+
+MLink_CollectFailed
+Data transmission failed.[X]
+
+MLink_DownloadCancel
+Download has been canceled.[X]
+
+MLink_DownloadComplete
+Download successful![X]
+
+MLink_DownloadFailed
+Download failed.[X]
+
+MLink_DownloadNone
+There is no available data to
+download.[X]
+
+MLink_Downloading
+Downloading...[X]
+
+MLink_Error
+A connection error has occurred.[X]
+
+MLink_ErrorCommOffMode
+Wireless communication is
+disabled. Please enable it
+from the system settings.[X]
+
+MLink_ErrorHalt
+A connection error has occurred.
+Please turn the power OFF and
+try again.[X]
+
+MLink_ErrorInitializeFailed
+Unable to operate DS
+wireless communication.[X]
+
+MLink_ErrorInitializeFailedWiFi
+Unable to communicate with
+Nintendo Wi-Fi Connection.[X]
+
+MLink_MaxEntry
+Unable to join match.[X]
+
+MLink_OnlineShopFailed
+Unable to retrieve list of
+shop merchandise.[X]
+
+MLink_OpponentSurrender
+Your opponent has surrendered.[X]
+
+MLink_StorageLoadFailed
+Unable to retrieve data.[X]
+
+MLink_StorageLogin
+Awaiting server response...[X]
+
+MLink_StorageLoginCancel
+Connection to the server has been
+canceled.[X]
+
+MLink_StorageLoginFailed
+Unable to connect to the server.[X]
+
+MLink_StorageSaveFailed
+Unable to save data.[X]
+
+MLink_VersusSync
+Awaiting opponent response...[X]
+
+MLink_Wrong
+A connection error has occurred.[X]
+
+MMatchingHelp_MatchingBattle
+Waiting for connection...[X]
+
+MMatchingHelp_PreMatchingBattle
+Please select/create a room.[X]
+
+MMatchingHelp_SelectVoiceChat
+Please set mic chat options.[X]
+
+MMatchingHelp_WaitMatching
+Waiting for room to be finalized...[X]
+
+MMatchingHelp_WaitVoiceChat
+Awaiting opponent response...[X]
+
+MWiFiErr_ExistCode
+The Friend Code you entered is
+already registered on your
+Friend Roster.[X]
+
+MWiFiErr_InvalidCode
+This Friend Code is incorrect.
+Please check that you have not
+made a mistake while entering it.[X]
+
+MWiFiErr_Label
+Error Code: [X]
+
+MWiFiErr_NoUserData
+You do not have a Friend Code.
+Your Friend Code will be generated
+once you connect to Nintendo Wi-Fi
+Connection.[X]
+
+MWiFiErr_OwnCode
+You cannot enter your own
+Friend Code.[X]
+
+MWiFi_DeleteCode
+OK to delete Friend Information?[X]
+

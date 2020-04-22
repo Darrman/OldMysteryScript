@@ -1,0 +1,225 @@
+MS106_PRE1_B_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=JEIGUN][TargetRight][LoadPortrait=MARS][LoadBackground=BBG16][TargetLeft]Sire[FreezeMouth]![UnfreezeMouth][Pause=3]
+We've been ambushed by the enemy[FreezeMouth]![UnfreezeMouth][A][ClearBox]Enemy troops are waiting for us ahead.[A][ClearBox][TargetLeft][LoadPortrait=PLAYER][TargetRight]Alright.[Pause=3]
+Jeigan, [SpecialText0x14=0x39], make preparation for
+battle.[A][ClearBox][TargetLeft]Yes, immediately.[A][ClearBox][Unknown0x4=F][X]
+
+MS106_PRE1_B_PCM1
+[SpecialText0x14][TargetLeft][LoadPortrait=JEIGUN][TargetRight][LoadPortrait=MARS][LoadBackground=BBG16][TargetLeft]Sire[FreezeMouth]![UnfreezeMouth][Pause=3]
+We've been ambushed by the enemy[FreezeMouth]![UnfreezeMouth][A][ClearBox]Enemy troops are waiting for us ahead.[A][ClearBox][TargetLeft][LoadPortrait=PLAYER][TargetRight]Alright.[Pause=3]
+Jeigan, [SpecialText0x14=0x39], make preparation for
+battle.[A][ClearBox][TargetLeft]Yes, at once.[A][ClearBox][Unknown0x4=F][X]
+
+MS106_OP1_B
+[TargetRight][LoadPortrait=SEAZER][LoadBackground=BBG16][TargetLeft][LoadPortrait=RADEI]We did it, Caesar[FreezeMouth]![UnfreezeMouth][Pause=3]
+Our ambush was a success.[A][ClearBox]They're completely surrounded.[Pause=3]
+Tactical victory is ours.[A][ClearBox][TargetRight]I see. However, don't lower your guard.
+Our enemy is the Aritian army[FreezeMouth]...[UnfreezeMouth][Pause=3]
+We know how strong they are.[A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS106_OP2
+[TargetLeft]But Caesar, are you really fine with this?[Pause=3]
+We did fight under Aritia's banner in the
+previous war[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]We're mercenaries.[Pause=3]
+We have no liege.[A][ClearBox]I need gold,[Pause=3] and will do anything for it.[Pause=3]
+Even selling my soul to the devil.[A][ClearBox][TargetLeft]Gold, huh[FreezeMouth]... [UnfreezeMouth]Indeed, when we get the reward
+from Emperor Hardin[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm sure we could save her.[A][ClearBox]Alright, let's do it, Caesar![A][ClearBox][TargetRight]Raddy, there's no need for you to follow me.[A][ClearBox]My sister is my business.[Pause=3]
+The Aritian army is strong.[Pause=3]
+You'll die if you're careless.[A][ClearBox][TargetLeft]I'm doing this for my own interests, too.[A][ClearBox]So I'll tag along with you, Caesar.[Pause=3]
+As I always have, and always will.[A][ClearBox][TargetRight]Very well.[Pause=3]
+Then, let's go[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS106_EV1
+[TargetRight][LoadPortrait=RORO][TargetLeft][LoadPortrait=KLEINE][LoadBackground=BBG40][TargetLeft]Roro, you're ready, I presume?[A][ClearBox][TargetRight]Yeah, yeah.[Pause=3]
+It's finally my turn now. Weeheehee.[A][ClearBox]Together with those mercenaries,
+we'll give Marth a royal funeral.[A][ClearBox][TargetLeft]It seems some of those mercenaries were
+Marth's allies in the previous war.[Pause=3]
+I do wonder if they'll be of any use.[A][ClearBox][TargetRight]So what?[Pause=3] Doesn't matter.
+If they're useless, all I have to do is kill him
+myself.[A][ClearBox][TargetLeft]Bah, I don't like you getting the best part.[Pause=3]
+Oh well, do whatever you want.[A][ClearBox][X]
+
+MS106_BT_BOSS
+[LoadBackground=][TargetLeft][LoadPortrait=RORO]Weeheehee.[Pause=3]
+Come, come, come! Let's fight![A][ClearBox][X]
+
+MS106_BT_RADEI
+[LoadBackground=][TargetLeft][LoadPortrait=RADEI]I am Raddy, deputy commander of this
+mercenary band.[Pause=3]
+Here I come[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS106_BT_SEAZER
+[LoadBackground=][TargetLeft][LoadPortrait=SEAZER]The time for words is gone.[Pause=3]
+Fighting is all we can do, now.[A][ClearBox][X]
+
+MS106_DIE_BOSS
+[LoadBackground=][TargetLeft][LoadPortrait=RORO]I won't die[FreezeMouth]...[UnfreezeMouth][Pause=3] even if you kill me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Weehee[FreezeMouth]...[UnfreezeMouth]hee[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS106_DIE_RADEI
+[LoadBackground=][TargetLeft][LoadPortrait=RADEI]Caesar[FreezeMouth]...[UnfreezeMouth]
+Please[FreezeMouth]... [UnfreezeMouth]stay alive[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS106_DIE_SEAZER
+[LoadBackground=][TargetLeft][LoadPortrait=SEAZER]Can't I[FreezeMouth]...[UnfreezeMouth] even save[FreezeMouth]... [UnfreezeMouth]one little sister[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MS106_ED1A
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG01][TargetLeft][LoadPortrait=SEAZER]You win, Prince Marth.[Pause=3]
+I should have known you weren't a
+foe we could defeat with petty tricks.[A][ClearBox]I surrender.[Pause=3]
+Kill me or whatever; I'm all yours.[A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS106_ED1A_1
+[TargetRight]Caesar, I'd like to hire you and Raddy if
+possible.[Pause=3] I want you to come with us.[A][ClearBox]You and Raddy fought by my side in the
+previous war.[Pause=3] You're both my comrades.[A][ClearBox][TargetLeft]Prince, forgive me, but we're mercenaries.[Pause=3]
+All we did in the previous war was fulfill our
+duties as hired swords.[A][ClearBox][TargetRight]It might have been just a job for you two[FreezeMouth]...[UnfreezeMouth]
+But not to me.[A][ClearBox]Both of you are my precious comrades.[Pause=3]
+You were then, and still are now.[A][ClearBox][TargetLeft]Prince[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I appreciate your willingness to say such kind
+words to mercenaries like us.[A][ClearBox]However, at the end of the day, we're hired
+swords.[Pause=3] Therefore, we ask for gold.[A][ClearBox]Prince, Akaneia occupies your country.[Pause=3]
+It's obvious you don't have the extra
+resources needed to pay us.[A][ClearBox][TargetRight]Well, you have a point[FreezeMouth]...[UnfreezeMouth][A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS106_ED1A_2_PCF1
+[TargetRight][LoadPortrait=PLAYER]Gold shouldn't be an issue.[A][ClearBox]Prince Marth will reclaim Aritia, our homeland.[A][ClearBox]Aritia may be occupied by Akaneia now,
+but we shall defeat them.[Pause=3]
+And then, you'll have the gold you seek.[A][ClearBox][TargetLeft]Do you[FreezeMouth]...[UnfreezeMouth] honestly think you stand a chance?[Pause=3]
+Against a powerful kingdom like Akaneia?[A][ClearBox][TargetRight]Of course.[Pause=3]
+Besides, I'm sure you don't have a choice,
+at this point.[A][ClearBox]Since you've failed your mission, Akaneia
+won't pay you the gold you seek anymore.[A][ClearBox]If you're a hired sword working for gold,
+following Prince Marth would serve your
+interests better.[Pause=3] Am I wrong?[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Indeed, your argument is sound.[Pause=3]
+As we've failed, we have no other options.[A][ClearBox][TargetRight][LoadPortrait=MARS][TargetLeft]Prince Marth, Raddy and I are now your
+hired swords.[A][ClearBox]We shall accompany you for as long as you
+wish us to.[A][ClearBox][TargetRight][FaceCommand=0x73]Thank you, Caesar.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS106_ED1A_2_PCM1
+[TargetRight][LoadPortrait=PLAYER]We have gold.[A][ClearBox]We shall reclaim Aritia, our homeland.[Pause=3]
+Once we do, we will have access to the gold
+we have there.[A][ClearBox]Aritia may be occupied by Akaneia now,
+but we shall defeat them.[Pause=3]
+And then, you'll have the gold you seek.[A][ClearBox][TargetLeft]Do you[FreezeMouth]...[UnfreezeMouth] honestly think you stand a chance?[Pause=3]
+Against a powerful kingdom like Akaneia?[A][ClearBox][TargetRight]Yes.[Pause=3]
+Prince Marth shall be the victor.[Pause=3]
+We won't be defeated.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]You're an odd man.[A][ClearBox]It seems you have the power to move the
+hearts of others, just like Prince Marth
+does.[A][ClearBox]Even if it seems an impossible task,
+you might just be the man to pull it off[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That's how you make me feel.[A][ClearBox][TargetRight]Since you've failed your mission, Akaneia
+won't pay you the gold you seek anymore.[A][ClearBox]If you're a hired sword working for gold,
+following Prince Marth would serve your
+interests better.[Pause=3] Am I wrong?[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Fair enough.[A][ClearBox][TargetRight][LoadPortrait=MARS][TargetLeft]Prince Marth, Raddy and I are now your
+hired swords.[A][ClearBox]We shall accompany you for as long as you
+wish us to.[A][ClearBox][TargetRight][FaceCommand=0x73]Thank you, Caesar.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS106_ED1B
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG01][TargetLeft][LoadPortrait=SEAZER]We lose, Prince Marth.[Pause=3]
+I should have known you weren't a
+foe we could defeat with petty tricks.[A][ClearBox]Kill me.[Pause=3]
+Send me to where Raddy is awaiting.[A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS106_ED1B_1
+[TargetRight]Caesar, I'd like to hire you if possible.[Pause=3]
+I want you to come with us.[A][ClearBox]You and Raddy fought by my side in the
+previous war.[Pause=3] You're both my comrades.[A][ClearBox][TargetLeft]Prince, forgive me, but we're mercenaries.[Pause=3]
+All we did in the previous war was fulfill our
+duties as hired swords.[A][ClearBox]Besides, do you think I'd just agree?[Pause=3]
+Now that Raddy's been killed[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]That's right, Raddy is dead[FreezeMouth]...[UnfreezeMouth][Pause=3]
+We killed him.[Pause=3] But that's exactly why I'm
+asking this of you.[A][ClearBox]I don't want this[FreezeMouth]... [UnfreezeMouth]I don't want comrades
+killing each other anymore[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Prince Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS106_ED1B_2_PCF1
+[TargetRight][LoadPortrait=PLAYER]Mercenary commander Caesar.[Pause=3]
+This is the first time we meet.[A][ClearBox]I don't know your connection with Raddy.[Pause=3]
+However, I know this.[A][ClearBox]Raddy's death[FreezeMouth]...[UnfreezeMouth] pains Prince Marth as much
+as it pains you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Caesar, Prince Marth will be even sadder if
+you die, too.[A][ClearBox]We don't want to repeat that tragedy again.[Pause=3]
+So, please[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Very well.[A][ClearBox]While I'm not fully convinced[FreezeMouth]...[UnfreezeMouth][Pause=3]
+This was something I brought upon myself.[Pause=3]
+I have no right to blame others for it.[A][ClearBox][TargetRight][LoadPortrait=MARS][TargetLeft]Prince Marth, from now on I'm in your
+service.[A][ClearBox]I shall accompany you for as long as you
+wish it.[A][ClearBox][TargetRight][FaceCommand=0x73]Thank you, Caesar.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS106_ED1B_2_PCM1
+[TargetRight][LoadPortrait=PLAYER]Mercenary commander Caesar.[Pause=3]
+This is the first time we meet.[A][ClearBox]I don't know your connection with Raddy.[Pause=3]
+However, I know this.[A][ClearBox]Raddy's death[FreezeMouth]...[UnfreezeMouth] pains Prince Marth as much
+as it pains you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Caesar, Prince Marth will be even sadder if
+you die, too.[A][ClearBox]We don't want to repeat that tragedy again.[Pause=3]
+So, please[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Very well.[A][ClearBox]While I'm not fully convinced[FreezeMouth]...[UnfreezeMouth][Pause=3]
+This was something I brought upon myself.[Pause=3]
+I have no right to blame others for it.[A][ClearBox][TargetRight][LoadPortrait=MARS][TargetLeft]Prince Marth, from now on I'm in your
+service.[A][ClearBox]I shall accompany you for as long as you
+wish it.[A][ClearBox][TargetRight][FaceCommand=0x73]Thank you, Caesar.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS106_ED1C
+[LoadBackground=BBG01][TargetLeft][LoadPortrait=RADEI]No[FreezeMouth]...[UnfreezeMouth] Caesar[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=MARS]Raddy[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You have my condolences.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS106_ED1C_1
+Raddy, I'd like to hire you if possible.[Pause=3]
+I want you to come with us.[A][ClearBox]You and Caesar fought by our side in the
+previous war.[Pause=3] You're both my comrades.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Me, work for you?[Pause=3]
+Sure thing, Prince Marth.[A][ClearBox]But I hate you guys.[Pause=3]
+I could just feign joining you, Prince,
+and then try and kill you, y'know?[A][ClearBox][TargetRight]I don't mind.[A][ClearBox][TargetLeft]Eh[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=PLAYER]Sire[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=RADEI][TargetRight]Raddy, listen to me.[Pause=3]
+Caesar is dead[FreezeMouth]...[UnfreezeMouth][Pause=3]
+We killed him.[A][ClearBox]And that's why I ask this of you.[Pause=3]
+I don't want this[FreezeMouth]... [UnfreezeMouth]I don't want comrades
+killing each other[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Prince Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS106_ED1C_2_PCF1
+[TargetRight][LoadPortrait=PLAYER]Raddy.[Pause=3]
+This is the first time we meet.[A][ClearBox]I don't know your connection with Caesar.[Pause=3]
+However, I know this.[A][ClearBox]Caesar's death[FreezeMouth]...[UnfreezeMouth] pains Prince Marth as much
+as it pains you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Raddy, Prince Marth will be even sadder if
+you die, too.[A][ClearBox]We don't want to repeat that tragedy again.[Pause=3]
+So, please[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Alright.[A][ClearBox][TargetRight][LoadPortrait=MARS][TargetLeft]Prince Marth, if you so wish, then I'll tag
+along with you.[A][ClearBox]I'll accept the money once this war is over.[Pause=3]
+For Caesar's sake, too, I must save that
+girl[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Thank you, Raddy.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS106_ED1C_2_PCM1
+[TargetRight][LoadPortrait=PLAYER]Raddy.[Pause=3]
+This is the first time we meet.[A][ClearBox]I don't know your connection with Caesar.[Pause=3]
+However, I know this.[A][ClearBox]Caesar's death[FreezeMouth]...[UnfreezeMouth] pains Prince Marth as much
+as it pains you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Raddy, Prince Marth will be even sadder if
+you die, too.[A][ClearBox]We don't want to repeat that tragedy again.[Pause=3]
+So, please[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Alright.[A][ClearBox][TargetRight][LoadPortrait=MARS][TargetLeft]Prince Marth, if you so wish, then I'll tag
+along with you.[A][ClearBox]I'll accept the money once this war is over.[Pause=3]
+For Caesar's sake, too, I must save that
+girl[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Thank you, Raddy.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS106_ED1D
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG01][TargetLeft][LoadPortrait=MARS]Sire, the battle is over.[A][ClearBox][TargetLeft][SpecialText0x14=0x39], Caesar and Raddy were[FreezeMouth]... [UnfreezeMouth]
+our comrades in the previous war.[A][ClearBox]George too, to think we'd be fighting our
+former comrades like this[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=JEIGUN]Sire, you must be strong.[A][ClearBox]Now that Akaneia has become our enemy,
+we'll have to face this kind of situation
+many times over.[A][ClearBox][FaceCommand=0x73]But don't worry, sire.
+You will always have [SpecialText0x14=0x39] and me[SpecialSymbol=0x96]
+your loyal retainers[SpecialSymbol=0x96]by your side.[A][ClearBox][TargetLeft][FaceCommand=0x73]Thank you, Jeigan, [SpecialText0x14=0x39].[Pause=3]
+It's only because you're with me that I can
+walk forward.[A][ClearBox][FaceCommand=0x61]Let us go, to the Raman Temple.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS106_ED2
+[Fade=40][TargetRight][LoadPortrait=KLEINE][LoadBackground=BBG18][TargetRight]Oh dear.[Pause=3]
+Roro, it seems your clone died.[A][ClearBox][TargetLeft][LoadPortrait=RORO]Oh, he was no clone.[Pause=3]
+He was my brother.[Pause=3]
+We're all Roro.[A][ClearBox][TargetRight]Sigh, whatever.[Pause=3]
+So, are you the real Roro?[Pause=3]
+Or just another clone?[A][ClearBox][TargetLeft]Who knows?[Pause=3]
+I forgot. Weeheehee.[A][ClearBox]The Aritians are strong.[Pause=3]
+Next time, I'll bring all my brothers.[A][ClearBox]Real me and brothers, together we'll kill
+Marth.[Pause=3] Weeheehee.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+

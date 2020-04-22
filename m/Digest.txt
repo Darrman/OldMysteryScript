@@ -1,0 +1,62 @@
+MSGMP_202_1
+In the past, there was a war known as the
+War of Darkness.[A][ClearBox][X]
+
+MSGMP_202_2
+It began when the fearsome Dark Dragon,
+Mediuth, launched a sudden invasion.[A][ClearBox][X]
+
+MSGMP_202_3
+The Kingdom of Akaneia, protector of the
+lands, clashed with Mediuth's forces.[A][ClearBox][X]
+
+MSGMP_202_4
+But against such superior might, Akaneia
+was overwhelmed and trembled in defeat.[A][ClearBox][X]
+
+MSGMP_202_4_2
+Nina, princess of Akaneia, had no choice
+but to flee from her beloved homeland.[A][ClearBox][X]
+
+MSGMP_202_5
+To rescue Akaneia, the Kingdom of Aritia,
+its allied nation, sallied forth.[A][ClearBox][X]
+
+MSGMP_202_5_2
+However, it too was defeated by Mediuth.
+With its king lost to war, Aritia fell to ruins...[A][ClearBox][X]
+
+MSGMP_202_6
+From his exiled shores Marth, young prince
+of Aritia, swore he would retake his homeland.[A][ClearBox][X]
+
+MSGMP_202_7
+Marth never forgot his oath. Years later, he
+rallied an army at Talis to defeat Mediuth.[A][ClearBox][X]
+
+MSGMP_202_8
+Starting with Sheeda, Talis's princess,
+Marth gathered together many allies.[A][ClearBox][X]
+
+MSGMP_202_9
+Duke Hardin, Nina's guardian, also became
+one of his trusted comrades.[A][ClearBox][X]
+
+MSGMP_202_10
+With Akaneia's treasured "Fire Emblem"
+awarded to him by Nina,[A][ClearBox]Marth led the Akaneian League,
+as its commander.[A][ClearBox][X]
+
+MSGMP_202_11
+In the following battles, the League wrestled
+back control of both Akaneia and Aritia.[A][ClearBox][X]
+
+MSGMP_202_12
+Finally, after a long and fierce battle with
+Dark Dragon Mediuth's forces...[A][ClearBox][X]
+
+MSGMP_202_13
+Marth vanquished the Dark Dragon...
+And thus did peace return to the world.[A][ClearBox]These are the events that transpired
+one year ago.[A][ClearBox][X]
+

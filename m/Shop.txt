@@ -1,0 +1,312 @@
+M“¹‹ï‰®_BUY
+[ClearBox]Certainly.
+Have a look around.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M“¹‹ï‰®_BUYNO
+[ClearBox]Well, how about something else?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M“¹‹ï‰®_BUYNOGOODS
+[ClearBox]Oh, dear... I've nothing else to sell you.
+Sorry.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M“¹‹ï‰®_BUYNOMONEY
+[ClearBox]You don't seem to have enough gold.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M“¹‹ï‰®_BUYPRICE
+[SpecialText0x14][ClearBox]That'll be [SpecialText0x14=0x30] gold.
+Sound fair?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M“¹‹ï‰®_BUYYES
+[ClearBox]Lovely.
+Anything else?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M“¹‹ï‰®_BUYYESLAST
+[ClearBox]Thank you.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M“¹‹ï‰®_BYE
+[ClearBox]Visit us again soon.[Pause=5][X]
+
+M“¹‹ï‰®_FULL
+[ClearBox]You can't carry any more.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M“¹‹ï‰®_GOCONVOY
+[ClearBox]I'll go ahead and send this to your
+convoy.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M“¹‹ï‰®_HOW
+[ClearBox]How can I help you?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M“¹‹ï‰®_NOEQUIP
+[ClearBox]You won't be able to equip this.
+Is that all right?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M“¹‹ï‰®_SELL
+[ClearBox]What are you offering for sale?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M“¹‹ï‰®_SELLNO
+[ClearBox]Do you have anything else you're selling?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M“¹‹ï‰®_SELLNOGOODS
+[ClearBox]Unfortunately, it looks as though you've
+nothing to offer me.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M“¹‹ï‰®_SELLPRICE
+[SpecialText0x14][ClearBox]I'll pay [SpecialText0x14=0x30] gold for that.
+Sound fair?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M“¹‹ï‰®_SELLVALUABLE
+[ClearBox]I can't take that from you. I'm sorry.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M“¹‹ï‰®_SELLYES
+[ClearBox]Lovely.
+Do you have anything else?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M“¹‹ï‰®_SELLYESLAST
+[ClearBox]Thank you.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M“¹‹ï‰®_WELCOME
+[EyeCommand=dl][EyeCommand=da][EyeCommand=ds][TargetCenter][LoadPortrait=ITEMSHOP][FaceCommand=0x41][LoadBackground=BBG42][FaceCommand=0x73]Hello.
+Welcome to the vendor.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M”é–§“X_BUY
+[ClearBox]Sure.
+Feast your eyes on these finds!
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M”é–§“X_BUYNO
+[ClearBox]Well, there's plenty more where that
+came from!
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M”é–§“X_BUYNOGOODS
+[ClearBox]Whoops! Looks like I'm fresh out of
+everything. Sorry.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M”é–§“X_BUYNOMONEY
+[ClearBox]No money, no sale.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M”é–§“X_BUYPRICE
+[SpecialText0x14][ClearBox]That goes for [SpecialText0x14=0x30] gold.
+How 'bout it?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M”é–§“X_BUYYES
+[ClearBox]Thanks.
+See anything else you like?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M”é–§“X_BUYYESLAST
+[ClearBox]Thanks.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M”é–§“X_BYE
+[ClearBox]Until next time![Pause=5][X]
+
+M”é–§“X_FULL
+[ClearBox]You can't carry any more.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M”é–§“X_GOCONVOY
+[ClearBox]Great, I'll have this sent to your convoy.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M”é–§“X_HOW
+[ClearBox]What'll it be today?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M”é–§“X_NOEQUIP
+[ClearBox]You won't be able to equip this.
+Is that all right?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M”é–§“X_SELL
+[ClearBox]What have you got for sale?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M”é–§“X_SELLNO
+[ClearBox]Anything else you're selling?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M”é–§“X_SELLNOGOODS
+[ClearBox]I can't help you if you don't have anything
+to sell.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M”é–§“X_SELLPRICE
+[SpecialText0x14][ClearBox]I could pay [SpecialText0x14=0x30] gold for that.
+How 'bout it?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M”é–§“X_SELLVALUABLE
+[ClearBox]Sorry, not interested.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M”é–§“X_SELLYES
+[ClearBox]Thanks.
+Anything else you're selling?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M”é–§“X_SELLYESLAST
+[ClearBox]Thanks.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M”é–§“X_WELCOME
+[EyeCommand=dl][EyeCommand=da][EyeCommand=ds][TargetCenter][LoadPortrait=ANNA][FaceCommand=0x41][LoadBackground=BBG42][FaceCommand=0x73]Why, hello!
+...Um, how did you find this place?[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_ARTDISABLE
+[ClearBox]Sorry.
+I can't forge that.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_ARTNOGOODS
+[ClearBox]Sadly, friend, it seems you've naught
+for me to forge.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_ART_COMPLETE
+[ClearBox]There we are.
+Can I help you with something else?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_ART_MATERIAL
+[ClearBox]What should I take to the forge?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_ART_NAMING
+[ClearBox]I can inscribe a name, if you like.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_ART_NOMORE
+[ClearBox]I can't forge anything else here.
+My apologies.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_ART_PARAMETER
+[ClearBox]How would you like its properties
+modified?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_ART_PRICE
+[SpecialText0x14][ClearBox]That'll run you [SpecialText0x14=0x30] gold.
+Shall I go ahead and forge this?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_BUY
+[ClearBox]Here, have a look at our wares.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_BUYNO
+[ClearBox]Perhaps something else, then?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_BUYNOGOODS
+[ClearBox]Apologies, friend.
+I've no stock left to sell you.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_BUYNOMONEY
+[ClearBox]You seem to be short of funds.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_BUYPRICE
+[SpecialText0x14][ClearBox]That'll run you [SpecialText0x14=0x30] gold.
+Do we have a deal?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_BUYYES
+[ClearBox]Thank you kindly.
+Can I interest you in anything else?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_BYE
+[ClearBox]Come again.[Pause=5][X]
+
+M•Ší‰®_FULL
+[ClearBox]You can't carry any more.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_GOCONVOY
+[ClearBox]I'll send this to your convoy, then.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_HOW
+[ClearBox]What can I help you with?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_NOEQUIP
+[ClearBox]You won't be able to equip this.
+Is that all right?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_SELL
+[ClearBox]What do you have to offer?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_SELLNO
+[ClearBox]Anything else you're selling, then?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_SELLNOGOODS
+[ClearBox]Sadly, friend, it seems you've naught to
+offer me.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_SELLPRICE
+[SpecialText0x14][ClearBox]I can give you [SpecialText0x14=0x30] gold for that.
+What do you say?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_SELLVALUABLE
+[ClearBox]Sorry, but I can't take that off your
+hands.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_SELLYES
+[ClearBox]Thank you kindly.
+Did you have anything else for me?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_SELLYESLAST
+[ClearBox]Thank you kindly.
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_WELCOME
+[EyeCommand=dl][EyeCommand=da][EyeCommand=ds][TargetCenter][LoadPortrait=WEAPONSHOP][FaceCommand=0x41][LoadBackground=BBG41]Good day.[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_WHO_ART
+[ClearBox]Very well.
+Whose weapon needs forging?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_WHO_BUY
+[ClearBox]Who might this purchase be for?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+M•Ší‰®_WHO_SELL
+[ClearBox]Who will be doing the selling?
+[FaceCommand=0x40][FaceCommand=0x68][X]
+

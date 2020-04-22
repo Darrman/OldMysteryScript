@@ -1,0 +1,56 @@
+MBackupErr_BadFormat
+Save data's format is abnormal.
+Reformatting save data.[X]
+
+MBackupErr_Break
+A portion of your save data is corrupt
+and will be deleted.[X]
+
+MBackupErr_MediaFatal
+Storage memory is corrupt.
+Please read the instruction manual for details.[X]
+
+MBackupErr_NoMoreResource
+There isn't enough available space to save data.[X]
+
+MBackupErr_ProccessFailed
+Process failed.[X]
+
+MBackupErr_ProcessComplete
+Process complete.[X]
+
+MBackupErr_Processing
+Processing. Please wait.[X]
+
+MBackupErr_Read
+Unable to load data.
+Please turn the power OFF, reinsert
+the Game Card, and try again.[X]
+
+MBackupErr_ReadNand
+Failed to load data.[X]
+
+MBackupErr_Uninitial
+Save data will be formatted.[X]
+
+MBackupErr_Unknown
+Error in the save data.
+Please turn the power OFF, reinsert
+the Game Card, and try again.[X]
+
+MBackupErr_UnknownNand
+Error in the save data.[X]
+
+MBackupErr_Write
+Unable to save data.
+Please turn the power OFF, reinsert
+the Game Card, and try again.[X]
+
+MBackupErr_WriteNand
+Failed to save data.[X]
+
+MCardErr_PulledOut
+The Game card has been removed.
+Please turn the power OFF, reinsert
+the Game Card, and try again.[X]
+

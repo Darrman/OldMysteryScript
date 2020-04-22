@@ -1,0 +1,193 @@
+MS014_OP1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG58][TargetLeft][LoadPortrait=JEIGUN][TargetRight]So this is the Ice Dragons' Temple.[Pause=3]
+The final destination of Anri's treacherous
+journey[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]For his beloved Artemis, Anri obtained the
+divine sword Falchion here.[A][ClearBox] He then proceeded to defeat Medeus and,
+acclaimed by the people of Altea,
+become their first king.[A][ClearBox][TargetRight]But, in the end he wasn't able to be
+with Artemis... Why?
+Weren't they loving together?[A][ClearBox][TargetLeft]The nobles of Archanea didn't want Anri,
+a commoner, to become their king.[A][ClearBox]More than that, they strongly
+encouraged the princess to wed Duke Cartas,
+who led the liberation army.[A][ClearBox]Princess Artemis had no way of refusing.
+"The bearer of the Fire Emblem must give
+their life to the royal family."[A][ClearBox]That is a saying passed down unchangingly
+in House Archanea.[A][ClearBox]And so, without telling a word to Anri,
+the princess accepted her engagement
+to Duke Cartas.[A][ClearBox][TargetRight]How could she?
+That was unfair to Anri.[A][ClearBox][TargetLeft]The princess was just as worthy of pity.
+It's said she died soon after giving
+birth to her newborn prince.[A][ClearBox]King Anri never married. So, the kingdom
+of Altea was then succeeded by his younger
+brother, King Marcelus.[A][ClearBox]In other words, your great-grandfather.[A][ClearBox][TargetRight]Such a tragic tale...
+So that was Artemis's fate?[A][ClearBox]All because of the curse of the
+Fire Emblem...?[A][ClearBox][X]
+
+MS014_OP2
+[LoadBackground=BBG58][TargetLeft][LoadPortrait=S_GATO][TargetLeft]Prince Marth, can you hear me?[Pause=3]
+Come to the front of the center room.[Pause=3]
+I shall await you there.[A][ClearBox][X]
+
+MS014_EV1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG58][TargetLeft][LoadPortrait=GATO][TargetLeft]You have done well to make it this far,
+Prince Marth[FreezeMouth]![UnfreezeMouth][Pause=3] Anri's blood truly flows within
+you.[A][ClearBox]To reward your courage, I entrust you with
+the Light Orb.[A][ClearBox]This will nullify the Dark Orb's power.[Pause=3]
+Defeating Hardin will no longer be an
+impossible task.[A][ClearBox]And what of the star shards[FreezeMouth]?[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS014_EV2_A
+[TargetLeft]What[FreezeMouth]?![UnfreezeMouth][Pause=3]
+You've collected them all[FreezeMouth]![UnfreezeMouth][A][ClearBox]Goodness gracious.
+With these, I can restore the Star Orb.[Pause=3]
+Wait one moment[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][Pause=6][TargetLeft][LoadPortrait=GATO][TargetLeft]Marth.
+This is the Star Orb.[Pause=3]
+I entrust this to you also.[A][ClearBox][TargetRight]Huh?
+Lord Gato, why would you give me something
+so precious?[A][ClearBox][TargetLeft]Only you can restore the Shield of Seals[FreezeMouth]...[UnfreezeMouth][Pause=3]
+The shield has chosen you.[A][ClearBox][TargetRight][FreezeMouth]Excuse me[FreezeMouth]...?[UnfreezeMouth][UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS014_EV2_A2
+[TargetLeft]Are you still in the dark?[Pause=3]
+The emblem shield you carry is the
+Shield of Seals that was once stolen[FreezeMouth]...[UnfreezeMouth][A][ClearBox]To be honest, it was only recently
+that I noticed; its exterior had
+completely changed...[A][ClearBox]After stealing it from Raman Temple,
+the thief removed its jewels and sold
+them off as treasures.[A][ClearBox]The money was used to fund an army,
+which, along with three stolen weapons,
+was used to conquer the world.[A][ClearBox]The thief that went on to become the
+king of Akaneia had the shield, which
+brought him such good fortune,[A][ClearBox]it became the emblem of his royal family.
+Now do you understand, Marth? It is what
+you are carrying, Akaneia's Fire Emblem.[A][ClearBox][TargetRight][FreezeMouth]You mean[FreezeMouth]...![UnfreezeMouth][UnfreezeMouth][Pause=3]
+What... ...The first king of Akaneia
+was originally a thief!?
+Is that true...?[A][ClearBox]In that case, I can kind of understand
+the curse of the Fire Emblem[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Lord Gato, does that mean[FreezeMouth]...[UnfreezeMouth]
+If I were to place all five orbs into this,
+the Shield of Seals will be restored?[A][ClearBox][TargetLeft]You are indeed correct[FreezeMouth]...[UnfreezeMouth]
+But 600 years have passed since it broke[FreezeMouth]...[UnfreezeMouth][A][ClearBox]The earth dragons sealed under Macedonia
+will soon awaken.[A][ClearBox]There are several hundreds[SpecialSymbol=0x96]no, several
+thousands.[A][ClearBox]I will entrust Chiki to you as well.[Pause=3]
+You will find her in the room to the right.
+With her, you can defeat those dragons.[A][ClearBox]But I must warn you.[Pause=3]
+If you do not complete the Shield of Seals,
+even Chiki will be destroyed.[A][ClearBox][TargetRight]What[FreezeMouth]?![UnfreezeMouth][Pause=3]
+But why[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][TargetLeft]Because she is still a child.
+Without the shield, she too will degenerate..[A][ClearBox]In time, she will turn into a beast and attack
+humanity.[A][ClearBox]I took pity on her and sent her to sleep.[A][ClearBox]But if the Shield of Seals is restored,
+we will no longer have to worry.[Pause=3]
+The shield will protect Chiki.[A][ClearBox]Marth, I leave Chiki in your hands.[Pause=3]
+Please free her from her destruction.[A][ClearBox][X]
+
+MS014_EV2_B
+[TargetLeft]I see.
+You couldn't collect them all[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I suppose it couldn't be helped[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Nevertheless, I will take what shards you
+have.[A][ClearBox]Chiki is sleeping in the room to the right,
+but since the shield has not been restored,
+I cannot let you meet her.[A][ClearBox]She has yet to mature into an adult.
+Without the Shield of Seals, her degeneration
+is but inevitable.[A][ClearBox]In time, she will turn into a beast and attack
+humanity.[A][ClearBox]I'm afraid Chiki cannot ever be allowed to
+awaken again.[Pause=3] 'Tis for her own good[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Marth, if you have taken the treasures,
+then head to the room to the left.[Pause=3]
+I shall await you there[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS014_EV3
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG58][TargetRight]Chiki[FreezeMouth]?![UnfreezeMouth]
+Are you alright[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=TIKI]Yeah[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Chiki, it's me, Marth.
+Hey, open your eyes![A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Mar[FreezeMouth]...[UnfreezeMouth]
+Mar-Mar[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x73]Oh, Mar-Mar[FreezeMouth]!![UnfreezeMouth][Pause=3]
+You came[FreezeMouth]![UnfreezeMouth]
+You came to see Chiki[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]That's right, Chiki.[Pause=3]
+It's been a while.
+Have you been well?[A][ClearBox][TargetLeft][FaceCommand=0x61]Uhh[FreezeMouth]...[UnfreezeMouth] not really.[Pause=3]
+Lord Gato said that I had to sleep again.[A][ClearBox]But[FreezeMouth]...[UnfreezeMouth] I don't wanna.[Pause=3]
+I slept all by myself for a really long time.[A][ClearBox]I had so many scary dreams, over and over.[A][ClearBox]I dreamt I ended up like the poor fire dragons
+and ice dragons[FreezeMouth]...[UnfreezeMouth] That I was a terrifying
+monster.[A][ClearBox]I'd attack humans and kill them.[A][ClearBox]"No[FreezeMouth]..."[UnfreezeMouth], "Stop[FreezeMouth]..."[UnfreezeMouth] they'd shout, and then I'd
+wake up. All alone, in this pitch black room[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I cried so much.[A][ClearBox]And each time, Ban-Ban comforted me.[A][ClearBox]Then, one day he took me out, and brought
+me to a human village.[A][ClearBox]The village life was so fun!
+Everyone treated me so nice[FreezeMouth]...[UnfreezeMouth]
+I was really happy.[A][ClearBox]I don't wanna sleep anymore[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Next time I close my eyes, I feel as though
+I'll never open them again.[A][ClearBox]I don't want that.[Pause=3]
+I want to live with everyone.
+I don't want to sleep.[A][ClearBox][TargetRight][FaceCommand=0x73]Chiki, it's alright now.[Pause=3]
+I'll protect you.
+So don't cry anymore[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Really[FreezeMouth]...?[UnfreezeMouth][Pause=3] I don't have to see those terrible
+dreams anymore[FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetRight]Oh, of course[FreezeMouth]![UnfreezeMouth][A][ClearBox]Once the Shield of Seals is restored, you can
+come live with us. Chiki, trust me, and come
+with me[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Yeah[FreezeMouth]![UnfreezeMouth] Yaaay[FreezeMouth]!![UnfreezeMouth]
+Thank you, Mar-Mar[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS014_EV4
+[LoadBackground=BBG07][TargetLeft][LoadPortrait=S_GATO][TargetLeft]It cannot be someone else.[Pause=3]
+Prince Marth himself needs to come here.[A][ClearBox][X]
+
+MS014_EV5
+[LoadBackground=BBG07][TargetLeft][LoadPortrait=S_GATO][TargetLeft]I'm sorry, but I cannot let you see Chiki.[Pause=3]
+It's for her own good[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS014_BT_TIKI
+[TargetLeft][LoadPortrait=TIKI][LoadBackground=]Huh[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Who[FreezeMouth]...[UnfreezeMouth] who are you[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MS014_DIE_TIKI
+[TargetLeft][LoadPortrait=TIKI][LoadBackground=][FreezeMouth]...[UnfreezeMouth]Ah[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Mar[FreezeMouth]...[UnfreezeMouth]Mar[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS014_ED1_A
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG59][TargetLeft][LoadPortrait=GATO][Pause=5][TargetLeft]I see[FreezeMouth]...[UnfreezeMouth]
+So Chiki was pretty happy.[Pause=3]
+It must have been very painful for her.[A][ClearBox]Though it was to protect her, I was far too
+cruel to her.[Pause=3] I suspect she must really hate
+me[FreezeMouth]...[UnfreezeMouth][A][ClearBox]You should go, Marth.[Pause=3]
+I will send you to Aritia with my powers.[A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS014_ED1_B
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG59][TargetLeft][LoadPortrait=GATO][Pause=5][TargetLeft]You should go, Marth.[Pause=3]
+I will send you to Aritia with my powers.[A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS014_ED2
+[TargetRight]Lord Gato, why don't you come with us?[A][ClearBox][TargetLeft]Hmm[FreezeMouth]...[UnfreezeMouth][Pause=3]
+At the moment I've one thing I must still
+investigate.[A][ClearBox]Garnef has returned.[A][ClearBox][TargetRight]Garnef[FreezeMouth]...[UnfreezeMouth][FreezeMouth]!?[UnfreezeMouth][Pause=3]
+But we killed him![A][ClearBox][TargetLeft]Yes, you killed his body.[A][ClearBox]But his soul was held prisoner by the
+Dark Orb, and within it, his hatred only
+grew.[A][ClearBox]Afterwards, his former disciples[SpecialSymbol=0x96]the heretic
+bishops[SpecialSymbol=0x96]resurrected him.[A][ClearBox]And they seem to be planning something foul.[A][ClearBox][TargetRight]I see[FreezeMouth].[UnfreezeMouth][Pause=3]
+Very well, Lord Gato.
+We shall split ways here.[A][ClearBox][TargetLeft]Indeed[FreezeMouth].[UnfreezeMouth]
+If I find something, then I too will visit Aritia
+afterwards.[A][ClearBox]I'm counting on you, Marth.
+Everything rests on your shoulders.[A][ClearBox]You must save both our races from the path
+of destruction.[A][ClearBox][Fade=40][X]
+
+MS014_ED3_PCF1
+[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG75][X]
+
+MS014_ED3_PCM1
+[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG75][X]
+
+MS014_ED3_0_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=CHEINE][FaceCommand=0x73][X]
+
+MS014_ED3_0_PCM1
+[SpecialText0x14][TargetLeft][LoadPortrait=CHEINE][FaceCommand=0x73][X]
+
+MS014_ED3_1
+[SpecialText0x14][TargetLeft]'Course, just hold on a second.[A][ClearBox][Fade=48][EyeCommand=f2][TargetLeft][LoadPortrait=TIKI][EyeCommand=f0][Fade=16]Ta-da![Pause=3]
+Want my tiara?[A]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS014_ED3_A
+[SpecialText0x14][TargetRight]Sure![A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS014_ED3_B
+[TargetRight]Nah.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+

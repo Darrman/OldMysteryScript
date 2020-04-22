@@ -1,0 +1,335 @@
+MS204_OP1_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG03][TargetLeft][LoadPortrait=ROOK][TargetLeft]Sigh.[A][ClearBox][TargetRight][LoadPortrait=LIAN]What's wrong, Luke?[A][ClearBox][TargetLeft]Don't you think it's a crying shame that there
+aren't any cute and caring clerics around?[A][ClearBox][TargetRight]W-what do you mean[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Well, a knight thrives on romance, right[FreezeMouth]?[UnfreezeMouth][Pause=3]
+Like if I were wounded in battle,
+and a lovely cleric came to my aid[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=PLAYER][TargetLeft]Hey, [SpecialText0x14=0x30].[Pause=3]
+If we had a cleric like that with us,
+I bet we'd all fight twice as hard[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]Well, I don't know about the romantic part[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]But it would make our lives easier if we had
+a healer on our side.[A][ClearBox]Unfortunately, I don't think there are any
+healers around, Luke.[Pause=3][A][ClearBox]It might be a good idea for us to ask
+someone for assistance on the matter.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73][SpecialText0x14=0x39], everyone, please listen.
+I bring good news.[A][ClearBox]They've found us someone who can support
+our platoon[FreezeMouth]![UnfreezeMouth][Pause=3] It appears we might be joined by
+a healer.[A][ClearBox][TargetRight][LoadPortrait=ROOK][FaceCommand=0x73]She's finally here[FreezeMouth]![UnfreezeMouth][Pause=3]
+My lovely cleric[FreezeMouth]![UnfreezeMouth][Pause=3]
+Out of my way! Let me at her[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS204_OP1_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG03][TargetLeft][LoadPortrait=ROOK][TargetLeft]Sigh.[A][ClearBox][TargetRight][LoadPortrait=LIAN]What's wrong, Luke?[A][ClearBox][TargetLeft]Don't you think it's a crying shame that there
+aren't any cute and caring clerics around?[A][ClearBox][TargetRight]W-what do you mean[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Well, a knight thrives on romance, right[FreezeMouth]?[UnfreezeMouth][Pause=3]
+Like if I were wounded in battle,
+and a lovely cleric came to my aid[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=PLAYER][TargetLeft]Hey, [SpecialText0x14=0x30].[Pause=3]
+If we had a cleric like that with us,
+I bet we'd all fight twice as hard[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]Well, I don't know about the romantic part[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]But it would make our lives easier if we had
+a healer on our side.[A][ClearBox]Unfortunately, I don't think there are any
+healers around, Luke.[Pause=3][A][ClearBox]It might be a good idea for us to ask
+someone for assistance on the matter.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73][SpecialText0x14=0x39], everyone, please listen.
+I bring good news.[A][ClearBox]They've found us someone who can support
+our platoon[FreezeMouth]![UnfreezeMouth][Pause=3] It appears we might be joined by
+a healer.[A][ClearBox][TargetRight][LoadPortrait=ROOK][FaceCommand=0x73]She's finally here[FreezeMouth]![UnfreezeMouth][Pause=3]
+My lovely cleric[FreezeMouth]![UnfreezeMouth][Pause=3]
+Out of my way! Let me at her[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS204_OP2_PCF1
+[Fade=40][TargetRight][LoadPortrait=ROOK][FaceCommand=0x61][LoadBackground=BBG03][TargetLeft][LoadPortrait=RIFF][TargetLeft][FaceCommand=0x73]Pleased to meet you!
+I am Riff, a humble curate.[Pause=3][A][ClearBox]I cannot fight, but this staff I carry
+can heal your wounded.[A][ClearBox][TargetRight][FaceCommand=0x61][FreezeMouth]........[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Yes, yes, I heard the whole thing from
+Sir Jeigan.[Pause=3][A][ClearBox]If you like, I could lend you my services as a
+healer.[A][ClearBox][FreezeMouth]...[UnfreezeMouth]Oh my, has something terrible happened?[Pause=3]
+Your face looks awfully pale[FreezeMouth]...[UnfreezeMouth]
+Have you been taken by illness, my boy?[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=PLAYER]Ah, no, it's nothing[FreezeMouth]...[UnfreezeMouth]
+(Be careful what you wish for, Luke!)[A][ClearBox][TargetRight][LoadPortrait=KATARINA]Pay no heed to Luke; we're all fine.[Pause=3]
+[FaceCommand=0x73]Pleased to make your acquaintance, Riff.[A][ClearBox][X]
+
+MS204_OP2_PCM1
+[Fade=40][TargetRight][LoadPortrait=ROOK][FaceCommand=0x61][LoadBackground=BBG03][TargetLeft][LoadPortrait=RIFF][TargetLeft][FaceCommand=0x73]Pleased to meet you!
+I am Riff, a humble curate.[Pause=3][A][ClearBox]I cannot fight, but this staff I carry
+can heal your wounded.[A][ClearBox][TargetRight][FaceCommand=0x61][FreezeMouth]........[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Yes, yes, I heard the whole thing from
+Sir Jeigan.[Pause=3][A][ClearBox]If you like, I could lend you my services as a
+healer.[A][ClearBox][FreezeMouth]...[UnfreezeMouth]Oh my, has something terrible happened?[Pause=3]
+Your face looks awfully pale[FreezeMouth]...[UnfreezeMouth]
+Have you been taken by illness, my boy?[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=PLAYER]It's nothing[FreezeMouth]...[UnfreezeMouth]
+He's just overwhelmed with joy right now.[A][ClearBox][TargetRight][LoadPortrait=KATARINA]Pay no heed to Luke; we're all fine.[Pause=3]
+[FaceCommand=0x73]Pleased to make your acquaintance, Riff.[A][ClearBox][X]
+
+MS204_OP5
+[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG24][TargetLeft][LoadPortrait=KAIN]Well then, let's continue the combat training.[Pause=3]
+Everyone, you had better be prepared[FreezeMouth]![UnfreezeMouth][A][ClearBox]I've decided that you will have a rather
+unusual instructor for today's practical
+training.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS204_OP5_A_PCF1
+[SpecialText0x14]This is General George, who is visiting from
+the kingdom of Akaneia.[A][ClearBox][TargetLeft][LoadPortrait=JORJUE]I came to instruct Gordon in archery,
+but once I heard your story, my curiosity
+was piqued, to say the least.[A][ClearBox]So I asked a big favor:
+to be allowed to take part.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=KATARINA]Sir George[FreezeMouth]...[UnfreezeMouth][Pause=3]
+A true master of the bow and arrow, they
+call him greatest archer on the continent.[A][ClearBox][SpecialText0x14=0x39], do your best[FreezeMouth]![UnfreezeMouth][A][ClearBox][Unknown0x4=F][X]
+
+MS204_OP5_A_PCM1
+[SpecialText0x14]This is General George, who is visiting from
+the kingdom of Akaneia.[A][ClearBox][TargetLeft][LoadPortrait=JORJUE]I came to instruct Gordon in archery,
+but once I heard your story, my curiosity
+was piqued, to say the least.[A][ClearBox]So I asked a big favor:
+to be allowed to take part.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=KATARINA]Sir George[FreezeMouth]...[UnfreezeMouth][Pause=3]
+A true master of the bow and arrow, they
+call him greatest archer on the continent.[A][ClearBox][SpecialText0x14=0x39], do your best[FreezeMouth]![UnfreezeMouth][A][ClearBox][Unknown0x4=F][X]
+
+MS204_OP5_B_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=KAIN]This is Miss Athena, a foreign myrmidon
+who helped us in the last war.[A][ClearBox][TargetLeft][LoadPortrait=ATHENA]Ve are indebted to this country,[Pause=3]
+and ve vish to return the favor.[Pause=3]
+Any voman vould do the same.[A][ClearBox]Ve are bad at teaching.[Pause=3]
+But if ve are using swords, ve vill not lose.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=KATARINA]Athena is a myrmidon with excellent speed
+and an opponent whom you must be very
+cautious of.[A][ClearBox][SpecialText0x14=0x39], do your best[FreezeMouth]![UnfreezeMouth][A][Unknown0x4=F][X]
+
+MS204_OP5_B_PCM1
+[SpecialText0x14][TargetLeft][LoadPortrait=KAIN]This is Miss Athena, a foreign myrmidon
+who helped us in the last war.[A][ClearBox][TargetLeft][LoadPortrait=ATHENA]Ve are indebted to this country,[Pause=3]
+and ve vish to return the favor.[Pause=3]
+Any voman vould do the same.[A][ClearBox]Ve are bad at teaching.[Pause=3]
+But if ve are using swords, ve vill not lose.[A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=KATARINA]Athena is a myrmidon with excellent speed
+and an opponent whom you must be very
+cautious of.[A][ClearBox][SpecialText0x14=0x39], do your best[FreezeMouth]![UnfreezeMouth][A][Unknown0x4=F][X]
+
+MS204_BT_BOSS_A
+[LoadBackground=][TargetLeft][LoadPortrait=JORJUE]I am George, a bow knight of Akaneia.[Pause=3]
+Let me see how you fare in battle.[A][ClearBox][X]
+
+MS204_BT_BOSS_B
+[LoadBackground=][TargetLeft][LoadPortrait=ATHENA]Ve vill challenge you[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS204_DIE_BOSS_A
+[LoadBackground=][TargetLeft][LoadPortrait=JORJUE][FreezeMouth]...[UnfreezeMouth]That was magnificent[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS204_DIE_BOSS_B
+[LoadBackground=][TargetLeft][LoadPortrait=ATHENA][FreezeMouth]...[UnfreezeMouth]Ve give up.[A][ClearBox][X]
+
+MS204_ED1_A_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG24][TargetLeft][LoadPortrait=JORJUE]Not bad at all.[Pause=3]
+That was a splendid fight.[Pause=3]
+You, what is your name?[A][ClearBox][TargetRight]The name's [SpecialText0x14=0x39].[Pause=3]
+Junior knight [SpecialText0x14=0x39].[A][ClearBox][TargetLeft][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth] I'll remember that name.[A][ClearBox]I'm afraid I cannot join your cause, but[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Gordon, could you go in my stead?[A][ClearBox][TargetRight][LoadPortrait=GOHDON][FaceCommand=0x73]Yes sir.[Pause=3]
+I'll gladly fill in for you.[A][ClearBox][TargetRight][LoadPortrait=PLAYER][FaceCommand=0x61][TargetLeft][FaceCommand=0x73][SpecialText0x14=0x39], you are someone I'd like to fight
+alongside one day.[Pause=3][A][ClearBox]I look forward to the day we can meet again.[A][ClearBox][Fade=40][X]
+
+MS204_ED1_A_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG24][TargetLeft][LoadPortrait=JORJUE]Not bad at all.[Pause=3]
+That was a splendid fight.[Pause=3]
+You, what is your name?[A][ClearBox][TargetRight]The name's [SpecialText0x14=0x39].[Pause=3]
+Junior knight [SpecialText0x14=0x39].[A][ClearBox][TargetLeft][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth] I'll remember that name.[A][ClearBox]I'm afraid I cannot join your cause, but[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Gordon, could you go in my stead?[A][ClearBox][TargetRight][LoadPortrait=GOHDON][FaceCommand=0x73]Yes sir.[Pause=3]
+I'll gladly fill in for you.[A][ClearBox][TargetRight][LoadPortrait=PLAYER][FaceCommand=0x61][TargetLeft][FaceCommand=0x73][SpecialText0x14=0x39], you are someone I'd like to fight
+alongside one day.[Pause=3][A][ClearBox]I look forward to the day we can meet again.[A][ClearBox][Fade=40][X]
+
+MS204_ED1_B_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG24][TargetLeft][LoadPortrait=ATHENA]You are strong.[A][ClearBox]Especially you.[Pause=3]
+You, vat is your name?[A][ClearBox][TargetRight]The name's [SpecialText0x14=0x39].[Pause=3]
+Junior knight [SpecialText0x14=0x39].[A][ClearBox][TargetLeft][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth] Ve vill remember that.[Pause=3]
+You, you are our friend.[A][ClearBox][FaceCommand=0x73]Ve vill aid you if you vant.[A][ClearBox][Fade=40][X]
+
+MS204_ED1_B_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG24][TargetLeft][LoadPortrait=ATHENA]You are strong.[A][ClearBox]Especially you.[Pause=3]
+You, vat is your name?[A][ClearBox][TargetRight]The name's [SpecialText0x14=0x39].[Pause=3]
+Junior knight [SpecialText0x14=0x39].[A][ClearBox][TargetLeft][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth] Ve vill remember that.[Pause=3]
+You, you are our friend.[A][ClearBox][FaceCommand=0x73]Ve vill aid you if you vant.[A][ClearBox][Fade=40][X]
+
+MS204_ED2
+[SpecialText0x14][Fade=40][TargetRight][LoadPortrait=PLAYER][FaceCommand=0x61][LoadBackground=BBG24][TargetLeft][LoadPortrait=KAIN][FaceCommand=0x61]Today's training is now over.
+With that, I shall give you an interim report.[A][ClearBox][TargetRight]Interim report[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]From the very first test until now,
+I have evaluated your manner of combat.[A][ClearBox]The more of your allies that have been
+injured and forced to withdraw, the poorer
+your score.[A][ClearBox]Get ready to listen up[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Yes sir.[A][ClearBox][TargetLeft]Commander [SpecialText0x14=0x39] of the 7th Platoon[FreezeMouth]![UnfreezeMouth][Pause=3]
+Of the twenty junior knight platoons,
+you place[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS204_ED2_01_A
+[SpecialText0x14][TargetLeft][FaceCommand=0x73]First[FreezeMouth]![UnfreezeMouth][Pause=3]
+Wonderful work, [SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][Pause=3]
+You are most talented[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73]A-amazing[FreezeMouth]![UnfreezeMouth]
+We did it! We did it, [SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][Pause=3]
+It's all thanks to you, [SpecialText0x14=0x39].[A][ClearBox][TargetLeft][LoadPortrait=KAIN][FaceCommand=0x61]But don't let your guard down.[Pause=3]
+Placing first doesn't give you an excuse to
+start slacking off.[A][ClearBox]That is all[FreezeMouth]![UnfreezeMouth][Pause=3]
+You may return to the castle[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS204_ED2_01_B
+[SpecialText0x14][TargetLeft][FaceCommand=0x73]Third[FreezeMouth]![UnfreezeMouth][Pause=3]
+Impressive, [SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][Pause=3]
+I'd say that you've placed rather high.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x73]We did it! We did it, [SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][Pause=3]
+It's thanks to you, [SpecialText0x14=0x39].[A][ClearBox][TargetLeft][LoadPortrait=KAIN][FaceCommand=0x61]But don't let your guard down.[Pause=3]
+You are still in-training[SpecialSymbol=0x96]so from now on,
+you must aim even higher.[A][ClearBox]That is all[FreezeMouth]![UnfreezeMouth][Pause=3]
+You may return to the castle[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS204_ED2_01_C
+[SpecialText0x14][TargetLeft]Tenth.[Pause=3]
+Just in the middle, [SpecialText0x14=0x39].[Pause=3]
+I've got nothing good to say, at this rate.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA]I'm sorry, [SpecialText0x14=0x39].[Pause=3]
+It's because I can't do anything[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=KAIN]But don't give up.[Pause=3]
+You are still in the middle of training,
+so I expect more effort from now on.[A][ClearBox]That is all[FreezeMouth]![UnfreezeMouth][Pause=3]
+You may return to the castle[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS204_ED2_01_D
+[SpecialText0x14][TargetLeft]Last[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+None placed worst than you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=KATARINA]I, I-I'm terribly sorry, [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+It's because I can't do anything[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=KAIN][FreezeMouth]...[UnfreezeMouth]But don't give up.[Pause=3]
+You are still in the middle of training,
+so from now on try as hard as you can.[A][ClearBox]That is all[FreezeMouth]![UnfreezeMouth][Pause=3]
+You may return to the castle[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS204_ED3_PCF1
+[Fade=40][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG04][TargetRight][FreezeMouth]...[UnfreezeMouth]Wow, this castle is absolutely massive.[Pause=3]
+It's a huge difference to the house in my
+hometown[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Now, where were the 7th Platoon's chambers
+again[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS204_ED3_PCM1
+[Fade=40][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG04][TargetRight][FreezeMouth]...[UnfreezeMouth]This castle sure is massive.[Pause=3]
+It's a huge difference to the house in my
+hometown[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Now, where were the 7th Platoon's chambers
+again[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS204_ED3_1_PCF1
+[SpecialText0x14][TargetLeft][LoadPortrait=ERICE][FaceCommand=0x73]Oh my[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You are a junior knight, are you not?[A][ClearBox][TargetRight][FaceCommand=0x73]Ah, yes. I'm [SpecialText0x14=0x39].[Pause=3]
+I came here hoping to become an Aritian knight.[A][ClearBox]And you are[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]I am Ellis.[Pause=3]
+Marth's elder sister.[A][ClearBox][TargetRight][FaceCommand=0x61]Oh[FreezeMouth]![UnfreezeMouth]
+Prince Marth's elder sister[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Please excuse my lack of manners.[A][ClearBox][TargetLeft]It's alright. [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+I think it's very admirable that you've come
+to help Marth.[A][ClearBox][TargetRight][FaceCommand=0x73]It is an honor to serve Prince Marth,
+the Hero King.[A][ClearBox][TargetLeft][FaceCommand=0x61]"The Hero King"[FreezeMouth]...[UnfreezeMouth] you say?[Pause=3]
+It does seem that our people have grown
+fond of calling him that.[A][ClearBox]But truth of the matter is that Marth[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Marth is just a weak, vulnerable child[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS204_ED3_1_PCM1
+[SpecialText0x14][TargetLeft][LoadPortrait=ERICE][FaceCommand=0x73]Oh my[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You are a junior knight, are you not?[A][ClearBox][TargetRight][FaceCommand=0x73]Uh, yes. I'm [SpecialText0x14=0x39].[Pause=3]
+I came here hoping to become an Aritian knight.[A][ClearBox]And you are[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]I am Ellis.[Pause=3]
+Marth's elder sister.[A][ClearBox][TargetRight][FaceCommand=0x61]Oh[FreezeMouth]![UnfreezeMouth]
+Prince Marth's elder sister[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Please excuse my lack of manners.[A][ClearBox][TargetLeft]It's alright. [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+I think it's very admirable that you've come
+to help Marth.[A][ClearBox][TargetRight][FaceCommand=0x73]It is an honor to serve Prince Marth,
+the Hero King.[A][ClearBox][TargetLeft][FaceCommand=0x61]"The Hero King"[FreezeMouth]...[UnfreezeMouth] you say?[Pause=3]
+It does seem that our people have grown
+fond of calling him that.[A][ClearBox]But truth of the matter is that Marth[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Marth is just a weak, vulnerable child[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS204_ED3_2_PCF1
+[SpecialText0x14][TargetRight][FaceCommand=0x61][FaceCommand=0x61]Prince Marth is weak[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]Yes.[Pause=3]
+Of course, he was the hero who triumphed
+in the battle against the Dark Dragon.[A][ClearBox]However, behind his heroic face, Marth is an
+idealistic child who firmly clings on to his
+beliefs.[A][ClearBox]And as you too must know, the real world[FreezeMouth]...[UnfreezeMouth]
+cannot be saved with just ideals.[A][ClearBox][TargetRight]Yes[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Even as we speak, somewhere unknown to us,
+our peoples' lives are being lost[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Marth cannot save those people.[A][ClearBox][TargetRight]Yes, that's true[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Even the most excellent of kings is not an
+omnipotent god.[A][ClearBox]A king is no more than human, and there are
+limits to the things he can do.[A][ClearBox][TargetLeft]Yes. Precisely.[Pause=3]
+Most people realize this and can come to
+terms with that reality.[A][ClearBox]But Marth cannot do that[FreezeMouth]...[UnfreezeMouth]
+He truly thinks that he can save everyone.[A][ClearBox]In war, losing just one companion is
+unbearable for him[FreezeMouth]...[UnfreezeMouth][A][ClearBox]He suppresses his feelings with all his
+willpower, but I know that inside, his heart
+breaks and bleeds[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetLeft]In this cruel world, it will become increasingly
+difficult for him to continue to hold those
+ideals[FreezeMouth]...[UnfreezeMouth][A][ClearBox][SpecialText0x14=0x39], if some day you should achieve
+knighthood[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Please, protect him somehow[Pause=3] and keep his
+ideals safe[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS204_ED3_2_PCM1
+[SpecialText0x14][TargetRight][FaceCommand=0x61][FaceCommand=0x61]Prince Marth is weak[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]Yes.[Pause=3]
+Of course, he was the hero who triumphed
+in the battle against the Dark Dragon.[A][ClearBox]However, behind his heroic face, Marth is an
+idealistic child who firmly clings on to his
+beliefs.[A][ClearBox]And as you too must know, the real world[FreezeMouth]...[UnfreezeMouth]
+cannot be saved with just ideals.[A][ClearBox][TargetRight]Yes[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Even as we speak, somewhere unknown to us,
+our peoples' lives are being lost[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Marth cannot save those people.[A][ClearBox][TargetRight]Yes, that's true[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Even the most excellent of kings is not an
+omnipotent god.[A][ClearBox]A king is no more than human, and there are
+limits to the things he can do.[A][ClearBox][TargetLeft]Yes. Precisely.[Pause=3]
+Most people realize this and can come to
+terms with that reality.[A][ClearBox]But Marth cannot do that[FreezeMouth]...[UnfreezeMouth]
+He truly thinks that he can save everyone.[A][ClearBox]In war, losing just one companion is
+unbearable for him[FreezeMouth]...[UnfreezeMouth][A][ClearBox]He suppresses his feelings with all his
+willpower, but I know that inside, his heart
+breaks and bleeds[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetLeft]In this cruel world, it will become increasingly
+difficult for him to continue to hold those
+ideals[FreezeMouth]...[UnfreezeMouth][A][ClearBox][SpecialText0x14=0x39], if some day you should achieve
+knighthood[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Please, protect him somehow[Pause=3] and keep his
+ideals safe[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS204_ARG_1
+[SpecialText0x14][SpecialText0x14=0x39] the Ordinary[X]
+
+MS204_ARG_10
+[SpecialText0x14][SpecialText0x14=0x39] the Wise[X]
+
+MS204_ARG_11
+[SpecialText0x14][SpecialText0x14=0x39] the Ordinary[X]
+
+MS204_ARG_12
+[SpecialText0x14][SpecialText0x14=0x39] the Kind[X]
+
+MS204_ARG_13
+[SpecialText0x14][SpecialText0x14=0x39] the Terrible[X]
+
+MS204_ARG_14
+[SpecialText0x14][SpecialText0x14=0x39] the Sly[X]
+
+MS204_ARG_15
+[SpecialText0x14][SpecialText0x14=0x39] the Ordinary[X]
+
+MS204_ARG_16
+[SpecialText0x14][SpecialText0x14=0x39] the Sly[X]
+
+MS204_ARG_17
+[SpecialText0x14][SpecialText0x14=0x39] the Wise[X]
+
+MS204_ARG_18
+[SpecialText0x14][SpecialText0x14=0x39] the Beast[X]
+
+MS204_ARG_19
+[SpecialText0x14]Captain [SpecialText0x14=0x39][X]
+
+MS204_ARG_2
+[SpecialText0x14][SpecialText0x14=0x39] the Kind[X]
+
+MS204_ARG_20
+[SpecialText0x14][SpecialText0x14=0x39] the Timid[X]
+
+MS204_ARG_21
+[SpecialText0x14]Masked [SpecialText0x14=0x39][X]
+
+MS204_ARG_22
+[SpecialText0x14]Masked [SpecialText0x14=0x39][X]
+
+MS204_ARG_3
+[SpecialText0x14][SpecialText0x14=0x39] the Terrible[X]
+
+MS204_ARG_4
+[SpecialText0x14][SpecialText0x14=0x39] the Sly[X]
+
+MS204_ARG_5
+[SpecialText0x14][SpecialText0x14=0x39] the Ordinary[X]
+
+MS204_ARG_6
+[SpecialText0x14][SpecialText0x14=0x39] the Sly[X]
+
+MS204_ARG_7
+[SpecialText0x14][SpecialText0x14=0x39] the Wild[X]
+
+MS204_ARG_8
+[SpecialText0x14][SpecialText0x14=0x39] the Scarred[X]
+
+MS204_ARG_9
+[SpecialText0x14]Captain [SpecialText0x14=0x39][X]
+

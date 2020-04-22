@@ -1,0 +1,112 @@
+MS013_OP0
+[X]
+
+MS013_OP0_A
+[X]
+
+MS013_OP0_B
+[X]
+
+MS013_OP0_C
+[X]
+
+MS013_OP1
+[Unknown0x12]2[TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=CHEINE][LoadBackground=BBG33][TargetRight]Are we there yet, Chainy?
+We've climbed so high already.[A][ClearBox]It's freezing and[FreezeMouth]...[UnfreezeMouth]
+It's becoming increasingly difficult to
+breathe[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Just hang on a bit longer, princey.[A][ClearBox]Look, you can see it, right?
+That's the Ice Dragons' Temple over there.
+Where Gato's waitin' for you.[A][ClearBox][TargetRight]You know, I must admit, I was shocked when
+you told me that Chiki was the daughter of
+the Divine Dragon King.[A][ClearBox]And that you and Gato were both divine
+dragons.[A][ClearBox][TargetLeft][FaceCommand=0x61]Oh, yeah[FreezeMouth]...[UnfreezeMouth] When the Divine Dragons fought the
+Earth Dragons they wore out their dragon
+stones, and so practically became extinct.[A][ClearBox]Aside from Narga, only Gato, me and the
+newborn Chiki survived.[A][ClearBox]Y'see, after the war, Gato
+and I threw away our dragon stones.[Pause=3]
+So, I can never be a dragon again.[A][ClearBox]Sure, Gato still stands by Narga's command
+and watches out for humans[FreezeMouth]...[UnfreezeMouth][A][ClearBox]But that ain't my thing.[A][ClearBox]Y'see, I don't like humans.[A][ClearBox]I've got nothin' but contempt for those
+who treated the defenseless Mamkutes like
+insects.[A][ClearBox]So I can understand why Mediuth despised
+you humans so.[A][ClearBox]Mediuth, an Earth Dragon prince, tricked
+his own tribe and he alone became a Mamkute.[A][ClearBox]And, as ordered by Narga, he guarded the
+Dragon's Altar.[A][ClearBox]But the once peaceful human race, drunk
+with power, began to rule with tyranny.[A][ClearBox]They oppressed the dragons who had done
+nothin' wrong.[A][ClearBox]Furious at their betrayal by humans,
+the Mamkutes gathered in Durhua,[A][ClearBox]and they created a nation for their people.
+Then they fought to conquer humanity.[A][ClearBox]To save the humans, Gato gave them the
+divine sword Falchion.[A][ClearBox]He established an academy in Khadein,
+and began to teach magic.[A][ClearBox]Me? I was just an onlooker.[Pause=3]
+Winner or loser, it was no concern of mine.[A][ClearBox][TargetRight]But then, why help me?[Pause=3]
+I too am human[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]You're different.[Pause=3]
+You don't seem like an unreliable
+person either[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Mmm[FreezeMouth]...[UnfreezeMouth]
+Thanks, Chainy.[A][ClearBox][TargetLeft]I[FreezeMouth]...[UnfreezeMouth] Oh, look at me.[Pause=3]
+I'm blushin'.[A][ClearBox][FaceCommand=0x61]Anyway, let's head to the shrine.
+But watch out for the ice dragons.[A][ClearBox]Even though they've lost their minds,
+they still protect the shrine instinctively.[Pause=3]
+The poor creatures[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS013_TK1
+[Unknown0x12]2[TargetLeft][LoadPortrait=BECK][LoadBackground=][TargetRight][LoadPortrait=MARS][TargetRight]You, you're Beck[FreezeMouth]![UnfreezeMouth][Pause=3]
+To think we'd meet here of all places[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Me too, Prince Marth.
+Boy am I surprised to see you.[Pause=3]
+It's been far too long.[A][ClearBox]After the war, I was travelin' the continent.[Pause=3]
+And, um, somehow[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]You landed up here?[Pause=3]
+Well, thank goodness. There's no way you
+would have joined the barbarians.[A][ClearBox]Beck, we're fighting another war.
+Why don't you come with us?[A][ClearBox][TargetLeft]I don't have my ballista any more.[Pause=3]
+Just my horse-buddy right 'ere.[A][ClearBox]But if you're fine with that, then sure.
+I'll help you princey.[A][ClearBox][X]
+
+MS013_BT_BECK
+[TargetLeft][LoadPortrait=BECK][LoadBackground=]What's the point of war[FreezeMouth]?[UnfreezeMouth][A][ClearBox][X]
+
+MS013_DIE_BECK
+[TargetLeft][LoadPortrait=BECK][LoadBackground=]D-damn[FreezeMouth]...[UnfreezeMouth] it[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You too[FreezeMouth]...[UnfreezeMouth] Pony[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MS013_ED1
+[Unknown0x12]2[TargetRight][LoadPortrait=MARS][LoadBackground=BBG56][TargetLeft][LoadPortrait=CHEINE][TargetRight]There's something that's been bothering me.[A][ClearBox]The five orbs are very important, correct?
+But Lord Gato never told us much about
+them.[A][ClearBox]Do you know anything about them, Chainy?[A][ClearBox][TargetLeft]Well, Gato kept his lips shut 'cause he was
+afraid of givin' you a heart attack.[A][ClearBox]Tell you what, I'll tell you about 'em.
+But I have to warn you, you might be
+better off not knowing...[A][ClearBox]The orbs are meant for the shield that binds
+the earth dragons[FreezeMouth]...[UnfreezeMouth][A][ClearBox]In other words, they were once embedded in
+the shield itself.[A][ClearBox]The orbs have been handed down for
+generations amongst the divine dragons
+and each contains a hidden power.[A][ClearBox]The shield itself is but a pedestal for the
+five orbs to release their innate powers.[A][ClearBox]If even one orb is missing, the seal's a goner.[A][ClearBox][TargetRight]I see.[Pause=3]
+But if that's the case, why were the orbs
+separated?[A][ClearBox][TargetLeft]'Cause the shield broke.[Pause=3][A][ClearBox]The Shield of Seals that was enshrined in the
+Raman Temple was stolen[FreezeMouth].[UnfreezeMouth][A][ClearBox][TargetRight]When exactly did this happen?[A][ClearBox][TargetLeft]Six hundred years ago, I reckon.[Pause=3]
+Gato scoured the lands searchin' for the
+shield, hopin' to get it back.[A][ClearBox]He managed to retrieve the five orbs,
+but in the end, he couldn't find the shield.[A][ClearBox]Then, in the last war[FreezeMouth]...[UnfreezeMouth][A][ClearBox]The Raman Temple was looted and the orbs
+were scattered once more.[A][ClearBox][TargetRight]I see[FreezeMouth].[UnfreezeMouth]
+So the orbs that Lord Gato lost[FreezeMouth]...[UnfreezeMouth]
+He's searching for them again?[A][ClearBox][TargetLeft]Yep. I'm sure you know about the Star Orb,
+Light Orb and Earth Orb[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]But there's also the Dark Orb and
+Life Orb.[A][ClearBox]Gato's got the Light Orb,[Pause=3] but the
+Star Orb's in pieces,[A][ClearBox]and it sounds like Garnef gave the
+Dark Orb to Hardin.[A][ClearBox][TargetRight]The Earth Orb is in Aritia, so all that remains
+is the Life Orb.[A][ClearBox][TargetLeft][FaceCommand=0x73]Anyway, let's go inside.[Pause=3]
+I'll be helpin' you too.[Pause=3]
+Now, come on, princey[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS013_ED2
+[SpecialText0x14][Unknown0x12]2[Fade=40][TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG56]Sire, please wait.[A][ClearBox][TargetRight][LoadPortrait=PLAYER][TargetLeft][SpecialText0x14=0x39], you as well.[A][ClearBox][TargetRight][LoadPortrait=MARS][TargetLeft]I just received a distressing message.[Pause=3]
+People have been sighted not far behind us.[A][ClearBox]There seems to be a battle underway.[A][ClearBox][TargetRight]Out here[FreezeMouth]?[UnfreezeMouth][Pause=3]
+Could it be the barbarians?
+Or perhaps it's the assassins[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]In any case, this area is almost entirely
+uninhabited. So it can't be any old people[FreezeMouth]...[UnfreezeMouth][A][ClearBox]To make matters worse, the snow is becoming
+heavier[FreezeMouth]...[UnfreezeMouth][Pause=3] Fighting will be difficult in this
+weather.[A][ClearBox][TargetRight]But if there are allies[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=PLAYER]Indeed. We cannot abandon them.
+If there are allies that is[FreezeMouth]...[UnfreezeMouth][A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS013_ED2_Y
+[TargetRight]Then we'll just have to find out for ourselves,
+before the battle is over.[Pause=3] Let's go[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+

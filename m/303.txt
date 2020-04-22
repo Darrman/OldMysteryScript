@@ -1,0 +1,279 @@
+MS303_OP1
+[Unknown0x12]3[LoadBackground=BS_bg]A few days after the Kingdom of Akaneia
+fell[Pause=3] and the royal palace with it...[A][ClearBox]A man and a woman stepped foot in the
+palace town.[A][ClearBox]The man's name was Ricardo,[Pause=3] and the woman 
+was Rena.[A][ClearBox][Unknown0x12]3[Fade=80][X]
+
+MS303_OP2
+[TargetRight][LoadPortrait=RICARD][FaceCommand=0x73][TargetLeft][LoadPortrait=RENA][LoadBackground=BBG27][TargetRight]Wooow[FreezeMouth]![UnfreezeMouth] So this is the fabled palace.
+They say it's been standin' for a millenium.[Pause=3]
+It's huuuuge![A][ClearBox]Hey, Rena.
+There must be a millenium's worth of
+treasure inside.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Ricardo,[Pause=3] must you continue[Pause=3] your thieving
+ways?[A][ClearBox][TargetRight]Are you kiddin' me[FreezeMouth]?[UnfreezeMouth][Pause=3]
+Don't forget we're NOBLE thieves.[A][ClearBox]We put our lives on the line stealin' not for
+our own pockets, but so we can shower the
+poor with gold![A][ClearBox][TargetLeft]B-but[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Hmm, I guess a palace of this size will be
+absolutely teemin' with guards.[Pause=3]
+It ain't gonna be easy sneakin' in.[A][ClearBox]Well, Rena.[Pause=3]
+I'll go and scout for a bodyguard,[Pause=3]
+so you just wait here for a moment.[A][ClearBox]I'll be riiiight back[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][TargetLeft]Oh, please don't be long[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS303_OP3
+[Fade=40][TargetRight][LoadPortrait=RENA][TargetLeft][LoadPortrait=BANDIT][LoadBackground=BBG27][FaceCommand=0x73]Well, hello there lovie, how's about you an'
+I share a moment together?
+Y'know what I mean?[A][ClearBox][TargetRight]P-please leave me alone[FreezeMouth]![UnfreezeMouth][Pause=3]
+I'm waiting here for someone.[A][ClearBox][TargetLeft]C'mon,[Pause=3] even a littl' moment would do.[A][ClearBox][TargetRight]N-no[FreezeMouth]![UnfreezeMouth]
+Let go of me[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][Unknown0x4=F32][TargetRight][LoadPortrait=NABARL]Hey. You[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Release this woman.[A][ClearBox][TargetLeft][FaceCommand=0x61]Who's there?[Pause=3]
+This ain't got nothin' to do with ya[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]I see.[Pause=3]
+Then, I have no choice.[A][ClearBox][TargetLeft]H-h-hey[FreezeMouth]... [UnfreezeMouth]
+You kiddin', right?[A][ClearBox]W-wait, d-don't tell me you're[FreezeMouth]...[UnfreezeMouth][Pause=3] Navarre[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][Pause=3]
+S-somebody, save meee[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS303_OP3_01
+[TargetLeft][LoadPortrait=RENA][FaceCommand=0x73]So you are Navarre, sir?[Pause=3]
+My name is[FreezeMouth]... [UnfreezeMouth]Rena.[Pause=3]
+I thank you from the bottom of my heart.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]It's dangerous here.[Pause=3]
+Be careful.[A][ClearBox][TargetRight][RemovePortrait][TargetLeft][FaceCommand=0x61]Oh, Navarre[FreezeMouth]![UnfreezeMouth][Pause=3]
+Please wait a moment.[A][ClearBox][TargetRight][LoadPortrait=NABARL][TargetLeft]Ah, err[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I wonder if you would agree to be our
+bodyguard?[A][ClearBox][TargetRight]Bodyguard?[A][ClearBox][TargetLeft]Yes. We, er, have our reasons,[Pause=3] so we've
+been looking for somebody capable to be our
+bodyguard.[A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth]I'm expensive.[A][ClearBox][TargetLeft]I-if it's gold you want, then Ricardo should be
+able to[FreezeMouth]...[UnfreezeMouth][Pause=3] Oh no, I mean[FreezeMouth]... [UnfreezeMouth] How expensive?[A][ClearBox]I don't have much gold on hand[FreezeMouth]...[UnfreezeMouth][Pause=3]
+However, we need more help if we are to
+save the people in the village[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]...[UnfreezeMouth][Pause=3]
+Fine, tell me the details.[A][ClearBox][TargetLeft][FaceCommand=0x73]Ah[FreezeMouth]![UnfreezeMouth] Thank you[FreezeMouth],[UnfreezeMouth][Pause=3] Navarre[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS303_OP4
+[Fade=40][TargetRight][LoadPortrait=RICARD][TargetLeft][LoadPortrait=KASHIM][LoadBackground=BBG27][TargetRight]Heeey[FreezeMouth]![UnfreezeMouth] You alright?[A][ClearBox]It's just a light wound, pull yourself together![A][ClearBox][TargetLeft]W-water[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]You want water? Here ya go[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Slurrrrrrrp.[A][ClearBox]Ahhhh[FreezeMouth]...![UnfreezeMouth][A][ClearBox][TargetRight]Ugh, you're kinda dirty.[Pause=3]
+Hey, you alright?[A][ClearBox][TargetLeft][FaceCommand=0x73]Huff[FreezeMouth]... [UnfreezeMouth]Thanks.[Pause=3]
+Me name is Kashim.[Pause=3]
+You are?[A][ClearBox][TargetRight][FaceCommand=0x73]I'm Ricardo.[A][ClearBox]You're not gonna live long[Pause=3] if you stay in a
+place like this.[Pause=3] What happened to ya?[A][ClearBox][TargetLeft][FaceCommand=0x61]I desperately needed gold for[Pause=3] me mother
+and young siblings back home.[A][ClearBox]When I heard there'd be people willin' to hire
+me in this city, I came here without thinkin'
+to eat or drink[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Hmm, I gotcha.[A][ClearBox]Oh, in that case, why doncha join us[FreezeMouth]?[UnfreezeMouth][Pause=3]
+We'll have gold if everythin' goes well.[A][ClearBox][TargetLeft][FaceCommand=0x73]Really[FreezeMouth]?[UnfreezeMouth][Pause=3]
+Then, let me come along[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Fade=40][TargetLeft][RemovePortrait][TargetLeft][LoadPortrait=RENA][FaceCommand=0x73]Ricardo[FreezeMouth]![UnfreezeMouth]
+Are you there, Ricardo[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Eh? Rena[FreezeMouth]![UnfreezeMouth][Pause=3]
+Len[FreezeMouth]...... [UnfreezeMouth]What the?[A][ClearBox][FaceCommand=0x61]Err,[Pause=3] who's that guy with you?[A][ClearBox][TargetLeft]Ricardo, this is Navarre.[Pause=3]
+He rescued me from a tricky situation.[A][ClearBox][TargetLeft][RemovePortrait][TargetLeft][LoadPortrait=NABARL][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Whoa,[Pause=3] he's mighty scary[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetLeft][LoadPortrait=RENA][FaceCommand=0x73][TargetRight][FaceCommand=0x73]Oh right, Rena.[Pause=3]
+I found somebody willin' to join us.[A][ClearBox][TargetRight][RemovePortrait][TargetRight][LoadPortrait=KASHIM][FaceCommand=0x73]I am Kashim, a hunter.
+Ricardo saved me life.[A][ClearBox][TargetRight][RemovePortrait][TargetRight][LoadPortrait=RICARD][FaceCommand=0x73]Saved your life?[Pause=3]
+C'mon, you're exaggeratin'![A][ClearBox][TargetLeft]Teehee. Ricardo,[Pause=3] it seems I have
+misunderstood you.[A][ClearBox]I was unaware of how thieves operate,
+so I thought they were all bad people.
+But you're different, aren't you?[A][ClearBox]You desperately seek gold[Pause=3], but only so you
+can save people. Am I right?[A][ClearBox][TargetRight]W-well, sorta![Pause=3]
+Y-yeah, it's somethin' like that.[Pause=3]
+Hahaha[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=KASHIM]I-I need gold for me[Pause=3] ill mother[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=NABARL][FaceCommand=0x61]You guys[FreezeMouth]...[UnfreezeMouth][Pause=3] better not be lying[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Or I'll slice your tongues off.[A][ClearBox][TargetRight][LoadPortrait=RICARD][FaceCommand=0x73]Ah-ahahahahaha[FreezeMouth]...[UnfreezeMouth][Pause=3]
+A-anyway, we have enough people now.[Pause=3]
+I reckon it's time we set up a plan[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS303_OP5
+[Fade=40][TargetRight][LoadPortrait=RICARD][FaceCommand=0x73][TargetLeft][LoadPortrait=RENA][LoadBackground=BBG75][TargetRight]Here,[Pause=3] this is a rough sketch of Pales.[A][ClearBox][TargetLeft]Oh my gosh, Ricardo.
+How did you come by this?[A][ClearBox][TargetRight][FaceCommand=0x61]Huh[FreezeMouth]?[UnfreezeMouth][Pause=3]
+Oh, er, I got this[FreezeMouth]...[UnfreezeMouth][Pause=3]
+From a traveler. Yeah, a traveler.[A][ClearBox][TargetLeft][LoadPortrait=NABARL]Ricardo, show me your tongue.[A][ClearBox][TargetRight]Eeeeeeeek[FreezeMouth]![UnfreezeMouth][Pause=3]
+No, no, I remembered wrong.[Pause=3]
+Errr[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I found it lyin' around as I passed by a
+nearby room,[Pause=3] so I, er, borrowed it for a bit.[A][ClearBox][TargetLeft][LoadPortrait=RENA]Ricardo![Pause=3]
+Taking things without permission is a terrible
+thing to do.[A][ClearBox]No wonder people mistake you for a bandit.[A][ClearBox]I'll go apologize for you later,[Pause=3] so don't do it
+again. Am I clear?[A][ClearBox][TargetRight][FaceCommand=0x73]Yeah, I won't do it again.[Pause=3]
+Promise.[A][ClearBox][TargetLeft][LoadPortrait=NABARL]Ricardo, tell us the plan already.[A][ClearBox][TargetRight]Huh? Oh yeah, sure.[A][ClearBox]Lessee[FreezeMouth]...[UnfreezeMouth]
+First, there's a rampart HERE.[Pause=3]
+We'll cross it and open the door.[A][ClearBox]Then, once we're HERE,[Pause=3] Navarre will take
+the lead.[A][ClearBox]Meanwhile, Kashim and I[Pause=3] will stay close behind.[A][ClearBox]We'll take care of any guys who escape
+from you, Navarre.[A][ClearBox][TargetLeft]Though I hardly think there's anyone who'd
+survive my blade[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]Eeek[FreezeMouth]![UnfreezeMouth]
+No, no, gotta focus.[A][ClearBox]Either way, I'll show 'em my moves[Pause=3] as soon
+as we encounter the treasure.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Don't forget I'll be watching.
+Always.[A][ClearBox][TargetRight][FaceCommand=0x73]C-c'mon, Navarre[FreezeMouth]![UnfreezeMouth][Pause=3]
+Whadya think I'm gonna do?
+Run off with all the treasure?[A][ClearBox][TargetLeft]Yes, exactly.[A][ClearBox][TargetRight][FaceCommand=0x61]Sigh[FreezeMouth]...[UnfreezeMouth]
+Even though I'm workin' sooo hard[Pause=3] to save
+people in need[FreezeMouth]...[UnfreezeMouth][A][ClearBox]My own comrades don't even trust me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Oh, woe is me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[EyeCommand=ec]Sniff, sniff, waaah[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=RENA]Oh, Ricardo[FreezeMouth]![UnfreezeMouth][Pause=3]
+Don't cry[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Navarre, you went too far this time.[Pause=3]
+Ricardo is but a fragile child whose feelings
+are easily hurt[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Uwaaaah[FreezeMouth]![UnfreezeMouth][Pause=3]
+Renaaaaa[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]It's okay, Ricardo.[Pause=3]
+I believe in you.[A][ClearBox][TargetLeft][LoadPortrait=KASHIM][FaceCommand=0x61]Hmmmmm[FreezeMouth]...[UnfreezeMouth] I see[FreezeMouth]...[UnfreezeMouth][Pause=3]
+So that's how you get people to trust you[FreezeMouth]...[UnfreezeMouth]
+Very clever[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=NABARL][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]Ricardo,[Pause=3] get off the cleric.[A][ClearBox][TargetRight][EyeCommand=ed]Eeeep[FreezeMouth]![UnfreezeMouth][Pause=3]
+Alright, I got it.[A][ClearBox][TargetLeft][LoadPortrait=RENA][TargetRight][FaceCommand=0x73]Then, uh, back to the plan![Pause=3]
+Rena, you stay behind us, alright?[A][ClearBox][TargetLeft]I'm coming along too?[A][ClearBox][TargetRight]Well, if you don't,[Pause=3] who's gonna heal us when
+we get all battered an' bruised?[A][ClearBox]Besides, Navarre here said he wouldn't[Pause=3]
+come with us unless you were comin'.[A][ClearBox][TargetLeft][LoadPortrait=NABARL]I don't remember saying that[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]You don't need to say anythin'![Pause=3]
+I can tell these things![A][ClearBox]Navarre, you're the type that has a soft
+spot for a pretty face and the right
+features.[A][ClearBox]C'mon, you can't fool me.[Pause=3]
+I can see in your eyes aaaall the troubles
+you've had with women.[A][ClearBox][TargetLeft]You[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You sure like spouting nonsense.[A][ClearBox][TargetLeft][LoadPortrait=KASHIM][FaceCommand=0x61][TargetRight]Huh?[Pause=3]
+Kashim, whatcha you doing?[A][ClearBox]Have you been taking notes of our
+conversation?[A][ClearBox][TargetLeft][FaceCommand=0x73]What? Oh no, this is, err[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Reference. Yes, it's for reference.[A][ClearBox][TargetRight][LoadPortrait=NABARL][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]Don't tell me, you're planning a con act,
+with Ricardo as the base.[A][ClearBox][TargetRight][LoadPortrait=RICARD][FaceCommand=0x73]No way[FreezeMouth]![UnfreezeMouth]
+I'm so cute and cheerful that everybody
+forgives me if I just smile![A][ClearBox]But I don't think copyin' my style would[Pause=3]
+suit a serious guy like you, Kashim![A][ClearBox][TargetLeft][LoadPortrait=RENA][FaceCommand=0x61]Excuse me[FreezeMouth]...[UnfreezeMouth]
+Why is everyone talking about conning and
+thievery again?[A][ClearBox][TargetRight]Ahaha.[Pause=3]
+'Tis nothing, my dear Rena.[A][ClearBox]Anyway I'm gonna catch some shut-eye.[Pause=3]
+Good night y'all![A][ClearBox][TargetRight][RemovePortrait][TargetRight][LoadPortrait=NABARL][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]How irresponsible.[Pause=3]
+Sister, I'm going to rest as well.[A][ClearBox][TargetLeft][FaceCommand=0x73]Alright.[Pause=3]
+Good night, Navarre.[A][ClearBox][TargetRight][RemovePortrait][TargetRight][LoadPortrait=KASHIM][FaceCommand=0x73]It seems even Navarre[SpecialSymbol=0x96]the Scarlet
+Swordsman[SpecialSymbol=0x96]completely fell for Ricardo's
+smooth talk.[A][ClearBox][TargetLeft][FaceCommand=0x61]Do you really think so?[Pause=3]
+To me, it just seems like he's bullying poor
+Ricardo[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Haha, you're too good of a person.[Pause=3]
+Anyway, I'll rest for a bit, too.[Pause=3]
+How about you?[A][ClearBox][TargetLeft][FaceCommand=0x73]I'll stay here a little longer.[A][ClearBox][TargetRight][FaceCommand=0x61]I see[FreezeMouth]...[UnfreezeMouth][Pause=3]
+But, don't blame yourself too much.[A][ClearBox][TargetRight][RemovePortrait][TargetLeft][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth][Pause=3]
+Is saving people really so difficult[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]Am I just a step away from committing a sin?[A][ClearBox]Oh, gods[FreezeMouth]![UnfreezeMouth][Pause=3]
+Please protect our weak souls[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS303_EV1
+[TargetRight][LoadPortrait=RICARD][FaceCommand=0x73][LoadBackground=BBG03]Ohh boy![Pause=3]
+The sweet smell of unclaimed treasure![A][ClearBox]I could never tire of the thief's life![Pause=3]
+Pales is just as I expected![A][ClearBox]If I don't focus on crackin' open them
+treasure chests,[Pause=3] why, it'll be morning before
+I notice it![A][ClearBox][X]
+
+MS303_EV2
+[TargetRight][LoadPortrait=MARIS][TargetLeft][LoadPortrait=DICE][FaceCommand=0x73][LoadBackground=BBG03][TargetRight]Man, I'm ravished[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Hey, Pops.[Pause=3] I just can't get along with this.[A][ClearBox]Do we really need to work so hard for these
+disgusting thugs?[A][ClearBox][TargetLeft]Well ya see, we got no gold on hand.[Pause=3]
+Not even enough to buy bread.[A][ClearBox]If we wanna eat, sometimes we gotta do jobs
+we don't like.[A][ClearBox][TargetRight]But, employing both of us for a measly 250
+gold[FreezeMouth]...[UnfreezeMouth] They're just taking advantage of us.[A][ClearBox][TargetLeft]Damn straight.[Pause=3]
+If only somebody would pay us 500,
+I'd work for them in a heartbeat[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Sigh[FreezeMouth]...[UnfreezeMouth] Being hungry makes me angry.[Pause=3]
+I don't care who, just come here.[Pause=3]
+I'll make my sword rust with your blood.[A][ClearBox][X]
+
+MS303_TK1
+[TargetRight][LoadPortrait=RICARD][FaceCommand=0x73][TargetLeft][LoadPortrait=MARIS][LoadBackground=][TargetRight]Heey[FreezeMouth]![UnfreezeMouth]Å@Lady[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]What the hell, don't frolic around kid.[Pause=3]
+This ain't no childrens' playground.[A][ClearBox][TargetRight]I'm not a kid.[Pause=3]
+I'm a thief.[A][ClearBox]Say, why doncha join us?[A][ClearBox][TargetLeft]Wait, what?[A][ClearBox][TargetRight]Since I'm a thief,[Pause=3] I can open treasure chests
+like I eat breakfast.[A][ClearBox]There ain't anybody who can earn gold faster
+than me.[Pause=3] Impressed?[A][ClearBox][TargetLeft]Hey kid.[Pause=3]
+Are you telling me the truth?[A][ClearBox][TargetRight]I told you, I'm not a kid.[Pause=3]
+Well, if you don't trust me, I guess I'll look
+for someone else.[A][ClearBox][TargetLeft][FaceCommand=0x73]Hmm, you're pretty interesting.[Pause=3]
+Alright, I'll believe you.[A][ClearBox]However,[Pause=3] you'll pay in blood if you betray me.[Pause=3]
+Got it?[A][ClearBox][TargetRight]Alright. Then, we're set.[Pause=3]
+How about I give you 500 gold in advance[Pause=3]
+and a contingent fee later?[A][ClearBox][TargetLeft]500 gold?[Pause=3]
+Heh, sounds fine to me.[Pause=3]
+Alright, I'll join you then.[A][ClearBox][X]
+
+MS303_TK2
+[TargetRight][LoadPortrait=MARIS][TargetLeft][LoadPortrait=DICE][FaceCommand=0x73][LoadBackground=][TargetRight][FreezeMouth]...[UnfreezeMouth]So that's what's going on, Pops.[A][ClearBox][TargetLeft]I see,[Pause=3] sounds interesting.[A][ClearBox]Alright, gotcha.[Pause=3]
+I'll come along, too.[A][ClearBox][TargetRight][FaceCommand=0x73]Yes, I figured you would, Pops.[A][ClearBox][TargetLeft]Damn straight.[Pause=3]
+That's mah daughter for ya.[A][ClearBox]Life's a gamble:[Pause=3] it's always sink or swim[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Betting on the unknown is more interesting
+than a sure win.[A][ClearBox][X]
+
+MS303_BT_BOSS
+[TargetLeft][LoadPortrait=VAAM][LoadBackground=]What the hell is wrong with you's[FreezeMouth]![UnfreezeMouth][Pause=3]
+Are you's tryin' to steal our treasure[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][X]
+
+MS303_BT_DICE_E
+[TargetLeft][LoadPortrait=DICE][LoadBackground=]I am a hired sword,[Pause=3] so I gotta do my job.[Pause=3]
+C'mon, let's get this started[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS303_BT_MARIS_E
+[TargetLeft][LoadPortrait=MARIS][LoadBackground=]You ain't going through here.[Pause=3]
+Nothing personal.[A][ClearBox][X]
+
+MS303_DIE_BOSS
+[TargetLeft][LoadPortrait=VAAM][LoadBackground=]M-my treasure[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Damn[FreezeMouth]... [UnfreezeMouth]you's[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS303_DIE_DICE
+[TargetRight][LoadPortrait=DICE][LoadBackground=]Sorry[FreezeMouth]...[UnfreezeMouth][Pause=3] Maris[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS303_DIE_DICE_E
+[TargetLeft][LoadPortrait=DICE][LoadBackground=]My gamble's[FreezeMouth]... [UnfreezeMouth]over[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS303_DIE_KASHIM
+[TargetRight][LoadPortrait=KASHIM][LoadBackground=]Mother[FreezeMouth]...[UnfreezeMouth][Pause=3] I'm sorry[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS303_DIE_MARIS
+[TargetRight][LoadPortrait=MARIS][LoadBackground=]I lose[FreezeMouth]...[UnfreezeMouth] huh[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MS303_DIE_MARIS_E
+[TargetLeft][LoadPortrait=MARIS][LoadBackground=]Damn[FreezeMouth]... [UnfreezeMouth]Too strong[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS303_DIE_NABARL
+[TargetRight][LoadPortrait=NABARL][LoadBackground=]I've grown weak[FreezeMouth]... [UnfreezeMouth]huh[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MS303_DIE_RENA
+[TargetRight][LoadPortrait=RENA][LoadBackground=]Ohh[FreezeMouth]... [UnfreezeMouth]Is this[FreezeMouth]...[UnfreezeMouth][Pause=3] my punishment[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][X]
+
+MS303_DIE_RICARD
+[TargetRight][LoadPortrait=RICARD][LoadBackground=]Oh[FreezeMouth]...[UnfreezeMouth] No way[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS303_ED1
+[Fade=40][TargetLeft][LoadPortrait=CAMUS][LoadBackground=BBG11][TargetRight][LoadPortrait=SOLDIER_RED]General Camus,[Pause=3] thieves have invaded the
+palace[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]What? They are fearless men for sure,[Pause=3]
+if they've come to assault Pales's
+treasury.[Pause=3][A][ClearBox]Very well. Capture all of them[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS303_ED2
+[TargetLeft][LoadPortrait=SOLDIER_RED][LoadBackground=BBG04]Get them[FreezeMouth]![UnfreezeMouth][Pause=3]
+There they are[FreezeMouth]![UnfreezeMouth] This way[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=RICARD]Uwah[FreezeMouth]![UnfreezeMouth][Pause=3]
+L-let go of me![Pause=3]
+Nooo, stoooooop[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=RENA]Oh[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=RICARD]L-Rena[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=CAMUS][TargetRight][FreezeMouth]...[UnfreezeMouth]Who-who are you[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][TargetLeft]I am Camus of Grunia.[Pause=3]
+I am the one in charge of this palace.[A][ClearBox]Are you the thieves who intruded here?[Pause=3]
+Hmm[FreezeMouth]...[UnfreezeMouth] and a cleric too?[A][ClearBox][TargetRight][LoadPortrait=RENA][TargetLeft]Sister, what is the meaning of this?[Pause=3]
+Why are you aiding these pack of thieves?[A][ClearBox][TargetRight]So you are General Camus.[A][ClearBox]Indeed, we came here to steal[Pause=3] treasure.[Pause=3][A][ClearBox]However, we're only doing this for the
+people of Akaneia.[A][ClearBox]Don't you know[FreezeMouth]...[UnfreezeMouth] how much suffering the
+Durhuan army is causing to the people
+of this sacred land of Akaneia[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]Ever since the Durhuan army invaded,
+Akaneia has changed for the worst.[A][ClearBox]Many have had their houses razed, lands
+stolen,[Pause=3] and are now suffering from hunger
+even.[A][ClearBox]General Camus[FreezeMouth]![UnfreezeMouth][Pause=3]
+Do you take joy in seeing everyone so
+miserable[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][TargetLeft]Sister, 'tis true that Akaneia's misery
+brings pain to my heart.[A][ClearBox]However, I am a soldier. So long as my
+motherland Grunia obeys Durhua,[Pause=3] I, too, must
+follow the empire's orders.[A][ClearBox][TargetRight]General[FreezeMouth]![UnfreezeMouth][Pause=3]
+Then, are you nothing but Durhua's pawn?[A][ClearBox][TargetLeft]I suppose[FreezeMouth]...[UnfreezeMouth] regrettably, that's the only way
+one could describe me.[A][ClearBox][Unknown0x4=F32][TargetRight][LoadPortrait=NIENA]Please wait[FreezeMouth]![UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS303_ED2_01
+General Camus, you are no pawn of Durhua.
+Think about it![A][ClearBox]You defied Emperor Mediuth's orders,
+allowing me to keep my honor and freedom
+as a princess.[A][ClearBox]I am certain that, deep inside,[Pause=3] you despise
+Durhua as much as we do[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Perhaps you're right.[Pause=3]
+However, just what do you expect I do[FreezeMouth]...[UnfreezeMouth][FreezeMouth]!?[UnfreezeMouth][A][ClearBox][TargetRight]You could turn a blind eye once again and
+let these people walk free.[A][ClearBox][TargetLeft][LoadPortrait=RENA][TargetRight][FaceCommand=0x73]Sister, I'll let you keep the treasure you've
+obtained.[A][ClearBox]Please distribute it[Pause=3] among the poor and
+needy.[A][ClearBox][TargetLeft][FaceCommand=0x73]You're[FreezeMouth]...[UnfreezeMouth] Princess Nina?[Pause=3]
+Oh, thank you so much[FreezeMouth]![UnfreezeMouth][Pause=3][A][ClearBox]With this gold, we'll finally be able to begin
+rescuing the poor.[A][ClearBox][TargetLeft][LoadPortrait=CAMUS][FaceCommand=0x61][TargetRight][FaceCommand=0x61]Camus, I beg of you.[Pause=3]
+Take these people to somewhere safe.[A][ClearBox][TargetLeft][FaceCommand=0x73]Haha,[Pause=3] if it's an order from you, Princess,[Pause=3]
+then what choice do I have?[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS303_ED3
+[Fade=40][TargetLeft][LoadPortrait=RICARD][TargetRight][LoadPortrait=CAMUS][LoadBackground=BBG17]There should be a village ahead of here.[Pause=3]
+Now, go[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]How lucky of us[FreezeMouth]![UnfreezeMouth]
+Well, seeya[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=RENA][FaceCommand=0x73]Thank you very much, General Camus.[Pause=3]
+Please extend my thanks to Princess Nina.[Pause=3]
+I shall never forget this favor.[A][ClearBox][TargetLeft][LoadPortrait=RICARD][FaceCommand=0x73]Rena, let's hurry, hurry[FreezeMouth]![UnfreezeMouth][Pause=3]
+C'mon, I'm leaving you behind[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=RENA][FaceCommand=0x73]Please, stay well[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS303_ED4
+[Fade=40][Unknown0x12]3[LoadBackground=BS_bg]Camus: [Pause=3]the Sable Knight of Grunia.[A][ClearBox]Even though his country was allied with
+Durhua, he wasn't particularly fond of the
+empire, himself.[A][ClearBox]Was his act of sheltering Princess Nina,
+instead of killing her,[Pause=3] a small sign of
+resistance against Durhua[FreezeMouth]...?[UnfreezeMouth][Pause=3][A][ClearBox]Or was it something far greater[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][Unknown0x12]3[Fade=80][X]
+

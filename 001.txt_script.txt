@@ -1,0 +1,585 @@
+MTUTS_TRANSPORTER:
+
+
+MTUTS_TRANSPORTER_R:
+
+
+MS001_OP1:
+*MARS enters**JEIGUN enters*
+JEIGUN:
+Sire, this is General Lang, the commanding
+officer of the occupational forces. 
+*JEIGUN leaves**RANG enters*
+RANG:
+Oho, so you are Prince Marth?
+Glad you could make it here. 
+Since you've come all this way, I suppose
+I'll let you have the glory of capturing the
+rebel leader, General Lawrence. 
+
+MARS:
+What?!
+General Lawrence leads the rebels?! 
+What would possess him to rebel of all
+things?! 
+
+RANG:
+Who knows?
+I haven't the foggiest idea, and frankly
+I don't care. 
+Prince. You are to kill General Lawrence,
+and reclaim the children of the Grunian
+royal family that he's hiding. 
+While you do that... 
+We will slaughter the families of those who
+participated in this rebellion and raze their
+homes to the ground. 
+
+MARS:
+Are you insane?!
+They're innocent civilians! 
+
+
+RANG:
+"I-insane"!?
+Young man, are you questioning my orders?! 
+
+Perhaps Aritia, too, plans to rebel against
+Akaneia...? 
+
+
+MARS:
+Of course not! That's not... 
+
+
+RANG:
+
+Prince Marth, your tiny country means
+absolutely nothing to me. 
+Your rude behaviour is merely an irritation. 
+Do not forget that I have the power of the
+empire behind me: 
+I can crush weak, pesky insects like you
+any time I wish. 
+
+
+MS001_OP1_02:
+*MARS enters**JEIGUN enters**JEIGUN leaves**JEIGUN enters*
+MARS:
+Jeigan...
+What in the world is going on here? 
+How could Hardin have entrusted this
+country to such a vile man? 
+
+JEIGUN:
+
+General Lang was once a noble of Akaneia.
+However, in the previous war, he
+supported the Durhua Empire. I heard 
+that he stole from other people,
+to add to his own wealth. I fear he has
+continued his ways at Grunia, and 
+caused suffering to its people. So
+General Lawrence's rebellion is
+completely understandable. 
+
+MARS:
+Jeigan! How can you say things
+so casually? If we don't inform Hardin of
+the truth, more innocent people will be killed. 
+
+JEIGUN:
+Sire, I understand how you feel.
+However, Lawrence has begun a rebellion. 
+That much seems to be true, so we ought
+to do something about that first. 
+Sire, why don't you try speaking to
+General Lawrence personally? 
+
+
+MARS:
+But the rebels don't know that we're
+from Aritia.
+Can we reach the fortress safely? 
+
+JEIGUN:
+Don't worry.
+Most of the rebels have already fled.
+All that remains is Lawrence, and the 
+children in the fortress. Blocking our
+path are only bandits, who have taken
+advantage of the confusion to raid 
+villages. They are no problem for us.
+You can order Alan to defeat them
+in one blow if you want. However, 
+your highness, we have some fresh
+recruits in our army that could use
+some fighting experience. 
+To them, bandits are relatively strong foes.
+So be careful not to push them too much.
+If possible, I would have liked to fight as 
+well, but my body is not what it used to be.
+Allow me to stay by your side and serve
+as your tactician. 
+
+
+MS001_OP1_03A_PCF1:
+
+INSERTNAMEHERE:
+Well then, sire; let us march onwards! 
+
+
+MS001_OP1_03A_PCM1:
+
+INSERTNAMEHERE:
+Well then, sire; let us march onwards! 
+
+
+MS001_OP1_03B:
+
+INSERTNAMEHERE:
+Well then, sire; let us march onwards! 
+
+
+MS001_EV0:
+*BANDIT enters*
+BANDIT:
+Oh? A battle, is it? We're in luck, boys!
+Let's loot 'em villages before 'ey realize
+what's hit 'em! 
+
+
+MS001_EV1:
+*ROLENSE enters**OGUMA enters*
+ROLENSE:
+Alright, that will do for now...
+Sir Oguma, please forgive me for getting you
+involved in this mess. 
+
+OGUMA:
+I am here on King Talis's orders. 
+As such, I will do everything in my power to
+help. 
+
+ROLENSE:
+I see... Then I have a favor to ask of you.
+I want you to escort these children to
+Macedonia. 
+These children...
+Prince Yubello and Princess Yumina,
+are King Grunia's orphans. 
+I have always been protecting them in
+secret, but that is no longer possible. 
+If they fell into General Lang's hands, I
+bet he would execute them without question. 
+Please.
+Take them safely to Lord Wendel in
+Macedonia. 
+
+OGUMA:
+Understood...
+I will guard these two with my life. 
+
+ROLENSE:
+Thank you, Sir Oguma... 
+
+*OGUMA leaves**YUMINA enters*
+ROLENSE:
+Now, Prince Yubello, Princess Yumina,
+you will be leaving with Sir Oguma. 
+
+YUMINA:
+No! I'm not going!
+I won't leave you behind! 
+
+ROLENSE:
+Princess...
+I cannot go. 
+With this wound, I can barely even walk. 
+It saddens me, but you two must go on
+without me. 
+
+YUMINA:
+You took that grievous wound to protect us... 
+How can you tell us to just leave you behind
+now?! 
+I will never leave.
+We will never leave your side, Lawrence!! 
+*YUMINA leaves**OGUMA enters*
+OGUMA:
+What shall I do, General? 
+
+ROLENSE:
+Hmm... this is most troublesome. 
+Princess Yumina is not one to change her
+mind easily... We will remain here. 
+
+OGUMA:
+In that case, I will find some other way to
+help you. 
+I will find Lang and bring him down...
+I will bury him with this sword, I swear on it. 
+General Lawrence, you must hold out until then...! 
+
+
+MS001_TK1:
+*ROLENSE enters**MARS enters*
+ROLENSE:
+Prince Marth!
+So it is you... 
+How unfortunate, that I must fight...
+the Aritian Army and its prince... 
+
+MARS:
+Please, wait.
+I do not wish to fight with you. 
+I heard about everything from the villagers.
+I've heard of all the atrocities Akaneia
+has committed. 
+I promise, I will inform Emperor Hardin of
+the truth and rescue Grunia. 
+So please, lower your weapons. 
+
+ROLENSE:
+Prince...
+I am grateful for the offer. 
+But, I am afraid that I cannot comply.
+Prince, you know nothing. 
+Do you think that a man of Emperor Hardin's
+caliber would make a general out of a man as
+worthless as Lang without good reason? 
+He called for an invasion: to crush the
+kingdom of Grunia and make it a territory
+of the Empire. 
+
+MARS:
+No, it can't be!
+Hardin would never do something like that. 
+
+ROLENSE:
+I know it's hard to believe.
+But I'm afraid that, ever since he became
+emperor, he has changed a great deal. 
+He is no longer the Hardin you once knew. 
+Prince, I have one final request of you. 
+In this stronghold, I am protecting the young
+prince and princess of Grunia. 
+Please, find a way to help them. 
+If you can do just that, I will have no regrets. 
+
+MARS:
+What...
+General Lawrence, what are you saying...?! 
+
+ROLENSE:
+Prince Marth...
+My life in exchange for theirs...
+By any means necessary, please help them... 
+This is the last thing I will ask... 
+
+
+MS001_TK1_2:
+
+INSERTNAMEHERE:
+General Lawrence!! 
+......This can't be happening...... 
+
+
+MS001_H1:
+*LADY enters*
+LADY:
+I only saw him briefly, but that knight, Alan,
+looked awfully pale. 
+You know, he's probably hit the wall, so to
+speak. 
+I doubt he'll get any stronger, no matter how
+much he fights... 
+
+
+MS001_H2:
+*UNCLE enters*
+UNCLE:
+There aren't any young girls left in this
+country. 
+They were all taken away by the imperial
+troops. 
+They say General Lang keeps the really
+pretty ones to himself. 
+What a dark, insane chapter in Grunia's
+history... 
+
+
+MS001_H3:
+*OLDMAN enters*
+OLDMAN:
+The late King Grunia had two children. 
+Princess Yumina and Prince Yubello.
+They're still young. 
+Maybe thirteen, or fourteen;
+cute little twins, both of them. 
+In the last war, Garnef, the Demon King,
+kidnapped the twins to blackmail the king. 
+They were taken to Khadein, the city of magic,
+and locked away in a pitch-black room. 
+At great personal risk, Archbishop Wendel
+saved them. 
+He took them to a monastery to protect them. 
+
+
+MS001_H4:
+*MAN1 enters*
+MAN1:
+General Lawrence took the royal children from
+Lord Wendel and raised them in Grunia. 
+The empire demanded their extradition,
+but Lawrence was afraid they would be killed,
+and hid them. 
+The empire branded Lawrence a traitor,
+and sent General Lang here. 
+Lang did horrible things to find the royal
+children. That's why we rose up. 
+But, we lost.
+And now Lang is going to kill everyone in
+this entire country! 
+
+
+MS001_H5:
+*MAN1 enters*
+MAN1:
+I heard that General Lawrence lived in Talis
+when he was young. 
+Talis wasn't unified at the time, so there
+were a number of noble houses contending
+for control. 
+Lawrence lent his power to the young patriarch
+of one house, and together they unified
+Talis into one country. 
+Lawrence and that patriarch--now the king of
+Talis--remain close friends to this day. 
+
+
+MS001_H6:
+*WOMAN1 enters*
+WOMAN1:
+After the last war, Princess Nina let this
+country keep its sovereignty under the rule
+of General Lawrence. 
+However, as soon as Hardin became
+emperor, General Lawrence was banished
+and Lang's troops came crawling in. 
+Lang stole everything from us. 
+He stole our gold, of course, but he even
+stole our food and our loved ones... 
+Ah...
+If only General Camus were here! 
+Then we wouldn't have to live in fear of
+people like Lang! 
+
+
+MS001_VIL1:
+*MARS enters**OLDWOMAN enters*
+OLDWOMAN:
+Oh...
+Please, show mercy to just this child.
+She's only ten years old. 
+
+MARS:
+Ma'am, please calm yourself.
+I am not here to take any children. 
+
+OLDWOMAN:
+What...
+You're not imperial soldiers? 
+
+MARS:
+No... We're not.
+We didn't come to fight. 
+If there's anything you need, please ask.
+It's not much, but we can give you food. 
+*OLDWOMAN leaves**MARICIA enters*
+MARICIA:
+Wait...
+Please, take me with you... 
+
+
+MARS:
+Huh...?
+You're... Are you really ten? 
+
+MARICIA:
+No... I'm a grown woman, but Granny lied so
+that I wouldn't be taken away by the soldiers. 
+Lang's soldiers are all monstrous.
+But you're different.
+You have very sweet eyes. 
+Please, take me with you.
+I want you to take me away from this
+country, and take me to yours. 
+*MARICIA leaves**OLDWOMAN enters*
+OLDWOMAN:
+It's not safe for her to stay here.
+Please take her with you, and protect her. 
+You can marry her, too, if you like. 
+Malliesia is a beautiful, good-natured lady,
+just like me! I'm sure she'll make a fine
+wife. 
+*MARS leaves**MARICIA enters*
+MARICIA:
+No-no-no!
+Granny, it's far too early for that!
+Now you've made Malliesia all flustered! 
+
+
+MS001_BT_BOSS:
+*ROLENSE enters*
+ROLENSE:
+What?! You're... the Aritian army?! 
+So even Aritia has turned on us... 
+
+MS001_DIE_BOSS:
+*ROLENSE enters*
+ROLENSE:
+Forgive me, people of Grunia... 
+
+MS001_ED0:
+*VILHEAD enters**MARS enters*
+VILHEAD:
+Prince Marth...
+General Lawrence entrusted everything to you. 
+You spared his life, and even heard him out.
+We, the people of Grunia, thank you. 
+Please, let me offer you a token of our
+gratitude. Here. 
+We're protecting Prince Yubello and
+Princess Yumina in this stronghold. 
+I beg you, do what you must to protect
+our last fragments of hope... 
+
+
+MS001_ED1:
+*YUBELLO enters**MARS enters*
+MARS:
+You, you're...
+Grunia's royal heirs...
+Prince Yubello and Princess Yumina?! 
+
+YUBELLO:
+Sniff...
+Lawrence... He's gone.
+How can we live on without him? 
+*YUBELLO leaves**YUMINA enters*
+YUMINA:
+You monsters!! Stay away!
+Otherwise, we'll kill ourselves!! 
+
+MARS:
+No, you have it all wrong!!
+We just... 
+
+
+MS001_ED1_01:
+*RANG enters**MARS enters*
+RANG:
+Ah... Prince Marth.
+You finally caught these filthy traitors. 
+
+MARS:
+General Lang! Wait, please!
+These children have done nothing wrong.
+Allow me to take custody of them. 
+
+RANG:
+Don't make me laugh.
+These brats are coming with me to my castle. 
+I must also execute them as soon as
+possible, so that other people dare
+not defy us. 
+Besides, my dear prince, you have other,
+more important, priorities. 
+I have received reports that there
+has been a military revolt in Macedonia,
+and Princess Minerva has been imprisoned. 
+
+MARS:
+What...?!
+How could that happen to Macedonia?! 
+
+I understand my obligations, General Lang.
+If it's to rescue Princess Minerva,
+I will gladly go. 
+Still, these children...
+Let them stay with me, please. 
+
+RANG:
+Prince, do not try my patience!
+Listen up you two! You're coming with me! 
+
+
+MS001_ED1_02:
+*YUMINA enters*
+YUMINA:
+No, let me go!!
+Yubello... help me!! 
+*YUMINA leaves**YUBELLO enters*
+YUBELLO:
+Yumina... Yumina...!! 
+
+
+MS001_ED1_03_PCF1:
+*MARS enters*
+MARS:
+Wait!!
+Lang! Release them at once! 
+
+*MARS leaves**JEIGUN enters*
+JEIGUN:
+Sire, don't do it!! 
+
+If we oppose Lang right here, right now,
+we run the risk of being branded traitors
+by Akaneia. 
+*MARS enters*
+MARS:
+But Jeigan, are you telling me to simply allow
+Lang to take them?!
+I cannot stand for that... 
+
+JEIGUN:
+I understand how you feel, sire...
+But please remain patient for a little longer. 
+If we head to Macedonia... then rescue
+Princess Minerva, Macedonia will surely lend
+us its strength. 
+
+
+MS001_ED1_03_PCM1:
+*MARS enters*
+MARS:
+Wait!!
+Lang! Release them at once! 
+*MARS leaves**JEIGUN enters*
+JEIGUN:
+Sire, don't do it!! 
+If we oppose Lang right here, right now,
+we run the risk of being branded traitors
+by Akaneia. 
+*MARS enters*
+MARS:
+But Jeigan, are you telling me to simply allow
+Lang to take them?!
+I cannot stand for that... 
+
+JEIGUN:
+I understand how you feel, sire...
+But please remain patient for a little longer. 
+If we head to Macedonia... then rescue
+Princess Minerva, Macedonia will surely lend
+us its strength. 
+
+
+[X]:
+
+INSERTNAMEHERE:
+
+
+

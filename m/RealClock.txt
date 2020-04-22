@@ -1,0 +1,1665 @@
+MRC_INFO_ENHANCE
+[SpecialText0x14][TextColour=0x4][SpecialText0x14=0x30][TextColour=0x1] and [TextColour=0x4][SpecialText0x14=0x31][TextColour=0x1] temporarily increased[X]
+
+MRC_INFO_EXP
+[SpecialText0x14]Gained [TextColour=0x4][SpecialText0x14=0x30][TextColour=0x1] Exp[X]
+
+MRC_INFO_ITEM
+[SpecialText0x14]Obtained [TextColour=0x4][SpecialText0x14=0x30][TextColour=0x1][X]
+
+MRC_INFO_RELIANCE
+[SpecialText0x14]Become closer to [TextColour=0x4][SpecialText0x14=0x39][TextColour=0x1][X]
+
+MRC_TALK_BEGIN
+[EyeCommand=dl][EyeCommand=da][EyeCommand=ds][LoadBackground=BBG75][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_END
+[X]
+
+MRC_TALK_ENHANCE_ABEL
+[TargetRight][LoadPortrait=ABEL][FaceCommand=0x73][ClearBox]I feel fantastic today.[Pause=3]
+Did I regain the senses I had back in the
+army?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_ARAN
+[TargetRight][LoadPortrait=ARAN][FaceCommand=0x73][ClearBox][FreezeMouth]...[UnfreezeMouth]Now that's rare.
+My illness has subsided today.[Pause=3]
+I might be able to fight like I used to.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_ASTRIA
+[TargetRight][LoadPortrait=ASTRIA][FaceCommand=0x73][ClearBox]I feel stronger today.[Pause=3]
+My body is ready for Princess Nina and
+Akaneia.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_ATHENA
+[TargetRight][LoadPortrait=ATHENA][FaceCommand=0x73][ClearBox]Ve feel vonderful today.[Pause=3]
+Ve vill vork harder than any voman.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_BANUTU
+[TargetRight][LoadPortrait=BANUTU][FaceCommand=0x73][ClearBox]Hoho, how splendid.[Pause=3]
+I feel like I'm young again[FreezeMouth]...[UnfreezeMouth]
+Well, maybe not that much.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_BARTS
+[TargetRight][LoadPortrait=BARTS][FaceCommand=0x73][ClearBox]I don't feel 'alf bad today.[Pause=3]
+Not that I really wanna fight[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_BECK
+[TargetRight][LoadPortrait=BECK][FaceCommand=0x73][ClearBox]I feel mighty fine today![Pause=3]
+Here Pony, have some extra carrots.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_BELF
+[TargetRight][LoadPortrait=BELF][FaceCommand=0x73][ClearBox]What a pleasurable feeling.[Pause=3]
+I should have black tea when the battle's won.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_BIRAKU
+[TargetRight][LoadPortrait=BIRAKU][FaceCommand=0x73][ClearBox]Heh, I feel kinda great today.[Pause=3]
+I bet I'll perform better than usual.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_CECIL
+[TargetRight][LoadPortrait=CECIL][FaceCommand=0x73][ClearBox]All right!
+Today I'm more fired up than ever[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_CHEINE
+[TargetRight][LoadPortrait=CHEINE][FaceCommand=0x73][ClearBox]Eh? I feel pretty decent today.[Pause=3]
+Though goin' to battle is still a bother.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_DAROSS
+[TargetRight][LoadPortrait=DAROSS][FaceCommand=0x73][ClearBox]I be better than usual t'day.[Pause=3]
+S'bout time I repayed Prince Marth.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_DICE
+[TargetRight][LoadPortrait=DICE][FaceCommand=0x73][ClearBox]Yeah, I feel lucky today[FreezeMouth]![UnfreezeMouth][Pause=3]
+This positive energy[FreezeMouth]...[UnfreezeMouth]
+I'mma win big in battle and gambling[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_DOHGA
+[TargetRight][LoadPortrait=DOHGA][FaceCommand=0x73][ClearBox]Hmm.[Pause=3]
+I feel so calm today.[Pause=3]
+I'll stop any enemy that comes my way.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_ELREAN
+[TargetRight][LoadPortrait=ELREAN][FaceCommand=0x73][ClearBox]I feel rather well today.[Pause=3]
+Bah, not that it matters.
+I'll triumph no matter my condition.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_ERICE
+[TargetRight][LoadPortrait=ERICE][FaceCommand=0x73][ClearBox]I feel somewhat well today.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_EST
+[TargetRight][LoadPortrait=EST][FaceCommand=0x73][ClearBox]Hee hee, I feel great today.[Pause=3]
+My body feels so light[FreezeMouth]...[UnfreezeMouth]
+Oops, watch out[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_ETZEL
+[TargetRight][LoadPortrait=ETZEL][FaceCommand=0x73][ClearBox]I feel great today.[Pause=3]
+Ursula, are you smiling for me[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_FINA
+[TargetRight][LoadPortrait=FINA][FaceCommand=0x73][ClearBox]Today's a wonderful day.[Pause=3]
+I feel like dancing right now![Pause=3]
+Whee![A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_FREY
+[TargetRight][LoadPortrait=FREY][FaceCommand=0x73][ClearBox]I feel well today.[Pause=3]
+This old wound[FreezeMouth]...[UnfreezeMouth] doesn't pain me.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_FROST
+[TargetRight][LoadPortrait=FROST][FaceCommand=0x73][ClearBox]Oh-hoh hoh, I feel great today.[Pause=3]
+I'm sure my family's thinking of me.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_GOHDON
+[TargetRight][LoadPortrait=GOHDON][FaceCommand=0x73][ClearBox]Today feels great.[Pause=3]
+Maybe I'll manage to show them my moves.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_HORUS
+[TargetRight][LoadPortrait=HORUS][FaceCommand=0x73][ClearBox]I feel great today.[Pause=3]
+Great enough to fulfill my duty, I hope.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_HYMIR
+[TargetRight][LoadPortrait=HYMIR][FaceCommand=0x73][ClearBox]Yeah, I'm good today.[Pause=3]
+I gotta work extra hard.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_JEIK
+[TargetRight][LoadPortrait=JEIK][FaceCommand=0x73][ClearBox]Oh, this feeling's nice.[Pause=3]
+I bet Anna is praying for my safety.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_JORJUE
+[TargetRight][LoadPortrait=JORJUE][FaceCommand=0x73][ClearBox]I feel fitter than usual today.[Pause=3]
+Heh, if only every day was like this.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_JURIAN
+[TargetRight][LoadPortrait=JURIAN][FaceCommand=0x73][ClearBox]I feel spectacular today.[Pause=3]
+Rena, you prayin' for me[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_KAIN
+[TargetRight][LoadPortrait=KAIN][FaceCommand=0x73][ClearBox]I'm all pumped up today.[Pause=3]
+I'll do my best in the coming battle and the
+next one[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_KASHIM
+[TargetRight][LoadPortrait=KASHIM][FaceCommand=0x73][ClearBox]I feel pretty good.[Pause=3]
+How much gold will I get today?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_KATARINA
+[SpecialText0x14][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x73][ClearBox]I seem to be feeling good today.[Pause=3]
+If I perform well, will [SpecialText0x14=0x39] praise me[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_KATUA
+[TargetRight][LoadPortrait=KATUA][FaceCommand=0x73][ClearBox]I feel more energetic than usual.[Pause=3]
+I mustn't let this energy go to waste.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_LEIDEN
+[TargetRight][LoadPortrait=LEIDEN][FaceCommand=0x73][ClearBox]I feel extraordinary today.[Pause=3]
+If only I felt like this when I was with General
+Camus that time[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_LIAN
+[TargetRight][LoadPortrait=LIAN][FaceCommand=0x73][ClearBox]I feel great today.[Pause=3]
+I'm sure I'll, er[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_MAJI
+[TargetRight][LoadPortrait=MAJI][FaceCommand=0x73][ClearBox]I feel awesome today![Pause=3]
+Come at me, bros[FreezeMouth]![UnfreezeMouth][Pause=3]
+Yahoo![A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_MARIA
+[TargetRight][LoadPortrait=MARIA][FaceCommand=0x73][ClearBox]I feel kinda well today.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_MARICH
+[TargetRight][LoadPortrait=MARICH][FaceCommand=0x73][ClearBox]I feel splendid today.[Pause=3]
+The wind is fighting by my side[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_MARICIA
+[TargetRight][LoadPortrait=MARICIA][FaceCommand=0x73][ClearBox]Today feels special.[Pause=3]
+It feels like I'm a little more grown up.
+Tee hee![A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_MARIS
+[TargetRight][LoadPortrait=MARIS][FaceCommand=0x73][ClearBox]I'm absolutely great today.[Pause=3]
+It's gotta be 'cause I ate all I could
+yesterday![A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_MARS
+[TargetRight][LoadPortrait=MARS][FaceCommand=0x73][ClearBox]I feel rather well today.[Pause=3]
+I'm sure I can summon more of my strength
+than usual.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_MATIS
+[TargetRight][LoadPortrait=MATIS][FaceCommand=0x73][ClearBox]Whoa! How weird![Pause=3]
+I feel kinda great today.
+Rena, I'm coming to save you![A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_MIDIA
+[TargetRight][LoadPortrait=MIDIA][FaceCommand=0x73][ClearBox]I feel marvelous today.[Pause=3]
+How lucky that I'm in good shape for the
+decisive battle.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_MINERBA
+[TargetRight][LoadPortrait=MINERBA][FaceCommand=0x73][ClearBox]I feel fitter than usual today.[Pause=3]
+It seems I've regained the strength I lost
+from my captive days.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_MISHEIL
+[TargetRight][LoadPortrait=MISHEIL][FaceCommand=0x73][ClearBox][FreezeMouth]...[UnfreezeMouth]I feel unstoppable today.[Pause=3]
+Not even the Dark Dragon could defeat
+me now.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_MISHRAN
+[TargetRight][LoadPortrait=MISHRAN][FaceCommand=0x73][ClearBox]Yeah, I'm great today[FreezeMouth]![UnfreezeMouth][Pause=3]
+Check out my perfect dish![Pause=3]
+C'mon and try it everyone![A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_NABARL
+[TargetRight][LoadPortrait=NABARL][FaceCommand=0x73][ClearBox]Today[FreezeMouth]...[UnfreezeMouth] isn't bad.
+[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_NAGA
+[TargetRight][LoadPortrait=NAGA][FaceCommand=0x73][ClearBox]Today[FreezeMouth]...[UnfreezeMouth] how odd.[Pause=3]
+My power level[FreezeMouth]...[UnfreezeMouth] is increasing[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_NIENA
+[TargetRight][LoadPortrait=NIENA][FaceCommand=0x73][ClearBox]I feel rather well today.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_NORN
+[TargetRight][LoadPortrait=NORN][FaceCommand=0x73][ClearBox]I feel nice today.[Pause=3]
+Hee hee, I'll do my best for Aritia.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_OGUMA
+[TargetRight][LoadPortrait=OGUMA][FaceCommand=0x73][ClearBox]I feel well today.[Pause=3]
+[FreezeMouth]...[UnfreezeMouth]Not a bad feeling.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_PAORA
+[TargetRight][LoadPortrait=PAORA][FaceCommand=0x73][ClearBox]I feel rather well today.[Pause=3]
+So nice and peaceful[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_PLAYER_PCF1
+[TargetRight][LoadPortrait=PLAYER][FaceCommand=0x73][ClearBox]I feel all geared up today.[Pause=3]
+Like I can perform even better in battle.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_PLAYER_PCM1
+[TargetRight][LoadPortrait=PLAYER][FaceCommand=0x73][ClearBox]I feel all geared up today.[Pause=3]
+Like I can perform even better in battle.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_RADEI
+[TargetRight][LoadPortrait=RADEI][FaceCommand=0x73][ClearBox]I feel pretty spiffy today.[Pause=3]
+My body's as light as a feather.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_RENA
+[TargetRight][LoadPortrait=RENA][FaceCommand=0x73][ClearBox]I feel rather well today.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_RICARD
+[TargetRight][LoadPortrait=RICARD][FaceCommand=0x73][ClearBox]I couldn't be better today[FreezeMouth]![UnfreezeMouth][Pause=3]
+Hands off! Those chests are mine[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_RIFF
+[TargetRight][LoadPortrait=RIFF][FaceCommand=0x73][ClearBox]I feel wonderful today.[Pause=3]
+Is it thanks to my medicinal tea?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_RINDA
+[TargetRight][LoadPortrait=RINDA][FaceCommand=0x73][ClearBox]My body feels wonderful today.[Pause=3]
+I'm positively brimming with energy![A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_ROBERTO
+[TargetRight][LoadPortrait=ROBERTO][FaceCommand=0x73][ClearBox]I feel great today.[Pause=3]
+You're doing well, too, aren't you boys?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_RODY
+[TargetRight][LoadPortrait=RODY][FaceCommand=0x73][ClearBox]Hmm, I feel well today.[Pause=3]
+But I wonder why[FreezeMouth]...?[UnfreezeMouth]
+Oh well.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_ROJAR
+[TargetRight][LoadPortrait=ROJAR][FaceCommand=0x73][ClearBox]Oh, I'm feeling good.[Pause=3]
+Heh heh, I wonder if she'll notice me today?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_ROOK
+[TargetRight][LoadPortrait=ROOK][FaceCommand=0x73][ClearBox]Yowza, I'm dangerous today[FreezeMouth]![UnfreezeMouth][Pause=3]
+I want to go to battle already and show 'em
+what I'm made of[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_ROSHE
+[TargetRight][LoadPortrait=ROSHE][FaceCommand=0x73][ClearBox]Today seems like a nice day.[Pause=3]
+No wonder, the children from the orphanage
+sent me a letter.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_SAJI
+[TargetRight][LoadPortrait=SAJI][FaceCommand=0x73][ClearBox]I can really feel the power today.[Pause=3]
+Time to get stuff done.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_SAMSON
+[TargetRight][LoadPortrait=SAMSON][FaceCommand=0x73][ClearBox]I feel exceptional today.[Pause=3]
+When you don't neglect your trainin',
+this happens every now and then.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_SAMTO
+[TargetRight][LoadPortrait=SAMTO][FaceCommand=0x73][ClearBox]Hey, I feel stronger today[FreezeMouth]![UnfreezeMouth][Pause=3]
+Like I could even compare to the real
+Navarre, er, maybe[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_SEAZER
+[TargetRight][LoadPortrait=SEAZER][FaceCommand=0x73][ClearBox]I feel well today.[Pause=3]
+Though we've got to do our job no matter
+how we feel[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_SHEEDA
+[TargetRight][LoadPortrait=SHEEDA][FaceCommand=0x73][ClearBox]I feel rather well today.[Pause=3]
+I'm sure I can protect Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_SIMA
+[TargetRight][LoadPortrait=SIMA][FaceCommand=0x73][ClearBox]Hmm, I feel excellent today.[Pause=3]
+When I think about the people of Gra,
+my body overflows with power.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_SIRIUS
+[TargetRight][LoadPortrait=SIRIUS][FaceCommand=0x73][ClearBox]I seem to be well today[FreezeMouth]...[UnfreezeMouth]
+[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_THORMAS
+[TargetRight][LoadPortrait=THORMAS][FaceCommand=0x73][ClearBox]Bullseye[FreezeMouth]![UnfreezeMouth] I'm on form today.[Pause=3]
+Alright, I'll ask somebody to be my target
+and see how much better my archery is now[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_TIKI
+[TargetRight][LoadPortrait=TIKI][FaceCommand=0x73][ClearBox]I feel so happy today.[Pause=3]
+I'm so glad everyone's here[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_TOMS
+[TargetRight][LoadPortrait=TOMS][FaceCommand=0x73][ClearBox]Yeah, I'm in perfect condition today[FreezeMouth]![UnfreezeMouth][Pause=3]
+I'm gonna eat all I can[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_WENDEL
+[TargetRight][LoadPortrait=WENDEL][FaceCommand=0x73][ClearBox]Our bodies grow weaker with age[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Yet, today I feel like I could lift ten magic
+tomes at once.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_WOLEN
+[TargetRight][LoadPortrait=WOLLEN][FaceCommand=0x73][ClearBox][FreezeMouth]...[UnfreezeMouth]Today's a great day.[Pause=3]
+No wind[FreezeMouth]...[UnfreezeMouth]
+Perfect for hunting.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_WOLF
+[TargetRight][LoadPortrait=WOLF][FaceCommand=0x73][ClearBox]I feel incredible today.[Pause=3]
+I must show them prowess worthy of the
+Wolfguard's name.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_YUBERO
+[TargetRight][LoadPortrait=YUBELLO][FaceCommand=0x73][ClearBox]Oh, I feel a bit stronger today[FreezeMouth]...[UnfreezeMouth][Pause=3]
+B-but[FreezeMouth]...[UnfreezeMouth] I'm still nervous[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_YUMINA
+[TargetRight][LoadPortrait=YUMINA][FaceCommand=0x73][ClearBox]I feel simply delightful today.[Pause=3]
+Just watch me, I won't lose to anyone[FreezeMouth]...![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ENHANCE_ZAGARO
+[TargetRight][LoadPortrait=ZAGARO][FaceCommand=0x73][ClearBox]My body's ready today.[Pause=3]
+I should prepare my weapons so I can march
+out anytime.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_ABEL
+[TargetRight][LoadPortrait=ABEL][FaceCommand=0x73][ClearBox]Training was good today.[Pause=3]
+It's really different to what I used to do in
+the army.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_ARAN
+[TargetRight][LoadPortrait=ARAN][FaceCommand=0x73][ClearBox]I'm satisfied with today's training.[Pause=3]
+I just wish my body will last long enough[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_ASTRIA
+[TargetRight][LoadPortrait=ASTRIA][FaceCommand=0x73][ClearBox]Training is everything.[Pause=3]
+My focus to become stronger is proof of my
+loyalty.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_ATHENA
+[TargetRight][LoadPortrait=ATHENA][FaceCommand=0x73][ClearBox]Ve trained very hard.[Pause=3]
+Ten days in vun.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_BANUTU
+[TargetRight][LoadPortrait=BANUTU][FaceCommand=0x73][ClearBox]Training is a bit difficult for my age[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Oooh, I think I need to lie down for a bit.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_BARTS
+[TargetRight][LoadPortrait=BARTS][FaceCommand=0x73][ClearBox]Alright, that's it for today's workout.[Pause=3]
+I hafta keep my body in top condition while
+I'm still in the army.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_BECK
+[TargetRight][LoadPortrait=BECK][FaceCommand=0x73][ClearBox]I decided to train as an experience.[Pause=3]
+[FreezeMouth]...[UnfreezeMouth]It ain't very interestin'.[Pause=3]
+Why does everyone train, I wonder?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_BELF
+[TargetRight][LoadPortrait=BELF][FaceCommand=0x73][ClearBox]Even training must be done in moderation.[Pause=3]
+It's not wise to overdo it.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_BIRAKU
+[TargetRight][LoadPortrait=BIRAKU][FaceCommand=0x73][ClearBox]That was good training today.[Pause=3]
+Reminds me of the times[Pause=3] I spent with my
+buddies in the grasslands[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_CECIL
+[SpecialText0x14][TargetRight][LoadPortrait=CECIL][FaceCommand=0x73][ClearBox]That was great training.[Pause=3]
+I won't lose to you, [SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_CHEINE
+[TargetRight][LoadPortrait=CHEINE][FaceCommand=0x73][ClearBox]Whew, trainin' is such a pain.[Pause=3]
+Y'know, I doubt there's much point in me
+makin' an effort, but oh well[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_DAROSS
+[TargetRight][LoadPortrait=DAROSS][FaceCommand=0x73][ClearBox]Arr, that was some serious trainin'.[Pause=3]
+I think I did real good, considerin' me lack
+o' willpower.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_DICE
+[TargetRight][LoadPortrait=DICE][FaceCommand=0x73][ClearBox]Yikes[FreezeMouth]...[UnfreezeMouth]
+I hate training.[Pause=3] But my employer asked me,
+so not like I gotta a choice.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_DOHGA
+[TargetRight][LoadPortrait=DOHGA][FaceCommand=0x73][ClearBox]Hmm, defense training complete.[Pause=3]
+Steady, daily improvement is the key to
+success.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_ELREAN
+[TargetRight][LoadPortrait=ELREAN][FaceCommand=0x73][ClearBox][FreezeMouth]...[UnfreezeMouth]Nobody seems to be around.[Pause=3]
+My pride wouldn't allow someone to see me
+training[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_ERICE
+[TargetRight][LoadPortrait=ERICE][FaceCommand=0x73][ClearBox]That was good training.
+I think I learned something.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_EST
+[TargetRight][LoadPortrait=EST][FaceCommand=0x73][ClearBox]And that's it for today's training[FreezeMouth]![UnfreezeMouth][Pause=3]
+I think I'm getting my senses back, little by
+little.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_ETZEL
+[TargetRight][LoadPortrait=ETZEL][FaceCommand=0x73][ClearBox]I don't like training, but it's better than just
+praying for people to not die in the war.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_FINA
+[TargetRight][LoadPortrait=FINA][FaceCommand=0x73][ClearBox]Whee![Pause=3]
+Yes, that was some fine hip shaking.[Pause=3]
+And now, a bit of this and that.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_FREY
+[TargetRight][LoadPortrait=FREY][FaceCommand=0x73][ClearBox]Hm, that was good training.[Pause=3]
+If I train every day, I'll be able to maintain
+my fitness.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_FROST
+[TargetRight][LoadPortrait=FROST][FaceCommand=0x73][ClearBox]Yowie, it's been too long since I exercised.[Pause=3]
+It's difficult for an old geezer like me, but
+this is for my family's peace.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_GOHDON
+[TargetRight][LoadPortrait=GOHDON][FaceCommand=0x73][ClearBox]I can't lose to my juniors.[Pause=3]
+I have to train hard too![A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_HORUS
+[TargetRight][LoadPortrait=HORUS][FaceCommand=0x73][ClearBox]Training is like plowing the earth.[Pause=3]
+A firm grasp of the basics is the key.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_HYMIR
+[TargetRight][LoadPortrait=HYMIR][FaceCommand=0x73][ClearBox]Hwayah[FreezeMouth]![UnfreezeMouth] Yahaah[FreezeMouth]![UnfreezeMouth] Nggaah[FreezeMouth]![UnfreezeMouth][Pause=3]
+[FreezeMouth]...[UnfreezeMouth]Phew, trainin's good.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_JEIK
+[TargetRight][LoadPortrait=JEIK][FaceCommand=0x73][ClearBox]Alright, time to start training.[Pause=3]
+Even without my ballista, I'll work hard for
+Anna[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_JORJUE
+[TargetRight][LoadPortrait=JORJUE][FaceCommand=0x73][ClearBox]Steady training and I don't really get along.[Pause=3]
+But I can't exactly stay like this forever.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_JURIAN
+[TargetRight][LoadPortrait=JURIAN][FaceCommand=0x73][ClearBox]I won't stop trainin'.[Pause=3]
+Not until I've saved you, Rena[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_KAIN
+[TargetRight][LoadPortrait=KAIN][FaceCommand=0x73][ClearBox]Training, training and more training[FreezeMouth]![UnfreezeMouth][Pause=3]
+Training is the power source of an Aritian
+knight.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_KASHIM
+[TargetRight][LoadPortrait=KASHIM][FaceCommand=0x73][ClearBox]"Sniff[FreezeMouth]...[UnfreezeMouth] me mother is sick. I need money[FreezeMouth]...[UnfreezeMouth]"[Pause=3]
+Yes, that's some good trainin' right there.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_KATARINA
+[SpecialText0x14][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x73][ClearBox]That was wonderful training.[Pause=3]
+When I think of fighting with [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth]
+I can work really hard.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_KATUA
+[TargetRight][LoadPortrait=KATUA][FaceCommand=0x73][ClearBox]That was excellent training.[Pause=3]
+If I can help him, even just a bit[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_LEIDEN
+[TargetRight][LoadPortrait=LEIDEN][FaceCommand=0x73][ClearBox]Steady training is fundamental for any
+warrior.[Pause=3] So said General Camus.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_LIAN
+[TargetRight][LoadPortrait=LIAN][FaceCommand=0x73][ClearBox]I worked hard today[FreezeMouth]...[UnfreezeMouth]
+Er, I hope nobody was watching[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_MAJI
+[TargetRight][LoadPortrait=MAJI][FaceCommand=0x73][ClearBox]I cut a lotta nearby trees today.[Pause=3]
+That was how I trained back in my homeland
+of Talis.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_MARIA
+[TargetRight][LoadPortrait=MARIA][FaceCommand=0x73][ClearBox]That was good training.
+I think I learned something.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_MARICH
+[TargetRight][LoadPortrait=MARICH][FaceCommand=0x73][ClearBox]I must work harder and harder.[Pause=3]
+For Prince Marth, and for Princess Ellis[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_MARICIA
+[TargetRight][LoadPortrait=MARICIA][FaceCommand=0x73][ClearBox]Gosh, I worked hard.[Pause=3]
+I might even have grown up a little.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_MARIS
+[TargetRight][LoadPortrait=MARIS][FaceCommand=0x73][ClearBox]I can't say I hate training.[Pause=3]
+It really makes me feel stronger.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_MARS
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][FaceCommand=0x73][ClearBox]All right, that was good training.[Pause=3]
+I can't let [SpecialText0x14=0x39] protect me all the time,
+I must become stronger myself, too.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_MATIS
+[TargetRight][LoadPortrait=MATIS][FaceCommand=0x73][ClearBox]Today, I trained for a change.[Pause=3]
+Is anyone going to pat me on the back or am
+I going to have to do it myself?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_MIDIA
+[TargetRight][LoadPortrait=MIDIA][FaceCommand=0x73][ClearBox]The decisive battle is close.[Pause=3]
+I cannot neglect my training.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_MINERBA
+[TargetRight][LoadPortrait=MINERBA][FaceCommand=0x73][ClearBox]That was good practice.[Pause=3]
+But, this can't be all I can do[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I should be able to aim higher.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_MISHEIL
+[TargetRight][LoadPortrait=MISHEIL][FaceCommand=0x73][ClearBox]A king cannot neglect practice.[Pause=3]
+Pride is for fools.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_MISHRAN
+[TargetRight][LoadPortrait=MISHRAN][FaceCommand=0x73][ClearBox]Yeah, that was some fine training.[Pause=3]
+I bet I can create a new dish now[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_NABARL
+[TargetRight][LoadPortrait=NABARL][FaceCommand=0x73][ClearBox][FreezeMouth]...[UnfreezeMouth]That's it for today.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_NAGA
+[TargetRight][LoadPortrait=NAGA][FaceCommand=0x73][ClearBox]Not enough[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I need to regain a little more power[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_NIENA
+[TargetRight][LoadPortrait=NIENA][FaceCommand=0x73][ClearBox]That was good training.
+I think I learned something.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_NORN
+[TargetRight][LoadPortrait=NORN][FaceCommand=0x73][ClearBox]That was some nice trainin'.[Pause=3]
+I must continue to work hard![A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_OGUMA
+[TargetRight][LoadPortrait=OGUMA][FaceCommand=0x73][ClearBox]Training is key.[Pause=3]
+Before and now, it's not something I can
+afford to neglect.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_PAORA
+[TargetRight][LoadPortrait=PAORA][FaceCommand=0x73][ClearBox]Phew[FreezeMouth]...[UnfreezeMouth] That was good training.[Pause=3]
+I'm soaked; time for a bath.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_PLAYER_PCF1
+[TargetRight][LoadPortrait=PLAYER][FaceCommand=0x73][ClearBox]That was good training.[Pause=3]
+I feel like I learned something.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_PLAYER_PCM1
+[TargetRight][LoadPortrait=PLAYER][FaceCommand=0x73][ClearBox]That was good training.[Pause=3]
+I feel like I learned something.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_RADEI
+[TargetRight][LoadPortrait=RADEI][FaceCommand=0x73][ClearBox]Alright, time for some training.[Pause=3]
+Letting my skills rust would be an offense 
+to my employer.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_RENA
+[TargetRight][LoadPortrait=RENA][FaceCommand=0x73][ClearBox]That was good training.
+I feel like I learned something.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_RICARD
+[TargetRight][LoadPortrait=RICARD][FaceCommand=0x73][ClearBox]A thief must train as well.[Pause=3]
+Moving silently and pickin' locks, just like
+Chief taught me.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_RIFF
+[TargetRight][LoadPortrait=RIFF][FaceCommand=0x73][ClearBox]I don't really exercise, but[FreezeMouth]...[UnfreezeMouth]
+I do pray every day[Pause=3] for everyone's safety.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_RINDA
+[TargetRight][LoadPortrait=RINDA][FaceCommand=0x73][ClearBox]Ahh[FreezeMouth]...[UnfreezeMouth] that was fantastic training.[Pause=3]
+I want to be like Father someday, so I have
+to work even harder.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_ROBERTO
+[TargetRight][LoadPortrait=ROBERTO][FaceCommand=0x73][ClearBox]Training and eating are akin.[Pause=3]
+Both are the basics of maintaining vigor.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_RODY
+[TargetRight][LoadPortrait=RODY][FaceCommand=0x73][ClearBox]Today's training was worthwhile.[Pause=3]
+I'm sure the experience will come in handy
+in the battlefield.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_ROJAR
+[TargetRight][LoadPortrait=ROJAR][FaceCommand=0x73][ClearBox]Alright, time for training.[Pause=3]
+If I work hard, I'm sure to become popular
+with the girls, heh heh[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_ROOK
+[TargetRight][LoadPortrait=ROOK][FaceCommand=0x73][ClearBox]Alright, secret training finished[FreezeMouth]![UnfreezeMouth][Pause=3]
+Man, I'm so cool, working hard when
+nobody's looking[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_ROSHE
+[TargetRight][LoadPortrait=ROSHE][FaceCommand=0x73][ClearBox]Time to begin today's training.[Pause=3]
+Just like when I was a child[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_SAJI
+[TargetRight][LoadPortrait=SAJI][FaceCommand=0x73][ClearBox]I took that tree down, I did.[Pause=3]
+That was how I got stronger back in Talis.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_SAMSON
+[TargetRight][LoadPortrait=SAMSON][FaceCommand=0x73][ClearBox]Daily trainin' surpasses no one.[Pause=3]
+Everythin' is to improve oneself.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_SAMTO
+[TargetRight][LoadPortrait=SAMTO][FaceCommand=0x73][ClearBox]"I'll turn no blade of mine on a woman[FreezeMouth]...[UnfreezeMouth]"[Pause=3]
+Alright, it feels like I've gotten a step closer
+to Navarre.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_SEAZER
+[TargetRight][LoadPortrait=SEAZER][FaceCommand=0x73][ClearBox]Constant training, to keep myself in top form,
+is part of my duty to my employer.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_SHEEDA
+[TargetRight][LoadPortrait=SHEEDA][FaceCommand=0x73][ClearBox]Yes, that was splendid training.[Pause=3]
+I want to help Marth, even at the cost of
+my own life[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_SIMA
+[TargetRight][LoadPortrait=SIMA][FaceCommand=0x73][ClearBox]I think my training was satisfactory.[Pause=3]
+I must set an example to the soldiers of Gra.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_SIRIUS
+[TargetRight][LoadPortrait=SIRIUS][FaceCommand=0x73][ClearBox][FreezeMouth]...[UnfreezeMouth]That's all for today's training.[Pause=3]
+It seems old habits die hard even after
+leaving the army.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_THORMAS
+[TargetRight][LoadPortrait=THORMAS][FaceCommand=0x73][ClearBox]And it's complete[FreezeMouth]![UnfreezeMouth][Pause=3]
+Man, training is so tiring.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_TIKI
+[TargetRight][LoadPortrait=TIKI][FaceCommand=0x73][ClearBox]I wanna train just like everyone![Pause=3]
+One, two, one, two[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_TOMS
+[TargetRight][LoadPortrait=TOMS][FaceCommand=0x73][ClearBox]Hmm, training weren't half bad.[Pause=3]
+I'm hungry; time to eat[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_WENDEL
+[TargetRight][LoadPortrait=WENDEL][FaceCommand=0x73][ClearBox]Reading, too, is invaluable experience.[Pause=3]
+Sometimes, even more than actual battle[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_WOLEN
+[TargetRight][LoadPortrait=WOLLEN][FaceCommand=0x73][ClearBox]I hunted something near here,[Pause=3] so my skills
+wouldn't grow dull.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_WOLF
+[TargetRight][LoadPortrait=WOLF][FaceCommand=0x73][ClearBox]There's no such thing as enough training.[Pause=3]
+I need more strength.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_YUBERO
+[TargetRight][LoadPortrait=YUBELLO][FaceCommand=0x73][ClearBox]I must train too[FreezeMouth]...[UnfreezeMouth][Pause=3]
+If I want to get over my fear of battle,
+I have to train hard[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_YUMINA
+[TargetRight][LoadPortrait=YUMINA][FaceCommand=0x73][ClearBox]I will train, too.[Pause=3]
+There's someone I wish to protect.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_EXP_ZAGARO
+[TargetRight][LoadPortrait=ZAGARO][FaceCommand=0x73][ClearBox]That was good training.[Pause=3]
+Just like a weapon, my body will rust without
+maintenance.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_ABEL
+[TargetRight][LoadPortrait=ABEL][ClearBox]What a strange item.[Pause=3]
+We don't carry this in my shop.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_ARAN
+[TargetRight][LoadPortrait=ARAN][ClearBox]Hmm[FreezeMouth]...[UnfreezeMouth] Just what is this[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_ASTRIA
+[TargetRight][LoadPortrait=ASTRIA][ClearBox]What is this[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Can I just throw it away?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_ATHENA
+[TargetRight][LoadPortrait=ATHENA][ClearBox]Ve found something good.[Pause=3]
+Ve vill fight better vith this.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_BANUTU
+[TargetRight][LoadPortrait=BANUTU][ClearBox]Hmm? What is this[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+I wonder if it could double as a pickling
+stone[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_BARTS
+[TargetRight][LoadPortrait=BARTS][ClearBox]I got something weird.[Pause=3]
+It better not be junk[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_BECK
+[TargetRight][LoadPortrait=BECK][ClearBox]My little Pony found something.[Pause=3]
+Come on Pony, lemme see what you got.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_BELF
+[TargetRight][LoadPortrait=BELF][ClearBox]Huh?
+What is this, I wonder?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_BIRAKU
+[TargetRight][LoadPortrait=BIRAKU][ClearBox]Eh? What's this?[Pause=3]
+Highly suspicious if you ask me[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_CECIL
+[TargetRight][LoadPortrait=CECIL][ClearBox]Huh? What's this supposed to be?[Pause=3]
+[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_CHEINE
+[TargetRight][LoadPortrait=CHEINE][ClearBox]Hmm? What's this[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Well, I don't mind gatherin' stuff like this.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_DAROSS
+[TargetRight][LoadPortrait=DAROSS][ClearBox]Arr?[Pause=3]
+What's this I be spottin', treasure?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_DICE
+[TargetRight][LoadPortrait=DICE][ClearBox]Lucky lucky!
+I found something good[FreezeMouth]![UnfreezeMouth][Pause=3]
+I'mma sell it and play a match.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_DOHGA
+[TargetRight][LoadPortrait=DOHGA][ClearBox]Eh? This is[FreezeMouth]...[UnfreezeMouth]
+Does anyone know what this is?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_ELREAN
+[TargetRight][LoadPortrait=ELREAN][ClearBox]Hm? What is this[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+I have no interest in junk, but[FreezeMouth]...[UnfreezeMouth]
+Well, it's better than throwing it away.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_ERICE
+[TargetRight][LoadPortrait=ERICE][ClearBox]Hm? I wonder[FreezeMouth]... [UnfreezeMouth]what is this?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_EST
+[TargetRight][LoadPortrait=EST][ClearBox]Oh? What is this?[Pause=3]
+We don't sell this in the shop[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_ETZEL
+[TargetRight][LoadPortrait=ETZEL][ClearBox]Hm? What is this?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_FINA
+[TargetRight][LoadPortrait=FINA][ClearBox]Look at this[FreezeMouth]![UnfreezeMouth][Pause=3]
+I picked up something good.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_FREY
+[TargetRight][LoadPortrait=FREY][ClearBox]Hmm?[Pause=3]
+[FreezeMouth]...[UnfreezeMouth]This won't do.[Pause=3]
+Did someone drop this?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_FROST
+[TargetRight][LoadPortrait=FROST][ClearBox]Eh? What's this supposed to be?[Pause=3]
+Would it make a good souvenir for my family?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_GOHDON
+[TargetRight][LoadPortrait=GOHDON][ClearBox]Eh? This is[FreezeMouth]...[UnfreezeMouth] what, exactly?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_HORUS
+[TargetRight][LoadPortrait=HORUS][ClearBox]This is[FreezeMouth]...[UnfreezeMouth] someone's lost article?[Pause=3]
+If so, I must give it back.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_HYMIR
+[TargetRight][LoadPortrait=HYMIR][ClearBox]Ooh, I found somethin'.[Pause=3]
+No clue what it is, but it looks good![A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_JEIK
+[TargetRight][LoadPortrait=JEIK][ClearBox]Hmm? What's this?[Pause=3]
+A hidden treasure or something?
+I wonder if Anna would sell this?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_JORJUE
+[TargetRight][LoadPortrait=JORJUE][ClearBox]Eh? Which unresponsible fellow left this
+here[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_JURIAN
+[TargetRight][LoadPortrait=JURIAN][ClearBox]I picked up something weird[FreezeMouth]...[UnfreezeMouth]
+Is this even usable?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_KAIN
+[TargetRight][LoadPortrait=KAIN][ClearBox]Eh? What is this?[Pause=3]
+Maybe I can use it as a training tool.
+[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_KASHIM
+[TargetRight][LoadPortrait=KASHIM][ClearBox]Hm? This is[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I wonder how much money I'd get for this?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_KATARINA
+[SpecialText0x14][TargetRight][LoadPortrait=KATARINA][ClearBox]I found something nice.[Pause=3]
+I wonder if [SpecialText0x14=0x39] would be happy to
+receive it[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_KATUA
+[TargetRight][LoadPortrait=KATUA][ClearBox]Oh?
+This is[FreezeMouth]...[UnfreezeMouth] er, I have no idea.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_LEIDEN
+[TargetRight][LoadPortrait=LEIDEN][ClearBox]What is this[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_LIAN
+[TargetRight][LoadPortrait=LIAN][ClearBox]Oh?
+Just what[FreezeMouth]...[UnfreezeMouth] is this?
+I bet Brother would know.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_MAJI
+[TargetRight][LoadPortrait=MAJI][ClearBox]Hm? What's this?[Pause=3]
+I got something weird.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_MARIA
+[TargetRight][LoadPortrait=MARIA][ClearBox]Hm? This is[FreezeMouth]... [UnfreezeMouth]what, I wonder?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_MARICH
+[TargetRight][LoadPortrait=MARICH][ClearBox]Eh? I wonder[FreezeMouth]...[UnfreezeMouth] what this is?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_MARICIA
+[TargetRight][LoadPortrait=MARICIA][ClearBox]Ohmigosh! I wonder what this is[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Could it be a present for sweet little me?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_MARIS
+[TargetRight][LoadPortrait=MARIS][ClearBox]Hmm? I found something.[Pause=3]
+I wonder if I can buy bread if I sell this[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_MARS
+[TargetRight][LoadPortrait=MARS][FaceCommand=0x73][ClearBox]Oh?
+What is this?[Pause=3]
+Did somebody leave this behind[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_MATIS
+[TargetRight][LoadPortrait=MATIS][ClearBox]Whoa, what's this?[Pause=3]
+No clue, but whatever[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_MIDIA
+[TargetRight][LoadPortrait=MIDIA][ClearBox]What is this, I wonder?[Pause=3]
+I should report this to Prince Marth.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_MINERBA
+[TargetRight][LoadPortrait=MINERBA][ClearBox]I picked up something peculiar.[Pause=3]
+I should give it to Prince Marth.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_MISHEIL
+[TargetRight][LoadPortrait=MISHEIL][ClearBox]Eh? What is this[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Looks useless[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_MISHRAN
+[TargetRight][LoadPortrait=MISHRAN][ClearBox]Huh? This is[FreezeMouth]...[UnfreezeMouth]
+Can I cook it?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_NABARL
+[TargetRight][LoadPortrait=NABARL][ClearBox][FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_NAGA
+[TargetRight][LoadPortrait=NAGA][ClearBox][FreezeMouth]...?[UnfreezeMouth] This is[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_NIENA
+[TargetRight][LoadPortrait=NIENA][ClearBox]Hm? This is[FreezeMouth]... [UnfreezeMouth]what, I wonder?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_NORN
+[TargetRight][LoadPortrait=NORN][ClearBox]Um, what[FreezeMouth]...[UnfreezeMouth] is this?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_OGUMA
+[TargetRight][LoadPortrait=OGUMA][ClearBox]Hm? What[FreezeMouth]...[UnfreezeMouth] is this?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_PAORA
+[TargetRight][LoadPortrait=PAORA][ClearBox]Oh?
+I wonder[FreezeMouth]...[UnfreezeMouth] what is this?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_PLAYER_PCF1
+[TargetRight][LoadPortrait=PLAYER][ClearBox]Hmm? I wonder[FreezeMouth]...[UnfreezeMouth] what this is?
+Maybe I can make good use of it.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_PLAYER_PCM1
+[TargetRight][LoadPortrait=PLAYER][ClearBox]Hm? I wonder[FreezeMouth]...[UnfreezeMouth] what this is?
+Maybe I can make good use of it.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_RADEI
+[TargetRight][LoadPortrait=RADEI][ClearBox]I got something odd.[Pause=3]
+I wonder if it's useful?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_RENA
+[TargetRight][LoadPortrait=RENA][ClearBox]Hm? This is[FreezeMouth]... [UnfreezeMouth]what, I wonder?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_RICARD
+[TargetRight][LoadPortrait=RICARD][ClearBox]Ooh, I found somethin' good[FreezeMouth]![UnfreezeMouth][Pause=3]
+My intuition says this is no doubt worth a lot[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_RIFF
+[TargetRight][LoadPortrait=RIFF][ClearBox]Ooh.[Pause=3]
+It seems I've found something.[Pause=3]
+I wonder if this happens often?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_RINDA
+[TargetRight][LoadPortrait=RINDA][ClearBox]Oh my, this is[FreezeMouth]...[UnfreezeMouth] what, exactly?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_ROBERTO
+[TargetRight][LoadPortrait=ROBERTO][ClearBox]Hmm? This is[FreezeMouth]...[UnfreezeMouth] what, I wonder?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_RODY
+[TargetRight][LoadPortrait=RODY][ClearBox]I picked up something weird.[Pause=3]
+I should report it.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_ROJAR
+[TargetRight][LoadPortrait=ROJAR][ClearBox]What a strange item.[Pause=3]
+Oh, right. If I were to give this to her as a
+gift[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_ROOK
+[TargetRight][LoadPortrait=ROOK][ClearBox]Hmm? What's this?[Pause=3]
+Oh well, finders keepers![A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_ROSHE
+[TargetRight][LoadPortrait=ROSHE][ClearBox]Hmm? What is this?[Pause=3]
+I can't just leave it here[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_SAJI
+[TargetRight][LoadPortrait=SAJI][ClearBox]Eh? What's this?[Pause=3]
+If nobody needs it, I'll keep it then.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_SAMSON
+[TargetRight][LoadPortrait=SAMSON][ClearBox]Hm? This is[FreezeMouth]...[UnfreezeMouth] what?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_SAMTO
+[TargetRight][LoadPortrait=SAMTO][ClearBox]Hmm? What's this?[Pause=3]
+Oh well, guess I'll pick it up.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_SEAZER
+[TargetRight][LoadPortrait=SEAZER][ClearBox]Hmm? What's this[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+I just hope it'll be of use.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_SHEEDA
+[TargetRight][LoadPortrait=SHEEDA][ClearBox]I picked up something strange.[Pause=3]
+Maybe I should show it to Marth.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_SIMA
+[TargetRight][LoadPortrait=SIMA][ClearBox]Hm? This is[FreezeMouth]...[UnfreezeMouth] what, I wonder?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_SIRIUS
+[TargetRight][LoadPortrait=SIRIUS][ClearBox]Hmm?
+And this is supposed to be[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_THORMAS
+[TargetRight][LoadPortrait=THORMAS][ClearBox]Aha, I found something.[Pause=3]
+How lucky of me![A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_TIKI
+[TargetRight][LoadPortrait=TIKI][ClearBox]Hmm?
+What is this?[Pause=3]
+I'll show it to Mar-Mar.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_TOMS
+[TargetRight][LoadPortrait=TOMS][ClearBox]Huh? What[FreezeMouth]...[UnfreezeMouth] is this?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_WENDEL
+[TargetRight][LoadPortrait=WENDEL][ClearBox]Oh? Could this be a star shard[FreezeMouth]...?[UnfreezeMouth]
+Nope[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_WOLEN
+[TargetRight][LoadPortrait=WOLLEN][ClearBox][FreezeMouth]...[UnfreezeMouth]What the heck is this?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_WOLF
+[TargetRight][LoadPortrait=WOLF][ClearBox]Wha?
+What is this?[Pause=3]
+Is this even usable[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_YUBERO
+[TargetRight][LoadPortrait=YUBELLO][ClearBox]Huh? What[FreezeMouth]...[UnfreezeMouth] is this?[Pause=3]
+Will they praise me if I give it back[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_YUMINA
+[TargetRight][LoadPortrait=YUMINA][ClearBox]Picking things up from the ground is
+unbecoming of royalty, but[FreezeMouth]...[UnfreezeMouth][Pause=3]
+This, too, is so I can become stronger.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_ITEM_ZAGARO
+[TargetRight][LoadPortrait=ZAGARO][ClearBox]Hm? What is this?[Pause=3]
+Weird[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_ABEL
+[TargetRight][LoadPortrait=ABEL][FaceCommand=0x73][ClearBox]Our stock of daily goods seems insufficient[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I should order more stock pronto.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_ARAN
+[TargetRight][LoadPortrait=ARAN][FaceCommand=0x73][ClearBox]This illness has long plagued me.[Pause=3]
+I do hope I'll last until the end of this war[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_ASTRIA
+[TargetRight][LoadPortrait=ASTRIA][FaceCommand=0x73][ClearBox]I'm bad at resting[FreezeMouth]...[UnfreezeMouth][Pause=3]
+What's a man supposed to do with free time?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_ATHENA
+[TargetRight][LoadPortrait=ATHENA][FaceCommand=0x73][ClearBox]Ve can vash, too.[Pause=3]
+Like this, and this[FreezeMouth]...[UnfreezeMouth] Voops.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_BANUTU
+[TargetRight][LoadPortrait=BANUTU][ClearBox][FreezeMouth]...[UnfreezeMouth]Hmm?[Pause=3]
+What was I going to do again?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_BARTS
+[TargetRight][LoadPortrait=BARTS][FaceCommand=0x73][ClearBox]This world sure is huge.[Pause=3]
+A lotta things still surprise me.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_BECK
+[TargetRight][LoadPortrait=BECK][FaceCommand=0x73][ClearBox]Oh boy, I love restin'.[Pause=3]
+Could do it all day.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_BELF
+[TargetRight][LoadPortrait=BELF][FaceCommand=0x73][ClearBox]It's nice to calmly drink tea like this, every
+now and then.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_BIRAKU
+[TargetRight][LoadPortrait=BIRAKU][ClearBox]It was better this way.[Pause=3]
+That's what I believe[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_CECIL
+[TargetRight][LoadPortrait=CECIL][FaceCommand=0x73][ClearBox]Should I use this weapon, or that one?[Pause=3]
+I just can't make up my mind[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_CHEINE
+[TargetRight][LoadPortrait=CHEINE][FaceCommand=0x73][ClearBox]I'm bored out of my mind.[Pause=3]
+I know, I'll imitate someone and surprise
+them. That never fails to crack me up.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_DAROSS
+[TargetRight][LoadPortrait=DAROSS][FaceCommand=0x73][ClearBox]Harump![Pause=3]
+Well, what ye know, it be sparklin' clean now.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_DICE
+[TargetRight][LoadPortrait=DICE][FaceCommand=0x73][ClearBox]Yo[FreezeMouth]![UnfreezeMouth][Pause=3]
+Anyone wanna play dice with me?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_DOHGA
+[TargetRight][LoadPortrait=DOHGA][FaceCommand=0x73][ClearBox]Hmmm[FreezeMouth]...[UnfreezeMouth] No, I just can't.[Pause=3]
+Staying like this is making me sleepy[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_ELREAN
+[TargetRight][LoadPortrait=ELREAN][ClearBox]Bah, rest is for fools.[Pause=3]
+Life is short, but the knowledge one can
+acquire is boundless[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_ERICE
+[TargetRight][LoadPortrait=ERICE][FaceCommand=0x73][ClearBox]I feel kinda well today.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_EST
+[TargetRight][LoadPortrait=EST][ClearBox]Abel[FreezeMouth]...[UnfreezeMouth] I[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_ETZEL
+[TargetRight][LoadPortrait=ETZEL][ClearBox]Ursula[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Are you watching over me?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_FINA
+[TargetRight][LoadPortrait=FINA][FaceCommand=0x73][ClearBox]I'm sooo bored.[Pause=3]
+Isn't there anything fun happening?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_FREY
+[TargetRight][LoadPortrait=FREY][FaceCommand=0x73][ClearBox]Time to rest[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I should read some more history books.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_FROST
+[TargetRight][LoadPortrait=FROST][FaceCommand=0x73][ClearBox]"Are you all doing well?"[FreezeMouth]...[UnfreezeMouth] There.[Pause=3]
+Oh-ho ho, writing letters is so fun.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_GOHDON
+[TargetRight][LoadPortrait=GOHDON][FaceCommand=0x73][ClearBox]Got a little extra time.[Pause=3]
+I guess I'll slack off a bit.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_HORUS
+[TargetRight][LoadPortrait=HORUS][FaceCommand=0x73][ClearBox]I wonder if the people in my lands are safe[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_HYMIR
+[TargetRight][LoadPortrait=HYMIR][FaceCommand=0x73][ClearBox]I make hats and clothes from animal skin.[Pause=3]
+It's my speciality.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_JEIK
+[TargetRight][LoadPortrait=JEIK][FaceCommand=0x73][ClearBox]Anna, just you wait.[Pause=3]
+I'll make sure everyone knows about your
+shop![A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_JORJUE
+[TargetRight][LoadPortrait=JORJUE][FaceCommand=0x73][ClearBox]I'm fine being alone.[Pause=3]
+It keeps me from thinking what I shouldn't be
+thinking[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_JURIAN
+[TargetRight][LoadPortrait=JURIAN][ClearBox]Rena[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll save you, no matter what[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_KAIN
+[TargetRight][LoadPortrait=KAIN][FaceCommand=0x73][ClearBox]Resting is important for everyone.[Pause=3]
+But, I just can't stay still[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_KASHIM
+[TargetRight][LoadPortrait=KASHIM][ClearBox]I wonder if there's anythin' valuable on the
+floor[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_KATARINA
+[SpecialText0x14][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x73][ClearBox]Prince Marth[FreezeMouth]...[UnfreezeMouth] [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'll do my best[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_KATUA
+[TargetRight][LoadPortrait=KATUA][ClearBox][FreezeMouth]...[UnfreezeMouth]Thinking too hard is a bad habit of mine.[Pause=3]
+I should go walk for a bit[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_LEIDEN
+[TargetRight][LoadPortrait=LEIDEN][ClearBox]General Camus[FreezeMouth]...[UnfreezeMouth][Pause=3]
+He's alive.[Pause=3]
+I'm certain of it[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_LIAN
+[TargetRight][LoadPortrait=LIAN][FaceCommand=0x73][ClearBox]I got a little time to rest[FreezeMouth]...[UnfreezeMouth]
+Boy am I happy[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_MAJI
+[TargetRight][LoadPortrait=MAJI][ClearBox]Free time don't suit me.[Pause=3]
+I wonder if anything's going on?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_MARIA
+[TargetRight][LoadPortrait=MARIA][FaceCommand=0x73][ClearBox]I feel kinda well today.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_MARICH
+[TargetRight][LoadPortrait=MARICH][FaceCommand=0x73][ClearBox]The wind feel nice[FreezeMouth]...[UnfreezeMouth][Pause=3]
+It cleans my soul[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_MARICIA
+[TargetRight][LoadPortrait=MARICIA][FaceCommand=0x73][ClearBox]Huff[FreezeMouth]...[UnfreezeMouth] puff[FreezeMouth]...[UnfreezeMouth]
+Where is my prince, I wonder?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_MARIS
+[TargetRight][LoadPortrait=MARIS][ClearBox]I'm used to having free time.[Pause=3]
+We haven't had much work to do until now,
+after all[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_MARS
+[TargetRight][LoadPortrait=MARS][FaceCommand=0x73][ClearBox]Some free time, for a change.[Pause=3]
+I ought to rest for a bit.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_MATIS
+[TargetRight][LoadPortrait=MATIS][ClearBox]Rena[FreezeMouth]...[UnfreezeMouth]
+Where are you[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Man, I'm so, so worried[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_MIDIA
+[TargetRight][LoadPortrait=MIDIA][ClearBox]Astria[FreezeMouth]...[UnfreezeMouth][Pause=3]
+If you and I[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_MINERBA
+[TargetRight][LoadPortrait=MINERBA][ClearBox]Brother[FreezeMouth]... [UnfreezeMouth]Maria[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Will we be together again someday, like we
+used to[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_MISHEIL
+[TargetRight][LoadPortrait=MISHEIL][FaceCommand=0x73][ClearBox][FreezeMouth]...[UnfreezeMouth]Rest? More like inactivity.[Pause=3]
+I'm heading to the battlefield already.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_MISHRAN
+[TargetRight][LoadPortrait=MISHRAN][FaceCommand=0x73][ClearBox]Hmm[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I've almost got a good idea for a menu[FreezeMouth]...[UnfreezeMouth]
+C'mon, you can do it![A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_NABARL
+[TargetRight][LoadPortrait=NABARL][ClearBox][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_NAGA
+[TargetRight][LoadPortrait=NAGA][FaceCommand=0x73][ClearBox][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_NIENA
+[TargetRight][LoadPortrait=NIENA][FaceCommand=0x73][ClearBox]I feel kinda well today.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_NORN
+[TargetRight][LoadPortrait=NORN][FaceCommand=0x73][ClearBox]H-huh?
+Oh dear, I forgot somethin'.[Pause=3]
+Where did I leave it[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_OGUMA
+[TargetRight][LoadPortrait=OGUMA][ClearBox][FreezeMouth]...[UnfreezeMouth]My sword is for my liege[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_PAORA
+[TargetRight][LoadPortrait=PAORA][FaceCommand=0x73][ClearBox]Resting is important, too.[Pause=3]
+I hope the others aren't overworking
+themselves[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_PLAYER_PCF1
+[TargetRight][LoadPortrait=PLAYER][FaceCommand=0x73][ClearBox]I feel rather calm.
+I think I'll take it easy for now.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_PLAYER_PCM1
+[TargetRight][LoadPortrait=PLAYER][FaceCommand=0x73][ClearBox]I feel calm.
+I should take it easy for now.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_RADEI
+[TargetRight][LoadPortrait=RADEI][ClearBox]I've been earning gold slowly, but steadily.[Pause=3]
+I need to maintain this pace.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_RENA
+[TargetRight][LoadPortrait=RENA][FaceCommand=0x73][ClearBox]I feel kinda well today.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_RICARD
+[TargetRight][LoadPortrait=RICARD][FaceCommand=0x73][ClearBox]C'mon out, treasure chests!
+I know you're there![A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_RIFF
+[TargetRight][LoadPortrait=RIFF][FaceCommand=0x73][ClearBox]Ooh, this is splendid tea[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_RINDA
+[TargetRight][LoadPortrait=RINDA][FaceCommand=0x73][ClearBox]Time for some rest.[Pause=3]
+Maybe I should go bathe.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_ROBERTO
+[TargetRight][LoadPortrait=ROBERTO][FaceCommand=0x73][ClearBox]When I watch the horses like this[FreezeMouth]...[UnfreezeMouth]
+War just seems so pointless.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_RODY
+[TargetRight][LoadPortrait=RODY][FaceCommand=0x73][ClearBox]Having nothing to do isn't always a bad
+thing, I suppose.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_ROJAR
+[TargetRight][LoadPortrait=ROJAR][FaceCommand=0x73][ClearBox]Ooh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+That girl I saw the other day was so
+adorable. I wonder if she remembers me?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_ROOK
+[TargetRight][LoadPortrait=ROOK][FaceCommand=0x73][ClearBox]Ah, peace at last.
+I wonder if I'll bump into a young, pretty,
+gentle and cute girl?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_ROSHE
+[TargetRight][LoadPortrait=ROSHE][FaceCommand=0x73][ClearBox]Finally some free time.[Pause=3]
+I know, I'll write to the children.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_SAJI
+[TargetRight][LoadPortrait=SAJI][ClearBox]I can't let my body dull with rest.[Pause=3]
+Ain't there anything for me to do?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_SAMSON
+[TargetRight][LoadPortrait=SAMSON][ClearBox][FreezeMouth]...[UnfreezeMouth][Pause=3]
+Restin' your body and soul is important too.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_SAMTO
+[TargetRight][LoadPortrait=SAMTO][ClearBox]"Take this! My killing edge[FreezeMouth]![UnfreezeMouth]"[Pause=3]
+Just kidding, haha.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_SEAZER
+[TargetRight][LoadPortrait=SEAZER][ClearBox][FreezeMouth]...[UnfreezeMouth]A break, huh?[Pause=3]
+Time to read some more of this tactics book.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_SHEEDA
+[TargetRight][LoadPortrait=SHEEDA][FaceCommand=0x73][ClearBox]Oh, I wish Marth will stay safe from now on,
+too[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_SIMA
+[TargetRight][LoadPortrait=SIMA][FaceCommand=0x73][ClearBox]When it's quiet like this, I think of Mother[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_SIRIUS
+[TargetRight][LoadPortrait=SIRIUS][ClearBox][FreezeMouth]...[UnfreezeMouth][Pause=3]
+Nina[FreezeMouth]...[UnfreezeMouth] please be safe[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_THORMAS
+[TargetRight][LoadPortrait=THORMAS][FaceCommand=0x73][ClearBox]So booored![Pause=3]
+I guess I'll play with a toy bow.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_TIKI
+[TargetRight][LoadPortrait=TIKI][ClearBox]Oh[FreezeMouth]...[UnfreezeMouth] so sleepy[FreezeMouth]...[UnfreezeMouth]
+[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_TOMS
+[TargetRight][LoadPortrait=TOMS][FaceCommand=0x73][ClearBox]I'm hungry[FreezeMouth]![UnfreezeMouth][Pause=3]
+Is it time to eat yet[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_WENDEL
+[TargetRight][LoadPortrait=WENDEL][FaceCommand=0x73][ClearBox]Lord Gato[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Please watch over everyone[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_WOLEN
+[TargetRight][LoadPortrait=WOLLEN][FaceCommand=0x73][ClearBox][FreezeMouth]...[UnfreezeMouth][Pause=3]
+It's nice to be alone[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_WOLF
+[TargetRight][LoadPortrait=WOLF][ClearBox]Coyote[FreezeMouth]...[UnfreezeMouth] I[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_YUBERO
+[TargetRight][LoadPortrait=YUBELLO][FaceCommand=0x73][ClearBox]It's time to rest now.[Pause=3]
+I'm relieved I don't have to fight, phew[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_YUMINA
+[TargetRight][LoadPortrait=YUMINA][ClearBox]You can't be afraid.[Pause=3]
+You need to behave properly as the
+princess of Grunia, Yumina[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_NONE_ZAGARO
+[TargetRight][LoadPortrait=ZAGARO][FaceCommand=0x73][ClearBox]Repairing weapons sure gives me peace of
+mind[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_ABEL
+[SpecialText0x14][TargetRight][LoadPortrait=ABEL][FaceCommand=0x73][ClearBox]I hope [SpecialText0x14=0x39] is well[FreezeMouth]...[UnfreezeMouth][Pause=3]
+With young knights like [SpecialText0x14=0x39] around,
+Aritia is sure to have a bright future.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_ARAN
+[SpecialText0x14][TargetRight][LoadPortrait=ARAN][FaceCommand=0x73][ClearBox]Royal Guard [SpecialText0x14=0x39], huh[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+A promising knight, to be sure.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_ASTRIA
+[SpecialText0x14][TargetRight][LoadPortrait=ASTRIA][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39], was it[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Even among the mighty Aritian knights,
+[SpecialText0x14=0x39] is a remarkable individual.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_ATHENA
+[SpecialText0x14][TargetRight][LoadPortrait=ATHENA][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39] vas it[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Ve vant to know more about you.[Pause=3]
+Ve vant to, very much.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_BANUTU
+[SpecialText0x14][TargetRight][LoadPortrait=BANUTU][FaceCommand=0x73][ClearBox]Ahh, I do wonder about that young one.[Pause=3]
+Huh, what was their name[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Err[FreezeMouth]... [UnfreezeMouth][SpecialText0x14=0x39][FreezeMouth]... [UnfreezeMouth]was it?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_BARTS
+[SpecialText0x14][TargetRight][LoadPortrait=BARTS][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39] really makes me think[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Somehow, they're just different from the
+others[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_BECK
+[SpecialText0x14][TargetRight][LoadPortrait=BECK][FaceCommand=0x73][ClearBox]Pony, what's the matter?[Pause=3]
+Huh? What'd you say?[Pause=3]
+You're wondering about [SpecialText0x14=0x39]?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_BELF
+[SpecialText0x14][TargetRight][LoadPortrait=BELF][FaceCommand=0x73][ClearBox]I wonder how [SpecialText0x14=0x39] is doing[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+It's rare for me to feel like this.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_BIRAKU
+[SpecialText0x14][TargetRight][LoadPortrait=BIRAKU][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39] is pretty strange[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I can't explain it, but I get this weird
+nostalgic feeling[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_CECIL
+[SpecialText0x14][TargetRight][LoadPortrait=CECIL][FaceCommand=0x73][ClearBox]I hope [SpecialText0x14=0x39] is doing well[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Er, what am I thinking[FreezeMouth]...?[UnfreezeMouth]
+[SpecialText0x14=0x39] will be fine![A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_CHEINE
+[SpecialText0x14][TargetRight][LoadPortrait=CHEINE][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39], huh?[Pause=3]
+An odd human alright.
+Even odder than Marth.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_DAROSS
+[SpecialText0x14][TargetRight][LoadPortrait=DAROSS][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39] is strong[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I have t'work hard and seriously just like
+[SpecialText0x14=0x39] does.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_DICE
+[SpecialText0x14][TargetRight][LoadPortrait=DICE][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39], was it?[Pause=3]
+I bet they're a great gambler.
+Wahaha![A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_DOHGA
+[SpecialText0x14][TargetRight][LoadPortrait=DOHGA][FaceCommand=0x73][ClearBox]I wonder how [SpecialText0x14=0x39] is keeping?
+[SpecialText0x14=0x39] is a crucial part of our army[Pause=3]
+and somebody I should support.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_ELREAN
+[SpecialText0x14][TargetRight][LoadPortrait=ELREAN][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+Bah! Nonsense! Why do I bother
+remembering someone else's name[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_ERICE
+[SpecialText0x14][TargetRight][LoadPortrait=ERICE][FaceCommand=0x73][ClearBox]I'm kinda curious about [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_EST
+[SpecialText0x14][TargetRight][LoadPortrait=EST][FaceCommand=0x73][ClearBox]I wonder about [SpecialText0x14=0x39] sometimes[FreezeMouth]...[UnfreezeMouth][Pause=3]
+What is this strange feeling?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_ETZEL
+[SpecialText0x14][TargetRight][LoadPortrait=ETZEL][FaceCommand=0x73][ClearBox]I'm worried about [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+Someone that unreliable shouldn't be left
+alone.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_FINA
+[SpecialText0x14][TargetRight][LoadPortrait=FINA][FaceCommand=0x73][ClearBox]Oh, [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+Why do I suddenly think about you when I'm
+in the middle of a dance[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_FREY
+[SpecialText0x14][TargetRight][LoadPortrait=FREY][FaceCommand=0x73][ClearBox]I wonder how [SpecialText0x14=0x39] is faring[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Was my teaching of use[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_FROST
+[SpecialText0x14][TargetRight][LoadPortrait=FROST][FaceCommand=0x73][ClearBox]I hope [SpecialText0x14=0x39] is well[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I can't help but think of [SpecialText0x14=0x39] as family[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_GOHDON
+[SpecialText0x14][TargetRight][LoadPortrait=GOHDON][FaceCommand=0x73][ClearBox]I wonder how [SpecialText0x14=0x39] is doing[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+It's alright for a senior to worry, right?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_HORUS
+[SpecialText0x14][TargetRight][LoadPortrait=HORUS][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39], huh[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+I could learn much from that knight's loyalty.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_HYMIR
+[SpecialText0x14][TargetRight][LoadPortrait=HYMIR][FaceCommand=0x73][ClearBox]I wonder how [SpecialText0x14=0x39] is[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+I'd be happy if we could get along.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_JEIK
+[SpecialText0x14][TargetRight][LoadPortrait=JEIK][FaceCommand=0x73][ClearBox]I do wonder about [SpecialText0x14=0x39] sometimes[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Oh, don't worry, my sweet Anna.
+You're always first on my mind[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_JORJUE
+[SpecialText0x14][TargetRight][LoadPortrait=JORJUE][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39], huh[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+An interesting knight indeed.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_JURIAN
+[SpecialText0x14][TargetRight][LoadPortrait=JURIAN][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39] piques my interest[FreezeMouth]...[UnfreezeMouth][Pause=3]
+If anyone could help me save Rena, it's
+probably [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_KAIN
+[SpecialText0x14][TargetRight][LoadPortrait=KAIN][FaceCommand=0x73][ClearBox]I wonder how much [SpecialText0x14=0x39] has improved
+since that time.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_KASHIM
+[SpecialText0x14][TargetRight][LoadPortrait=KASHIM][FaceCommand=0x73][ClearBox]Why am I drawn to [SpecialText0x14=0x39][FreezeMouth]...?[UnfreezeMouth][Pause=3]
+It's not like [SpecialText0x14=0x39] has much gold[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_KATARINA
+[SpecialText0x14][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x73][ClearBox]I'm worried about [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+Well, I'm always worried about [SpecialText0x14=0x39],
+but today more than usual[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_KATUA
+[SpecialText0x14][TargetRight][LoadPortrait=KATUA][FaceCommand=0x73][ClearBox]I worry for [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+I don't know why, but I feel like I can't leave
+[SpecialText0x14=0x39] alone[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_LEIDEN
+[SpecialText0x14][TargetRight][LoadPortrait=LEIDEN][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39], huh[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Enthusiasm is good, but overdoing it would
+be bad.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_LIAN
+[SpecialText0x14][TargetRight][LoadPortrait=LIAN][FaceCommand=0x73][ClearBox]I wanna chat with [SpecialText0x14=0x39] more[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Maybe I could learn a thing or two from
+[SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_MAJI
+[SpecialText0x14][TargetRight][LoadPortrait=MAJI][FaceCommand=0x73][ClearBox]I wonder what [SpecialText0x14=0x39] is doin'?[Pause=3]
+They're really somethin'.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_MARIA
+[SpecialText0x14][TargetRight][LoadPortrait=MARIA][FaceCommand=0x73][ClearBox]I'm somewhat curious about [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_MARICH
+[SpecialText0x14][TargetRight][LoadPortrait=MARICH][FaceCommand=0x73][ClearBox]I hope [SpecialText0x14=0x39] is doing well[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'd love it if we could become good friends.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_MARICIA
+[SpecialText0x14][TargetRight][LoadPortrait=MARICIA][FaceCommand=0x73][ClearBox]I want to know more about[Pause=3] Prince Marth's
+knight, [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_MARIS
+[SpecialText0x14][TargetRight][LoadPortrait=MARIS][FaceCommand=0x73][ClearBox]I wonder how they're faring[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x39], was it[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_MARS
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][FaceCommand=0x73][ClearBox]I'm worried about [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+Where did you go?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_MATIS
+[SpecialText0x14][TargetRight][LoadPortrait=MATIS][FaceCommand=0x73][ClearBox]I keep thinking about [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+What is this peculiar feeling?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_MIDIA
+[SpecialText0x14][TargetRight][LoadPortrait=MIDIA][FaceCommand=0x73][ClearBox]I'd like to know more about [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+As a fellow knight, I'm rather impressed.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_MINERBA
+[SpecialText0x14][TargetRight][LoadPortrait=MINERBA][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39] is strong[FreezeMouth]...[UnfreezeMouth][Pause=3]
+As I'd expect from Marth's Royal Guard.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_MISHEIL
+[SpecialText0x14][TargetRight][LoadPortrait=MISHEIL][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39] makes me wonder[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Nonsense.[Pause=3]
+I'm not thinking straight.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_MISHRAN
+[SpecialText0x14][TargetRight][LoadPortrait=MISHRAN][FaceCommand=0x73][ClearBox]Huh? Who made this food?[Pause=3]
+Oh, [SpecialText0x14=0x39], huh[FreezeMouth]...?[UnfreezeMouth] I see[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_NABARL
+[SpecialText0x14][TargetRight][LoadPortrait=NABARL][FaceCommand=0x73][ClearBox][FreezeMouth]...[UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_NAGA
+[SpecialText0x14][TargetRight][LoadPortrait=NAGA][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+If you're here, then I'm sure[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_NIENA
+[SpecialText0x14][TargetRight][LoadPortrait=NIENA][FaceCommand=0x73][ClearBox]I'm somewhat curious about [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_NORN
+[SpecialText0x14][TargetRight][LoadPortrait=NORN][FaceCommand=0x73][ClearBox]What is this feelin'[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+I keep thinkin' about [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_OGUMA
+[SpecialText0x14][TargetRight][LoadPortrait=OGUMA][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39], huh[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Now that's a warrior with good battle sense.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_PAORA
+[SpecialText0x14][TargetRight][LoadPortrait=PAORA][FaceCommand=0x73][ClearBox]I can't help but worry about [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+Please don't push yourself too hard[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_PLAYER_PCF1
+[TargetRight][LoadPortrait=PLAYER][FaceCommand=0x73][ClearBox]I wonder about myself sometimes[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]Wait, what am I saying?[Pause=3]
+Sigh, I'll go train some more.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_PLAYER_PCM1
+[TargetRight][LoadPortrait=PLAYER][FaceCommand=0x73][ClearBox]I wonder about myself sometimes[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]Wait, what am I saying?[Pause=3]
+Sigh, I'll go train some more.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_RADEI
+[SpecialText0x14][TargetRight][LoadPortrait=RADEI][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39] kinda interests me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I should try talking to [SpecialText0x14=0x39].[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_RENA
+[SpecialText0x14][TargetRight][LoadPortrait=RENA][FaceCommand=0x73][ClearBox]I'm somewhat curious about [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_RICARD
+[SpecialText0x14][TargetRight][LoadPortrait=RICARD][FaceCommand=0x73][ClearBox]What? That's weird.[Pause=3]
+Why am I thinking about [SpecialText0x14=0x39][FreezeMouth]?[UnfreezeMouth][Pause=3]
+I only care about gold and Chief.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_RIFF
+[SpecialText0x14][TargetRight][LoadPortrait=RIFF][FaceCommand=0x73][ClearBox]I'm curious about [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+Perhaps because [SpecialText0x14=0x39] reminds me of the 
+the children in the monastery.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_RINDA
+[SpecialText0x14][TargetRight][LoadPortrait=RINDA][FaceCommand=0x73][ClearBox]I feel drawn to [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+I don't know why; it's a most mysterious
+feeling[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_ROBERTO
+[SpecialText0x14][TargetRight][LoadPortrait=ROBERTO][FaceCommand=0x73][ClearBox]I wonder if [SpecialText0x14=0x39][Pause=3] and I could talk?[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_RODY
+[SpecialText0x14][TargetRight][LoadPortrait=RODY][FaceCommand=0x73][ClearBox]I feel like talking to [SpecialText0x14=0x39].[Pause=3]
+I don't know why[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_ROJAR
+[SpecialText0x14][TargetRight][LoadPortrait=ROJAR][FaceCommand=0x73][ClearBox]I feel attracted to [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+Don't tell me this feeling is[FreezeMouth]...![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_ROOK
+[SpecialText0x14][TargetRight][LoadPortrait=ROOK][FaceCommand=0x73][ClearBox]Hmm[FreezeMouth]... [UnfreezeMouth]I'm curious[FreezeMouth]![UnfreezeMouth][Pause=3]
+I'm awfully curious about [SpecialText0x14=0x39][FreezeMouth]![UnfreezeMouth][Pause=3]
+I should investigate![A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_ROSHE
+[SpecialText0x14][TargetRight][LoadPortrait=ROSHE][FaceCommand=0x73][ClearBox]I feel drawn to [SpecialText0x14=0x39] for some reason[FreezeMouth]...[UnfreezeMouth][Pause=3]
+To feel like this towards somebody other
+than Coyote or my siblings is just[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_SAJI
+[SpecialText0x14][TargetRight][LoadPortrait=SAJI][FaceCommand=0x73][ClearBox]Is [SpecialText0x14=0x39] doing okay, I wonder?[Pause=3]
+It's frustratin', but I hafta admit they're
+amazin'.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_SAMSON
+[SpecialText0x14][TargetRight][LoadPortrait=SAMSON][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39], huh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I feel we share a lot in common as warriors.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_SAMTO
+[SpecialText0x14][TargetRight][LoadPortrait=SAMTO][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39], was it?[Pause=3]
+I'm all curious for some reason![A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_SEAZER
+[SpecialText0x14][TargetRight][LoadPortrait=SEAZER][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39] is the core of this army.
+That's the way I see it[FreezeMouth]...[UnfreezeMouth]
+I wonder how [SpecialText0x14=0x39] is doing[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_SHEEDA
+[SpecialText0x14][TargetRight][LoadPortrait=SHEEDA][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39][FreezeMouth], please be well...[UnfreezeMouth][Pause=3]
+You're Marth's precious guardian[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_SIMA
+[SpecialText0x14][TargetRight][LoadPortrait=SIMA][FaceCommand=0x73][ClearBox]Sigh, [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+If only my kingdom had knights like you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_SIRIUS
+[SpecialText0x14][TargetRight][LoadPortrait=SIRIUS][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39], huh[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Nice fighting.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_THORMAS
+[SpecialText0x14][TargetRight][LoadPortrait=THORMAS][FaceCommand=0x73][ClearBox]I wonder if [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3] would like to be my
+sparring target[FreezeMouth]...[UnfreezeMouth] I mean, buddy![A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_TIKI
+[TargetRight][LoadPortrait=TIKI][FaceCommand=0x73][ClearBox]I dreamed yesterday.[Pause=3]
+Of Mar-Mar[FreezeMouth]...[UnfreezeMouth][Pause=3]
+And Tar-Tar[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_TOMS
+[SpecialText0x14][TargetRight][LoadPortrait=TOMS][FaceCommand=0x73][ClearBox]What? How'd you do that?[FreezeMouth]![UnfreezeMouth][Pause=3]
+How'd you eat faster than me[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Oh, it's you, [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_WENDEL
+[SpecialText0x14][TargetRight][LoadPortrait=WENDEL][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39], huh[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Hmm[FreezeMouth]...[UnfreezeMouth] I see, I see[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_WOLEN
+[SpecialText0x14][TargetRight][LoadPortrait=WOLLEN][FaceCommand=0x73][ClearBox]I wonder about [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+How peculiar.[Pause=3]
+I've never cared about anyone before[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_WOLF
+[SpecialText0x14][TargetRight][LoadPortrait=WOLF][FaceCommand=0x73][ClearBox]I just can't contain my curiousity.[Pause=3]
+That Aritian knight[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[SpecialText0x14=0x39], was it[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_YUBERO
+[SpecialText0x14][TargetRight][LoadPortrait=YUBELLO][FaceCommand=0x73][ClearBox]If only I could become strong like [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_YUMINA
+[SpecialText0x14][TargetRight][LoadPortrait=YUMINA][FaceCommand=0x73][ClearBox]Hmm, [SpecialText0x14=0x39][FreezeMouth]...[UnfreezeMouth][Pause=3]
+[FaceCommand=0x61]Oh, er.[Pause=3]
+I-it's not like I care about you or anything[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MRC_TALK_RELIANCE_ZAGARO
+[SpecialText0x14][TargetRight][LoadPortrait=ZAGARO][FaceCommand=0x73][ClearBox][SpecialText0x14=0x39] interests me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I can't think of anyone more mysterious.[A][ClearBox][TargetRight][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+

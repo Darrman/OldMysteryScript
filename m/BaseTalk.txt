@@ -1,0 +1,1110 @@
+MBTK_T_001_1
+Kingdom of Grunia[X]
+
+MBTK_T_001_2
+Expeditionary forces[X]
+
+MBTK_T_002_1
+Kingdom of Macedonia[X]
+
+MBTK_T_002_OUTLINE
+Current status - Ch 2[X]
+
+MBTK_T_003_1
+Julian and Rena[X]
+
+MBTK_T_003_OUTLINE
+Current status - Ch 3[X]
+
+MBTK_T_004_1
+Sirius[X]
+
+MBTK_T_004_OUTLINE
+Current status - Ch 4[X]
+
+MBTK_T_005_1
+Ricardo[X]
+
+MBTK_T_005_2
+Barts[X]
+
+MBTK_T_005_OUTLINE
+Current status - Ch 5[X]
+
+MBTK_T_006_1
+Navarre[X]
+
+MBTK_T_006_OUTLINE
+Current status - Ch 6[X]
+
+MBTK_T_007_1
+Free Company[X]
+
+MBTK_T_007_OUTLINE
+Current status - Ch 7[X]
+
+MBTK_T_008_1
+George[X]
+
+MBTK_T_008_2
+Roger[X]
+
+MBTK_T_008_OUTLINE
+Current status - Ch 8[X]
+
+MBTK_T_009_1
+Khadein[X]
+
+MBTK_T_009_OUTLINE
+Current status - Ch 9[X]
+
+MBTK_T_010_1
+Ellerean[X]
+
+MBTK_T_010_OUTLINE
+Current status - Ch 10[X]
+
+MBTK_T_011_1
+Marich[X]
+
+MBTK_T_011_2
+Jake[X]
+
+MBTK_T_011_OUTLINE
+Current status - Ch 11[X]
+
+MBTK_T_012_1
+The Anri Saga[X]
+
+MBTK_T_012_OUTLINE
+Current status - Ch 12[X]
+
+MBTK_T_013_1
+Anri's Way[X]
+
+MBTK_T_013_OUTLINE
+Current status - Ch 13[X]
+
+MBTK_T_014_1
+Artemis's Curse[X]
+
+MBTK_T_014_OUTLINE
+Current status - Ch 14[X]
+
+MBTK_T_015_1
+Abel[X]
+
+MBTK_T_015_OUTLINE
+Current status - Ch 15[X]
+
+MBTK_T_016_1
+Astria[X]
+
+MBTK_T_016_OUTLINE
+Current status - Ch 16[X]
+
+MBTK_T_017_1
+Gra's troops[X]
+
+MBTK_T_017_OUTLINE
+Current status - Ch 17[X]
+
+MBTK_T_018_1
+The Wolfguard[X]
+
+MBTK_T_018_OUTLINE
+Current status - Ch 18[X]
+
+MBTK_T_019_1
+Wolfguard remnants[X]
+
+MBTK_T_019_OUTLINE
+Current status - Ch 19[X]
+
+MBTK_T_020_1
+Light Orb[X]
+
+MBTK_T_020_OUTLINE
+Current status - Ch 20[X]
+
+MBTK_T_021_1
+Mystery dragon knight[X]
+
+MBTK_T_021_OUTLINE
+Current status - Ch 21[X]
+
+MBTK_T_022_1
+The Dragon's Altar[X]
+
+MBTK_T_022_OUTLINE
+Current status - Ch 22[X]
+
+MBTK_T_023_1
+Garnef[X]
+
+MBTK_T_023_OUTLINE
+Current status - Ch 23[X]
+
+MBTK_T_024_1
+Maria[X]
+
+MBTK_T_024_2
+Nina[X]
+
+MBTK_T_024_3
+Ellis[X]
+
+MBTK_T_024_4
+Rena[X]
+
+MBTK_T_024_OUTLINE
+Current status - Ch 24[X]
+
+MBTK_T_103_OUTLINE
+Current status - Ch 3x[X]
+
+MBTK_T_106_OUTLINE
+Current status - Ch 6x[X]
+
+MBTK_T_110_OUTLINE
+Current status - Ch 10x[X]
+
+MBTK_T_113_OUTLINE
+Current status - Ch 13x[X]
+
+MBTK_T_116_OUTLINE
+Current status - Ch 16x[X]
+
+MBTK_T_120_OUTLINE
+Current status - Ch 20x[X]
+
+MBTK_T_206_1
+The Fire Emblem[X]
+
+MBTK_T_206_2
+New platoon member[X]
+
+MBTK_T_206_3
+[SpecialText0x14][SpecialText0x14=0x39][X]
+
+MBTK_T_207_1
+Kingdom of Akaneia[X]
+
+MBTK_T_207_2
+Cecil[X]
+
+MBTK_T_207_3
+Katarina[X]
+
+MBTK_T_207_4
+Marth[X]
+
+MBTK_T_208_1
+The enemy[X]
+
+MBTK_T_208_2
+The 7th platoon[X]
+
+MBTK_T_ABEL_A
+[SpecialText0x14]Abel and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_ABEL_B
+[SpecialText0x14]Abel and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_ABEL_C
+[SpecialText0x14]Abel and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_ABEL_EST_A
+Abel and Est ‚R[X]
+
+MBTK_T_ABEL_EST_B
+Abel and Est ‚Q[X]
+
+MBTK_T_ABEL_EST_C
+Abel and Est ‚P[X]
+
+MBTK_T_ARAN_A
+[SpecialText0x14]Alan and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_ARAN_B
+[SpecialText0x14]Alan and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_ARAN_C
+[SpecialText0x14]Alan and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_ASTRIA_A
+[SpecialText0x14]Astria and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_ASTRIA_B
+[SpecialText0x14]Astria and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_ASTRIA_C
+[SpecialText0x14]Astria and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_ASTRIA_JORJUE_A
+Astria and George ‚R[X]
+
+MBTK_T_ASTRIA_JORJUE_B
+Astria and George ‚Q[X]
+
+MBTK_T_ASTRIA_JORJUE_C
+Astria and George ‚P[X]
+
+MBTK_T_ASTRIA_MIDIA_A
+Astria and Midia ‚R[X]
+
+MBTK_T_ASTRIA_MIDIA_B
+Astria and Midia ‚Q[X]
+
+MBTK_T_ASTRIA_MIDIA_C
+Astria and Midia ‚P[X]
+
+MBTK_T_ATHENA_A
+[SpecialText0x14]Athena and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_ATHENA_B
+[SpecialText0x14]Athena and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_ATHENA_C
+[SpecialText0x14]Athena and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_BANUTU_A
+[SpecialText0x14]Banutu and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_BANUTU_B
+[SpecialText0x14]Banutu and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_BANUTU_C
+[SpecialText0x14]Banutu and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_BANUTU_TIKI_A
+Banutu and Chiki ‚R[X]
+
+MBTK_T_BANUTU_TIKI_B
+Banutu and Chiki ‚Q[X]
+
+MBTK_T_BANUTU_TIKI_C
+Banutu and Chiki ‚P[X]
+
+MBTK_T_BARTS_A
+[SpecialText0x14]Barts and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_BARTS_B
+[SpecialText0x14]Barts and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_BARTS_C
+[SpecialText0x14]Barts and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_BECK_A
+[SpecialText0x14]Beck and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_BECK_B
+[SpecialText0x14]Beck and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_BECK_C
+[SpecialText0x14]Beck and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_BELF_A
+[SpecialText0x14]Belf and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_BELF_B
+[SpecialText0x14]Belf and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_BELF_C
+[SpecialText0x14]Belf and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_BIRAKU_A
+[SpecialText0x14]Biraku and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_BIRAKU_B
+[SpecialText0x14]Biraku and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_BIRAKU_C
+[SpecialText0x14]Biraku and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_CECIL_A
+[SpecialText0x14]Cecil and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_CECIL_B
+[SpecialText0x14]Cecil and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_CECIL_C
+[SpecialText0x14]Cecil and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_CHEINE_A
+[SpecialText0x14]Chainy and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_CHEINE_B
+[SpecialText0x14]Chainy and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_CHEINE_C
+[SpecialText0x14]Chainy and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_DAROSS_A
+[SpecialText0x14]Daros and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_DAROSS_B
+[SpecialText0x14]Daros and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_DAROSS_C
+[SpecialText0x14]Daros and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_DICE_A
+[SpecialText0x14]Dice and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_DICE_B
+[SpecialText0x14]Dice and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_DICE_C
+[SpecialText0x14]Dice and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_DICE_MARIS_A
+Dice and Maris ‚R[X]
+
+MBTK_T_DICE_MARIS_B
+Dice and Maris ‚Q[X]
+
+MBTK_T_DICE_MARIS_C
+Dice and Maris ‚P[X]
+
+MBTK_T_DOHGA_A
+[SpecialText0x14]Doga and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_DOHGA_B
+[SpecialText0x14]Doga and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_DOHGA_C
+[SpecialText0x14]Doga and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_ELREAN_A
+[SpecialText0x14]Ellerean and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_ELREAN_B
+[SpecialText0x14]Ellerean and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_ELREAN_C
+[SpecialText0x14]Ellerean and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_EST_A
+[SpecialText0x14]Est and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_EST_B
+[SpecialText0x14]Est and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_EST_C
+[SpecialText0x14]Est and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_ETZEL_A
+[SpecialText0x14]Etzel and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_ETZEL_B
+[SpecialText0x14]Etzel and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_ETZEL_C
+[SpecialText0x14]Etzel and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_FINA_A
+[SpecialText0x14]Feena and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_FINA_B
+[SpecialText0x14]Feena and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_FINA_C
+[SpecialText0x14]Feena and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_FREY_A
+[SpecialText0x14]Frey and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_FREY_B
+[SpecialText0x14]Frey and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_FREY_C
+[SpecialText0x14]Frey and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_FROST_A
+[SpecialText0x14]Frost and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_FROST_B
+[SpecialText0x14]Frost and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_FROST_C
+[SpecialText0x14]Frost and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_GOHDON_A
+[SpecialText0x14]Gordon and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_GOHDON_B
+[SpecialText0x14]Gordon and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_GOHDON_C
+[SpecialText0x14]Gordon and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_GOHDON_JORJUE_A
+Gordon and George ‚R[X]
+
+MBTK_T_GOHDON_JORJUE_B
+Gordon and George ‚Q[X]
+
+MBTK_T_GOHDON_JORJUE_C
+Gordon and George ‚P[X]
+
+MBTK_T_GOHDON_LIAN_A
+Gordon and Ryan ‚R[X]
+
+MBTK_T_GOHDON_LIAN_B
+Gordon and Ryan ‚Q[X]
+
+MBTK_T_GOHDON_LIAN_C
+Gordon and Ryan ‚P[X]
+
+MBTK_T_HORUS_A
+[SpecialText0x14]Horace and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_HORUS_B
+[SpecialText0x14]Horace and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_HORUS_C
+[SpecialText0x14]Horace and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_HYMIR_A
+[SpecialText0x14]Ymir and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_HYMIR_B
+[SpecialText0x14]Ymir and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_HYMIR_C
+[SpecialText0x14]Ymir and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_JEIK_A
+[SpecialText0x14]Jake and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_JEIK_B
+[SpecialText0x14]Jake and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_JEIK_C
+[SpecialText0x14]Jake and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_JORJUE_A
+[SpecialText0x14]George and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_JORJUE_B
+[SpecialText0x14]George and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_JORJUE_C
+[SpecialText0x14]George and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_JURIAN_A
+[SpecialText0x14]Julian and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_JURIAN_B
+[SpecialText0x14]Julian and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_JURIAN_C
+[SpecialText0x14]Julian and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_JURIAN_RICARD_A
+Julian and Ricardo ‚R[X]
+
+MBTK_T_JURIAN_RICARD_B
+Julian and Ricardo ‚Q[X]
+
+MBTK_T_JURIAN_RICARD_C
+Julian and Ricardo ‚P[X]
+
+MBTK_T_KAIN_A
+[SpecialText0x14]Kain and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_KAIN_B
+[SpecialText0x14]Kain and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_KAIN_C
+[SpecialText0x14]Kain and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_KASHIM_A
+[SpecialText0x14]Kashim and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_KASHIM_B
+[SpecialText0x14]Kashim and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_KASHIM_C
+[SpecialText0x14]Kashim and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_KATARINA_A
+[SpecialText0x14]Katarina and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_KATARINA_B
+[SpecialText0x14]Katarina and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_KATARINA_C
+[SpecialText0x14]Katarina and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_KATARINA_CECIL_A
+Katarina and Cecil ‚R[X]
+
+MBTK_T_KATARINA_CECIL_B
+Katarina and Cecil ‚Q[X]
+
+MBTK_T_KATARINA_CECIL_C
+Katarina and Cecil ‚P[X]
+
+MBTK_T_KATUA_A
+[SpecialText0x14]Katua and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_KATUA_B
+[SpecialText0x14]Katua and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_KATUA_C
+[SpecialText0x14]Katua and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_KATUA_EST_A
+Katua and Est ‚R[X]
+
+MBTK_T_KATUA_EST_B
+Katua and Est ‚Q[X]
+
+MBTK_T_KATUA_EST_C
+Katua and Est ‚P[X]
+
+MBTK_T_LEIDEN_A
+[SpecialText0x14]Leiden and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_LEIDEN_B
+[SpecialText0x14]Leiden and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_LEIDEN_C
+[SpecialText0x14]Leiden and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_LIAN_A
+[SpecialText0x14]Ryan and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_LIAN_B
+[SpecialText0x14]Ryan and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_LIAN_C
+[SpecialText0x14]Ryan and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_MAJI_A
+[SpecialText0x14]Maji and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_MAJI_B
+[SpecialText0x14]Maji and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_MAJI_C
+[SpecialText0x14]Maji and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_MARICH_A
+[SpecialText0x14]Marich and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_MARICH_B
+[SpecialText0x14]Marich and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_MARICH_C
+[SpecialText0x14]Marich and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_MARICH_RINDA_A
+Marich and Linda ‚R[X]
+
+MBTK_T_MARICH_RINDA_B
+Marich and Linda ‚Q[X]
+
+MBTK_T_MARICH_RINDA_C
+Marich and Linda ‚P[X]
+
+MBTK_T_MARICIA_A
+[SpecialText0x14]Malliesia and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_MARICIA_B
+[SpecialText0x14]Malliesia and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_MARICIA_C
+[SpecialText0x14]Malliesia and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_MARIS_A
+[SpecialText0x14]Maris and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_MARIS_B
+[SpecialText0x14]Maris and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_MARIS_C
+[SpecialText0x14]Maris and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_MARS_A
+[SpecialText0x14]Marth and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_MARS_B
+[SpecialText0x14]Marth and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_MARS_C
+[SpecialText0x14]Marth and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_MARS_SHEEDA_A
+Marth and Sheeda ‚R[X]
+
+MBTK_T_MARS_SHEEDA_B
+Marth and Sheeda ‚Q[X]
+
+MBTK_T_MARS_SHEEDA_C
+Marth and Sheeda ‚P[X]
+
+MBTK_T_MATIS_A
+[SpecialText0x14]Machis and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_MATIS_B
+[SpecialText0x14]Machis and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_MATIS_C
+[SpecialText0x14]Machis and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_MIDIA_A
+[SpecialText0x14]Midia and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_MIDIA_B
+[SpecialText0x14]Midia and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_MIDIA_C
+[SpecialText0x14]Midia and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_MINERBA_A
+[SpecialText0x14]Minerva and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_MINERBA_B
+[SpecialText0x14]Minerva and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_MINERBA_C
+[SpecialText0x14]Minerva and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_MINERBA_EST_A
+Minerva and Est ‚R[X]
+
+MBTK_T_MINERBA_EST_B
+Minerva and Est ‚Q[X]
+
+MBTK_T_MINERBA_EST_C
+Minerva and Est ‚P[X]
+
+MBTK_T_MINERBA_KATUA_A
+Minerva and Katua ‚R[X]
+
+MBTK_T_MINERBA_KATUA_B
+Minerva and Katua ‚Q[X]
+
+MBTK_T_MINERBA_KATUA_C
+Minerva and Katua ‚P[X]
+
+MBTK_T_MINERBA_PAORA_A
+Minerva and Paola ‚R[X]
+
+MBTK_T_MINERBA_PAORA_B
+Minerva and Paola ‚Q[X]
+
+MBTK_T_MINERBA_PAORA_C
+Minerva and Paola ‚P[X]
+
+MBTK_T_MISHEIL_C
+[SpecialText0x14]Misheil and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_MISHEIL_MINERBA_C
+Misheil and Minerva ‚P[X]
+
+MBTK_T_MISHRAN_A
+[SpecialText0x14]Mishelan and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_MISHRAN_B
+[SpecialText0x14]Mishelan and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_MISHRAN_C
+[SpecialText0x14]Mishelan and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_NABARL_A
+[SpecialText0x14]Navarre and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_NABARL_B
+[SpecialText0x14]Navarre and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_NABARL_C
+[SpecialText0x14]Navarre and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_NABARL_FINA_A
+Navarre and Feena ‚R[X]
+
+MBTK_T_NABARL_FINA_B
+Navarre and Feena ‚Q[X]
+
+MBTK_T_NABARL_FINA_C
+Navarre and Feena ‚P[X]
+
+MBTK_T_NAGA_A
+[SpecialText0x14]Nagi and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_NAGA_B
+[SpecialText0x14]Nagi and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_NAGA_C
+[SpecialText0x14]Nagi and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_NORN_A
+[SpecialText0x14]Norne and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_NORN_B
+[SpecialText0x14]Norne and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_NORN_C
+[SpecialText0x14]Norne and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_OGUMA_A
+[SpecialText0x14]Oguma and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_OGUMA_B
+[SpecialText0x14]Oguma and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_OGUMA_C
+[SpecialText0x14]Oguma and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_PAORA_A
+[SpecialText0x14]Paola and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_PAORA_B
+[SpecialText0x14]Paola and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_PAORA_C
+[SpecialText0x14]Paola and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_PAORA_EST_A
+Paola and Est ‚R[X]
+
+MBTK_T_PAORA_EST_B
+Paola and Est ‚Q[X]
+
+MBTK_T_PAORA_EST_C
+Paola and Est ‚P[X]
+
+MBTK_T_PAORA_KATUA_A
+Paola and Katua ‚R[X]
+
+MBTK_T_PAORA_KATUA_B
+Paola and Katua ‚Q[X]
+
+MBTK_T_PAORA_KATUA_C
+Paola and Katua ‚P[X]
+
+MBTK_T_RADEI_A
+[SpecialText0x14]Raddy and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_RADEI_B
+[SpecialText0x14]Raddy and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_RADEI_C
+[SpecialText0x14]Raddy and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_RICARD_A
+[SpecialText0x14]Ricardo and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_RICARD_B
+[SpecialText0x14]Ricardo and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_RICARD_C
+[SpecialText0x14]Ricardo and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_RIFF_A
+[SpecialText0x14]Riff and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_RIFF_B
+[SpecialText0x14]Riff and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_RIFF_C
+[SpecialText0x14]Riff and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_RINDA_A
+[SpecialText0x14]Linda and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_RINDA_B
+[SpecialText0x14]Linda and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_RINDA_C
+[SpecialText0x14]Linda and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_ROBERTO_A
+[SpecialText0x14]Robert and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_ROBERTO_B
+[SpecialText0x14]Robert and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_ROBERTO_C
+[SpecialText0x14]Robert and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_ROBERTO_LEIDEN_A
+Robert and Leiden ‚R[X]
+
+MBTK_T_ROBERTO_LEIDEN_B
+Robert and Leiden ‚Q[X]
+
+MBTK_T_ROBERTO_LEIDEN_C
+Robert and Leiden ‚P[X]
+
+MBTK_T_RODY_A
+[SpecialText0x14]Rody and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_RODY_B
+[SpecialText0x14]Rody and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_RODY_C
+[SpecialText0x14]Rody and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_RODY_CECIL_A
+Rody and Cecil ‚R[X]
+
+MBTK_T_RODY_CECIL_B
+Rody and Cecil ‚Q[X]
+
+MBTK_T_RODY_CECIL_C
+Rody and Cecil ‚P[X]
+
+MBTK_T_ROJAR_A
+[SpecialText0x14]Roger and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_ROJAR_B
+[SpecialText0x14]Roger and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_ROJAR_C
+[SpecialText0x14]Roger and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_ROOK_A
+[SpecialText0x14]Luke and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_ROOK_B
+[SpecialText0x14]Luke and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_ROOK_C
+[SpecialText0x14]Luke and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_ROOK_RODY_A
+Luke and Rody ‚R[X]
+
+MBTK_T_ROOK_RODY_B
+Luke and Rody ‚Q[X]
+
+MBTK_T_ROOK_RODY_C
+Luke and Rody ‚P[X]
+
+MBTK_T_ROSHE_A
+[SpecialText0x14]Roshe and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_ROSHE_B
+[SpecialText0x14]Roshe and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_ROSHE_BIRAKU_C
+Roshe and Biraku ‚P[X]
+
+MBTK_T_ROSHE_C
+[SpecialText0x14]Roshe and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_SAJI_A
+[SpecialText0x14]Saji and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_SAJI_B
+[SpecialText0x14]Saji and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_SAJI_C
+[SpecialText0x14]Saji and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_SAJI_MAJI_A
+Saji and Maji ‚R[X]
+
+MBTK_T_SAJI_MAJI_B
+Saji and Maji ‚Q[X]
+
+MBTK_T_SAJI_MAJI_C
+Saji and Maji ‚P[X]
+
+MBTK_T_SAMSON_A
+[SpecialText0x14]Samson and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_SAMSON_B
+[SpecialText0x14]Samson and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_SAMSON_C
+[SpecialText0x14]Samson and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_SAMSON_SIMA_A
+Samson and Sheema ‚R[X]
+
+MBTK_T_SAMSON_SIMA_B
+Samson and Sheema ‚Q[X]
+
+MBTK_T_SAMSON_SIMA_C
+Samson and Sheema ‚P[X]
+
+MBTK_T_SAMTO_A
+[SpecialText0x14]Samto and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_SAMTO_B
+[SpecialText0x14]Samto and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_SAMTO_C
+[SpecialText0x14]Samto and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_SEAZER_A
+[SpecialText0x14]Caesar and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_SEAZER_B
+[SpecialText0x14]Caesar and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_SEAZER_C
+[SpecialText0x14]Caesar and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_SEAZER_RADEI_A
+Caesar and Raddy ‚R[X]
+
+MBTK_T_SEAZER_RADEI_B
+Caesar and Raddy ‚Q[X]
+
+MBTK_T_SEAZER_RADEI_C
+Caesar and Raddy ‚P[X]
+
+MBTK_T_SHEEDA_A
+[SpecialText0x14]Sheeda and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_SHEEDA_B
+[SpecialText0x14]Sheeda and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_SHEEDA_C
+[SpecialText0x14]Sheeda and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_SHEEDA_MARICIA_A
+Sheeda and Malliesia ‚R[X]
+
+MBTK_T_SHEEDA_MARICIA_B
+Sheeda and Malliesia ‚Q[X]
+
+MBTK_T_SHEEDA_MARICIA_C
+Sheeda and Malliesia ‚P[X]
+
+MBTK_T_SHEEDA_OGUMA_A
+Sheeda and Oguma ‚R[X]
+
+MBTK_T_SHEEDA_OGUMA_B
+Sheeda and Oguma ‚Q[X]
+
+MBTK_T_SHEEDA_OGUMA_C
+Sheeda and Oguma ‚P[X]
+
+MBTK_T_SIMA_A
+[SpecialText0x14]Sheema and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_SIMA_B
+[SpecialText0x14]Sheema and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_SIMA_C
+[SpecialText0x14]Sheema and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_SIRIUS_A
+[SpecialText0x14]Sirius and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_SIRIUS_B
+[SpecialText0x14]Sirius and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_SIRIUS_BELF_A
+Sirius and Belf ‚R[X]
+
+MBTK_T_SIRIUS_BELF_B
+Sirius and Belf ‚Q[X]
+
+MBTK_T_SIRIUS_BELF_C
+Sirius and Belf ‚P[X]
+
+MBTK_T_SIRIUS_C
+[SpecialText0x14]Sirius and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_THORMAS_A
+[SpecialText0x14]Thomas and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_THORMAS_B
+[SpecialText0x14]Thomas and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_THORMAS_C
+[SpecialText0x14]Thomas and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_TIKI_A
+[SpecialText0x14]Chiki and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_TIKI_B
+[SpecialText0x14]Chiki and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_TIKI_C
+[SpecialText0x14]Chiki and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_TOMS_A
+[SpecialText0x14]Tomth and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_TOMS_B
+[SpecialText0x14]Tomth and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_TOMS_C
+[SpecialText0x14]Tomth and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_WENDEL_A
+[SpecialText0x14]Wendel and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_WENDEL_B
+[SpecialText0x14]Wendel and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_WENDEL_C
+[SpecialText0x14]Wendel and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_WOLEN_A
+[SpecialText0x14]Warren and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_WOLEN_B
+[SpecialText0x14]Warren and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_WOLEN_C
+[SpecialText0x14]Warren and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_WOLF_A
+[SpecialText0x14]Wolf and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_WOLF_B
+[SpecialText0x14]Wolf and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_WOLF_C
+[SpecialText0x14]Wolf and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_WOLF_ZAGARO_C
+Wolf and Zagaro ‚P[X]
+
+MBTK_T_YUBERO_A
+[SpecialText0x14]Yubello and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_YUBERO_B
+[SpecialText0x14]Yubello and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_YUBERO_C
+[SpecialText0x14]Yubello and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_YUMINA_A
+[SpecialText0x14]Yumina and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_YUMINA_B
+[SpecialText0x14]Yumina and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_YUMINA_C
+[SpecialText0x14]Yumina and [SpecialText0x14=0x39] ‚P[X]
+
+MBTK_T_YUMINA_YUBERO_A
+Yumina and Yubello ‚R[X]
+
+MBTK_T_YUMINA_YUBERO_B
+Yumina and Yubello ‚Q[X]
+
+MBTK_T_YUMINA_YUBERO_C
+Yumina and Yubello ‚P[X]
+
+MBTK_T_ZAGARO_A
+[SpecialText0x14]Zagaro and [SpecialText0x14=0x39] ‚R[X]
+
+MBTK_T_ZAGARO_B
+[SpecialText0x14]Zagaro and [SpecialText0x14=0x39] ‚Q[X]
+
+MBTK_T_ZAGARO_C
+[SpecialText0x14]Zagaro and [SpecialText0x14=0x39] ‚P[X]
+

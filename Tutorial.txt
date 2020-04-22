@@ -1,0 +1,538 @@
+MTUTB_001
+[TextColour=0x4]Highlight a unit[TextColour=0x1] and [TextColour=0x4]press 陀曼[TextColour=0x1] to display
+the unit's blue movement range.
+[TextColour=0x4]Select a space[TextColour=0x1] within this range,
+then [TextColour=0x4]press 陀曼[TextColour=0x1] to move there.
+You can also move with the stylus.[X]
+
+MTUTB_002
+[TextColour=0x4]Touch a unit[TextColour=0x1], then [TextColour=0x4]touch a space[TextColour=0x1] within the
+unit's blue movement range to move there-
+or you can [TextColour=0x4]slide the stylus[TextColour=0x1] if you prefer to
+chart a specific path to your destination.
+You can also move with the buttons.[X]
+
+MTUTB_003
+After you move your unit, a menu appears
+with options such as [TextColour=0x4]Wait[TextColour=0x1], [TextColour=0x4]Attack[TextColour=0x1] or [TextColour=0x4]Items[TextColour=0x1].
+Highlight a command and press 陀曼 to
+confirm your choice - or you can just
+touch the command with the stylus.[X]
+
+MTUTB_004
+[TextColour=0x4]While moving[TextColour=0x1], you can also [TextColour=0x4]select a target[TextColour=0x1]
+to attack. Highlight an enemy and [TextColour=0x4]press 陀曼[TextColour=0x1]
+to display the combat forecast, then [TextColour=0x4]press
+陀曼 again[TextColour=0x1] to enter combat.
+You can also select a target with the stylus.[X]
+
+MTUTB_005
+[TextColour=0x4]While moving[TextColour=0x1], you can also [TextColour=0x4]select a target[TextColour=0x1]
+to attack. [TextColour=0x4]Touch an enemy[TextColour=0x1] to display the
+combat forecast, then [TextColour=0x4]touch the enemy again[TextColour=0x1]
+to enter combat. You can also select a
+target with the buttons.[X]
+
+MTUTB_006
+Units armed with bows can strike from [TextColour=0x4]two
+spaces away[TextColour=0x1]. However, they cannot attack
+from adjacent spaces.[X]
+
+MTUTB_007
+Units armed with magic tomes can attack
+enemies in [TextColour=0x4]adjacent spaces[TextColour=0x1] as well as
+those [TextColour=0x4]two spaces away[TextColour=0x1].[X]
+
+MTUTB_008
+[TextColour=0x4]Some weapons[TextColour=0x1] deal [TextColour=0x4]more damage[TextColour=0x1] than usual
+when wielded against certain units.
+[TextColour=0x4]The bow[TextColour=0x1], for example, will make quick work
+of [TextColour=0x4]pegasus knights and dracoknights[TextColour=0x1].[X]
+
+MTUTB_009
+Weapons possess a unique hierarchy:
+[TextColour=0x3]Swords[TextColour=0x1] best [TextColour=0x2]axes[TextColour=0x1].
+[TextColour=0x2]Axes[TextColour=0x1] best [TextColour=0x4]lances[TextColour=0x1].
+[TextColour=0x4]Lances[TextColour=0x1] best [TextColour=0x3]swords[TextColour=0x1].
+This is called the weapon triangle.[X]
+
+MTUTB_010
+Keys can open [TextColour=0x4]doors[TextColour=0x1], lower [TextColour=0x4]drawbridges[TextColour=0x1], or
+open [TextColour=0x4]chests[TextColour=0x1]- depending on the type of key.[X]
+
+MTUTB_011
+When units move, [TextColour=0x4]terrain[TextColour=0x1] affects how [TextColour=0x4]far
+they can travel[TextColour=0x1]. Some units can [TextColour=0x4]pass
+through terrain others cannot[TextColour=0x1]- pirates can
+move through water, for example, while
+mountains halt cavaliers in their tracks.[X]
+
+MTUTB_012
+[TextColour=0x4]Units positioned[TextColour=0x1] in forests, mountains, or
+the sea have a better chance of [TextColour=0x4]avoiding
+enemy attack[TextColour=0x1]. Castle gates, thrones, and
+forts provide a [TextColour=0x4]defensive boost[TextColour=0x1]
+and [TextColour=0x4]restore HP[TextColour=0x1] each turn.[X]
+
+MTUTB_013
+A panel with [TextColour=0x4]helpful combat information[TextColour=0x1]
+appears before you; [TextColour=0x4]attack[TextColour=0x1] an enemy unit.[X]
+
+MTUTB_014
+Items like vulneraries can be used by
+selecting the [TextColour=0x4]Items[TextColour=0x1] command, followed
+by the item's name, then [TextColour=0x4]Use[TextColour=0x1].
+[TextColour=0x4]Items displayed in grey cannot be used[TextColour=0x1].[X]
+
+MTUTB_015
+Surplus weapons and items can be discarded
+by selecting the [TextColour=0x4]Items[TextColour=0x1] command, followed
+by the item's name, then [TextColour=0x4]Drop[TextColour=0x1].
+[TextColour=0x4]Discarded items are gone for good[TextColour=0x1].
+(Some items may not be discarded.)[X]
+
+MTUTB_016
+[TextColour=0x4]Move next to[TextColour=0x1] an ally and select the [TextColour=0x4]Trade[TextColour=0x1]
+command to exchange items.[X]
+
+MTUTB_017
+Move [TextColour=0x4]Marth[TextColour=0x1] onto a [TextColour=0x4]village[TextColour=0x1] and select the
+[TextColour=0x4]Visit[TextColour=0x1] command to pay its residents a visit.
+You might be able to obtain valuable [TextColour=0x4]items[TextColour=0x1]
+or even meet new [TextColour=0x4]allies[TextColour=0x1].[X]
+
+MTUTB_018
+Curates and clerics wield [TextColour=0x4]staves[TextColour=0x1].
+With the right staff, you can [TextColour=0x4]restore HP[TextColour=0x1]
+to allies, or even transport them to
+another location.[X]
+
+MTUTB_020
+To [TextColour=0x4]clear the map[TextColour=0x1], move [TextColour=0x4]Marth[TextColour=0x1] onto the
+[TextColour=0x4]yellow space[TextColour=0x1] and choose [TextColour=0x4]Seize[TextColour=0x1].[X]
+
+MTUTB_021
+Some classes have special abilities unique to
+that class. Thieves, for example, can open
+[TextColour=0x4]doors[TextColour=0x1] or [TextColour=0x4]chests[TextColour=0x1] without the [TextColour=0x4]use of items[TextColour=0x1].[X]
+
+MTUTB_022
+After a unit moves, select [TextColour=0x4]Wait[TextColour=0x1] from the
+menu that appears or [TextColour=0x4]touch the unit[TextColour=0x1] to end
+the unit's turn. Before ending the unit's turn,
+you can also [TextColour=0x4]press ・・[TextColour=0x1] or [TextColour=0x4]touch the B icon[TextColour=0x1]
+at the top of the screen to [TextColour=0x4]cancel the move[TextColour=0x1].[X]
+
+MTUTB_023
+Ballisticians can use siege weapons to
+[TextColour=0x4]strike enemies a great distance away[TextColour=0x1].[X]
+
+MTUTB_024
+From this screen, you can make
+[TextColour=0x4]preparations[TextColour=0x1] before going into battle.[X]
+
+MTUTB_025
+During preparations, you have the option of
+[TextColour=0x4]changing a unit's class[TextColour=0x1]- but there are limits.[X]
+
+MTUTB_026
+You (blue) and the enemy (red) [TextColour=0x4]take turns[TextColour=0x1]
+to progress the game. To end your turn,
+either [TextColour=0x4]move all of your units[TextColour=0x1], or select
+[TextColour=0x4]End[TextColour=0x1] from the Map Menu.[X]
+
+MTUTB_027
+[SpecialText0x14]If the enemy reduces a unit's [TextColour=0x4]HP to zero[TextColour=0x1],
+that unit will be [TextColour=0x4]removed from the game[TextColour=0x1].
+Lost units [TextColour=0x4]cannot be used[TextColour=0x1] after that point.
+If [TextColour=0x4]Marth[TextColour=0x1] or [TextColour=0x4][SpecialText0x14=0x39][TextColour=0x1]'s HP runs out,
+it's [TextColour=0x4]game over[TextColour=0x1].[X]
+
+MTUTB_028
+Highlight a [TextColour=0x4]space not occupied by a unit[TextColour=0x1] and
+[TextColour=0x4]press 陀曼[TextColour=0x1] or, if you are using the stylus,
+[TextColour=0x4]touch the A icon[TextColour=0x1] to display the [TextColour=0x4]Map Menu[TextColour=0x1].
+From here, you can suspend the game,
+adjust game options, or end your turn.[X]
+
+MTUTB_029
+Items shown in [TextColour=0x4]green text[TextColour=0x1] in the enemy status
+window are [TextColour=0x4]yours[TextColour=0x1] if you [TextColour=0x4]defeat that foe[TextColour=0x1].[X]
+
+MTUTB_030
+Sometimes [TextColour=0x4]enemy reinforcements[TextColour=0x1] will appear
+during battle. You can [TextColour=0x4]stop this[TextColour=0x1] from
+happening by [TextColour=0x4]placing a unit[TextColour=0x1] on the space
+from which they emerge.[X]
+
+MTUTB_031
+Move to the savepoint on the map and
+select [TextColour=0x4]Save[TextColour=0x1] to [TextColour=0x4]save your progress[TextColour=0x1].
+Each savepoint can only be used once.[X]
+
+MTUTB_032
+The convoy allows you to [TextColour=0x4]store items[TextColour=0x1] for
+[TextColour=0x4]later retrieval[TextColour=0x1]. The convoy can be
+accessed from the [TextColour=0x4]Inventory[TextColour=0x1] before
+battle. Also, [TextColour=0x4]Marth[TextColour=0x1] or units [TextColour=0x4]adjacent
+to Marth[TextColour=0x1] can use the convoy on the map.[X]
+
+MTUTB_033
+Use the buttons above to [TextColour=0x4]toggle the upper
+display[TextColour=0x1] or [TextColour=0x4]view an enemy's attack range[TextColour=0x1].[X]
+
+MTUTB_034
+[TextColour=0x4]Press ┳┫[TextColour=0x1] to show the [TextColour=0x4]attack range for all
+enemies at once[TextColour=0x1].[X]
+
+MTUTB_035
+Press SELECT to [TextColour=0x4]analyze a unit's
+inventory[TextColour=0x1]. Press ・・ on an unoccupied
+space to move the cursor to a [TextColour=0x4]unit
+who has yet to move[TextColour=0x1]. Press ・・ on an
+[TextColour=0x4]enemy[TextColour=0x1] to move to the [TextColour=0x4]next enemy[TextColour=0x1].[X]
+
+MTUTB_036
+Certain staves have the word [TextColour=0x4]Special[TextColour=0x1] in their
+item description. These staves have unique and
+powerful effects- to use them, select the
+[TextColour=0x4]Special[TextColour=0x1] command after moving a unit.[X]
+
+MTUTB_037
+Dancers have a special ability called [TextColour=0x4]Dance[TextColour=0x1].
+When used, it allows an [TextColour=0x4]adjacent[TextColour=0x1] unit that
+has ended its turn to have [TextColour=0x4]another turn[TextColour=0x1].[X]
+
+MTUTB_038
+The [TextColour=0x4]Imitate[TextColour=0x1] command triggers a special ability.
+For [TextColour=0x4]5 turns[TextColour=0x1], the user [TextColour=0x4]copies the appearance
+and attributes[TextColour=0x1] of an [TextColour=0x4]adjacent[TextColour=0x1] unit.
+There are some units that cannot be copied.[X]
+
+MTUTD_BATTLEINFO
+When you target an enemy, the 
+[TextColour=0x4]Combat Forecast[TextColour=0x1] is displayed,
+showing information such as the
+attack's [TextColour=0x4]accuracy[TextColour=0x1] and [TextColour=0x4]damage[TextColour=0x1].
+You can also see if your unit has
+an [TextColour=0x4]advantage[TextColour=0x1] or [TextColour=0x4]disadvantage[TextColour=0x1].[X]
+
+MTUTD_COMPLETE
+To [TextColour=0x4]clear[TextColour=0x1] this map, you need to [TextColour=0x4]Seize[TextColour=0x1].
+Please move [TextColour=0x4]Marth[TextColour=0x1] to the [TextColour=0x4]yellow space[TextColour=0x1]
+and select the Seize command.[X]
+
+MTUTD_DANCE
+Feena has the ability to [TextColour=0x4]Dance[TextColour=0x1].
+Move her next to a unit that has
+ended their turn and select the
+Dance command to give that unit
+[TextColour=0x4]another turn[TextColour=0x1].[X]
+
+MTUTD_DANGER
+[TextColour=0x4]Press ┳┫[TextColour=0x1] to display the [TextColour=0x4]attack range
+of all enemies at once[TextColour=0x1]. This feature
+is useful if you want to lure enemies
+or when you need to find a safe place
+to rest. To disable this feature,
+just press ┳┫ again.[X]
+
+MTUTD_DEADLOCK
+This map includes enemies who wield
+[TextColour=0x4]swords[TextColour=0x1] and [TextColour=0x4]axes[TextColour=0x1]. Use [TextColour=0x4]lances[TextColour=0x1] when
+facing enemies equipped with swords,
+[TextColour=0x4]swords[TextColour=0x1] against enemies with axes
+and your battles will become easier.[X]
+
+MTUTD_DROP
+Items shown in [TextColour=0x4]green text[TextColour=0x1] can be
+[TextColour=0x4]obtained[TextColour=0x1] by [TextColour=0x4]defeating the enemy[TextColour=0x1].[X]
+
+MTUTD_EKE_INDIRECT
+[SpecialText0x14][SpecialText0x14=0x39] is capable of wielding [TextColour=0x4]bows[TextColour=0x1],
+which can [TextColour=0x4]attack[TextColour=0x1] from [TextColour=0x4]two spaces away[TextColour=0x1].[X]
+
+MTUTD_EKE_MAGIC
+[SpecialText0x14][SpecialText0x14=0x39] is capable of wielding [TextColour=0x4]magic tomes[TextColour=0x1],
+which can [TextColour=0x4]attack[TextColour=0x1] from [TextColour=0x4]two spaces away[TextColour=0x1].[X]
+
+MTUTD_ICON
+The current control method is Auto.
+[TextColour=0x4]Stylus[TextColour=0x1]: the [TextColour=0x4]Touch buttons[TextColour=0x1] will always
+be displayed on the [TextColour=0x4]touch screen[TextColour=0x1].
+[TextColour=0x4]Buttons[TextColour=0x1]: Touch buttons [TextColour=0x4]not displayed[TextColour=0x1].
+To change the control method,
+select [TextColour=0x4]Options[TextColour=0x1] from the Map Menu.[X]
+
+MTUTD_INDIRECT
+Ryan can wield [TextColour=0x4]bows[TextColour=0x1]. Bows cannot
+strike adjacent spaces, but they
+can [TextColour=0x4]attack[TextColour=0x1] from [TextColour=0x4]two spaces away[TextColour=0x1].[X]
+
+MTUTD_ITEM
+Also, you may want to use [TextColour=0x4]items[TextColour=0x1]
+on this map. Staff wielders cannot
+use staves on themselves, so if
+Wrys takes damage, use a [TextColour=0x4]vulnerary[TextColour=0x1]
+to [TextColour=0x4]restore HP[TextColour=0x1].[X]
+
+MTUTD_LESSON
+As the game progresses,
+[TextColour=0x4]game-play tutorials[TextColour=0x1] will be
+displayed on the [TextColour=0x4]top screen[TextColour=0x1].
+To review past tutorials, select
+[TextColour=0x4]Tutorial[TextColour=0x1] from the [TextColour=0x4]Map Menu[TextColour=0x1].[X]
+
+MTUTD_LONGRANGE
+[TextColour=0x4]Ballisticians[TextColour=0x1] possess a [TextColour=0x4]wide range
+of attack[TextColour=0x1]. As a Ballistician's
+attack cannot be countered, it would
+be best to stay clear of their attack
+range or quickly dispose of them.[X]
+
+MTUTD_LOST
+When a unit's [TextColour=0x4]HP reaches zero[TextColour=0x1], that
+unit will be [TextColour=0x4]removed from the game[TextColour=0x1].
+Plan accordingly to prevent a unit's
+HP from dropping to zero by
+retreating units with low HP to the
+backline or by restoring their HP.[X]
+
+MTUTD_MAGIC
+Merric is capable of wielding
+[TextColour=0x4]magic tomes[TextColour=0x1]. Magic tomes can attack
+enemies in [TextColour=0x4]adjacent spaces[TextColour=0x1], as well
+as those [TextColour=0x4]two spaces away[TextColour=0x1].[X]
+
+MTUTD_MOVECOST
+There are [TextColour=0x4]forest[TextColour=0x1] spaces on this
+map, which [TextColour=0x4]hinder movement[TextColour=0x1].
+Take notice of where you move.[X]
+
+MTUTD_POINTSAVE
+You can [TextColour=0x4]save[TextColour=0x1] your battle progress
+by moving a unit to a [TextColour=0x4]savepoint[TextColour=0x1].
+Once you have saved your game,
+you can return to the same point
+if you meet a game over.[X]
+
+MTUTD_REINFORCEMENT
+[TextColour=0x4]Enemy reinforcements[TextColour=0x1] sometimes
+appear from [TextColour=0x4]forts[TextColour=0x1]. There are
+other places that reinforcements
+can appear from, so watch out.[X]
+
+MTUTD_ROD
+Wrys is capable of using [TextColour=0x4]staves[TextColour=0x1].
+If you take damage from enemies,
+you can [TextColour=0x4]recover HP[TextColour=0x1] using staves.[X]
+
+MTUTD_SPECIALROD
+Yumina's [TextColour=0x4]Rescue[TextColour=0x1] staff can [TextColour=0x4]bring
+faraway units to her side[TextColour=0x1]. To
+use the Rescue staff, select the
+[TextColour=0x4]Special[TextColour=0x1] command after moving.[X]
+
+MTUTD_SPECIFIC
+Archers equipped with [TextColour=0x4]bows[TextColour=0x1] deal
+[TextColour=0x4]bonus damage[TextColour=0x1] against [TextColour=0x4]flying enemies[TextColour=0x1].
+Therefore, against Caeda the pegasus
+knight, bows are the key to victory.[X]
+
+MTUTD_SPECIFIC_NOBOW
+Archers equipped with [TextColour=0x4]bows[TextColour=0x1] deal
+[TextColour=0x4]bonus damage[TextColour=0x1] against [TextColour=0x4]flying enemies[TextColour=0x1].
+Therefore, against Caeda the pegasus
+knight, bows are the key to victory.
+This time, you have no units with
+bows, so remember this for next time.[X]
+
+MTUTD_TERRAINEFFECT
+Also, the [TextColour=0x4]fort[TextColour=0x1] terrain has
+the effect of [TextColour=0x4]restoring HP[TextColour=0x1].
+If a unit has been damaged in
+combat, you may want to leave
+them on a fort to recover.[X]
+
+MTUTD_TRADE
+Use the [TextColour=0x4]Trade[TextColour=0x1] command next to Cecille
+to receive new weapons. New weapons
+can be [TextColour=0x4]equipped[TextColour=0x1] from the Items menu
+and can be [TextColour=0x4]changed[TextColour=0x1] during the
+[TextColour=0x4]combat forecast[TextColour=0x1] by [TextColour=0x4]pressing ┳┫・┻╋[TextColour=0x1].[X]
+
+MTUTD_TRANSFORM
+Xane has the ability to [TextColour=0x4]Imitate[TextColour=0x1].
+Imitate lets Xane [TextColour=0x4]copy[TextColour=0x1] an adjacent
+unit for [TextColour=0x4]5 turns[TextColour=0x1] before reverting
+to his original form.[X]
+
+MTUTD_TURNEND
+After [TextColour=0x4]you (blue) end your turn[TextColour=0x1],
+if there are enemy (red) units
+on the map, [TextColour=0x4]the enemy (red)
+will take their turn[TextColour=0x1].[X]
+
+MTUTD_USABILITY
+As well as displaying the attack
+range of all units at once,
+you can also view an
+[TextColour=0x4]individual enemy's attack range[TextColour=0x1].
+This is useful when facing enemies
+that have a wide range of attack.[X]
+
+MTUTD_USABILITY2
+Some items possess [TextColour=0x4]special properties[TextColour=0x1].
+Before fighting an enemy, it may be
+a good idea to [TextColour=0x4]press SELECT[TextColour=0x1] to
+analyze a unit's inventory.[X]
+
+MTUTD_VILLAGE
+[TextColour=0x4]Marth[TextColour=0x1] can visit [TextColour=0x4]villages[TextColour=0x1].
+Visiting villages may reward you
+with new [TextColour=0x4]items[TextColour=0x1] or even new [TextColour=0x4]allies[TextColour=0x1].[X]
+
+MTUTH_00
+[SpecialText0x14][SpecialText0x14=0x39] is ready to move.[X]
+
+MTUTH_01
+Please attack the enemy.[X]
+
+MTUTH_05B
+[SpecialText0x14]Please highlight [SpecialText0x14=0x39] and press 陀曼.[X]
+
+MTUTH_05T
+[SpecialText0x14]Please touch [SpecialText0x14=0x39] with the stylus.[X]
+
+MTUTH_06
+Your unit can move to any space within the blue movement range.[X]
+
+MTUTH_08B
+Select a space to move to and then press 陀曼.[X]
+
+MTUTH_08T
+Slide the stylus to the space you want to move to.[X]
+
+MTUTH_12
+You can attack enemies that are located on a red space.[X]
+
+MTUTH_14
+Please touch the enemy that you want to attack.[X]
+
+MTUTH_15
+Move the cursor to the enemy you want to attack and press 陀曼.[X]
+
+MTUT_001
+Movement (Buttons)[X]
+
+MTUT_002
+Movement (Stylus)[X]
+
+MTUT_003
+Commanding Units[X]
+
+MTUT_004
+Direct Combat (Buttons)[X]
+
+MTUT_005
+Direct Combat (Stylus)[X]
+
+MTUT_006
+Indirect Combat[X]
+
+MTUT_007
+Magical Combat[X]
+
+MTUT_008
+Bonus Damage[X]
+
+MTUT_009
+The Weapon Triangle[X]
+
+MTUT_010
+Keys[X]
+
+MTUT_011
+Movement Cost[X]
+
+MTUT_012
+Terrain[X]
+
+MTUT_013
+The Combat Forecast[X]
+
+MTUT_014
+Using Items[X]
+
+MTUT_015
+Discarding Items[X]
+
+MTUT_016
+Trading Items[X]
+
+MTUT_017
+Villages[X]
+
+MTUT_018
+Staves[X]
+
+MTUT_019
+Issuing Orders[X]
+
+MTUT_020
+Seizing Objectives[X]
+
+MTUT_021
+Specialized Units[X]
+
+MTUT_022
+Waiting[X]
+
+MTUT_023
+Long-Distance Attacks[X]
+
+MTUT_024
+Battle Preparations[X]
+
+MTUT_025
+Reclassing Units[X]
+
+MTUT_026
+Alternating Turns[X]
+
+MTUT_027
+Losing Units[X]
+
+MTUT_028
+Map Menu[X]
+
+MTUT_029
+Item Drops[X]
+
+MTUT_030
+Reinforcements[X]
+
+MTUT_031
+Savepoints[X]
+
+MTUT_032
+The Convoy[X]
+
+MTUT_033
+Useful Tricks[X]
+
+MTUT_034
+Checking for Danger[X]
+
+MTUT_035
+Useful Tricks 2[X]
+
+MTUT_036
+Specialized Staves[X]
+
+MTUT_037
+Dancers[X]
+
+MTUT_038
+Imitation[X]
+

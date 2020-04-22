@@ -1,0 +1,260 @@
+MS201_OP0_PCF1
+[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG40][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS201_OP0_PCM1
+[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG40][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS201_OP1_PCF1
+Oh! Our great mother earth.
+For 7 thousand years there
+is a time of despair.[A][ClearBox]We prayed to the heavens for help.
+For 7 years and 7 months and 7 days...[A][ClearBox]"Deities, please show yourselves!"[A][ClearBox]The rainbow light gathered at
+the appearance of a sword of light.
+A miracle finally occurred.[A][ClearBox]He was a giant who became our guardian god.
+From the day he shone light from his sword,
+the evildoers were silenced.[A][ClearBox]When light from his shield radiated,
+the evil ones returned to stone.[A][ClearBox]The god created a new age.
+Dragons lived as humans and the evil ones
+were sent deep underground.[A][ClearBox]The god with his graceful kindness
+saved humanity and gave them a gift.[A][ClearBox]When the Dark Dragon awakens again,
+the chosen one of the god will use
+his sword to repel darkness.[A][ClearBox][X]
+
+MS201_OP1_PCM1
+Oh! Our great mother earth.
+For 7 thousand years there
+is a time of despair.[A][ClearBox]We prayed to the heavens for help.
+For 7 years and 7 months and 7 days...[A][ClearBox]"Deities, please show yourselves!"[A][ClearBox]The rainbow light gathered at
+the appearance of a sword of light.
+A miracle finally occurred.[A][ClearBox]He was a giant who became our guardian god.
+From the day he shone light from his sword,
+the evildoers were silenced.[A][ClearBox]When light from his shield radiated,
+the evil ones returned to stone.[A][ClearBox]The god created a new age.
+Dragons lived as humans and the evil ones
+were sent deep underground.[A][ClearBox]The god with his graceful kindness
+saved humanity and gave them a gift.[A][ClearBox]When the Dark Dragon awakens again,
+the chosen one of the god will use
+his sword to repel darkness.[A][ClearBox][X]
+MS201_OP1_01_PCF1
+[SpecialText0x14][TargetRight][FaceCommand=0x73]Yeah. I came here all the way from Sera
+village when I heard they were recruiting
+new knights.[A][ClearBox]My name's [SpecialText0x14=0x39].[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS201_OP1_01_PCM1
+[SpecialText0x14][TargetRight][FaceCommand=0x73]Yep. I came here all the way from Sera
+village when I heard they were recruiting
+new knights.[A][ClearBox]The name's [SpecialText0x14=0x39].[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS201_OP1_02_A
+[SpecialText0x14][TargetLeft][SpecialText0x14=0x39][FreezeMouth]...?[UnfreezeMouth]
+T-that's quite an unusual, short name.[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x73]
+We're here for the same reason, then.[A][ClearBox]My name is Katarina.[Pause=3]
+I came because I wish to serve Prince Marth.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS201_OP1_02_B
+[SpecialText0x14][TargetLeft][SpecialText0x14=0x39]?
+That's a nice, short name.[Pause=3]
+We're here for the same reason, then.[A][ClearBox]My name is Katarina.[Pause=3]
+I came because I wish to serve Prince Marth.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS201_OP1_02_C
+[SpecialText0x14][TargetLeft][FaceCommand=0x73][SpecialText0x14=0x39]?
+That's a nice name.[Pause=3]
+We're here for the same reason, then.[A][ClearBox]My name is Katarina.[Pause=3]
+I came because I wish to serve Prince Marth.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS201_OP1_02_D
+[SpecialText0x14][TargetLeft][FaceCommand=0x73][SpecialText0x14=0x39]?
+That sounds so dignified![A][ClearBox]We're here for the same reason, then.[A][ClearBox]My name is Katarina.[Pause=3]
+I came because I wish to serve Prince Marth.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS201_OP1_03
+[FaceCommand=0x61]But there sure are a lot of hopefuls here.[Pause=3]
+Look, there's one over there and another
+there[FreezeMouth]...[UnfreezeMouth][A][ClearBox]
+[TargetRight][RemovePortrait][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=ROOK][FaceCommand=0x73]Here it is![Pause=3]
+This is where my shining legacy starts[FreezeMouth]![UnfreezeMouth][A][ClearBox]The first chapter of my epic saga to become
+Aritia's greatest knight[FreezeMouth]![UnfreezeMouth][A][ClearBox]
+[TargetLeft][LoadPortrait=RODY][FaceCommand=0x61][FreezeMouth]...[UnfreezeMouth]Luke, I'm going up ahead.[A][ClearBox]
+[TargetLeft][RemovePortrait][TargetRight][LoadPortrait=ROOK][FaceCommand=0x61]Hey, wait up, Rody[FreezeMouth]![UnfreezeMouth][Pause=3]
+Don't leave your partner behind[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=32][X]
+
+MS201_OP1_02_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG40][TargetLeft][LoadPortrait=KATARINA][TargetRight][FaceCommand=0x61]There's no doubt those two were knight
+candidates like us.[A][ClearBox]
+[TargetLeft][FaceCommand=0x73]We should follow them, [SpecialText0x14=0x39].[Pause=3]
+I think the leader of the knights, Sir Jeigan,
+has something to say to all of us.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS201_OP1_02_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG40][TargetLeft][LoadPortrait=KATARINA][TargetRight][FaceCommand=0x61]There's no doubt those two were knight
+candidates like us.[A][ClearBox][TargetLeft][FaceCommand=0x73]We should follow them, [SpecialText0x14=0x39].[Pause=3]
+I think the leader of the knights, Sir Jeigan,
+has something to say to all of us.[A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS201_OP2_PCF1
+[SpecialText0x14][LoadBackground=BBG02][TargetLeft][LoadPortrait=JEIGUN]Aritia's gates have opened today so that we
+may test you as potential knights.[A][ClearBox]Knights will be chosen by their ability, not by
+their blood.[Pause=3] The path is not easy, however.[A][ClearBox]We have gathered a hundred men and women
+today, and only a handful of you will succeed.[A][ClearBox][TargetLeft][LoadPortrait=KATARINA][TargetRight][LoadPortrait=PLAYER][TargetLeft]T-this is nerve-wracking.[A][ClearBox]
+[TargetRight]I'm nervous too, but I've been training hard
+for this day.[A][ClearBox]
+[TargetLeft][LoadPortrait=JEIGUN]We expect every one of you to show us
+the results of your arduous training![A][ClearBox]Apprentices, I want you to gather in pairs[FreezeMouth]![UnfreezeMouth][Pause=3]
+You will be facing real Aritian knights in
+mock combat[FreezeMouth]![UnfreezeMouth][A][ClearBox]
+[TargetLeft][RemovePortrait][TargetLeft][LoadPortrait=KATARINA]Huh[FreezeMouth]?![UnfreezeMouth][Pause=3]
+We have to fight?
+T-this could be a problem[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][SpecialText0x14=0x39], would you please partner with me?
+I'm training to become a strategist.[A]
+[ClearBox][TargetRight]A strategist?[A][ClearBox]
+[TargetLeft]Y-yes.
+I can give you advice on how to fight,
+but I can't fight at all[FreezeMouth]...[UnfreezeMouth][A]
+[TargetLeft][LoadPortrait=SOLDIER_RED]Hey, you two[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]You're up next.[Pause=3]
+Grab your weapons and get into position.[Pause=3]
+Hurry[FreezeMouth]![UnfreezeMouth][A][ClearBox]
+[TargetLeft][LoadPortrait=KATARINA][TargetRight]Got it!
+Let's go, Katarina!
+The test is about to start.[A][ClearBox]
+[TargetLeft][FaceCommand=0x73]Y-yes[FreezeMouth]![UnfreezeMouth]
+Let's do our best.[A][ClearBox][X]
+
+MS201_OP2_PCM1
+[SpecialText0x14][LoadBackground=BBG02][TargetLeft][LoadPortrait=JEIGUN]Aritia's gates have opened today so that we
+may test you as potential knights.[A][ClearBox]Knights will be chosen by their ability, not by
+their blood.[Pause=3] The path is not easy, though.[A][ClearBox]We have gathered a hundred men and women
+today, and only a handful of you will succeed.[A][ClearBox]
+[TargetLeft][LoadPortrait=KATARINA][TargetRight][LoadPortrait=PLAYER][TargetLeft]T-this is nervewracking.[A][ClearBox]
+[TargetRight]I'm nervous too, but I've been training hard
+for this day.[A][ClearBox]
+[TargetLeft][LoadPortrait=JEIGUN]So we expect every one of you to show us
+the fruits of your arduous training![A][ClearBox]Apprentices, I want you to gather in pairs[FreezeMouth]![UnfreezeMouth][Pause=3]
+You will be facing real Aritian knights in
+mock combat[FreezeMouth]![UnfreezeMouth][A][ClearBox]
+[TargetLeft][RemovePortrait][TargetLeft][LoadPortrait=KATARINA]Huh[FreezeMouth]?![UnfreezeMouth][Pause=3]
+We have to fight?
+T-this could be a problem[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][SpecialText0x14=0x39], would you please partner with me?
+I'm training to become a strategist.[A]
+[ClearBox][TargetRight]A strategist?[A][ClearBox]
+[TargetLeft]Y-yes.
+I can give you advice on how to fight,
+but I can't fight at all[FreezeMouth]...[UnfreezeMouth][A]
+[TargetLeft][LoadPortrait=SOLDIER_RED]Hey, you two[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]You're up next.[Pause=3]
+Grab your weapons and get into position.[Pause=3]
+Hurry[FreezeMouth]![UnfreezeMouth][A][ClearBox]
+[TargetLeft][LoadPortrait=KATARINA][TargetRight]Got it!
+Let's go, Katarina!
+The test is about to start.[A][ClearBox]
+[TargetLeft][FaceCommand=0x73]Y-yes[FreezeMouth]![UnfreezeMouth]
+Let's do our best.[A][ClearBox][X]
+
+MS201_EV1
+[SpecialText0x14][TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG02][TargetLeft][LoadPortrait=KATARINA][SpecialText0x14=0x39]!
+Let's move to that spot over there.[A][ClearBox][X]
+
+MS201_EV2
+[LoadBackground=][TargetLeft][LoadPortrait=SOLDIER_RED]So you made it to the right place.
+I'll be your first opponent.
+Attack me however you like[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS201_EV3
+[TargetLeft][LoadPortrait=JEIGUN][FreezeMouth]...[UnfreezeMouth]I'm your final opponent for the day.
+Don't hold back[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS201_BT_BOSS
+[LoadBackground=][TargetLeft][LoadPortrait=JEIGUN]Excellent. Show me what you've got[FreezeMouth]![UnfreezeMouth][A][X]
+
+MS201_DIE_BOSS
+[LoadBackground=][TargetLeft][LoadPortrait=JEIGUN]Urgh[FreezeMouth]...[UnfreezeMouth] I've been beaten[FreezeMouth]?[UnfreezeMouth][A][X]
+
+MS201_ED1_PCF1
+Once, there was a war known as the
+"War of Darkness."[A][ClearBox]An epic battle between Prince Marth's heroes
+and the Durhuan Empire,[A][ClearBox]which ended with the defeat of the Earth 
+Dragon King, Mediuth.[A][ClearBox][UnfreezeMouth][UnfreezeMouth]The warriors who had united under the
+Fire Emblem returned to their own lands,[A][ClearBox]devoting themselves to the reconstruction of
+their homelands.[A][ClearBox][UnfreezeMouth]Among the nations that made up the
+"Seven Kingdoms of Akaneia",[A][ClearBox]Gra and Grunia were devastated.[A][ClearBox]Aritia, Orleans, Macedonia and Talis were left
+deeply scarred,[A][ClearBox]and even the mighty Kingdom of Akaneia was
+undergoing restoration.[A][ClearBox][UnfreezeMouth]However, in Pales still shaken by war,
+one important event took place.[A][ClearBox]Hardin, the younger brother of King Orleans,
+was married to Princess Nina,[A][ClearBox]becoming the twenty-fourth king of House
+Akaneia.[A][ClearBox]After ascending the throne,[A][ClearBox]Hardin aggressively restored the country
+in the twinkling of an eye,[A][ClearBox]and formed a powerful army by gathering
+many soldiers.[A][ClearBox]He then proclaimed the restoration of the
+Holy Akaneian Empire, and himself Emperor.[A][ClearBox][UnfreezeMouth]One year has passed since the war with Durhua.[A][ClearBox]The world seemed to be moving towards an
+era of peace.[A][ClearBox][UnfreezeMouth]However, unbeknownst to man, the cogs of
+destiny had started spiralling out of order.[A][ClearBox][Fade=40][X]
+
+MS201_ED1_PCM1
+Once, there was a war known as the
+"War of Darkness."[A][ClearBox]An epic battle between Prince Marth's heroes
+and the Durhuan Empire,[A][ClearBox]which ended with the defeat of the Earth 
+Dragon King, Mediuth.[A][ClearBox][UnfreezeMouth][UnfreezeMouth]The warriors who had united under the
+Fire Emblem returned to their own lands,[A][ClearBox]devoting themselves to the reconstruction of
+their homelands.[A][ClearBox][UnfreezeMouth]Among the nations that made up the
+"Seven Kingdoms of Akaneia",[A][ClearBox]Gra and Grunia were devastated.[A][ClearBox]Aritia, Orleans, Macedonia and Talis were left
+deeply scarred,[A][ClearBox]and even the mighty Kingdom of Akaneia was
+undergoing restoration.[A][ClearBox][UnfreezeMouth]However, in Pales still shaken by war,
+one important event took place.[A][ClearBox]Hardin, the younger brother of King Orleans,
+was married to Princess Nina,[A][ClearBox]becoming the twenty-fourth king of House
+Akaneia.[A][ClearBox]After ascending the throne,[A][ClearBox]Hardin aggressively restored the country
+in the twinkling of an eye,[A][ClearBox]and formed a powerful army by gathering
+many soldiers.[A][ClearBox]He then proclaimed the restoration of the
+Holy Akaneian Empire, and himself Emperor.[A][ClearBox][UnfreezeMouth]One year has passed since the war with Durhua.[A][ClearBox]The world seemed to be moving towards an
+era of peace.[A][ClearBox][UnfreezeMouth]However, unbeknownst to man, the cogs of
+destiny had started spiralling out of order.[A][ClearBox][A][ClearBox][Fade=40][X]
+
+MS201_ED2
+[SpecialText0x14][Fade=40][LoadBackground=BBG02][TargetLeft][LoadPortrait=JEIGUN]Prince Marth wishes to address everyone
+who passed the test.[Pause=3] Sire, if you please[FreezeMouth].[UnfreezeMouth][A][ClearBox]
+[TargetLeft][LoadPortrait=MARS][FaceCommand=0x73]I humbly thank you all for coming.[A][ClearBox]
+[TargetLeft][RemovePortrait][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x73]Ah, it's Prince Marth![Pause=3]
+He looks so majestic.[A][ClearBox]So that's the face of the hero who saved
+the world.[A][ClearBox][TargetLeft][LoadPortrait=PLAYER][FaceCommand=0x61][TargetRight][FaceCommand=0x73]I love the stories about Prince Marth in the
+last war.[Pause=3] How about you, [SpecialText0x14=0x39]?[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS201_ED2_Y_PCF1
+[TargetLeft][FaceCommand=0x73]Of course.
+After all, Prince Marth was the hero who
+brought an end to the previous war.[A][ClearBox]
+[TargetRight][FaceCommand=0x73]Yes, he defeated the Dark Dragon and
+Demon King, restoring peace to the world.[A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS201_ED2_Y_PCM1
+[TargetLeft][FaceCommand=0x73]Of course.
+After all, Prince Marth was the hero who
+brought an end to the previous war.[A][ClearBox]
+[TargetRight][FaceCommand=0x73]Yes, he defeated the Dark Dragon and
+Demon King, restoring peace to the world.[A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS201_ED2_2
+[SpecialText0x14][TargetLeft][LoadPortrait=JEIGUN][FaceCommand=0x61]You there, silence[FreezeMouth]![UnfreezeMouth][Pause=3]
+You stand before Prince Marth[FreezeMouth]![UnfreezeMouth][A][ClearBox]
+[TargetRight][LoadPortrait=KATARINA][FaceCommand=0x61]Eep[FreezeMouth]![UnfreezeMouth][A][ClearBox]
+[TargetRight][RemovePortrait][TargetLeft][RemovePortrait][TargetLeft][LoadPortrait=MARS][FaceCommand=0x73]Everyone. I'm truly happy that so many
+came to help shoulder Aritia's future.[A][ClearBox][FaceCommand=0x61]With the war over, peace has returned.[Pause=3]
+However, peace isn't something we can simply
+take for granted:[A][ClearBox]It is my duty, as ruler, to risk my life to
+protect it.[A][ClearBox][FaceCommand=0x73]Alone, I am powerless.[Pause=3]
+So, everyone. From now on, I want you to
+lend me your power, as my knights.[A][ClearBox]
+[TargetLeft][RemovePortrait][TargetRight][LoadPortrait=KATARINA][FaceCommand=0x73]Hear hear, Prince Marth[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=PLAYER][FaceCommand=0x61][TargetRight][FaceCommand=0x73]It was wonderful hearing Prince Marth
+speak, wasn't it, [SpecialText0x14=0x39]?[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS201_ED2_2_Y_PCF1
+[TargetLeft][FaceCommand=0x73]Yes, it was.
+We have to do our best so he can rely on us.[A][ClearBox][TargetRight][FaceCommand=0x73]
+Let's keep at it together![A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS201_ED2_2_Y_PCM1
+[TargetLeft][FaceCommand=0x73]Yeah, it was.
+We have to do our best as his loyal knights.[A][ClearBox][TargetRight][FaceCommand=0x73]
+Let's keep at it together![A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+
+[X]
+
