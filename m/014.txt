@@ -2,23 +2,23 @@ MS014_OP1
 [TargetRight][LoadPortrait=MARS][LoadBackground=BBG58][TargetLeft][LoadPortrait=JEIGUN][TargetRight]So this is the Ice Dragons' Temple.[Pause=3]
 The final destination of Anri's treacherous
 journey[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]For his beloved Artemis, Anri obtained the
-divine sword Falchion here.[A][ClearBox] He then proceeded to defeat Medeus and,
-acclaimed by the people of Altea,
+divine sword Falchion here.[A][ClearBox] He then proceeded to defeat Mediuth and,
+acclaimed by the people of Aritia,
 become their first king.[A][ClearBox][TargetRight]But, in the end he wasn't able to be
 with Artemis... Why?
-Weren't they loving together?[A][ClearBox][TargetLeft]The nobles of Archanea didn't want Anri,
+Weren't they loving together?[A][ClearBox][TargetLeft]The nobles of Akaneia didn't want Anri,
 a commoner, to become their king.[A][ClearBox]More than that, they strongly
 encouraged the princess to wed Duke Cartas,
 who led the liberation army.[A][ClearBox]Princess Artemis had no way of refusing.
 "The bearer of the Fire Emblem must give
 their life to the royal family."[A][ClearBox]That is a saying passed down unchangingly
-in House Archanea.[A][ClearBox]And so, without telling a word to Anri,
+in House Akaneia.[A][ClearBox]And so, without telling a word to Anri,
 the princess accepted her engagement
 to Duke Cartas.[A][ClearBox][TargetRight]How could she?
 That was unfair to Anri.[A][ClearBox][TargetLeft]The princess was just as worthy of pity.
 It's said she died soon after giving
 birth to her newborn prince.[A][ClearBox]King Anri never married. So, the kingdom
-of Altea was then succeeded by his younger
+of Aritia was then succeeded by his younger
 brother, King Marcelus.[A][ClearBox]In other words, your great-grandfather.[A][ClearBox][TargetRight]Such a tragic tale...
 So that was Artemis's fate?[A][ClearBox]All because of the curse of the
 Fire Emblem...?[A][ClearBox][X]
@@ -58,7 +58,7 @@ them off as treasures.[A][ClearBox]The money was used to fund an army,
 which, along with three stolen weapons,
 was used to conquer the world.[A][ClearBox]The thief that went on to become the
 king of Akaneia had the shield, which
-brought him such good fortune,[A][ClearBox]it became the emblem of his royal family.
+brought him such good fortune,[A][ClearBox]become the emblem of his royal family.
 Now do you understand, Marth? It is what
 you are carrying, Akaneia's Fire Emblem.[A][ClearBox][TargetRight][FreezeMouth]You mean[FreezeMouth]...![UnfreezeMouth][UnfreezeMouth][Pause=3]
 What... ...The first king of Akaneia
@@ -69,7 +69,8 @@ If I were to place all five orbs into this,
 the Shield of Seals will be restored?[A][ClearBox][TargetLeft]You are indeed correct[FreezeMouth]...[UnfreezeMouth]
 But 600 years have passed since it broke[FreezeMouth]...[UnfreezeMouth][A][ClearBox]The earth dragons sealed under Macedonia
 will soon awaken.[A][ClearBox]There are several hundreds[SpecialSymbol=0x96]no, several
-thousands.[A][ClearBox]I will entrust Chiki to you as well.[Pause=3]
+thousands.[A][ClearBox]Once they awaken there will be nothing
+that we can do...[A][ClearBox]I will entrust Chiki to you as well.[Pause=3]
 You will find her in the room to the right.
 With her, you can defeat those dragons.[A][ClearBox]But I must warn you.[Pause=3]
 If you do not complete the Shield of Seals,
@@ -108,9 +109,12 @@ Lord Gato said that I had to sleep again.[A][ClearBox]But[FreezeMouth]...[Unfree
 I slept all by myself for a really long time.[A][ClearBox]I had so many scary dreams, over and over.[A][ClearBox]I dreamt I ended up like the poor fire dragons
 and ice dragons[FreezeMouth]...[UnfreezeMouth] That I was a terrifying
 monster.[A][ClearBox]I'd attack humans and kill them.[A][ClearBox]"No[FreezeMouth]..."[UnfreezeMouth], "Stop[FreezeMouth]..."[UnfreezeMouth] they'd shout, and then I'd
-wake up. All alone, in this pitch black room[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I cried so much.[A][ClearBox]And each time, Ban-Ban comforted me.[A][ClearBox]Then, one day he took me out, and brought
+wake up. All alone, in this pitch black room[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I felt so strange, but also very scared...
+So very scared...
+But I couldn't leave that room.[A][ClearBox]I cried so much.[A][ClearBox]And each time, Ban-Ban comforted me.[A][ClearBox]Then, one day he took me out, and brought
 me to a human village.[A][ClearBox]The village life was so fun!
-Everyone treated me so nice[FreezeMouth]...[UnfreezeMouth]
+Everyone treated me so nice[FreezeMouth]...[UnfreezeMouth][A][ClearBox]In that short time,
+before I was discovered by Garnef,
 I was really happy.[A][ClearBox]I don't wanna sleep anymore[FreezeMouth]...[UnfreezeMouth][Pause=3]
 Next time I close my eyes, I feel as though
 I'll never open them again.[A][ClearBox]I don't want that.[Pause=3]

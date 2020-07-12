@@ -167,7 +167,7 @@ Aw heck, I'm going with you again![A][ClearBox][X]
 
 MS008_VIL1
 [TargetRight][LoadPortrait=MARS][LoadBackground=BBG26][TargetLeft][LoadPortrait=BANUTU][TargetLeft][FaceCommand=0x73]Oh look, if it isn't Prince Marth.[Pause=3]
-Long time no see, Lad.[A][ClearBox]It seems so noisy out;
+Long time no see, lad.[A][ClearBox]It seems so noisy out;
 I wonder what's happened?[A][ClearBox][TargetRight][FaceCommand=0x73]Ah, Banutu[FreezeMouth]![UnfreezeMouth][Pause=3]
 Fancy meeting you in a place like this.
 How is Chiki?[A][ClearBox][TargetLeft]Oh, she is no longer by my side.[A][ClearBox]Lord Gato took her to the Ice Dragon

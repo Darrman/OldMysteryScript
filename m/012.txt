@@ -56,7 +56,10 @@ MS012_DIE_DAROSS
 MS012_ED1
 [TargetRight][LoadPortrait=MARS][LoadBackground=BBG64][TargetLeft][LoadPortrait=CHEINE][TargetLeft]Phew! And that be the end of the fire
 dragons' valley.[Pause=3] How you doin', princey?[A][ClearBox][TargetRight]I'm fine[FreezeMouth]...[UnfreezeMouth] I think.[A][ClearBox]Chainy, I believe you said that there were
-other feral dragon tribes.[A][ClearBox][TargetLeft]Yeah.[Pause=3] In addition to this valley, there's the
+other feral dragon tribes.
+Is that true?[A][ClearBox][TargetLeft]Mmm, the majority of the dragon tribe didn't
+listen to the elders' advice, and were lost...[A][ClearBox]Those that survived didn't really stay
+at a single place.[A][ClearBox]In addition to this valley, there's the
 Dragon's Dale, the Ice Dragons' Temple and
 the Dragon's Altar[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]The Dragon's Altar[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]It's a demon dragon graveyard in the
 mountains of Macedonia.[Pause=3] There, the earth
@@ -79,7 +82,8 @@ and placed it in the Raman Temple.[A][ClearBox]But that is already ancient histo
 In fact it occurred over 1000 years ago.[A][ClearBox][TargetRight]I see[FreezeMouth]...[UnfreezeMouth][Pause=3]
 I understand now.[A][ClearBox]In other words, our guardian deity Narga
 depicted in legend was the divine dragon
-that saved humanity.[A][ClearBox]But then, what about the divine sword
+that saved humanity.[A][ClearBox]Those events became legends that have
+been passed on even now.[A][ClearBox]But then, what about the divine sword
 Falchion?[A][ClearBox][TargetLeft]Narga took pity on you humans, with no way of
 protecting yourselves, so she created it
 from one of her fangs.[A][ClearBox]Then, together with the shield, she sealed

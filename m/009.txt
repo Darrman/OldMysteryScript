@@ -48,7 +48,7 @@ How shall we proceed from here?[A][ClearBox][TargetRight]Hmm[FreezeMouth]...[Unf
 but if we can't prevail against Hardin,
 then we can't go back.[A][ClearBox]What in the world are we supposed to do[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]Sire, it's an emergency[FreezeMouth]![UnfreezeMouth][Pause=3]
 I have just come into some new information.[A][ClearBox]The Khadein mage corps has launched an
-offensive against us.[A][ClearBox][TargetRight]What[FreezeMouth]!?[UnfreezeMouth][Pause=3]
+offensive against us.[A][ClearBox]It seems Khadein has allied with the empire.[A][ClearBox][TargetRight]What[FreezeMouth]!?[UnfreezeMouth][Pause=3]
 Even Khadein means to be our enemy[FreezeMouth]...[UnfreezeMouth][Pause=3]
 Marich, what are you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]At this rate, it seems we have no choice.[A][ClearBox][TargetLeft]Sire, we need to break into the sanctuary,
 but you must be prepared to make sacrifices.[A][ClearBox]If we don't hurry, Akaneia's pursuit force
@@ -62,7 +62,7 @@ How shall we proceed from here?[A][ClearBox][TargetRight]Hmm[FreezeMouth]...[Unf
 but if we can't prevail against Hardin,
 then we can't go back.[A][ClearBox]What in the world are we supposed to do[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]Sire, it's an emergency[FreezeMouth]![UnfreezeMouth][Pause=3]
 I have just come into some new information.[A][ClearBox]The Khadein mage corps has launched an
-offensive against us.[A][ClearBox][TargetRight]What[FreezeMouth]!?[UnfreezeMouth][Pause=3]
+offensive against us.[A][ClearBox]It seems Khadein has allied with the empire.[A][ClearBox][TargetRight]What[FreezeMouth]!?[UnfreezeMouth][Pause=3]
 Even Khadein means to be our enemy[FreezeMouth]...[UnfreezeMouth][Pause=3]
 Marich, what are you[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]At this rate, it seems we have no choice.[A][ClearBox][TargetLeft]Sire, we need to break into the sanctuary,
 but you must be prepared to make sacrifices.[A][ClearBox]If we don't hurry, Akaneia's pursuit force
@@ -122,8 +122,9 @@ heart of even a man like Misheil.[A][ClearBox][TargetRight][FaceCommand=0x73]But
 That's why you deliberately avoided killing
 Misheil.[A][ClearBox]Am I wrong, Princess?[A][ClearBox][TargetLeft][EyeCommand=ed]Hmm[FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]I can understand.[Pause=3]
 No one can sever the ties between family
-so easily.[A][ClearBox]Princess, please lift your spirits.[Pause=3]
-I would like you to fight with us again,
+so easily.[A][ClearBox]Princess, please lift your spirits.[Pause=3][A][ClearBox]You don't need to worry about Macedonia.
+I already left some trusted people to
+begin its reconstruction.[A][ClearBox]I would like you to fight with us again,
 just like before.[A][ClearBox]I would like Macedonia's strength and yours
 in order to put a stop to Hardin's designs.[A][ClearBox][X]
 

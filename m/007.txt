@@ -25,7 +25,8 @@ MS007_OP0_ARG_E
 MS007_OP1
 [TargetRight][LoadPortrait=FINA][LoadBackground=BBG18][TargetLeft][LoadPortrait=NABARL][TargetRight]Huff[FreezeMouth]...[UnfreezeMouth] huff[FreezeMouth]...[UnfreezeMouth][Pause=3]
 Please[FreezeMouth]...[UnfreezeMouth] help me[FreezeMouth]...[UnfreezeMouth][Pause=3]
-The thieves[FreezeMouth]...[UnfreezeMouth] They're going to[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]No, [Pause=3]it can't be[FreezeMouth]![UnfreezeMouth][Pause=3]
+The thieves[FreezeMouth]...[UnfreezeMouth] They're going to[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Why...
+Why... aren't you saying anything?[A][ClearBox]No, [Pause=3]it can't be[FreezeMouth]![UnfreezeMouth][Pause=3]
 You're[FreezeMouth]...[UnfreezeMouth][Pause=3] one of them[FreezeMouth]...[UnfreezeMouth] as well?[A][ClearBox][EyeCommand=ec]Oh, fine[FreezeMouth]...[UnfreezeMouth][Pause=3]
 Do your worst[FreezeMouth]![UnfreezeMouth][Pause=3]
 If you're going to kill me,[Pause=3] do it fast[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetLeft]Girl[FreezeMouth]...[UnfreezeMouth] Get behind me.[A][ClearBox]The Aritian army is marching towards the
@@ -91,7 +92,7 @@ terrible fire dragon.[A][ClearBox][X]
 
 MS007_BT_ASTRIA
 [TargetLeft][LoadPortrait=ASTRIA][LoadBackground=]Traitors[FreezeMouth]![UnfreezeMouth][Pause=3]
-I'll show you the might of the Miracle[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+I'll show you the might of the Miracle Sword[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
 
 MS007_BT_BOSS
 [TargetLeft][LoadPortrait=DALL][LoadBackground=]Tryin' to take a cut from a thief's
@@ -110,7 +111,7 @@ but the temple was completely ransacked;
 anything that wasn't nailed down is gone.[A][ClearBox][TargetRight]Even Raman Temple has been reduced to ruins?
 This is a frightful age we're in.[A][ClearBox][TargetLeft]I'm sure even Guardian God Narga would be
 furious.[Pause=3] 'Tis truly the end of civilization.[A][ClearBox][TargetRight]Jeigan, do you know the legend of Narga?
-Can you tell me what you know of them?[A][ClearBox][TargetLeft]Yes;[Pause=3] only vaguely, however[FreezeMouth].[UnfreezeMouth][A][ClearBox][X]
+Can you tell me what you know of it?[A][ClearBox][TargetLeft]Yes;[Pause=3] only vaguely, however[FreezeMouth].[UnfreezeMouth][A][ClearBox][X]
 
 MS007_ED1_PCM1
 [SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG04][TargetLeft][LoadPortrait=JEIGUN][TargetLeft]Sire,[Pause=3] we've driven away the thieves,[Pause=3]
@@ -118,14 +119,14 @@ but the temple was completely ransacked;
 anything that wasn't nailed down is gone.[A][ClearBox][TargetRight]Even Raman Temple has been reduced to ruins?
 This is a frightful age we're in.[A][ClearBox][TargetLeft]I'm sure even Guardian God Narga would be
 furious.[Pause=3] 'Tis truly the end of civilization.[A][ClearBox][TargetRight]Jeigan, do you know the legend of Narga?
-Can you tell me what you know of them?[A][ClearBox][TargetLeft]Yes;[Pause=3] only vaguely, however[FreezeMouth].[UnfreezeMouth][A][ClearBox][X]
+Can you tell me what you know of it?[A][ClearBox][TargetLeft]Yes;[Pause=3] only vaguely, however[FreezeMouth].[UnfreezeMouth][A][ClearBox][X]
 
 MS007_ED1_2
 [SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG04][TargetLeft][LoadPortrait=JEIGUN][TargetLeft]It's said that a thousand years ago[FreezeMouth]...[UnfreezeMouth][Pause=3]
 when there was not one king in the lands,
-people lived in small villages.[A][ClearBox]One day,[Pause=3] terrible monsters descended
+people lived in small villages.[A][ClearBox]At the time,[Pause=3] terrible monsters existed
 and the humans were massacred,
-pushed to the brink of extinction.[A][ClearBox]Only around 10,000 humans remained.
+pushed to the brink of extinction.[A][ClearBox]Only some 10,000 humans remained.
 The few who survived prayed to the gods
 for salvation.[A][ClearBox]The gods heard their prayers,[Pause=3] and a
 gigantic warrior was sent down to earth.[A][ClearBox]The warrior carried a gleaming blade of light
@@ -141,14 +142,16 @@ That is the legend of Narga[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Unknown0
 MS007_ED1_3_PCF1
 [TargetLeft]Well then, sire.[Pause=3]
 We have to cross Cashmere Bridge soon.[A][ClearBox]We must hurry; if the enemy takes it, getting
-across will be nigh impossible.[A][ClearBox][TargetRight]Alright then, inform the whole army:[Pause=3]
+across will be nigh impossible.[A][ClearBox][TargetRight]Hmm, that's true.
+That bridge could become very dangerous.[A][ClearBox]Alright then, inform the whole army:[Pause=3]
 We cross Cashmere Bridge at once.[Pause=3]
 We haven't a moment to waste[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
 
 MS007_ED1_3_PCM1
 [TargetLeft]Well then, sire.[Pause=3]
 We have to cross Cashmere Bridge soon.[A][ClearBox]We must hurry; if the enemy takes it, getting
-across will be nigh impossible.[A][ClearBox][TargetRight]Alright then, inform the whole army:[Pause=3]
+across will be nigh impossible.[A][ClearBox][TargetRight]Hmm, that's true.
+That bridge could become very dangerous.[A][ClearBox]Alright then, inform the whole army:[Pause=3]
 We cross Cashmere Bridge at once.[Pause=3]
 We haven't a moment to waste[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
 
