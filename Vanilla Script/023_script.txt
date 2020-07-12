@@ -1,0 +1,146 @@
+MS023_OP0:
+*MARS enters**PLAYER enters*PLAYER
+MARS:
+, just ahead is the Dark Pontifex,
+Gharnef--possibly the strongest
+sorcerer alive... or dead. 
+PLAYER... 
+
+
+MS023_OP0_A:
+
+INSERTNAMEHERE:
+Your resistance to magic is impeccable.
+You might just be our strongest hope of
+defeating Gharnef. 
+Yes.
+If you are there, then... we stand to win. 
+
+INSERTNAMEHERE:
+Sire... I'm honored.
+I'll give it my all! 
+
+
+MS023_OP0_B:
+
+INSERTNAMEHERE:
+You're fairly resistant to magic,
+but you'd be at risk facing Gharnef. 
+If you must fight him, please take
+all the necessary precautions. 
+
+INSERTNAMEHERE:
+Yes, sire.
+Thank you. 
+
+
+MS023_OP0_C:
+
+INSERTNAMEHERE:
+You're not very resistant to magic... 
+
+INSERTNAMEHERE:
+T-that's, er, true... 
+
+INSERTNAMEHERE:
+'Twould be best if you avoided Gharnef.
+But in any case, please be extra careful. 
+
+
+MS023_OP1:
+*MARS enters**GARNEF enters*
+GARNEF:
+So you've come, boy.
+How many times must you get in my way?
+Enough! I tire of our games!! 
+
+MARS:
+Gharnef, what have you done with
+my sister and the others?!
+Release them at once! 
+
+GARNEF:
+Heh heh heh... I've allowed them the honor
+of being sacrifices for the Shadow Dragon's
+resurrection. You will never see them again. 
+Emperor Medeus will soon be reborn
+in his true and darkest form.
+And they will usher in a new era. 
+'Tis a pity. Their souls couldn't bear
+the suffering and shattered into pieces...
+Even I am powerless to help them. 
+Shame, really. I have them to thank for
+the Shadow Dragon's awakening. Not even the
+Binding Shield can stop him now. 
+I applaud you for coming this far.
+But... little prince...
+you will go no further. 
+I will kill you here, and you will die
+knowing that you are nothing!! 
+
+
+MS023_BT_BOSS:
+*GARNEF enters*
+GARNEF:
+Heh heh heh...
+Perhaps...
+a taste of Imhullu's might is necessary. 
+
+
+MS023_BT_BOSS_MARS:
+*GARNEF enters*
+GARNEF:
+Your blade is blunt before me, Marth...
+I'll smash you and the Binding Shield
+into pieces!! 
+*MARS enters*
+MARS:
+I do not intend to fall here.
+Out of my way, Gharnef! 
+
+
+MS023_BT_BOSS_PC_PCF1:
+*GARNEF enters*
+GARNEF:
+Heh heh heh...
+Allow me demonstrate Imhullu's might... 
+*PLAYER enters*
+PLAYER:
+I will not let Prince Marth die.
+I won't...! 
+
+
+MS023_BT_BOSS_PC_PCM1:
+*GARNEF enters*
+GARNEF:
+Heh heh heh...
+Allow me demonstrate Imhullu's might... 
+*PLAYER enters*
+PLAYER:
+I will not let Prince Marth die.
+I won't let the likes of you lay
+even a finger on him...! 
+
+
+MS023_DIE_BOSS:
+*GARNEF enters*
+GARNEF:
+Heh heh...
+You're too late...
+The end is nigh... 
+
+
+MS023_ED1_PCF1:
+*MARS enters**PLAYER enters*
+PLAYER:
+Sire, this way.
+There are stairs here, leading up. 
+
+
+MS023_ED1_PCM1:
+*MARS enters**PLAYER enters*
+PLAYER:
+Sire, this way.
+More stairs! 
+
+

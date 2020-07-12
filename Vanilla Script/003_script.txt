@@ -1,0 +1,748 @@
+MS003_OP0:
+*PLAYER enters*
+PLAYER:
+
+
+
+MS003_OP0_01:
+
+INSERTNAMEHERE:
+Hah! Hyah! 
+*JEIGUN enters*
+JEIGUN:
+I see you train without the need for sleep.
+Most admirable, PLAYER. 
+
+INSERTNAMEHERE:
+Ah, Sir Jagen. 
+
+JEIGUN:
+A strong offense and a tough defense
+are obviously important, but...
+You cannot afford to neglect your skill. 
+Without the skill to deliver it, it matters not
+how mighty your attack is if it does not
+reach the enemy. 
+Speaking of which... 
+
+
+MS003_OP0_A:
+
+INSERTNAMEHERE:
+Your skill is like that of an expert...
+I have nothing to add.
+Keep up the good work. 
+
+INSERTNAMEHERE:
+Thank you, Sir Jagen. 
+
+
+MS003_OP0_B:
+
+INSERTNAMEHERE:
+Your skill is not bad.
+Don't fall behind the other knights. 
+The experience you gain from training and
+combat, will help elevate your skill further.
+Be ever diligent. 
+
+INSERTNAMEHERE:
+Yes, Sir Jagen. 
+
+
+MS003_OP0_C:
+
+INSERTNAMEHERE:
+Your skill is still insufficient...
+It ought to be better than this. 
+You may or may not have the talent for it,
+but don't give up... 
+The more experience you gain from training
+and combat, the more you can refine your
+skill. Be ever diligent. 
+
+INSERTNAMEHERE:
+Y-yes, Sir Jagen. 
+
+
+MS003_OP1:
+*JURIAN enters**PAORA enters*
+PAORA:
+Julian, good news!
+Catria finally brought the Altean army for us! 
+We're going to join their ranks to help save
+Princess Minerva. 
+Please take Lena and escape to safety,
+quickly! 
+
+JURIAN:
+No can do, Palla.
+Lena's disappeared...
+I'm not leaving by myself. 
+
+PAORA:
+What? Lena as well...
+Princess Maria is missing too;
+why is it only clerics...? 
+
+JURIAN:
+Anyway, I'm staying in the village to see if I
+can't find any information. 
+Sorry, Palla.
+Give my best to Prince Marth. 
+
+
+MS003_EV1:
+*RYUKE enters**MISHEIL enters*
+MISHEIL:
+Rucke, I'm impressed a spineless coward like
+you could throw this country into so much
+chaos. 
+I'll hazard a guess that Hardin talked you
+into this? 
+
+RYUKE:
+Wha-! ...Y-you're...
+B-but how... 
+
+MISHEIL:
+Thought I was dead?
+Haha... My death was but a trifle. 
+Hand Minerva over to me, Rucke. 
+I no longer have plans for this country.
+Do with it as you please. 
+However, I won't rest until I've disposed of
+"him" with my own hands. 
+
+RYUKE:
+U-uhh... but, Princess Minerva is barely
+breathing... Nobody could save her now... 
+
+MISHEIL:
+Do you want me to shove this spear down
+your throat? I said bring her to me. 
+
+RYUKE:
+Y-yes, of course.
+S-somebody, bring the princess here! 
+
+
+MS003_EV1_02:
+*MISHEIL enters**Y_MINERBA enters*
+MISHEIL:
+It's been a while, Minerva.
+That ungainly appearance doesn't suit you. 
+Losing Maria;
+your subordinates abandoning you...
+Is this the ideal country you dreamed of? 
+
+Y_MINERBA:
+Mi... Michalis...
+How...? 
+
+
+MS003_VIL1:
+*MARS enters**JURIAN enters*
+JURIAN:
+Hey Prince, it's been a while, hasn't it?
+It's me, Julian! 
+
+MARS:
+Julian? 
+I'd heard that you'd gone to Macedon with
+Lena, but to think we'd cross paths here... 
+How is Lena?
+Of course, she's with you, right? 
+
+JURIAN:
+Well, er, how should I say this...
+Lena suddenly up and vanished...
+I... I don't know what to do. 
+
+MARS:
+Wait, Julian, tell me what happened, in detail. 
+
+JURIAN:
+Lena's been missing since last night. 
+The villagers speak of some sort of strange
+priest prowling around lately. 
+It seems that somehow, Lena was taken by
+this man. 
+
+MARS:
+A priest...? 
+Julian, as it turns out, Princess Maria has
+gone missing as well.
+I have a terrible feeling about this. 
+Anyway, staying here won't solve anything.
+Come with us. 
+I'm worried for Lena too.
+We'll all help to look for her. 
+
+JURIAN:
+Prince Marth... Thank you.
+Nothing would please me more. 
+
+
+MS003_VIL2:
+*SAJI enters**MARS enters*
+MARS:
+You, you're Bord!
+You've came to Macedon as well? 
+
+SAJI:
+Long time no see, Prince.
+Cord already joined with you's guys, right? 
+We Talysian mercenaries wanted to join
+you's army, so we came all the way here. 
+Princess Caeda's our lady, and the guy who's
+gonna be her man is important to us too. 
+Prince Marth, I'll protect you with my life. 
+
+
+MS003_VIL3:
+*WOMAN2 enters*
+WOMAN2:
+Have you noticed that large drawbridge
+behind this village? 
+Normally it's separated by the river, but if
+you use this key here, you can cross the
+bridge. 
+Just, once you cross the drawbridge, the
+enemies on the other side will come and
+attack you at once. 
+If you want to advance safely,
+you might be better off taking the long 
+detour that goes right around the mountain.
+ 
+Here, take the key.
+No matter which path you take,
+do take care of yourself, m'kay? 
+
+
+MS003_H1:
+*OLDMAN enters*
+OLDMAN:
+The pegasus knight trio must be lonely
+without Est. 
+And I was such a fan of their
+"Triangle Attack!" too... 
+Oh, Est...
+Come home already, will ya? 
+
+
+MS003_H2:
+*WOMAN1 enters*
+WOMAN1:
+You know, a little while ago, a paladin came
+here; said he was on a journey. 
+He was wearing a mask, but I'm sure that
+underneath, he was a good person. 
+He was kind, yet wrapped in a veil of sorrow.
+I wonder if I'll ever see him again... 
+
+
+MS003_H3:
+*MAN1 enters*
+MAN1:
+This is just between you and me, but I heard
+that armory is in league with the rebels. 
+If you're going to enter you should be careful
+not to get jumped. 
+
+
+MS003_H4:
+*LADY enters*
+LADY:
+I wonder what's going to happen to Macedon? 
+They say that Prince Michalis is dead, and
+Princess Maria is nowhere to be found... 
+On top of that, they say that Princess
+Minerva has been captured and that her
+life is in peril. 
+I just hope... that this country doesn't end
+up like Grust... 
+
+
+MS003_TK1:
+*JURIAN enters**MATIS enters*
+JURIAN:
+Hey! Cut it out.
+Why must you always insist on pointing your
+sword at us? 
+I pity Lena for having to put up your
+stupidity. 
+
+MATIS:
+Oh, it's you, Julian.
+Are you still trying to worm your way into
+Lena's good books? 
+No way, I won't hand my cute lil' sister to a
+thieving rat like you. 
+
+JURIAN:
+You can relax...
+Lena and I would never work out. 
+But even if it's just a little,
+I wanted to help her in any way I could. 
+
+MATIS:
+Ooh, you finally realized where you stand.
+Attaboy, Julian! 
+
+JURIAN:
+Er, that's not the kind of thing I want to be
+hearing from you... 
+Well, whatever.
+If you're worried about Lena, then come
+with me. 
+
+MATIS:
+Oh, alright, thanks. 
+You see, they forced me to join the rebel
+army, but you know I hate fighting. 
+Alright, lil' brother.
+Let's join forces and look for our cute lil'
+Lena! 
+
+
+MS003_BT_MATIS:
+*MATIS enters*
+MATIS:
+Lena... Where are you?
+What I would give to hear your voice just
+once before I die... 
+
+
+MS003_BT_RYUKE:
+*RYUKE enters*
+RYUKE:
+D-damn it...
+Why is the Altean army here...?
+You're all going down with me. Die! 
+
+
+MS003_DIE_MATIS:
+*MATIS enters*
+MATIS:
+Lena...
+F-forgive... your foolish big brother... 
+
+
+MS003_DIE_RYUKE:
+*RYUKE enters*
+RYUKE:
+The Altean knights...
+As I expected... 
+
+
+MS003_ED1:
+*MARS enters**JEIGUN enters*
+JEIGUN:
+Sire, the rebels have fled the castle,
+but I regret to inform you that Princess
+Minerva was nowhere to be found. 
+
+MARS:
+What could have happened?
+She was supposed to be held inside the
+castle... 
+
+
+MS003_ED2_PCF1:
+*MARS enters**RANG enters*
+RANG:
+Oh-hoh, I knew this task was unworthy.
+Excellent work, Prince Marth. 
+We'll take care of Macedon from here.
+Now, let us discuss your next mission. 
+
+MARS:
+General Lang, what in the world do you want
+this time? 
+
+RANG:
+
+Well, you see... My castle was attacked and
+the Grustian prince and princess were
+kidnapped. 
+The perpetrator fled to Macedon, it seems.
+Prince Marth, you are to capture him and
+return the children to me! 
+
+MARS:
+You're asking me to send those children to
+their doom! 
+
+RANG:
+You're in no position to defy me.
+Now, off to work you go, my prince. 
+*MARS leaves**PLAYER enters*
+PLAYER:
+You...!
+Your rudeness towards my liege has gone
+too far...! 
+Shut up!
+Prince Marth is not your minion! 
+
+RANG:
+What did you say?!
+Know your place, Altean soldier! 
+*PLAYER leaves**MARS enters*
+RANG:
+Marth, it seems that your countrymen are
+devoid of manners! 
+
+MARS:
+...I apologize on her behalf. 
+But it is as PLAYER says:
+General Lang, I will no longer follow your
+orders from here. 
+
+
+
+MS003_ED2_PCM1:
+*MARS enters**RANG enters*
+RANG:
+Oh-hoh, I knew this task was unworthy.
+Excellent work, Prince Marth. 
+We'll take care of Macedon from here.
+Now, let us discuss your next mission. 
+
+MARS:
+General Lang, what in the world do you want
+this time? 
+
+RANG:
+
+Well, you see... My castle was attacked and
+the Grustian prince and princess were
+kidnapped. 
+The perpetrator fled to Macedon, it seems.
+Prince Marth, you are to capture him and
+return the children to me! 
+
+MARS:
+You're asking me to send those children to
+their doom! 
+
+RANG:
+You're in no position to defy me.
+Now, off to work you go, my prince. 
+*MARS leaves**PLAYER enters*
+PLAYER:
+You...!
+Your rudeness towards my liege has gone
+too far...! 
+Shut up!
+Prince Marth is not your minion! 
+
+RANG:
+What did you say?!
+Know your place, Altean soldier! 
+*PLAYER leaves**MARS enters*
+RANG:
+Marth, it seems that your countrymen are
+devoid of manners! 
+
+MARS:
+...I apologize on his behalf. 
+But it is as PLAYER says:
+General Lang, I will no longer follow your
+orders from here. 
+
+
+
+MS003_ED2:
+*MARS enters**RANG enters*
+RANG:
+Oh-hoh, I knew this task was unworthy of Prince Marth.
+Excellent work. 
+We'll take care of Macedon from here.
+Now, for your next mission. 
+
+MARS:
+General Lang, what in the world do you want
+this time? 
+
+RANG:
+
+Well, you see... My castle was attacked and
+the Grustian prince and princess were
+kidnapped. 
+The perpetrator fled to Macedon, it seems.
+Prince Marth, you are to capture him and
+return the children to me! 
+
+MARS:
+That's asking me to send those children to
+their doom! 
+
+RANG:
+You're in no position to defy me.
+You'd do wise to continue slaving for my
+benefit, Prince Marth. 
+*MARS leaves**PLAYER enters*
+PLAYER:
+You...!
+Your rudeness towards my liege has gone
+too far...! 
+Shut up!
+Prince Marth is not your minion! 
+
+RANG:
+What did you say?!
+Know your place, Altean soldier! 
+*PLAYER leaves**MARS enters*
+RANG:
+Marth, it seems that your countrymen are
+devoid of manners! 
+
+MARS:
+...I apologize on PLAYER's behalf. 
+But it is as PLAYER says:
+General Lang, I will no longer follow your
+orders from here. 
+
+
+
+MS003_ED2_02_PCF1:
+*PLAYER enters*
+PLAYER:
+Sire...! 
+*PLAYER leaves**RANG enters*
+RANG:
+What! Do you mean to defy my orders?! 
+I see... I see.
+As I suspected, it was YOUR doing. 
+The person who kidnapped Grust's prince
+and princess was the mercenary, Ogma.
+On your orders, no less! 
+
+INSERTNAMEHERE:
+I didn't know of this.
+But if I had the choice, I would have done
+exactly as you suggested. 
+Back at Grust, even though they were meant
+to be our enemies, I should have helped
+those children. 
+
+RANG:
+You!
+You clearly speak words of treason! 
+Perhaps I should report this to the Emperor! 
+
+INSERTNAMEHERE:
+Do as you will.
+But you're not the only person who intends
+to visit the palace. 
+I will speak to Emperor Hardin and Princess
+Nyna and inform them of your crimes. 
+Forgive me, Jagen.
+But I cannot stand for this any longer. 
+*JEIGUN enters*
+JEIGUN:
+I understand.
+You have endured well until now. 
+Lang, my liege might forgive your frequent
+rudeness to him, but I will not. 
+Come, draw your sword.
+Even though I, Jagen, am old and senile,
+I will not lose to the likes of you. 
+
+RANG:
+Wh... what did you say?!
+Damn you... I'll remember this!! 
+Once the Emperor gets wind of this, I'll crush
+your puny little Altea! 
+
+
+MS003_ED2_02_PCM1:
+*PLAYER enters*
+PLAYER:
+Sire...! 
+*PLAYER leaves**RANG enters*
+RANG:
+What! Do you mean to defy my orders?! 
+I see... I see.
+As I suspected, it was YOUR doing. 
+The person who kidnapped Grust's prince
+and princess was the mercenary, Ogma.
+On your orders, no less! 
+
+INSERTNAMEHERE:
+I didn't know of this.
+But if I had the choice, I would have done
+exactly as you suggested. 
+Back at Grust, even though they were meant
+to be our enemies, I should have helped
+those children. 
+
+RANG:
+You!
+You clearly speak words of treason! 
+Perhaps I should report this to the Emperor! 
+
+INSERTNAMEHERE:
+Do as you will.
+But you're not the only person who intends
+to visit the palace. 
+I will speak to Emperor Hardin and Princess
+Nyna and inform them of your crimes. 
+Sorry, Jagen.
+But I cannot stand for this any longer. 
+*JEIGUN enters*
+JEIGUN:
+I understand.
+You have endured well until now. 
+Lang, my liege might forgive your frequent
+rudeness to him, but I will not. 
+Come, draw your sword.
+Even though I, Jagen, am old and senile,
+I will not lose to the likes of you. 
+
+RANG:
+Wh... what did you say?!
+Damn you... I'll remember this!! 
+Once the Emperor gets wind of this, I'll crush
+your puny little Altea! 
+
+
+MS003_ED3_PCF1:
+*MARS enters**JEIGUN enters*
+MARS:
+Jagen... you're a bag of surprises.
+To think you'd stand up against Lang like
+that. 
+
+JEIGUN:
+Sire, are you underestimating me in my old
+age? 
+Bwahaha...
+I'm not about to let youngsters like
+PLAYER hog all the glory just yet. 
+Still, I'll admit it was somewhat foolish
+to contest with Lang, even if he did
+push my lord at every turn. 
+*JEIGUN leaves**PLAYER enters*
+PLAYER:
+Sire, Sir Jagen.
+What is our next plan of action? 
+
+MARS:
+According to Lang, Ogma is on his way to
+Macedon. 
+He probably intends to visit the village where
+Lord Wendell resides. 
+
+PLAYER:
+Lord Wendell? 
+
+MARS:
+Lord Wendell is a pontifex of Khadein;
+he fought as our ally in the last war.
+I hear he's living in Macedon now. 
+It also happens that the children that
+Ogma saved were raised by Lord Wendell. 
+So I'm sure it would be the perfect time to
+pay him a visit. 
+
+PLAYER:
+Yes, understood. 
+*PLAYER leaves**JEIGUN enters*
+JEIGUN:
+But, I worry about Lang...
+I pray that nothing bad shall happen... 
+
+
+MS003_ED3_PCM1:
+*MARS enters**JEIGUN enters*
+MARS:
+Jagen... you're a bag of surprises.
+To think you'd stand up against Lang like
+that. 
+
+JEIGUN:
+Sire, are you underestimating me in my old
+age? 
+Bwahaha...
+I'm not about to let youngsters like
+PLAYER hog all the glory just yet. 
+Still, I'll admit it was somewhat foolish
+to contest with Lang, even if he did
+push my lord at every turn. 
+*JEIGUN leaves**PLAYER enters*
+PLAYER:
+Sire, Sir Jagen.
+What is our next plan of action? 
+
+MARS:
+According to Lang, Ogma is on his way to
+Macedon. 
+He probably intends to visit the village where
+Lord Wendell resides. 
+
+PLAYER:
+Lord Wendell? 
+
+MARS:
+Lord Wendell is a pontifex of Khadein;
+he fought as our ally in the last war.
+I hear he's living in Macedon now. 
+It also happens that the children that
+Ogma saved were raised by Lord Wendell. 
+So I'm sure it would be the perfect time to
+pay him a visit. 
+
+PLAYER:
+Yes, understood. 
+*PLAYER leaves**JEIGUN enters*
+JEIGUN:
+But, I worry about Lang...
+I pray that nothing bad shall happen... 
+
+
+MS003_ED4:
+*PLAYER enters**JEIGUN enters*PLAYER
+JEIGUN:
+, are you aware that we've been
+searching for the assassins who besieged
+Altea a year ago...? 
+
+PLAYER:
+Ah!
+I assume, since you're mentioning it,
+that you've found a new lead? 
+
+JEIGUN:
+We're not certain, but we've received
+information that might lead us to them. 
+A few days ago, I heard of a suspicious
+group heading towards Macedon's northern
+mountains. 
+*PLAYER leaves**MARS enters*
+MARS:
+The northern mountains?
+What could they be after up there? 
+
+JEIGUN:
+Rumors say they are pursuing our former
+allies in the War of Shadows... 
+And I don't believe they're after a friendly
+chat with them either. 
+
+MARS:
+I see. Then we cannot ignore this lead,
+especially if lives are at stake. 
+
+
+MS003_ED4_Y:
+
+INSERTNAMEHERE:
+Jagen, PLAYER, we shall pursue the enemy. 
+
+INSERTNAMEHERE:
+Agreed.
+Let us prepare to march, with haste. 
+
+

@@ -1,0 +1,300 @@
+MS013_OP0:
+*PLAYER enters**JEIGUN enters*
+JEIGUN:
+Well, PLAYER, is everyone making good use
+of the drill grounds? 
+Of course, if you win often, you'll be that
+much stronger. 
+PLAYER, you... 
+
+
+MS013_OP0_A:
+
+INSERTNAMEHERE:
+Oho-ho, you...
+You've done very well, haven't you? 
+
+INSERTNAMEHERE:
+Yes, I go there often. 
+
+INSERTNAMEHERE:
+I see. Then there is nothing I have to add.
+I should recommend the drill grounds to the
+others. 
+
+
+MS013_OP0_B:
+
+INSERTNAMEHERE:
+Oho-ho, you...
+You've been winning quite often, eh?
+Not bad at all. 
+
+INSERTNAMEHERE:
+Thank you.
+But I hope to improve further. 
+
+INSERTNAMEHERE:
+That's the spirit!
+I should recommend the drill grounds to the
+others. 
+
+
+MS013_OP0_C:
+
+INSERTNAMEHERE:
+Hmm, you...
+It seems you haven't won much yet. 
+Are you purposely avoiding the drill grounds? 
+
+INSERTNAMEHERE:
+S-sorry, I don't really have the money, so... 
+
+INSERTNAMEHERE:
+Well, it's fine if you're not struggling now,
+but when things get tough, that experience
+will be the clincher. 
+Just remember, if you ever feel that your
+foes are too strong, there is a place where
+you can hone your skills. 
+
+
+MS013_OP1:
+
+INSERTNAMEHERE:
+2*MARS enters**CHEINE enters*
+MARS:
+Are we there yet, Xane?
+We've climbed so high already. 
+It's freezing and...
+It's becoming increasingly difficult to
+breathe... 
+
+CHEINE:
+Just hang on a bit longer, princey. 
+Look, you can see it, right?
+That's the Ice Dragon Shrine over there.
+Where Gotoh's waitin' for you. 
+
+MARS:
+You know, I must admit, I was shocked when
+you told me that Tiki was the daughter of
+the Divine Dragon King. 
+And that you and Gotoh were both divine
+dragons. 
+
+CHEINE:
+Oh, yeah... but y'see, after the war, Gotoh
+and I threw away our dragon stones.
+So, I can never be a dragon again. 
+Sure, Gotoh still stands by Naga's command
+and watches out for humans... 
+But that ain't my thing. 
+Y'see, I don't like humans. 
+I've got nothin' but contempt for those
+who treated the defenseless Manaketes like
+insects. 
+So I can understand why Medeus despised
+you humans so. 
+Medeus, an Earth Dragon prince, was the
+only one of his tribe who become a Manakete. 
+And, as ordered by Naga, he guarded the
+Dragon's Altar. 
+But the once peaceful human race, drunk
+with power, began to rule with tyranny. 
+They oppressed the dragons who had done
+nothin' wrong. 
+Furious at their betrayal by humans,
+the Manaketes gathered in Dolhr, 
+and they created a nation for their people.
+Then they fought to conquer humanity. 
+To save the humans, Gotoh gave them the
+divine sword Falchion. 
+He established an academy in Khadein,
+and began to teach magic. 
+Me? I was just an onlooker.
+Winner or loser, it was no concern of mine. 
+
+MARS:
+But then, why help me?
+I too am human... 
+
+CHEINE:
+You're different.
+And you seem kind of flaky.
+I can't exactly leave you alone... 
+
+MARS:
+Err...
+Thanks, Xane. 
+
+CHEINE:
+I... Oh, look at me.
+I'm blushin'. 
+Anyway, let's head to the shrine.
+But watch out for the ice dragons. 
+Even though they've lost their minds,
+they still protect the shrine instinctively.
+The poor creatures... 
+
+
+MS013_TK1:
+
+INSERTNAMEHERE:
+2*BECK enters**MARS enters*
+MARS:
+You, you're Beck!
+To think we'd meet here of all places! 
+
+BECK:
+Me too, Prince Marth.
+Boy am I surprised to see you.
+It's been far too long. 
+After the war, I was travelin' the continent.
+And, um, somehow... 
+
+MARS:
+...You landed up here?
+Well, thank goodness. There's no way you
+would have joined the barbarians. 
+Beck, we're fighting another war.
+Why don't you come with us? 
+
+BECK:
+I don't have my ballista any more.
+Just my horse-buddy right 'ere. 
+But if you're fine with that, then sure.
+I'll help you princey. 
+
+
+MS013_BT_BECK:
+*BECK enters*
+BECK:
+What's the point of war? 
+
+
+MS013_DIE_BECK:
+*BECK enters*
+BECK:
+D-damn... it...
+You too... Pony...? 
+
+
+MS013_ED1:
+
+INSERTNAMEHERE:
+2*MARS enters**CHEINE enters*
+MARS:
+There's something that's been bothering me. 
+The five orbs are very important, correct?
+But Lord Gotoh never told us much about
+them. 
+Do you know anything about them, Xane? 
+
+CHEINE:
+Well, Gotoh kept his lips shut 'cause he was
+afraid of givin' you a heart attack. 
+Tell you what, I'll tell you about 'em.
+But I have to warn you, it's a looooong story. 
+The orbs are meant for the shield that binds
+the earth dragons... 
+In other words, they were once embedded in
+the shield itself. 
+The orbs have been handed down for
+generations amongst the divine dragons
+and each contains a hidden power. 
+The shield itself is but a pedestal for the
+five orbs to release their innate powers. 
+If even one orb is missing, the seal's a goner. 
+
+MARS:
+I see.
+But if that's the case, why were the orbs
+separated? 
+
+CHEINE:
+'Cause the shield broke. 
+The Binding Shield that was enshrined in the
+Fane of Raman was stolen. 
+
+MARS:
+When exactly did this happen? 
+
+CHEINE:
+Six hundred years ago, I reckon.
+Gotoh scoured the lands searchin' for the
+shield, hopin' to get it back. 
+He managed to retrieve the five orbs,
+but in the end, he couldn't find the shield. 
+Then, in the last war... 
+The Fane of Raman was looted and the orbs
+were scattered once more. 
+
+MARS:
+I see.
+So the orbs that Lord Gotoh lost...
+He's searching for them again? 
+
+CHEINE:
+Yep. I'm sure you know about the Starsphere,
+Lightsphere and Geosphere... 
+But there's also the Darksphere and
+Lifesphere. 
+Gotoh's got the Lightsphere, but the
+Starsphere's in pieces, 
+and it sounds like Gharnef gave the
+Darksphere to Hardin. 
+
+MARS:
+The Geosphere is in Altea, so all that remains
+is the Lifesphere. 
+
+CHEINE:
+Anyway, let's go inside.
+I'll be helpin' you too.
+Now, come on, princey! 
+
+
+MS013_ED2:
+
+INSERTNAMEHERE:
+2*MARS enters**JEIGUN enters*
+JEIGUN:
+Sire, please wait. 
+*MARS leaves**PLAYER enters*PLAYER
+JEIGUN:
+, you as well. 
+*PLAYER leaves**MARS enters*
+JEIGUN:
+I just received a distressing message.
+People have been sighted not far behind us. 
+There seems to be a battle underway. 
+
+MARS:
+Out here?
+Could it be the barbarians?
+Or perhaps it's the assassins... 
+
+JEIGUN:
+In any case, this area is almost entirely
+uninhabited. So it can't be any old people... 
+To make matters worse, the snow is becoming
+heavier... Fighting will be difficult in this
+weather. 
+
+MARS:
+But if there are allies... 
+*JEIGUN leaves**PLAYER enters*
+PLAYER:
+Indeed. We cannot abandon them.
+If there are allies that is... 
+
+
+
+MS013_ED2_Y:
+
+INSERTNAMEHERE:
+Then we'll just have to find out for ourselves,
+before the battle is over. Let's go! 
+
+

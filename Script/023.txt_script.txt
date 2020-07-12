@@ -1,0 +1,111 @@
+MS023_OP0:
+
+
+MS023_OP0_A:
+
+
+MS023_OP0_B:
+
+
+MS023_OP0_C:
+
+
+MS023_OP1:
+*MARS enters**GARNEF enters*
+GARNEF:
+So you've come, boy.
+How many times must you get in my way?
+Enough! I tire of our games!! 
+
+MARS:
+Garnef, what have you done with
+my sister and the others?!
+Release them at once! 
+
+GARNEF:
+Heh heh heh... I've allowed them the honor
+of being sacrifices for the Dark Dragon's
+resurrection. You will never see them again. 
+Emperor Mediuth will soon be reborn
+in his true and darkest form,
+requiring the sisters as live sacrifices. 
+
+And they will usher in a new era. 
+'Tis a pity. Their souls couldn't bear
+the suffering and shattered into pieces...
+Even I am powerless to help them. 
+Shame, really. I have them to thank for
+the Dark Dragon's awakening. Not even the
+Shield of Seals can stop him now. 
+I applaud you for coming this far.
+But... little prince...
+you will go no further. 
+I will kill you here, and you will die
+knowing that you are nothing!! 
+
+
+MS023_BT_BOSS:
+*GARNEF enters*
+GARNEF:
+Heh heh heh...
+Perhaps...
+a taste of Maph's might is necessary. 
+
+
+MS023_BT_BOSS_MARS:
+*GARNEF enters*
+GARNEF:
+Your blade is blunt before me, Marth...
+I'll smash you and the Shield of Seals
+into pieces!! 
+*MARS enters*
+MARS:
+I do not intend to fall here.
+Out of my way, Garnef! 
+
+
+MS023_BT_BOSS_PC_PCF1:
+*GARNEF enters*
+GARNEF:
+Heh heh heh...
+Allow me demonstrate Maph's might... 
+*PLAYER enters*
+PLAYER:
+I will not let Prince Marth die.
+I won't...! 
+
+
+MS023_BT_BOSS_PC_PCM1:
+*GARNEF enters*
+GARNEF:
+Heh heh heh...
+Allow me demonstrate Maph's might... 
+*PLAYER enters*
+PLAYER:
+I will not let Prince Marth die.
+I won't let the likes of you lay
+even a finger on him...! 
+
+
+MS023_DIE_BOSS:
+*GARNEF enters*
+GARNEF:
+Heh heh...
+You're too late...
+The end is nigh... 
+
+
+MS023_ED1_PCF1:
+*MARS enters**JEIGUN enters*
+JEIGUN:
+Sire, this way.
+There are stairs here, leading up. 
+
+
+MS023_ED1_PCM1:
+*MARS enters**JEIGUN enters*
+JEIGUN:
+Sire, this way.
+There are stairs here, leading up. 
+
+

@@ -1,0 +1,145 @@
+MS022_OP0:
+*MARS enters**JEIGUN enters*
+MARS:
+What is this strange air?
+It feels like it's full of evil spirits. 
+
+JEIGUN:
+That is true...
+My body appears to be frozen. 
+These are the evil spirits of the
+Earth Dragons. Your highness, it seems
+we can't have everybody enter ahead. 
+Since we don't know what
+will happen, please choose carefully
+who to take with you. 
+
+MARS:
+I hope to at least take the people
+who are worried about the four sisters. 
+
+JEIGUN:
+Mmm... There's no avoiding that.
+But how many people will survive?
+I bet this will be a fierce battle. 
+
+
+MS022_OP1:
+*MARS enters**GATO enters*
+GATO:
+Prince Marth, in this altar lurks many
+savage barbarians and mage dragons
+long gone mad. 
+They have fallen under Garnef's spell
+and will attack you given the chance. 
+Garnef's servants--
+the heretic priests possess great power.
+They are not to be taken lightly. 
+If you let this battle drag on,
+it may become fiercer than you can handle.
+Do not stop. Make for the end at once! 
+Once you defeat Garnef, retrieve the
+Falchion that he stole from your Aritia. 
+As you well know, without the Falchion,
+defeating Mediuth will be nigh impossible... 
+
+MARS:
+I understand, Lord Gato. 
+My friends and I shall sally forth
+to the deepest depths of the altar! 
+
+GATO:
+It would be wise to bring this ally with you.
+She has deigned to lend you her strength. 
+
+
+
+MS022_EV1_PCF1:
+*NAGA enters*
+NAGA:
+...... 
+*MARS enters*
+MARS:
+You're... 
+No, I don't believe we've ever met.
+But, why...?
+I have the strangest feeling that I know her... 
+
+NAGA:
+My name... is Nagi.
+I will... stop the enemy...
+You must hurry to the throne room... 
+Go...
+This time... everything...
+must end...... 
+
+
+MS022_EV1_PCM1:
+*NAGA enters*
+NAGA:
+...... 
+*MARS enters*
+MARS:
+You're... 
+*MARS leaves**PLAYER enters*
+PLAYER:
+Another ally from the previous war, sire? 
+*PLAYER leaves**MARS enters*
+MARS:
+No, I don't believe we've ever met.
+But, why...?
+I have the strangest feeling that I know her... 
+
+NAGA:
+My name... is Nagi.
+I will... stop the enemy...
+You must hurry to the throne room... 
+Go...
+This time... everything...
+must end...... 
+
+
+MS022_ED1_END:
+
+
+MS022_ED1_END_BGMCONT:
+
+
+MS022_ED1_PCF1:
+*MARS enters**JEIGUN enters*
+JEIGUN:
+Sire, the wall in front of us
+has collapsed! 
+
+
+MS022_ED1_PCM1:
+*MARS enters**JEIGUN enters*
+JEIGUN:
+Sire, the wall in front of us
+has collapsed! 
+
+
+MS022_ED2:
+*PLAYER enters**MARS enters*
+PLAYER:
+Remove hat? 
+
+
+MS022_ED2_A:
+
+INSERTNAMEHERE:
+Yes, I think I will remove it for this battle. 
+
+INSERTNAMEHERE:
+Excellent choice. Well, let's hurry! 
+
+
+MS022_ED2_B:
+
+INSERTNAMEHERE:
+No, I rather like it. It's so toasty. 
+
+INSERTNAMEHERE:
+I-I see. Well then, let's go! 
+
+

@@ -1,0 +1,340 @@
+MS015_OP0:
+
+
+MS015_EV1:
+*EST enters*
+EST:
+I'm sorry, Abel...
+It's all my fault... 
+
+
+MS015_OP1:
+*SOLDIER_RED enters**EIBEL enters*
+SOLDIER_RED:
+General, the missing Aritian remnants
+have at long last been sighted! 
+
+EIBEL:
+Is that so? Heh heh...
+How convenient. We will have Gra's men
+draw them in and be rid of them all at once. 
+
+SOLDIER_RED:
+Understood. But what of that knight? 
+
+EIBEL:
+You mean Abel? 
+Should it look as though he intends to
+betray us... Kkkkccchhhh!
+Kill the hostage!! 
+Besides, he's nothing but a deserter;
+it's far too late for him to pledge
+loyalty to his prince again. 
+Heh heh... now that Abel is
+their enemy, how will they fight...?
+This should be quite the show... 
+
+
+MS015_OP2:
+*MARS enters**TOMS enters*
+TOMS:
+Prince Marth,
+I have been waiting for you.
+And you have finally returned. 
+
+MARS:
+Oh! Tomth! 
+You're a general of Akaneia, though;
+why would you come to my side? 
+
+TOMS:
+I've given up my position and
+have left Emperor Hardin's side. 
+There is no justice left in Akaneia.
+But justice lies in your Aritia.
+And that's why I've come to you. 
+
+MARS:
+I see.
+Then Tomth, will you fight with us? 
+
+TOMS:
+Indeed I shall.
+Let this battle be a testament to
+my faith in you. 
+
+
+MS015_TK1:
+*MARS enters**ABEL enters*
+MARS:
+Abel!?
+Why are you...!? 
+I can't believe you would turn
+against your own motherland! 
+
+ABEL:
+Prince Marth... 
+Please forgive me...
+They took Est...
+I have to fight... or they'll kill her. 
+...But, seeing that I've met you here...
+I--I can't do it anymore...
+I just can't fight you, sire. 
+Est... please, forgive me...! 
+
+
+MS015_TK2:
+*EST enters**ABEL enters*
+EST:
+Abel...
+I'm sorry.
+It hurt, didn't it? 
+
+ABEL:
+Est!
+Thank heavens you're safe. 
+
+EST:
+Yeah, Prince Marth saved me. 
+You don't have to fight anymore.
+It's okay now.
+I'm safe. 
+
+ABEL:
+I see. Those blasted Akaneians!
+How can I possibly make it up to
+Prince Marth...? 
+
+EST:
+I'm so sorry, Abel... It's all my fault. 
+
+ABEL:
+No, Est!
+That's not true! 
+It was those Akaneians--
+I won't forgive them...
+I'll show them the true meaning of pain! 
+
+
+MS015_VIL1:
+*MARS enters**UNCLE enters*
+UNCLE:
+So you've come, Prince Marth.
+I've been waitin' to deliver this to you. 
+There's always been bad blood between-- 
+
+MARS:
+Mmm, I understand.
+But, for the sake of everyone, you
+should start to make up with them... 
+
+
+MS015_H1:
+*OLDMAN enters*
+OLDMAN:
+Apparently there are hordes of enemy
+soldiers waitin' in the fortresses.
+This ain't the time to let your guard down! 
+
+
+MS015_H2:
+*LADY enters*
+LADY:
+You...
+Where the hell did you lot disappear to? 
+Nobody had a clue where you went!
+We were worried sick! 
+
+
+MS015_H3:
+*MAN2 enters*
+MAN2:
+Y'know, Gra's not too fond of Aritia. 
+But sometimes I just gotta wonder if
+Akaneia's just forcin' Gra to fight us. 
+
+
+MS015_H4:
+*WOMAN2 enters*
+WOMAN2:
+After the castle fell,
+Princess Ellis was stolen away
+by eerie priests in black robes. 
+Oh... Princess Ellis...
+I sure hope she's safe... 
+
+
+MS015_H5:
+*WOMAN1 enters*
+WOMAN1:
+Our days under the empire's occupation
+have been anything but bright. 
+But we kept faith.
+We knew that you would return for us,
+Prince Marth. 
+If anyone could save us from our
+suffering, t'would be you. 
+You, sire, are the warrior of light--
+chosen by the gods...
+Glory to our star and savior! 
+
+
+MS015_H6:
+*MAN1 enters*
+MAN1:
+There are plenty o' enemy spies
+lurkin' in this region. 
+Be careful!
+I think I just saw some movement
+from one o' the fortresses. 
+
+
+MS015_H7:
+*MAN2 enters*
+MAN2:
+The mercenaries protecting the castle
+are the cream of the crop. 
+They're terrifying enemies for sure,
+but I wonder if you could make an
+ally out of them? 
+
+
+MS015_BT_ABEL:
+*ABEL enters*
+ABEL:
+Prince Marth... please, forgive me...
+I... I don't want to lose Est... 
+
+
+MS015_BT_BOSS:
+*EIBEL enters*
+EIBEL:
+Damn it!
+You're not human!
+No human could defeat my mighty army! 
+
+
+MS015_DIE_ABEL:
+*ABEL enters*
+ABEL:
+Farewell, Est... 
+
+
+MS015_DIE_BOSS:
+*EIBEL enters*
+EIBEL:
+How could Akaneia be defeated...?
+Nngh...! 
+
+
+MS015_ED1_PCF1:
+*MARS enters**JEIGUN enters*
+MARS:
+That was quite a battle.
+Is everyone alright? 
+
+JEIGUN:
+There's no need for concern, sire.
+Everybody has eagerly awaited this day. 
+
+MARS:
+Yet, because of Akaneia's actions,
+so many innocent lives have been lost. 
+How can I face them...? 
+I've caused them great sorrow.
+Because I was too weak... 
+Was I presumptuous in believing
+I could protect my homeland? 
+
+JEIGUN:
+No, your highness, you're wrong![A}
+You have a gentle heart, so that is
+why no matter what hardships we face,
+we can endure them. 
+We believe in you, so that
+is why we follow you. 
+Your highness, please raise
+your spirit!! We still haven't reclaimed
+Aritia Castle. 
+There are probably many enemies
+awaiting us, but this is our castle.
+We already know how to fight this battle. 
+Well, Lord Marth!
+Let's go! 
+
+
+MS015_ED1_PCM1:
+*MARS enters**JEIGUN enters*
+MARS:
+That was quite a battle.
+Is everyone alright? 
+
+JEIGUN:
+There's no need for concern, sire.
+Everybody has eagerly awaited this day. 
+
+MARS:
+Yet, because of Akaneia's actions,
+so many innocent lives have been lost. 
+How can I face them...? 
+I've caused them great sorrow.
+Because I was too weak... 
+Was I presumptuous in believing
+I could protect my homeland? 
+
+JEIGUN:
+No, your highness, you're wrong![A}
+You have a gentle heart, so that is
+why no matter what hardships we face,
+we can endure them. 
+We believe in you, so that
+is why we follow you. 
+Your highness, please raise
+your spirit!! We still haven't reclaimed
+Aritia Castle. 
+There are probably many enemies
+awaiting us, but this is our castle.
+We already know how to fight this battle. 
+Well, Lord Marth!
+Let's go! 
+
+
+MS015_ED2_PCF1:
+
+
+MS015_ED2_PCM1:
+
+
+MS015_ED2_01_PCF1:
+
+
+MS015_ED2_01_PCM1:
+
+
+MS015_ED3:
+*PLAYER enters**MARS enters*
+MARS:
+Remove the tiara? 
+
+MS015_ED3_A:
+
+INSERTNAMEHERE:
+Yes, thank you. 
+
+INSERTNAMEHERE:
+Good, I'm glad we've sorted that out. 
+
+
+MS015_ED3_B:
+
+INSERTNAMEHERE:
+No, thank you.
+Maybe it just takes a while for
+the legendary power to manifest. 
+
+INSERTNAMEHERE:
+You, um, still believe Chainy...? 
+Well, if that's what you really want,
+I suppose I shan't persuade you further. 
+
+

@@ -1,0 +1,630 @@
+MS024_OP0:
+*PLAYER enters**MARS enters*PLAYER
+MARS:
+...
+The final battle is nigh.
+Medeus awaits us up ahead. 
+
+MARS:
+It won't be an easy battle...
+I dare not imagine how many of us will
+be left standing at the end... 
+Either way, the fate of this world
+rests on our hands... 
+
+PLAYER:
+Sire... 
+Worry not, sire.
+We will emerge victorious.
+That's what the fortune-teller said. 
+
+MARS:
+Fortune-teller? 
+
+PLAYER:
+When I was a child, I asked our village's
+fortune-teller for a reading... 
+The old lady held the palm of my hand,
+and said to me...
+"Ah, your fate is clear to me, child." 
+
+MARS:
+And? What did she say? 
+
+
+MS024_OP0_1_PCF1:
+
+INSERTNAMEHERE:
+She said that I would
+"PLAYER..." 
+
+INSERTNAMEHERE:
+Oh...?
+I can imagine that happening... 
+
+INSERTNAMEHERE:
+And she said that I'd live until I
+was a hundred years old...! 
+
+INSERTNAMEHERE:
+'Til a hundred...?
+That is an awfully long time... 
+Oh, I see...!
+If the fortune-teller was right, then... 
+
+INSERTNAMEHERE:
+Then we are definitely walking out
+of this hall victorious.
+I'm not quite that old yet... 
+So, rest easy, sire. 
+
+INSERTNAMEHERE:
+Haha, you're quite right.
+I... feel much calmer now. 
+Thank you, PLAYER... 
+
+
+MS024_OP0_1_PCM1:
+
+INSERTNAMEHERE:
+She said that I would
+"PLAYER..." 
+
+INSERTNAMEHERE:
+Oh...?
+I can imagine that happening... 
+
+INSERTNAMEHERE:
+And she said that I'd live until I
+was a hundred years old...! 
+
+INSERTNAMEHERE:
+'Til a hundred...?
+That is an awfully long time... 
+Oh, I see...!
+If the fortune-teller was right, then... 
+
+INSERTNAMEHERE:
+Then we are definitely walking out
+of this hall victorious.
+I'm not quite that old yet... 
+So, rest easy, sire. 
+
+INSERTNAMEHERE:
+Haha, you're quite right.
+I... feel much calmer now. 
+Thank you, PLAYER... 
+
+
+MS024_OP0_ARG_A:
+
+INSERTNAMEHERE:
+grow up to be a legendary hero
+
+MS024_OP0_ARG_B:
+
+INSERTNAMEHERE:
+live out my life quietly
+
+MS024_OP0_ARG_C:
+
+INSERTNAMEHERE:
+follow my calling like an arrow
+
+MS024_OP0_ARG_D:
+
+INSERTNAMEHERE:
+devote my life to the service of others
+
+MS024_OP0_ARG_E:
+
+INSERTNAMEHERE:
+be stupidly rich and famous
+
+MS024_OP1:
+*MARS enters*
+MARS:
+I see my sister and the others...
+But who are they guarding...? 
+No, it can't be...
+That's--that's Medeus...! 
+*JEIGUN enters*
+JEIGUN:
+With the princesses around him, sire,
+you'll be unable to strike down Medeus. 
+If we don't do something soon, then the
+other dragons will awaken, and this battle
+will rapidly escalate into mayhem. 
+
+MARS:
+Then, what do you suppose I do? 
+How on earth can we save them?!
+Tell me, Jagen! 
+
+JEIGUN:
+I...
+I do not know... 
+But, if we are to defeat Medeus,
+we must stop at nothing... 
+
+MARS:
+What?!
+...You can't mean to kill them?! 
+
+JEIGUN:
+It may be... necessary. 
+As they are now, they suffer greatly. 
+We must save them, even if it should
+cost them their lives... 
+
+MARS:
+Jagen, this--is this really a
+decision I must make? 
+
+JEIGUN:
+You are Altea's crown prince, sire.
+A ruler must be ready for anything,
+though it may cost them their happiness. 
+That is all. 
+
+MARS:
+Enough, Jagen. I understand.
+Still, I cannot accept it.
+There must be another way. 
+Even till the very end,
+I will never give up!! 
+
+
+MS024_OP2_PCF1:
+*PLAYER enters**JEIGUN enters*PLAYER
+JEIGUN:
+, I know how Prince Marth feels. 
+Please, I beg of you...
+Please find a way to save them. 
+
+PLAYER:
+Understood.
+I will try my best. 
+But if the occasion should arise...
+Even if Prince Marth himself refuses,
+I shall release them from their misery... 
+But for now...
+I don't want to think about it.
+I still want to hope. 
+PLAYER
+JEIGUN:
+...... 
+
+
+MS024_OP2_PCM1:
+*PLAYER enters**JEIGUN enters*PLAYER
+JEIGUN:
+, I know how Prince Marth feels. 
+Please, I beg of you...
+Please find a way to save them. 
+
+PLAYER:
+Understood.
+I will try my best. 
+But if the occasion should arise...
+Even if Prince Marth himself refuses,
+I shall release them from their misery... 
+But for now...
+I don't want to think about it.
+I still want to hope. 
+PLAYER
+JEIGUN:
+...... 
+
+
+MS024_TK1:
+*JURIAN enters**S_RENA enters*
+JURIAN:
+Lena, snap out of it!
+C'mon, it's me! Julian!
+What's wrong with you, Lena? 
+I know I'm a good-for-nothing scoundrel,
+but for you, I'd do anything. 
+I don't want anything else--
+I just want to see your smile again. 
+Hey, Lena; could you smile for me?
+Please... 
+*S_RENA leaves**RENA enters*
+RENA:
+Oh... Julian...?
+You came. 
+I knew you'd find me. I knew it.
+That's why, I could continue struggling
+in the darkness of my soul... 
+Julian, I'm sorry.
+I've always been a bother to you. 
+
+JURIAN:
+Are you kiddin' me, Lena...?
+I'm just happy to hear your voice again. 
+
+RENA:
+Julian, there's something I'd like very much.
+Will you listen? 
+
+JURIAN:
+Huh?
+Sure, Lena, hit me.
+So long as it's within my power... 
+
+RENA:
+Could you call me... "honey"? 
+You're always "Lena" this and "Lena" that.
+You speak as though we're barely friends--
+and I don't like that feeling. 
+That just won't do, especially not after
+we settle down together in Macedon. 
+
+JURIAN:
+Huh? ...What're you talking about, Lena...?
+Er... I mean... H-honey...
+Don't tell you and I are gonna... 
+
+RENA:
+Uh-huh... I'm sure God will forgive me. 
+After all, you...
+You mean the world to me. 
+
+
+MS024_TK2:
+*MINERBA enters**S_MARIA enters*
+MINERBA:
+Maria! Please, wake up!
+It's me, Minerva! What's happened to you?!
+Get a hold of yourself. 
+*S_MARIA leaves**MARIA enters*
+MARIA:
+Unh...
+Ah... Minerva... 
+A-ahhhhhh!
+Medeus is... 
+
+MINERBA:
+Shh. It's alright now.
+Everything's going to be okay. 
+I'm so sorry, Maria.
+I've left you alone for so long... 
+
+MARIA:
+Minerva...
+I was scared... I was so scared... 
+Oh!
+How is Michalis? 
+I think he fought Gharnef to save me. 
+
+MINERBA:
+Michalis... is fine.
+Don't worry, Maria. 
+
+MARIA:
+Really?
+Then, once we go home, we'll be together
+again just like before? 
+I'm so glad, Minerva!
+Oh, I hope we can see him soon. 
+
+MINERBA:
+Maria...... 
+
+
+MS024_TK3:
+*SIRIUS enters**S_NIENA enters*
+S_NIENA:
+Ahh...
+I've done something terrible. 
+I was too foolish...
+I hurt Hardin... I drove him to despair. 
+
+SIRIUS:
+My queen...
+Prince Marth has ended Hardin's suffering. 
+The Emperor loved you till the very end.
+He was sorry for what he'd done to you. 
+It's alright now.
+You need not worry. 
+It was all just a bad dream... 
+*S_NIENA leaves**NIENA enters*
+NIENA:
+......
+Who......? 
+Oh...! You're...
+Camus...?!
+Camus!! 
+Why... Why are you...
+This is a dream, isn't it? 
+
+SIRIUS:
+Nngh!
+...My queen... You are mistaken... 
+I am Sirius,
+a soldier of the allied forces.
+I know not of this Camus... 
+
+NIENA:
+Sirius...?! ...It can't be...
+No! You're wrong!!
+You're... 
+
+SIRIUS:
+Please, calm yourself;
+you must be exhausted. 
+I must depart soon. 
+Queen Nyna, listen to me...
+You should head to Prince Marth. 
+
+NIENA:
+You...
+Where are you going? 
+
+SIRIUS:
+I must go to my country.
+There's... someone waiting for me. 
+
+NIENA:
+Is... Is that so...?
+I see... Sirius...
+Thank you. I am most grateful. 
+
+SIRIUS:
+...Forgive me... 
+
+NIENA:
+Pardon...?! 
+
+SIRIUS:
+No... It is nothing...
+Now, Queen Nyna; go! 
+
+
+MS024_TK4:
+*MARICH enters**S_ERICE enters*
+MARICH:
+Princess Elice!
+It's me, Merric.
+Snap out out of it! 
+I--I studied magic ferociously,
+all so that I could protect you... 
+I'm sorry...
+I failed. 
+I couldn't be by your side,
+when you needed me most. 
+Elice... Please.
+Please open your eyes! 
+*S_ERICE leaves**ERICE enters*
+ERICE:
+Merric...? 
+...Ah!
+Oh, Merric! 
+Help me... Gharnef is...
+I'm so frightened...
+Please help me! 
+
+MARICH:
+Elice!
+Thank goodness, you've come back! 
+It's alright now.
+I'm here, so... 
+Oh... but Prince Marth is...
+Everyone's watching, so we can't...
+Oh well... *ahem* 
+Elice, I'll never leave your side again. 
+No matter what may come between us...
+Never again shall I abandon you! 
+
+
+MS024_EV2:
+*ERICE enters*
+ERICE:
+Forgive me, Marth...
+I've been such a burden. 
+*ERICE leaves**NIENA enters*
+NIENA:
+We're all safe now.
+We're free of the Shadow Dragon's power. 
+*NIENA leaves**MARIA enters*
+MARIA:
+Prince Marth!
+Finish him off! 
+*MARIA leaves**RENA enters*
+RENA:
+We will heal the wounded,
+so that no one else shall die... 
+
+
+MS024_EV2_2_PCF1:
+*MARS enters**PLAYER enters*
+PLAYER:
+Sire, good news.
+The princesses have come back to us. 
+Your kindness has saved their souls. 
+
+MARS:
+Thank goodness.
+I'm too happy for words. 
+I suppose some battles require sacrifice...
+But that matters not... 
+I won't give up--not now, not ever!
+Together, we will win this battle! 
+*PLAYER leaves**MEDIUTH enters*
+MEDIUTH:
+YOU PRESUMPTUOUS HUMANS...
+HOW DARE YOU--! 
+*MARS leaves**MARS enters*
+MARS:
+Shadow Dragon Medeus!
+Now, nothing stands between
+this blade and you. 
+Come, let's settle this! 
+
+
+MS024_EV2_2_PCM1:
+*MARS enters**PLAYER enters*
+PLAYER:
+Sire, good news.
+The princesses have come back to us. 
+Your kindness has saved their souls. 
+
+MARS:
+Thank goodness.
+I'm too happy for words. 
+I suppose some battles require sacrifice...
+But that matters not... 
+I won't give up--not now, not ever!
+Together, we will win this battle! 
+*PLAYER leaves**MEDIUTH enters*
+MEDIUTH:
+YOU PRESUMPTUOUS HUMANS...
+HOW DARE YOU--! 
+*MARS leaves**MARS enters*
+MARS:
+Shadow Dragon Medeus!
+Now, nothing stands between
+this blade and you. 
+Come, let's settle this! 
+
+
+MS024_BT_BOSS:
+*MEDIUTH enters*
+MEDIUTH:
+I HAVE... REVIVED...
+FOOLISH HUMANS...
+I WILL LEAVE... NONE ALIVE... 
+
+
+MS024_BT_BOSS_MARS:
+*MEDIUTH enters*
+MEDIUTH:
+DO YOU PLAN TO...
+DEFY ME ONCE MORE...
+DESCENDANT OF ANRI...? 
+*MARS enters*
+MARS:
+No matter how many times you return,
+mankind will never surrender! 
+This long battle...
+I will end it here, once and for all! 
+
+
+MS024_BT_BOSS_PC_PCF1:
+*MEDIUTH enters*
+MEDIUTH:
+A MERE HUMAN SUCH AS YOURSELF...
+WISHES TO CHALLENGE ME...?
+HOW FOOLISH... 
+*PLAYER enters*
+PLAYER:
+I have come this far, just for this moment.
+My death means nothing, for Prince Marth
+will create a bright future for us all...! 
+As long as I have that hope, I'll fight on.
+I'll come at you with everything I've got! 
+
+
+MS024_BT_BOSS_PC_PCM1:
+*MEDIUTH enters*
+MEDIUTH:
+A MERE HUMAN SUCH AS YOURSELF...
+WISHES TO CHALLENGE ME...?
+HOW FOOLISH... 
+*PLAYER enters*
+PLAYER:
+I have come this far, just for this moment.
+My death means nothing, for Prince Marth
+will create a bright future for us all...! 
+As long as I have that hope, I'll fight on.
+I'll come at you with everything I've got! 
+
+
+MS024_BT_ERICE:
+*S_ERICE enters*
+S_ERICE:
+WE WILL KILL ALL...
+WHO DEFY...
+LORD MEDEUS... 
+
+
+MS024_BT_MARIA:
+*S_MARIA enters*
+S_MARIA:
+WE WILL KILL ALL...
+WHO DEFY...
+LORD MEDEUS... 
+
+
+MS024_BT_NIENA:
+*S_NIENA enters*
+S_NIENA:
+WE WILL KILL ALL...
+WHO DEFY...
+LORD MEDEUS... 
+
+
+MS024_BT_RENA:
+*S_RENA enters*
+S_RENA:
+WE WILL KILL ALL...
+WHO DEFY...
+LORD MEDEUS... 
+
+
+MS024_DIE_BOSS_A:
+*MEDIUTH enters*
+MEDIUTH:
+GWAH...! 
+WHY......?
+WHY... HAVE I...
+BEEN DEFEATED... SO EASILY...? 
+IS THIS... THE POWER...
+...OF NAGA'S... BINDING SHIELD...? 
+KNOW THIS, HUMANS...
+THIS LIGHT IS ONLY A BRIEF RESPITE... 
+SO LONG AS EVIL LURKS WITHIN THE
+HEARTS OF MAN...
+SHOULD THIS ACCURSED SHIELD BE LOST, 
+WE SHALL RISE FROM THE DEPTHS
+OF HELL... 
+DO NOT...
+EVER FORGET... 
+
+
+MS024_DIE_BOSS_B:
+*MEDIUTH enters*
+MEDIUTH:
+GAHAHA...
+NAIVE HUMANS...
+DON'T THINK YOU'VE WON! 
+YOUR NAIVETE... SHALL BE YOUR UNDOING... 
+MY NOBLE THRALLS...
+BECOME MY FLESH AND BLOOD... 
+GIVE ME YOUR STRENGTH! 
+
+
+MS024_DIE_ERICE:
+*ERICE enters*
+ERICE:
+Ohh... Merric...... 
+
+
+MS024_DIE_MARIA:
+*MARIA enters*
+MARIA:
+Ah... Minerva...... 
+
+
+MS024_DIE_NIENA:
+*NIENA enters*
+NIENA:
+Camus... save me...... 
+
+
+MS024_DIE_RENA:
+*RENA enters*
+RENA:
+Ohh... Julian...... 
+
+

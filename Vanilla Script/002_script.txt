@@ -1,0 +1,423 @@
+MS002_OP0:
+*PLAYER enters**JEIGUN enters*
+JEIGUN:
+Macedon's main force consists of
+pegasus knights and dracoknights...
+Both are fast and highly mobile units. 
+In particular, there are the Whitewings, who
+fought under our banner in the last war... 
+There aren't many in these lands who
+could match their terrifying speeds. 
+
+PLAYER:
+I would have loved to witness their prowess... 
+PLAYER
+JEIGUN:
+, while we're on the subject of
+speed... 
+
+
+MS002_OP0_A:
+
+INSERTNAMEHERE:
+Your speed can be summed up as exemplary. 
+Even the Whitewings would have trouble
+keeping up with you.
+As I'd expect of an Altean Royal Guard. 
+
+INSERTNAMEHERE:
+It is an honor to receive such praise,
+Sir Jagen. 
+
+
+MS002_OP0_B:
+
+INSERTNAMEHERE:
+Your speed is satisfactory.
+But the Whitewings would simply fly straight
+over you. 
+
+INSERTNAMEHERE:
+I see...
+I'll be more careful, Sir Jagen. 
+
+
+MS002_OP0_C:
+
+INSERTNAMEHERE:
+Your speed is, sadly, terribly lacking.
+The Whitewings would probably reach their
+destination in half your time.... 
+
+INSERTNAMEHERE:
+I-I see...
+I-I'll be more careful, Sir Jagen. 
+
+
+MTUTS_FE24:
+*PLAYER enters**ANNA_HOUSE enters*
+ANNA_HOUSE:
+Hello there PLAYER. 
+
+PLAYER:
+Hm? You're...? 
+Why do I feel like we've met somewhere
+before...? 
+
+ANNA_HOUSE:
+Oh, don't worry about little old me.
+The important thing is that I came here
+to share a wonderful tip with you. 
+Have you heard about "How's Everyone"? 
+
+PLAYER:
+How's... everyone? 
+
+ANNA_HOUSE:
+"How's Everyone" is all the rage!
+By checking it, you can see how everyone
+in your army is faring. 
+You can watch your allies train, discover
+useful items, or even listen to their thoughts... 
+So if you ever want to know how everyone is,
+then take a look at "How's Everyone."
+Easy, right? 
+
+PLAYER:
+I... see. Thanks, I guess. 
+
+ANNA_HOUSE:
+The more time passes, the more things you'll
+be able to see. 
+If you ever feel the urge, then go ahead
+take a peek! Well, I'll be off now. Buh-bye! 
+
+
+MS002_OP1:
+*MARS enters**KATUA enters*
+KATUA:
+Prince Marth!!
+Thank goodness you've come to Macedon! 
+
+MARS:
+Catria?!
+I received word that there was a rebellion
+in Macedon. Are you unharmed? 
+
+KATUA:
+Yes, I'm fine. My older sister Palla and I
+managed to escape somehow. 
+But Princess Minerva was captured by
+the rebels. 
+Prince Marth, please...
+You have to rescue Princess Minerva!
+At this rate, her life will be in danger! 
+
+MARS:
+Of course I will help her.
+Catria, please take us to where she is. 
+
+KATUA:
+Yes, my lord! 
+But first we have to break through these
+woods. 
+General Rumel's dragon knight squad is
+lurking within this area. 
+If we approach from the front,
+we'll be easy pickings for them. 
+
+MARS:
+I see... So you're suggesting we flank them
+from the left or the right. 
+Thank you, Catria.
+Leave it to us! 
+
+
+MS002_H1:
+*MAN2 enters*
+MAN2:
+Warren's a bit of an idiot.
+Just 'cause they payed him well, he went
+ahead and joined the rebel army! 
+Ahh, to think a fool like him was once
+acquainted with the fair Catria... 
+
+
+MS002_H2:
+*LADY enters*
+LADY:
+
+Look out for those pilfering thieves.
+If they take off with your precious treasure,
+you won't ever get it back. 
+Never let them escape from your sight. 
+
+
+MS002_H3:
+*OLDMAN enters*
+OLDMAN:
+Because of the last war, every nation has
+been forced to lead hard lives. 
+The only well-off country is Archanea,
+ruled by Emperor Hardin. 
+
+
+MS002_H4:
+*OLDMAN enters*
+OLDMAN:
+Some dirty thieves took our village treasure,
+the Lady Sword, and ran off with it. 
+Only women can wield the incredible power
+of that sword. 
+Please, prise it back from their filthy hands. 
+
+
+MS002_H5:
+*MAN1 enters*
+MAN1:
+Beware when dracoknights are around.
+Even from a far-off distance, they can
+move all at once and swoop down on you! 
+
+
+MS002_TK1:
+*KATUA enters**WOLLEN enters*
+KATUA:
+Warren?!
+Even a good man like you has sided with
+the rebel army... 
+
+WOLLEN:
+Catria the White, huh?
+It's been a while. 
+You know I'm just a common hunter.
+If they pay me enough, I'll do anything. 
+
+KATUA:
+Warren, listen to me! 
+Princess Minerva endeavored to create a
+country where its people could live at ease. 
+She exiled soldiers and generals of ill repute
+to accomplish that goal. 
+But General Rucke, despite knowing this,
+roused the soldiers into a coup d'etat. 
+Can't you see? He's just trying to make this
+country into his own! 
+And you can honestly say you're okay with
+that? 
+
+WOLLEN:
+...I see.
+Well, I don't like the military acting as if they
+owned the place... 
+Alright then.
+If you're going to help the princess,
+then so will I. 
+
+
+MS002_VIL1:
+*MARS enters**MAJI enters*
+MAJI:
+O'er here! Prince Marth! 
+
+MARS:
+You're... Cord! 
+What are you doing so far from Talys? 
+
+MAJI:
+I couldn't sit still when I heard you's
+fighting again, so I came to join in. 
+We're Talys's mercenaries, right?
+If ya died, Princess Caeda'd cry. 
+Prince Marth, lemme fight too.
+I'll join you's army. 
+
+
+MS002_BT_BOSS:
+*LUMEL enters*
+LUMEL:
+Taste the terror of Macedon's fearless
+dracoknight squad! 
+
+
+MS002_BT_WOLEN:
+*WOLLEN enters*
+WOLLEN:
+No hard feelings.
+I don't have anything against you,
+but this is the way I live. Forgive me! 
+
+
+MS002_DIE_BOSS:
+*LUMEL enters*
+LUMEL:
+General Rucke, I leave the rest to you... 
+
+
+MS002_DIE_WOLEN:
+*WOLLEN enters*
+WOLLEN:
+Damn it...
+I should've seen this coming... 
+
+
+MS002_ED1_PCF1:
+*JEIGUN enters**MARS enters*
+JEIGUN:
+Sire, we found someone most unusual confined
+in one of the fortress rooms. 
+*JEIGUN leaves**RINDA enters*
+MARS:
+Hm? ...Linde!
+How did you wind up in a dangerous place
+like this? 
+*RINDA leaves**PLAYER enters*
+PLAYER:
+Sire, do you know this woman? 
+
+MARS:
+Yes, this is Linde.
+Her natural talent for magic helped us a
+great deal in the last war. 
+*PLAYER leaves**RINDA enters*
+RINDA:
+Prince Marth! Thank heavens.
+What a pleasant surprise meeting you here. 
+I desperately needed to see you again,
+so I set out to find you. 
+But the Macedonian soldiers found me
+suspicious and they dragged me to this
+fortress... 
+
+MARS:
+Is that so?
+I'm glad you're safe.
+But, why were you looking for me? 
+Shouldn't you be by Princess Nyna's side? 
+
+RINDA:
+I was requested by Princess Nyna to deliver
+you this. 
+
+
+MS002_ED1_PCM1:
+*JEIGUN enters**MARS enters*
+JEIGUN:
+Sire, we found someone most unusual confined
+in one of the fortress rooms. 
+*JEIGUN leaves**RINDA enters*
+MARS:
+Hm? ...Linde!
+How did you wind up in a dangerous place
+like this? 
+*RINDA leaves**PLAYER enters*
+PLAYER:
+Sire, do you know this woman? 
+
+MARS:
+Yes, this is Linde.
+Her natural talent for magic helped us a
+great deal in the last war. 
+*PLAYER leaves**RINDA enters*
+RINDA:
+Prince Marth! Thank heavens.
+What a pleasant surprise meeting you here. 
+I desperately needed to see you again,
+so I set out to find you. 
+But the Macedonian soldiers found me
+suspicious and they dragged me to this
+fortress... 
+
+MARS:
+Is that so?
+I'm glad you're safe.
+But, why were you looking for me? 
+Shouldn't you be by Princess Nyna's side? 
+
+RINDA:
+I was requested by Princess Nyna to deliver
+you this. 
+
+
+MS002_ED1_02_PCF1:
+
+INSERTNAMEHERE:
+Huh?
+This...!
+This is the Fire Emblem! 
+The royal heirloom of Archanea:
+the Emblem Shield! 
+*PLAYER enters*
+PLAYER:
+The Fire Emblem...
+I heard that in the last war, Princess Nyna
+entrusted you with it, sire... 
+
+INSERTNAMEHERE:
+Indeed. I looked after this as Archanea's
+representative in the last war.
+But why give this to me now? 
+Especially at a time when Archanea has so
+much influence under Emperor Hardin's reign? 
+In this peaceful age, why is Princess Nyna
+giving me the "Champion's Proof"...? 
+*PLAYER leaves**RINDA enters*
+RINDA:
+I don't understand either.
+Princess Nyna didn't explain why,
+just that I had to give it to you... 
+I remember her eyes seemed so sad...
+I think she may have been crying... 
+
+INSERTNAMEHERE:
+Princess Nyna crying?!
+What on earth has been happening...? 
+Linde, after this battle ends,
+I will go see Princess Nyna. 
+Until then, I want you to remain with us. 
+
+RINDA:
+Yes, Prince Marth!! 
+
+
+MS002_ED1_02_PCM1:
+
+INSERTNAMEHERE:
+Huh?
+This...!
+This is the Fire Emblem! 
+The royal heirloom of Archanea:
+the Emblem Shield! 
+*PLAYER enters*
+PLAYER:
+The Fire Emblem...
+I heard that in the last war, Princess Nyna
+entrusted you with it, sire... 
+
+INSERTNAMEHERE:
+Indeed. I looked after this as Archanea's
+representative in the last war.
+But why give this to me now? 
+Especially at a time when Archanea has so
+much influence under Emperor Hardin's reign? 
+In this peaceful age, why is Princess Nyna
+giving me the "Champion's Proof"...? 
+*PLAYER leaves**RINDA enters*
+RINDA:
+I don't understand either.
+Princess Nyna didn't explain why,
+just that I had to give it to you... 
+I remember her eyes seemed so sad...
+I think she may have been crying... 
+
+INSERTNAMEHERE:
+Princess Nyna crying?!
+What on earth has been happening...? 
+Linde, after this battle ends,
+I will go see Princess Nyna. 
+Until then, I want you to remain with us. 
+
+RINDA:
+Yes, Prince Marth!! 
+
+

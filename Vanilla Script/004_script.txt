@@ -1,0 +1,490 @@
+MS004_OP0:
+*MARS enters**PLAYER enters*PLAYER
+MARS:
+, may I have a moment? 
+Wh-what in the blazes!?
+M-may I ask, what happened to your hair? 
+
+PLAYER:
+Father Wrys cut my hair for me.
+Is something wrong, sire? 
+
+MARS:
+He, uh, certainly did. 
+Well, if you like it, then wonderful. 
+......
+W-well then, let's begin the war council. 
+
+PLAYER:
+Yes, sire. 
+
+
+MS004_OP1:
+*OGUMA enters**YUMINA enters*
+OGUMA:
+Yumina, Yubello. 
+This place is notorious for the Macedonian
+Vikings. 
+If we could, we'd stay the hell away,
+but the village where Lord Wendell resides
+is just past this area. 
+*YUMINA leaves**YUBELLO enters*
+YUBELLO:
+Mister Ogma...
+I'm scared...
+Can we go back...? 
+*OGUMA leaves**YUMINA enters*
+YUMINA:
+Yubello! Get a hold of yourself!
+You're a man, are you not?
+Show some spine! 
+You can use a Fire tome, can't you?
+So... fight with it! 
+
+YUBELLO:
+But Master Wendell said that we mustn't
+fight... Besides, I don't like fighting. 
+
+YUMINA:
+Ugh, stop complaining!
+It's just you and me now. 
+You have to stay strong, because I... sniff...
+I don't know what we're supposed to do... 
+
+YUBELLO:
+Oh... I'm sorry, Yumina...
+I'll do my best, so... please don't cry! 
+*YUMINA leaves**OGUMA enters*
+OGUMA:
+Damn... This can't be good...
+We've been spotted. 
+Kids, we've got no choice;
+we're going to have to cut through.
+Do not leave my side! 
+
+
+MS004_EV1:
+*GAIL enters*
+GAIL:
+Gahahaha! 
+Won't be long now 'til my boys, hidden
+in the forts, all spring out 'n' attack. 
+I can almost see the precious looks on their
+bewildered faces! 
+
+
+MS004_H1:
+*MAN2 enters*
+MAN2:
+These days, all them bandits and pirates've
+been doin' as they please.
+Geez. 
+This wouldn't 'ave 'appened if it weren't for
+all them political tomfoolery. 
+
+
+MS004_H2:
+*GIRL enters*
+GIRL:
+Oh, those "Star Shards" are so shiny and
+pretty. If you hold on to them, something
+good might happen to you. 
+
+
+MS004_H3:
+*BOY enters*
+BOY:
+D'you know of a staff called Rescue? 
+I hear you can bring faraway allies right
+next to you in a flash!
+It'd be so cool if it were true! 
+
+
+MS004_TK1:
+*SIRIUS enters**OGUMA enters*
+OGUMA:
+And just who the hell are you?
+Are you in league with the pirates? 
+
+SIRIUS:
+I am Sirius, a mere traveler. 
+
+OGUMA:
+Oh, I see.
+I'm a little bit worked up right now.
+Sorry about the mix-up. 
+
+SIRIUS:
+Those children... 
+
+OGUMA:
+I'm taking care of them.
+Do you know them? 
+
+
+
+MS004_TK1_01:
+
+INSERTNAMEHERE:
+No, I don't...
+But I do know that, as things stand,
+you won't escape with them. 
+As I understand it, the Altean army should
+arrive here, provided you reach the
+southern village. 
+Please, allow me to distract the bandits,
+while you make your escape to safety. 
+
+INSERTNAMEHERE:
+I see. So Prince Marth is here, eh?
+Got it, thanks. 
+I've got to ask though. 
+Why help a group of complete strangers like
+us? 
+
+INSERTNAMEHERE:
+I want to save the children.
+That is... all. 
+
+INSERTNAMEHERE:
+I see... 
+Sirius... You said your name was Sirius, right?
+Let's meet again after we both get out of
+here! 
+There's someone I need to take care of...
+The guy in charge of Grust's occupation,
+Commander Lang. 
+I want to avenge a man named Lorenz... 
+You--join me...!
+If I've got you on my side, then I'll be that
+much stronger. 
+
+INSERTNAMEHERE:
+Yes...
+That would be interesting. 
+But first, you have to survive.
+Hurry and go! 
+
+
+MS004_VIL1:
+*KASHIM enters**MARS enters*
+MARS:
+Well, if it isn't Castor!
+What brings you to a place like this? 
+
+KASHIM:
+Ah, Prince Marth! 
+Erm...
+Actually, I need money for medicine for me
+sick mother. 
+But I couldn't find any work in Talys,
+so I moved here instead. 
+
+MARS:
+I see... That's terrible...
+I do hope your mother gets better. 
+Well, goodbye then... 
+
+KASHIM:
+......... 
+Wait!!
+Me mother, she's really sick...
+I need money, sir... 
+*MARS leaves**MARS enters*
+MARS:
+Hm? Oh right, here.
+It's only a little, but I hope it helps. 
+
+KASHIM:
+Uhm... Thank you, Prince Marth. 
+You don't have to be so kind to a guy like me... 
+
+MARS:
+Castor... That's a bit much... 
+It's only natural to help someone in need. 
+
+KASHIM:
+No, Prince Marth!
+You've done so much for me. 
+I want to help you.
+Please, let me fight alongside you. 
+You have me life at your disposal!! 
+
+
+MS004_VIL2:
+*UNCLE enters**MARS enters*
+UNCLE:
+Oh, you're... you're... the prince of Altea!
+How nice of you to drop by, sir! 
+
+MARS:
+I heard Lord Wendell was living here. 
+
+UNCLE:
+Yes, that, er... was correct... 
+Yesterday, a group of Archanean soldiers
+suddenly came and took the pontifex away. 
+Although, Prince...
+He did leave this magic tome behind. 
+I believe it's wind magic.
+Please, take it with you. 
+
+
+MS004_BT_GAIL:
+*GAIL enters*
+GAIL:
+I'm sorry!
+...I wasn't thinking! 
+Gahaha, just kidding!
+I'll be smashing your pretty head in!!! 
+
+
+MS004_BT_SIRIUS:
+*SIRIUS enters*
+SIRIUS:
+Touch me and I'll strike you down. 
+
+
+MS004_DIE_GAIL:
+*GAIL enters*
+GAIL:
+I won't... forget this! 
+
+
+MS004_ED_SIRIUS:
+*SIRIUS enters*
+SIRIUS:
+How foolish of me... 
+
+
+MS004_ED1_PCF1:
+*MARS enters**SHEEDA enters*
+SHEEDA:
+Marth!! 
+
+MARS:
+Caeda?
+Did something happen?
+Why are you here? 
+
+SHEEDA:
+Marth...
+Altea... Altea was attacked by the imperial
+army. 
+The Archanean League... Gra and Aurelis
+ambushed us. Our forces were annihilated
+and we lost the castle... 
+
+MARS:
+Wh-what did you say?!
+This can't be happening!
+Altea is... 
+*SHEEDA leaves**PLAYER enters*
+PLAYER:
+Damn!
+Our homeland has fallen to the enemy... 
+*PLAYER leaves**JEIGUN enters*
+JEIGUN:
+This is terrible beyond words...
+That which I feared the most has come to
+pass. 
+Emperor Hardin likely heard Lang's story, 
+and had us branded traitors. 
+
+MARS:
+I refuse to believe it.
+Hardin would never attack Altea! 
+You're telling me that he believed Lang and
+truly thought that I wished to instigate a
+rebellion? Never! 
+
+JEIGUN:
+No, I agree with you, sire.
+This attack was too soon.
+It happened far too quickly. 
+For an attack of this scale, a great number
+of preparations had to have been in place. 
+It is likely... that the Grust campaign was a
+setup. As was the situation in Macedon. 
+It's quite simple, really.
+They had you leave Altea, with your elite
+knights in tow, 
+and then proceeded to attack our weakened
+defenses. 
+Hardin had this planned right from the start. 
+
+MARS:
+That's preposterous! 
+Are you implying that Hardin--
+with no provocation whatsoever--
+decided to attack his fellow nation? 
+Are you seriously suggesting this was all an
+elaborate trap? 
+No!
+I won't accept it...
+Hardin... why? 
+*JEIGUN leaves**JEIGUN enters*
+JEIGUN:
+Sire... 
+*MARS leaves**SHEEDA enters*
+JEIGUN:
+Princess Caeda, what of the others?
+Is Princess Elice safe? 
+
+SHEEDA:
+Elice, she...
+She gave herself up in order to let me
+escape with this message. 
+Marth... I'm so sorry.
+She wanted me to warn you, no matter what...
+Sniff... 
+*JEIGUN leaves**MARS enters*
+MARS:
+Caeda... Don't cry. I understand.
+Just knowing you're safe makes me happy. 
+I should be the one apologizing.
+I shouldn't have left... 
+You needn't have to go through this. 
+We will take back Altea. 
+Even if we have to fight Hardin, we WILL
+reclaim our homeland! 
+
+
+MS004_ED1_PCM1:
+*MARS enters**SHEEDA enters*
+SHEEDA:
+Marth!! 
+
+MARS:
+Caeda?
+Did something happen?
+Why are you here? 
+
+SHEEDA:
+Marth...
+Altea... Altea was attacked by the imperial
+army. 
+The Archanean League... Gra and Aurelis
+ambushed us. Our forces were annihilated
+and we lost the castle... 
+
+MARS:
+Wh-what did you say?!
+This can't be happening!
+Altea is... 
+*SHEEDA leaves**PLAYER enters*
+PLAYER:
+Damn!
+Our homeland has fallen to the enemy... 
+*PLAYER leaves**JEIGUN enters*
+JEIGUN:
+This is terrible beyond words...
+That which I feared the most has come to
+pass. 
+Emperor Hardin likely heard Lang's story, 
+and had us branded traitors. 
+
+MARS:
+I refuse to believe it.
+Hardin would never attack Altea! 
+You're telling me that he believed Lang and
+truly thought that I wished to instigate a
+rebellion? Never! 
+
+JEIGUN:
+No, I agree with you, sire.
+This attack was too soon.
+It happened far too quickly. 
+For an attack of this scale, a great number
+of preparations had to have been in place. 
+It is likely... that the Grust campaign was a
+setup. As was the situation in Macedon. 
+It's quite simple, really.
+They had you leave Altea, with your elite
+knights in tow, 
+and then proceeded to attack our weakened
+defenses. 
+Hardin had this planned right from the start. 
+
+MARS:
+That's preposterous! 
+Are you implying that Hardin--
+with no provocation whatsoever--
+decided to attack his fellow nation? 
+Are you seriously suggesting this was all an
+elaborate trap? 
+No!
+I won't accept it...
+Hardin... why? 
+*JEIGUN leaves**JEIGUN enters*
+JEIGUN:
+Sire... 
+*MARS leaves**SHEEDA enters*
+JEIGUN:
+Princess Caeda, what of the others?
+Is Princess Elice safe? 
+
+SHEEDA:
+Elice, she...
+She gave herself up in order to let me
+escape with this message. 
+Marth... I'm so sorry.
+She wanted me to warn you, no matter what...
+Sniff... 
+*JEIGUN leaves**MARS enters*
+MARS:
+Caeda... Don't cry. I understand.
+Just knowing you're safe makes me happy. 
+I should be the one apologizing.
+I shouldn't have left... 
+You needn't have to go through this. 
+We will take back Altea. 
+Even if we have to fight Hardin, we WILL
+reclaim our homeland! 
+
+
+MS004_ED2:
+*JEIGUN enters**PLAYER enters*
+JEIGUN:
+Oh, by the way, PLAYER.
+About that hairstyle of yours... 
+Have you deciced to keep it that way? 
+
+PLAYER:
+...Do you think it looks funny? 
+Well, it'll grow back eventually, if I leave it
+alone... Do you think I should return it to
+normal? 
+
+JEIGUN:
+Well, it's your decision to make.
+You should do as you please. 
+So what will it be?
+Are you going to go back to the hairstyle
+you had before? 
+
+
+MS004_ED2_A:
+
+INSERTNAMEHERE:
+Yeah. I'll have to apologize to Father Wrys
+later, but I think I'll change it back to normal. 
+
+INSERTNAMEHERE:
+Yes.
+I do believe that would be a good idea. 
+
+
+MS004_ED2_B:
+
+INSERTNAMEHERE:
+No, it's alright.
+I'm quite fond of my new hair...
+Or lack of it, rather. 
+
+INSERTNAMEHERE:
+I-is that so?
+Well, if that's your wish, then I can hardly
+complain. 
+
+

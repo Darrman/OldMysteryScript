@@ -1,0 +1,406 @@
+MS011_OP0:
+
+
+MS011_OP1_PCF1:
+*MARS enters**JEIGUN enters*
+MARS:
+Jeigan, where in the world are we...? 
+*JEIGUN leaves**JEIGUN enters*
+JEIGUN:
+This is the path depicted in the Anri Saga. 
+The first obstacle in Anri's Way:
+The Desert of Death. 
+With its scorching sun, raging sandstorm,
+savage clansmen of the sands and wyverns
+that soar and dominate the skies. 
+As the city of illusion shimmers in the
+distance, we can only stand and gaze...
+Or so the legend has it. 
+
+MARS:
+So Anri came through here as well.
+And by himself, too... 
+
+JEIGUN:
+That's right. Your ancestor and Aritia's
+founder, King Anri... 
+To save Princess Artemis, he set out on a
+journey to seek the divine sword Falchion. 
+It's a long story, but I'll tell you the
+legend of Anri. 
+A century ago... The Holy Kingdom
+of Akaneia, governor of this continent,
+was ravaged by the dragonkin. 
+The people back then lived days
+of misery, as the dragons' slaves. 
+Some people wielded weapons to fight
+back, but they couldn't defeat the dragon
+tribe, and many people died. 
+House Akaneia, the people's only hope,
+was eradicated, and the world descended
+into despair. 
+But, at the time, there were rumors of an
+Akaneian princess hiding out in Aritia, 
+which back then was no more than a provincial
+town among many. 
+The furious Durhuan Empire sent troops to
+Aritia, demanding the princess's extradition. 
+That princess - Artemis - planned to sacrifice
+her own life in order to save the citizens. 
+However, the people of Aritia protected
+her, and vowed to fight, knowing they
+would be massacred. 
+Thanks to the heroic people of Aritia who stood
+up to protect the princess, the people of
+Akaneia came to know she was alive, 
+and resumed their battle against Durhua. 
+Their liberation army was led by
+Duke Cartas, who fought with the royal
+shield given to him by Artemis. 
+As a result, he received enormous support.
+Thanks to their efforts, the tides of
+battle turned to their favor. 
+However, the king of the earth dragons,
+Mediuth, finally decided to make his move. 
+The dark breath of earth dragons possessed
+horrendous destructive power and had the
+effect of halving the enemy's strength. 
+Before his overwhelming might, it seemed
+like Aritia's resistance wouldn't
+last any longer. 
+But then, a sage appeared before them.
+He spoke of a divine sword enshrined in
+the ice shrine in the distant north. 
+With that blade, it would be possible to
+fell Mediuth, but the way to obtain it
+would be by no means easy... 
+
+MARS:
+So Anri, to save his beloved Artemis,
+left on a journey to obtain the sword? 
+
+JEIGUN:
+Yes, that's right.
+But I think that's enough for today.
+We still have a long road ahead of us... 
+
+
+MS011_OP1_PCM1:
+*MARS enters**JEIGUN enters*
+MARS:
+Jeigan, where in the world are we...? 
+*JEIGUN leaves**JEIGUN enters*
+JEIGUN:
+This is the path depicted in the Anri Saga. 
+The first obstacle in Anri's Way:
+The Desert of Death. 
+With its scorching sun, raging sandstorm,
+savage clansmen of the sands and wyverns
+that soar and dominate the skies. 
+As the city of illusion shimmers in the
+distance, we can only stand and gaze...
+Or so the legend has it. 
+
+MARS:
+So Anri came through here as well.
+And by himself, too... 
+
+JEIGUN:
+That's right. Your ancestor and Aritia's
+founder, King Anri... 
+To save Princess Artemis, he set out on a
+journey to seek the divine sword Falchion. 
+It's a long story, but I'll tell you the
+legend of Anri. 
+A century ago... The Holy Kingdom
+of Akaneia, governor of this continent,
+was ravaged by the dragonkin. 
+The people back then lived days
+of misery, as the dragons' slaves. 
+Some people wielded weapons to fight
+back, but they couldn't defeat the dragon
+tribe, and many people died. 
+House Akaneia, the people's only hope,
+was eradicated, and the world descended
+into despair. 
+But, at the time, there were rumors of an
+Akaneian princess hiding out in Aritia, 
+which back then was no more than a provincial
+town among many. 
+The furious Durhuan Empire sent troops to
+Aritia, demanding the princess's extradition. 
+That princess - Artemis - planned to sacrifice
+her own life in order to save the citizens. 
+However, the people of Aritia protected
+her, and vowed to fight, knowing they
+would be massacred. 
+Thanks to the heroic people of Aritia who stood
+up to protect the princess, the people of
+Akaneia came to know she was alive, 
+and resumed their battle against Durhua. 
+Their liberation army was led by
+Duke Cartas, who fought with the royal
+shield given to him by Artemis. 
+As a result, he received enormous support.
+Thanks to their efforts, the tides of
+battle turned to their favor. 
+However, the king of the earth dragons,
+Mediuth, finally decided to make his move. 
+The dark breath of earth dragons possessed
+horrendous destructive power and had the
+effect of halving the enemy's strength. 
+Before his overwhelming might, it seemed
+like Aritia's resistance wouldn't
+last any longer. 
+But then, a sage appeared before them.
+He spoke of a divine sword enshrined in
+the ice shrine in the distant north. 
+With that blade, it would be possible to
+fell Mediuth, but the way to obtain it
+would be by no means easy... 
+
+MARS:
+So Anri, to save his beloved Artemis,
+left on a journey to obtain the sword? 
+
+JEIGUN:
+Yes, that's right.
+But I think that's enough for today.
+We still have a long road ahead of us... 
+
+
+MS011_OP1_2_PCF1:
+
+
+MS011_OP1_2_PCM1:
+
+
+MS011_TK1:
+*JEIK enters**SHEEDA enters*
+SHEEDA:
+Jake!
+What are you doing all the way out here...? 
+
+JEIK:
+Is that you, Sheeda?
+Hey, long time no see.
+I'm here to meet my beloved Anna. 
+
+SHEEDA:
+Huh? Anna lives in a place like this? 
+
+JEIK:
+Oh, you didn't know?
+Anna's running a secret shop out here. 
+It's a tiny bit troublesome coming here,
+but y'know, love conquers all barriers! 
+Your turn Sheeda. What're you doing in
+the desert? 
+
+SHEEDA:
+Listen, Jake.
+We're fighting for the peace of the continent
+again. 
+Could you help us, like old times...? 
+
+JEIK:
+I dunno, I kinda lost my ballista,
+so I doubt I'd be much use to you. 
+
+SHEEDA:
+That's not true.
+You'd help us a lot just by being there... 
+
+JEIK:
+Aw, shucks.
+How could I say no when you say it like that? 
+I bet Anna's worried about the war too.
+Alrighty, I'll join you then. 
+
+
+MS011_BT_JEIK:
+*JEIK enters*
+JEIK:
+What?!
+M-more bandits? 
+
+
+MS011_DIE_JEIK:
+*JEIK enters*
+JEIK:
+Anna...
+I'm... sorry... 
+
+
+MS011_ED1_PCF1:
+*MARS enters*
+
+MS011_ED1_PCM1:
+*MARS enters*
+
+MS011_ED1_01_PCF1:
+*TIKI enters*
+TIKI:
+Mar-Mar!!
+It's been aaages. It's me, Chiki!
+I've wanted to see you for so long. 
+
+INSERTNAMEHERE:
+Huh... Chiki?!
+You came to welcome us? 
+Oh, I see... you've been living with Lord Gato,
+haven't you? 
+But you've certainly grown since last time.
+I'm glad to see you're well. 
+
+TIKI:
+Yeah... But I was so lonely.
+'Cause you never came to see me... 
+
+INSERTNAMEHERE:
+I'm sorry.
+But I could never forget about you. 
+I had intended to invite you back to Aritia
+once things had calmed down. 
+
+TIKI:
+Mar-Mar...
+I... I love you! 
+
+INSERTNAMEHERE:
+What......?! 
+*TIKI leaves**CHEINE enters*
+CHEINE:
+...Gotcha! 
+
+
+MS011_ED1_01_PCM1:
+*TIKI enters*
+TIKI:
+Mar-Mar!!
+It's been aaages. It's me, Chiki!
+I've wanted to see you for so long. 
+
+INSERTNAMEHERE:
+Huh... Chiki?!
+You came to welcome us? 
+Oh, I see... you've been living with Lord Gato,
+haven't you? 
+But you've certainly grown since last time.
+I'm glad to see you're well. 
+
+TIKI:
+Yeah... But I was so lonely.
+'Cause you never came to see me... 
+
+INSERTNAMEHERE:
+I'm sorry.
+But I could never forget about you. 
+I had intended to invite you back to Aritia
+once things had calmed down. 
+
+TIKI:
+Mar-Mar...
+I... I love you! 
+
+INSERTNAMEHERE:
+What......?! 
+*TIKI leaves**CHEINE enters*
+CHEINE:
+...Gotcha! 
+
+
+MS011_ED1_02_PCF1:
+
+INSERTNAMEHERE:
+Ch... Chainy!!! 
+
+INSERTNAMEHERE:
+Oopsy daisy.
+Took you by surprise, didn't I? 
+I couldn't help it after seeing that
+serious expression on your face...
+Sorry, don't be angry. 
+I was ordered by Gato to wait here for you. 
+While I was waiting I got more and 
+more angry, wondering why I had to do
+something so boring. 
+So I thought I'd think of a
+prank to pull on you. My Chiki impression
+was pretty darn tootin', wasn't it? 
+Did I provide some comic relief?
+Huh, what's with the anxious face? 
+Well, let's get goin'.
+You wanted to see Lord Gato, right? 
+
+INSERTNAMEHERE:
+Chainy, how do you know Lord Gato? 
+Just who are you? 
+
+INSERTNAMEHERE:
+Well, lemme see.
+I don't think that really matters right now. 
+So quit gapin' and follow me. 
+
+
+MS011_ED1_02_PCM1:
+
+INSERTNAMEHERE:
+Ch... Chainy!!! 
+
+INSERTNAMEHERE:
+Oopsy daisy.
+Took you by surprise, didn't I? 
+I couldn't help it after seeing that
+serious expression on your face...
+Sorry, don't be angry. 
+I was ordered by Gato to wait here for you. 
+While I was waiting I got more and 
+more angry, wondering why I had to do
+something so boring. 
+So I thought I'd think of a
+prank to pull on you. My Chiki impression
+was pretty darn tootin', wasn't it? 
+Did I provide some comic relief?
+Huh, what's with the anxious face? 
+Well, let's get goin'.
+You wanted to see Lord Gato, right? 
+
+INSERTNAMEHERE:
+Chainy, how do you know Lord Gato? 
+Just who are you? 
+
+INSERTNAMEHERE:
+Well, lemme see.
+I don't think that really matters right now. 
+Hey, put that jaw back in place and follow me. 
+
+
+MS011_ED1_END:
+
+
+MS011_ED1_END_BGMCONT:
+
+
+MS011_ED2:
+*PLAYER enters**MARS enters*
+MARS:
+Remove mask? 
+
+
+MS011_ED2_A:
+
+INSERTNAMEHERE:
+Yes.
+
+MS011_ED2_B:
+
+INSERTNAMEHERE:
+No.
+
+[X]:
+
+INSERTNAMEHERE:
+
+
+

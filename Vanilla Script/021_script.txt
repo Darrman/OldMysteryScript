@@ -1,0 +1,471 @@
+MS021_OP1_PCF1:
+*MARS enters**JEIGUN enters*
+MARS:
+Jagen, where are we?
+Macedon? Or Dolhr? 
+
+JEIGUN:
+Both--we are precisely on the border.
+I hear this place is home to Macedon's
+great wyverns. 
+But since the area is overrun with
+barbarians, 
+even the Macedonian soldiers dare not
+set foot in here. 
+
+MARS:
+I see.
+You learn something new every day... 
+*JEIGUN leaves**PLAYER enters*
+PLAYER:
+According to our scouts, a large number
+of wyverns and barbarians have
+gathered nearby. 
+It's like Anri's Way...
+No, it's worse.
+Sire, please be careful. 
+
+MARS:
+Got it.
+Let's go, PLAYER. 
+I need to know what's happened to
+my sister and the others...
+I have a dreadful feeling about this. 
+
+
+MS021_OP1_PCM1:
+*MARS enters**JEIGUN enters*
+MARS:
+Jagen, where are we?
+Macedon? Or Dolhr? 
+
+JEIGUN:
+Both--we are smack bang on the border.
+I hear this place is home to Macedon's
+great wyverns. 
+But since the area is overrun with
+barbarians, 
+even the Macedonian soldiers dare not
+set foot in here. 
+
+MARS:
+I see.
+You learn something new every day... 
+*JEIGUN leaves**PLAYER enters*
+PLAYER:
+According to our scouts, a large number
+of wyverns and barbarians have
+gathered nearby. 
+It's like Anri's Way...
+No, it's worse.
+Sire, please be careful. 
+
+MARS:
+Got it.
+Let's go, PLAYER. 
+I need to know what's happened to
+my sister and the others...
+I have a dreadful feeling about this. 
+
+
+MS021_EV1_PCF1:
+*MARS enters**HYMIR enters*
+HYMIR:
+There you are, Marth! 
+
+MARS:
+You're...! 
+*MARS leaves**PLAYER enters*
+PLAYER:
+Who are you?!
+A barbarian of this dale?
+Please stand back, sire. 
+*HYMIR leaves**MARS enters*
+MARS:
+It's alright, PLAYER.
+This is Ymir, another ally from the last war. 
+When I met him, he was holding off an
+entire army to protect some villagers.
+He's a kind and brave man. 
+*MARS leaves**HYMIR enters*
+HYMIR:
+Yeah, the name's Ymir.
+I heard Marth was fightin' here and
+figured I'd come along too. 
+
+PLAYER:
+I-I see...
+How rude of me, Sir Ymir.
+Please forgive my insolence. 
+
+HYMIR:
+Oh, it's okay.
+My face is a bit on the scary side,
+I gotta admit. 
+What's your name? 
+
+PLAYER:
+Ah, yes.
+I am the Altean Royal Guard, PLAYER. 
+PLAYER
+HYMIR:
+!
+What a name!
+It's a real pleasure to meet you. 
+
+PLAYER:
+Likewise. 
+
+
+MS021_EV1_PCM1:
+*MARS enters**HYMIR enters*
+HYMIR:
+There you are, Marth! 
+
+MARS:
+You're...! 
+*MARS leaves**PLAYER enters*
+PLAYER:
+Who goes?!
+A barbarian of this dale?
+Please stand back, sire. 
+*HYMIR leaves**MARS enters*
+MARS:
+It's alright, PLAYER.
+This is Ymir, another ally from the last war. 
+When I met him, he was holding off an
+entire army to protect some villagers.
+He's a kind and brave man. 
+*MARS leaves**HYMIR enters*
+HYMIR:
+Yeah, the name's Ymir.
+I heard Marth was fightin' here and
+figured I'd come along too. 
+
+PLAYER:
+I-I see...
+I'm very sorry, Ymir.
+That was very rude of me. 
+
+HYMIR:
+Oh, it's okay.
+My face is a bit on the scary side,
+I gotta admit. 
+What's your name? 
+
+PLAYER:
+Ah, yes.
+I am the Altean Royal Guard, PLAYER. 
+PLAYER
+HYMIR:
+!
+What a name!
+It's a real pleasure to meet you. 
+
+PLAYER:
+Likewise. 
+
+
+MS021_EV2:
+*MINERBA enters*
+MINERBA:
+............ 
+Brother...?
+Could it be...
+Is it really you...? 
+*Y_MISHEIL enters*
+Y_MISHEIL:
+...Minerva...? 
+
+MINERBA:
+Ah!
+You're wounded!
+I'll go get help! 
+
+Y_MISHEIL:
+Don't bother...
+This wound is beyond help. 
+I'd rather you call for... Prince Marth.
+I have... something I must pass on to him. 
+
+MINERBA:
+The prince will be here soon.
+Hold on, Brother!
+I'll tend to your wound... 
+
+Y_MISHEIL:
+Heh...
+To think I'd need your help in the end... 
+Guh... ngh...! 
+
+MINERBA:
+Brother! 
+
+Y_MISHEIL:
+Minerva... I have something to ask of you.
+Should I die...
+Give this tome to Prince Marth. 
+This is as far as I can go...
+I leave the rest... to you... 
+
+MINERBA:
+B--Brother... Michalis...! 
+No... This isn't like you!
+When did you become so weak!? 
+The brother I knew was strong and noble...
+He always found his own way,
+never relying on anyone else... 
+Do you hear me? 
+I won't accept this!
+You're going to pass this on yourself,
+without the help of your younger sister. 
+
+Y_MISHEIL:
+Hmph...
+Am I being scolded now...? 
+
+MINERBA:
+Brother, listen to me...
+You cannot die here.
+You have to live...! 
+
+
+MS021_H1:
+*MAN1 enters*
+MAN1:
+There's a small hill called the Dragon's
+Altar on the other side of this mountain. 
+Lately, I've been hearin' some peculiar
+roars coming from the vicinity. 
+They're sayin' the Devil's been revived
+or summat like that. 
+Don't you guys go near there, 'kay? 
+
+
+MS021_H2:
+*UNCLE enters*
+UNCLE:
+This here's the Wyvern's Dale.
+Don't go past this point, alright? 
+All them big, scary wyverns'll burn you
+to a crisp!! A crisp, you hear!! 
+
+
+MS021_VIL1:
+*MARS enters**Y_MISHEIL enters*
+MARS:
+Prince Michalis?!
+What are you doing here? 
+Those--those wounds!
+What happened to you?! 
+
+Y_MISHEIL:
+......Marth, huh...?
+...I was waiting...
+for you... 
+
+MARS:
+For me?! 
+
+Y_MISHEIL:
+...Take this... 
+
+MARS:
+Ah...!
+This is the Starlight tome!
+You're giving this to me? 
+
+Y_MISHEIL:
+Yes... Heh...
+Only this tome can... damage Gharnef.
+I stole it from him, but not without cost... 
+
+MARS:
+Gharnef, you say?!
+Where is he now? 
+
+Y_MISHEIL:
+At the Dragon's Altar... 
+Heh... how pathetic...
+Somebody of my caliber...
+would fall foul... to Gharnef? 
+Marth... Please...
+I am not long for this world. 
+Tell Minerva...
+to save... Maria...
+in my place... please... 
+
+MARS:
+Michalis! 
+
+Y_MISHEIL:
+Marth...
+I leave Maria to you... ngh... 
+
+
+MS021_ED1:
+*MARS enters*
+MARS:
+So this is the Dragon's Altar.
+The place where divine dragon Naga
+banished the earth dragons... 
+*GATO enters*
+GATO:
+Indeed. Medeus, the altar's guardian,
+could not tolerate the human race's
+atrocities against the Manaketes. 
+Thus, he gathered the surviving dragonkin,
+forming the Dolhrian Empire. 
+All to obliterate mankind. 
+He was vanquished by Anri once and
+then defeated a second time by you. 
+However earth dragons boast tremendous
+life force, and cannot be completely
+eliminated so easily... 
+Even now, they sleep at this altar. 
+
+MARS:
+You mean to say they'll awaken?! 
+
+GATO:
+Not exactly. Even sleeping earth dragons
+should not awaken for centuries or so. 
+The next time Medeus awakens though,
+he will rise as a terrifying Shadow Dragon... 
+No, wait...! Perhaps...?
+Yes, I see...
+So that's why Gharnef... 
+
+MARS:
+What's the matter, Lord Gotoh? 
+
+GATO:
+Prince Marth.
+I have finally realized the reason
+why Gharnef kidnapped the clerics. 
+He intends to use them to resurrect Medeus. 
+To hasten the awakening of a dragon
+requires the life force of
+pure, maiden women. 
+Knowing this, Gharnef kidnapped them. 
+
+MARS:
+So that means Elice and the
+others are in this very altar? 
+
+GATO:
+Indubitably...
+Marth, you must hurry.
+They are in grave danger! 
+Medeus's awakening...
+is only a matter of time!! 
+
+
+MS021_ED2:
+*PLAYER enters**HYMIR enters*
+PLAYER:
+Sir Ymir, please forgive me for earlier. 
+
+HYMIR:
+It's fine.
+I don't mind at all.
+It's rare to see someone like me anyway. 
+But it's so warm dressin' like this.
+Why doesn't anybody else do this?
+I don't get it. 
+
+PLAYER:
+Oh, is it warm? 
+
+HYMIR:
+Yeah, it's great during winter. 
+Hey!
+Why don't you try wearin' this
+for a change? 
+It's a hat made from animal hide.
+Just wear it! You're gonna see how
+amazin' it is right away. 
+
+PLAYER:
+This is...
+Wow, it is a pretty great hat. 
+
+HYMIR:
+See, it fits you well.
+Do you want to wear it for a bit? 
+
+
+MS021_ED2_A:
+
+INSERTNAMEHERE:
+Yes, I'd love to. 
+
+INSERTNAMEHERE:
+Whoa!
+I'm so stoked you said that! 
+It'll look great on you!
+No doubt about it. 
+
+
+MS021_ED2_B:
+
+INSERTNAMEHERE:
+Oh no, I don't think it suits me. 
+
+INSERTNAMEHERE:
+That so...?
+Too bad. But, oh well. 
+
+INSERTNAMEHERE:
+I'm sorry.
+After you went to all that trouble too... 
+
+INSERTNAMEHERE:
+It's fine, it's fine.
+I don't mind at all. 
+
+
+MS021_ED3:
+*Y_MISHEIL enters**MINERBA enters*
+MINERBA:
+Brother...... 
+Brother... why...?
+Why here...? 
+I--I never wanted to fight you...! 
+I just wanted things to be like
+they used to...
+With you and Maria... 
+Brother...... Michalis... Bro...ther......! 
+
+Y_MISHEIL:
+...Your tears...
+How long has it been since I saw them last...? 
+
+MINERBA:
+What...? M-Michalis?! Are you...? 
+
+Y_MISHEIL:
+I don't plan on dying in front of you,
+Minerva. I'd be an endless laughing stock. 
+The Michalis you knew...
+would never die in a place like this. 
+Am I right? 
+
+MINERBA:
+Brother...! Oh, Brother! 
+
+Y_MISHEIL:
+Hmph, don't get the wrong idea.
+You and I are still enemies...
+That will not change. 
+The incompetence of your army sickens me,
+so you leave me with no choice but to help. 
+
+MINERBA:
+Thank goodness...
+You've finally returned to your old self. 
+I understand.
+Until the Shadow Dragon breathes his last,
+let us borrow your strength. 
+
+

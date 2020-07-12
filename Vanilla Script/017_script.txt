@@ -1,0 +1,413 @@
+MS017_OP0:
+*PLAYER enters**JEIGUN enters*
+JEIGUN:
+Gra's army is renowned for its
+mighty armor knights and generals. 
+The late king Jiol--our enemy
+in the last war--was a general himself. 
+
+PLAYER:
+I see.
+An army with strong defenses... 
+
+JEIGUN:
+In the past, yes.
+I hear that Gra's army now consists
+of new recruits. Hardly worthy enemies. 
+Speaking of strong defenses,
+PLAYER... 
+
+
+MS017_OP0_A:
+
+INSERTNAMEHERE:
+Your defense is truly overwhelming.
+Only a fool would dare approach you. 
+Even Gra at it's prime could not
+compete with your defense.
+This battle has already been decided. 
+
+
+MS017_OP0_B:
+
+INSERTNAMEHERE:
+Your defense is quite impressive. 
+No man in Gra could match your defense.
+This battle has already been decided. 
+
+
+MS017_OP0_C:
+
+INSERTNAMEHERE:
+Erm, your defense...
+could do with a little more work. 
+This is quite worrisome.
+PLAYER, the enemies may be new recruits,
+but don't underestimate them. 
+
+
+MS017_OP1:
+*SIMA enters**SAMSON enters*
+SAMSON:
+Princess Sheema, the Altean army has come. 
+
+SIMA:
+I see...
+The end draws near. 
+Samson, I ought to apologize for burdening
+you. 
+However I must see my kingdom through till
+the very end. You may go. 
+
+SAMSON:
+That's quite enough, I think, Princess.
+King Jiol took your mother away from you:
+you should despise him. 
+Now, you're just lettin' Hardin make a fool
+of you. 
+
+SIMA:
+I probably am a fool. I did as he asked,
+because he told me the people of Gra
+wished for their motherland's restoration. 
+But Hardin only intended to use us. 
+Now that we've outlived our use, he's tossed
+us aside like rubbish. 
+All the same, I won't move! 
+My men are not disposable! 
+
+SAMSON:
+How sad... 
+You'll have new recruits hold back the elite
+Altean army alone? 
+Fine. If you say you'll remain here, then I'll
+fight for you until the end, too.
+Well, this should be fun, at least. 
+
+SIMA:
+Samson...
+Why would you do this? 
+Don't you mercenaries only live for gold? 
+I have no more to give you... 
+
+SAMSON:
+Well, I don't quite get it, either. 
+But... there are times when a man's gotta do
+what a man's gotta do. That's all I can say...
+For now. 
+Besides, I want to see how that kid fights. 
+If he's a true hero, perhaps your decision
+will change. 
+
+
+MS017_EV1:
+*SIMA enters*
+SIMA:
+What...?!
+What have you done...? 
+I believed you, Altea;
+I trusted you...
+How dare you... I'll kill all of you! 
+
+*SIMA leaves**SAMSON enters*
+SAMSON:
+Prince Marth...
+How unfortunate.
+I thought you a better man. 
+
+
+MS017_EV2:
+*SIMA enters*
+SIMA:
+What...?!
+What have you done...? 
+I believed you, Altea;
+I trusted you...
+How dare you... I'll kill all of you! 
+
+
+MS017_TK1:
+*MARS enters**SIMA enters*
+MARS:
+Princess Sheema? Thank goodness.
+It's good to see you're well. 
+Let us be clear: I do not hold
+animosity towards the Kingdom of Gra. 
+Our kingdoms were once one. 
+It grieved me to watch us go our
+separate ways in the last war. 
+Princess Sheema,
+I would like to try once more.
+I do not wish to fight with Gra. 
+
+SIMA:
+Prince Marth...
+It surprised me to learn that you hadn't
+laid a finger on my fleeing soldiers. 
+You may just be the second coming
+of King Anri. 
+I believe you. 
+If it's not too much to ask...
+Please, accept the people of Gra...
+as you would those of Altea. 
+I entrust all of my country...
+to you, Prince Marth. 
+
+
+MS017_TK2:
+*SIMA enters**SAMSON enters*
+SAMSON:
+Well, Sheema.
+I guess my job here is done. 
+
+SIMA:
+Samson...
+You're leaving...? 
+
+SAMSON:
+I don't think you'll be needin' me.
+After all, the prince will protect you from
+here on. 
+
+SIMA:
+Don't go!
+Please, don't go...! 
+
+SAMSON:
+W-what?
+Why are you makin' me stay?
+This ain't like you. 
+...Well, whatever.
+If you still need me, then I'm not goin'
+anywhere. 
+Wherever you go, I'll protect you.
+Is that the deal? 
+
+SIMA:
+Yes... 
+
+
+MS017_H1:
+*OLDMAN enters*
+OLDMAN:
+Hardin placed soldiers 'ere to
+ensure Gra's loyalty. 
+But only the Archanean soldiers
+have any will to fight. 
+
+
+MS017_H2:
+*MAN1 enters*
+MAN1:
+Princess Sheema is the daughter of
+King Jiol's second wife. 
+But unlike the king, Princess Sheema
+is a very kind person. 
+She'd risk her own life for her soldiers. 
+Isn't there anyone who'll help her? 
+
+
+MS017_H3:
+*MAN2 enters*
+MAN2:
+The soldiers 'ere are all amateurs. 
+Our country's knights all fell in battle. 
+There's no one left to protect our country. 
+And now, the Archanean soldiers
+do as they please. 
+They're worse than thieves!
+Brutes, barbarians! 
+
+
+MS017_VIL1:
+*MARS enters**WOMAN1 enters*
+WOMAN1:
+Oh... please, spare me.
+I have nothing left to give. 
+
+MARS:
+Please don't get the wrong idea.
+We're not here to take anything from you. 
+
+WOMAN1:
+But didn't you Alteans come here
+to exact revenge on us? 
+
+MARS:
+No, we've no intention to fight Gra.
+Gra and Altea were like siblings once. 
+
+WOMAN1:
+You speak truly...?
+Then, I shall give you...
+my dearest, most precious treasureÅ} 
+
+
+MS017_VIL2:
+*MARS enters**THORMAS enters*
+THORMAS:
+Prince Marth,
+I've been waiting for you. 
+I'm Tomas,
+an Archanean soldier--or was.
+I've since retired from the army. 
+The Archaneans here just want to
+sacrifice the defenceless Gra soldiers. 
+This act of brutality by my
+former homeland...
+I cannot tolerate. 
+Please, Prince Marth.
+Let me fight with you in some way. 
+
+
+MS017_BT_BOSS:
+*SIMA enters*
+SIMA:
+You dastards!
+How dare you slaughter my people!
+I'll kill you all! 
+
+
+MS017_BT_SAMSON:
+*SAMSON enters*
+SAMSON:
+I know that Gra cannot prevail.
+But Sheema deserves better than this. 
+
+
+MS017_DIE_BOSS:
+*SIMA enters*
+SIMA:
+Forgive me, my people. 
+
+
+MS017_DIE_SAMSON:
+*SAMSON enters*
+SAMSON:
+Sheema... 
+
+
+MS017_ED1_PCF1:
+*MARS enters**JEIGUN enters*
+JEIGUN:
+Sire, to keep fighting like this
+is pointless. 
+All we are accomplishing is
+buying Hardin more time. 
+
+MARS:
+My thoughts exactly. 
+If we continue like this,
+more blood will be spilt for naught. 
+*JEIGUN leaves**PLAYER enters*PLAYER
+MARS:
+, do you have any sort of plan? 
+
+PLAYER:
+According to our information,
+the enemy's primary force is
+concentrated along the highway. 
+I wonder if we can avoid that route,
+by passing through the mountains? 
+*MARS leaves**JEIGUN enters*
+JEIGUN:
+Hmph, we'd have to cross Adria Pass...
+But the steep mountains make it
+dangerous for an army of our size. 
+
+PLAYER:
+That's true, and I fear the enemy
+may have prepared an ambush as well.
+Our bravery could be our undoing. 
+But it is the fastest possible route.
+If we could just break through there,
+we'd be in walking distance of the palace. 
+*JEIGUN leaves**MARS enters*
+MARS:
+I am prepared for the danger.
+We managed to conquer the same perilous
+road that Anri walked. Compared to that... 
+Jagen, PLAYER.
+We can overcome this challenge.
+Order the advance! 
+
+
+MS017_ED1_PCM1:
+*MARS enters**JEIGUN enters*
+JEIGUN:
+Sire, to keep fighting like this
+is pointless. 
+All we are accomplishing is
+buying Hardin more time. 
+
+MARS:
+My thoughts exactly. 
+If we continue like this,
+more blood will be spilt for naught. 
+*JEIGUN leaves**PLAYER enters*PLAYER
+MARS:
+, do you have any sort of plan? 
+
+PLAYER:
+According to our information,
+the enemy's primary force is
+concentrated along the highway. 
+I wonder if we can avoid that route,
+by passing through the mountains? 
+*MARS leaves**JEIGUN enters*
+JEIGUN:
+Hmph, we'd have to cross Adria Pass...
+But the steep mountains make it
+dangerous for an army of our size. 
+
+PLAYER:
+That's true, and I fear the enemy
+may have prepared an ambush as well.
+Our bravery could be our undoing. 
+But it is the fastest possible route.
+If we could just break through there,
+we'd be in walking distance of the palace. 
+*JEIGUN leaves**MARS enters*
+MARS:
+I am prepared for the danger.
+We managed to conquer the same perilous
+road that Anri walked. Compared to that... 
+Jagen, PLAYER.
+We can overcome this challenge.
+Order the advance! 
+
+
+MS017_ED_BS:
+*PLAYER enters**FROST enters*
+FROST:
+Oof...
+Seems I've finally caught up. 
+
+PLAYER:
+Hmm, and you are? 
+
+FROST:
+My name is Frost.
+I am a priest of Macedon. 
+When Macedon was taken over by
+those warmonging rebels... 
+You came and saved our country.
+Thanks to you, my family's now safe. 
+I have come to return the favor. 
+
+PLAYER:
+I see.
+But hasn't it been some time since
+Prince Marth freed Macedon...? 
+
+FROST:
+Your army marched at speed and
+this old geezer just couldn't keep up.
+Eventually I lost sight of you... 
+But then I heard that Marth had freed
+Altea as well, and I finally managed
+to catch up with you here, in Gra. 
+I am old now, but I can still fight.
+Please, allow me to to join you. 
+
+

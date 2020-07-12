@@ -1,0 +1,492 @@
+MS020_PRE1:
+*MARS enters**JEIGUN enters*
+JEIGUN:
+Sire, we are breaking into the palace! 
+Do not forget that Hardin is shielded
+by the Darksphere. 
+If you are to challenge him,
+then you must hold the Lightsphere! 
+Ensure, at all costs, that it's given
+to the person who will fight Hardin. 
+
+
+MS020_OP1:
+*HARDIN enters**MIDIA enters*
+HARDIN:
+Midia. That you, a Paladin of Archanea,
+would betray your own motherland...
+You are a disgrace! 
+
+MIDIA:
+Surely you jest!!
+Can't you see you're destroying Archanea?
+You've gone mad! 
+What have you done with Lady Nyna?!
+Return our queen at once!! 
+
+HARDIN:
+Nyna?
+That woman betrayed me. 
+All I wanted to do was destroy Grust. 
+That woman had the audacity to
+give the emblem to that boy...
+And so I punished her. 
+I will kill all who oppose me.
+That includes you, Midia!! 
+
+MIDIA:
+Do with my life as you will.
+But, Hardin... 
+How many people do you think you've
+killed out of petty jealousy? 
+Enough. Open your eyes! 
+
+HARDIN:
+Petty jealousy, you say...?
+Heh heh...
+Say what you will. 
+This world is rotten to its core.
+Swarming with insignificant insects
+that you call humans. 
+What worth is left in it?
+Perhaps it would be better if it
+were all destroyed. 
+Well, Midia, watch carefully.
+The boy who pretends to be a prince...
+Watch as I snuff out his life!! 
+
+
+MS020_EV1:
+*MARS enters**HARDIN enters*
+HARDIN:
+So, Marth...
+My retainer, attacking his liege--
+what kind of "honor" is this? 
+Altea's so-called Prince of Light
+has certainly fallen to the gutters. 
+
+MARS:
+Hardin! This isn't you!
+Your heart is being controlled
+by the Darksphere!! 
+Please, you have to snap out of it! 
+
+HARDIN:
+Heh heh heh...
+Marth, sweet and naive as ever. 
+Why do you think I attacked Altea?
+Because I utterly despised you. 
+In the last war, just because
+you were Anri's descendant... 
+Nyna entrusted you with the Fire Emblem,
+and made you the League's commander. 
+"The Prince of Light"...
+More like "insolent brat"! 
+Without my help,
+you would have died long, long ago.
+So don't act so high and mighty!! 
+I have always despised you since then. 
+I put up with you for Nyna's sake,
+but I knew we'd have to settle things
+sooner or later. 
+It has nothing to do with the orb! 
+
+MARS:
+Hardin... Is that really how it was...?
+I had no idea that...
+that you hated me so... 
+
+HARDIN:
+Hmph...
+That's why you're still just a boy. 
+Marth! Come to me.
+I'll shove this lance through your heart!! 
+There's only enough room in
+this continent for one hero,
+and that hero is ME! 
+
+
+MS020_BT_BOSS:
+*HARDIN enters*
+HARDIN:
+The rebel army...
+Have you come to die?!
+Taste the might of the Gradivus!! 
+
+
+MS020_BT_BOSS_MARS:
+*HARDIN enters*
+HARDIN:
+So you've come, Marth!!
+I'll run you through, just as you wish! 
+*MARS enters*
+MARS:
+Hardin, that's enough! 
+
+
+MS020_BT_BOSS_PC_PCF1:
+*HARDIN enters*
+HARDIN:
+I've no quarrel with you...
+Bring Marth to me!! 
+*PLAYER enters*
+PLAYER:
+Sir Hardin...
+To defeat you is my duty.
+Prepare yourself. 
+
+
+MS020_BT_BOSS_PC_PCM1:
+*HARDIN enters*
+HARDIN:
+I've no quarrel with you...
+Bring Marth to me!! 
+*PLAYER enters*
+PLAYER:
+Dark Emperor Hardin...
+Look nowhere else, I am your opponent! 
+
+
+MS020_DIE_BOSS:
+*HARDIN enters**HARDIN leaves**HARDIN3 enters*
+HARDIN3:
+Prince... Marth... 
+I feel as though...
+I've finally awoken...
+from a long, long nightmare... 
+Marth... Forgive me...
+I tried to fight the demon inside me. 
+...But I wasn't strong enough.
+I fought so hard, but...
+I just couldn't beat it... 
+I wanted to die by your hand...
+And now I'm finally saved... 
+Marth...
+Please... Nyna...
+Save Nyna... 
+Please...
+...Tell her...
+Tell her for me... 
+Till... till the very end...
+I ...loved her... always...
+Tell her... to please...forgive me... 
+
+
+MS020_ED1_A_PCF1:
+*MARS enters**PLAYER enters*
+PLAYER:
+Sire, the battle is over.
+We have won. 
+
+MARS:
+Yes, and with this, finally... 
+*PLAYER leaves**JEIGUN enters*
+JEIGUN:
+Sire!
+Look over there!
+Your sister and the others... 
+
+MARS:
+Elice! And Princess Nyna...!
+Lena, Maria; you're all safe! 
+*JEIGUN leaves**NIENA enters*
+NIENA:
+Marth, I'm so happy you made it... 
+Ngh...!! 
+
+
+MS020_ED1_A_PCM1:
+*MARS enters**PLAYER enters*
+PLAYER:
+Sire, the battle is over.
+We have won. 
+
+MARS:
+Yes, and with this, finally... 
+*PLAYER leaves**JEIGUN enters*
+JEIGUN:
+Sire!
+Look over there!
+Your sister and the others... 
+
+MARS:
+Elice! And Princess Nyna...!
+Lena, Maria; you're all safe! 
+*JEIGUN leaves**NIENA enters*
+NIENA:
+Marth, I'm so happy you made it... 
+Ngh...!! 
+
+
+MS020_ED1_A_01_PCF1:
+
+
+MS020_ED1_A_01_PCM1:
+
+
+MS020_ED1_A_02_PCF1:
+*GARNEF enters*
+GARNEF:
+You--you carry the Binding Shield...!
+Gah! My magic has been dispelled? 
+Withdraw, my priests.
+At this rate, he will...
+Let us hurry the Shadow Dragon's return! 
+
+
+MS020_ED1_A_02_PCM1:
+*GARNEF enters*
+GARNEF:
+You--you carry the Binding Shield...!
+Gah! My magic has been dispelled? 
+Withdraw, my priests.
+At this rate, he will...
+Let us hurry the Shadow Dragon's return! 
+
+
+MS020_ED1_A_03_PCF1:
+*MARS enters*
+MARS:
+Gharnef...! 
+*PLAYER enters*
+PLAYER:
+That man was the Dark Pontifex Gharnef! 
+His servants were impersonating
+the princesses. 
+
+MARS:
+What was he playing at?
+He mentioned something about the
+Shadow Dragon's return... 
+So as we suspected, my sister and the
+other clerics must be in Gharnef's hands... 
+*PLAYER leaves**JEIGUN enters*
+JEIGUN:
+Forgive my interruption, sire,
+but Lord Gotoh has arrived. 
+
+MARS:
+Lord Gotoh?
+Take me straight to him! 
+
+
+MS020_ED1_A_03_PCM1:
+*MARS enters*
+MARS:
+Gharnef...! 
+*PLAYER enters*
+PLAYER:
+That man was the Dark Pontifex Gharnef! 
+His servants were impersonating
+the princesses. 
+
+MARS:
+What was he playing at?
+He mentioned something about the
+Shadow Dragon's return... 
+So as we suspected, my sister and the
+other clerics must be in Gharnef's hands... 
+*PLAYER leaves**JEIGUN enters*
+JEIGUN:
+Forgive my interruption, sire,
+but Lord Gotoh has arrived. 
+
+MARS:
+Lord Gotoh?
+Take me straight to him! 
+
+
+MS020_ED1_A_04:
+*MARS enters**GATO enters*
+GATO:
+Excellent work, Prince Marth.
+You managed to obtain all of the orbs. 
+Thanks to your efforts, the lost
+Binding Shield is finally complete. 
+
+MARS:
+Incredible!
+It felt as though the shield itself
+pulled in all the orbs... 
+So this is the fabled Binding Shield. 
+But what now, Lord Gotoh? 
+From Gharnef's actions, it would seem
+he has the noble clerics imprisoned. 
+I worry for their safety. 
+
+GATO:
+Hmm...
+I understand how you feel... 
+However, we have a far greater task to
+accomplish--we must seal away
+the earth dragons. 
+Soon they will awaken from their slumber. 
+They will rise up from the ground,
+destroying everything in their wake,
+and turn this world into a living hell. 
+Go, Marth.
+Entomb the awakened dragons once more! 
+
+
+MS020_ED2_PCF1:
+*JEIGUN enters**PLAYER enters*PLAYER
+JEIGUN:
+, new information regarding
+the assassins has reached the palace. 
+As you may have guessed, they were
+dispatched by Hardin and Gharnef. 
+The head of the organization is
+a woman named Eremiah. 
+
+PLAYER:
+Eremiah...
+And where is she now? 
+
+JEIGUN:
+Here, in Archanea.
+Apparently, she runs an orphanage
+in the mountains. 
+*PLAYER leaves**MARS enters*
+MARS:
+An orphanage? 
+
+JEIGUN:
+Yes, so it would seem.
+However, it's an orphanage in name only. 
+She confines the children to a basement
+devoid of light, and teaches them all
+manner of wicked things.... 
+
+
+
+MS020_ED2_PCM1:
+*JEIGUN enters**PLAYER enters*PLAYER
+JEIGUN:
+, new information regarding
+the assassins has reached the palace. 
+As you may have guessed, they were
+dispatched by Hardin and Gharnef. 
+The head of the organization is
+a woman named Eremiah. 
+
+PLAYER:
+Eremiah...
+And where is she now? 
+
+JEIGUN:
+Here, in Archanea.
+Apparently, she runs an orphanage
+in the mountains. 
+*PLAYER leaves**MARS enters*
+MARS:
+An orphanage? 
+
+JEIGUN:
+Yes, so it would seem.
+However, it's an orphanage in name only. 
+She confines the children to a basement
+devoid of light, and teaches them all
+manner of wicked things.... 
+
+
+
+MS020_ED2_Y_PCF1:
+*PLAYER enters*
+PLAYER:
+......Sire.
+Please, let me go.
+I want to end this--once and for all. 
+
+INSERTNAMEHERE:
+I understand, PLAYER.
+I, too, cannot allow a situation
+like this to carry on. 
+*PLAYER leaves**KATARINA enters*
+KATARINA:
+...Please, wait. 
+
+INSERTNAMEHERE:
+Katarina?
+Were you listening the whole time? 
+
+KATARINA:
+There's a hidden passage to
+where Lady Eremiah is...
+I'll show you the way. 
+*MARS enters*
+MARS:
+...... 
+
+KATARINA:
+Please, allow me to go.
+I'll be fine. 
+I don't believe for a moment that this
+will atone for everything I've done... 
+But while I live I want to help
+in any way that I can. 
+
+
+MS020_ED2_Y_PCM1:
+*PLAYER enters*
+PLAYER:
+......Sire.
+Please, let me go. I'll crush them--
+I won't allow such a travesty to stand. 
+
+INSERTNAMEHERE:
+I understand, PLAYER.
+I, too, cannot allow a situation
+like this to carry on. 
+*PLAYER leaves**KATARINA enters*
+KATARINA:
+...Please, wait. 
+
+INSERTNAMEHERE:
+Katarina?
+Were you listening the whole time? 
+
+KATARINA:
+There's a hidden passage to
+where Lady Eremiah is...
+I'll show you the way. 
+*MARS enters*
+MARS:
+...... 
+
+KATARINA:
+Please, allow me to go.
+I'll be fine. 
+I don't believe for a moment that this
+will atone for everything I've done... 
+But while I live I want to help
+in any way that I can. 
+
+
+MS020_ED2_YB_PCF1:
+*PLAYER enters*
+PLAYER:
+......Sire.
+Please, let me go.
+I want to end this--once and for all. 
+
+INSERTNAMEHERE:
+I understand, PLAYER.
+I, too, cannot allow a situation
+like this to carry on. 
+Let's go to the orphanage then. 
+
+
+MS020_ED2_YB_PCM1:
+*PLAYER enters*
+PLAYER:
+......Sire.
+Please, let me go. I'll crush them--
+I won't allow such a travesty to stand. 
+
+INSERTNAMEHERE:
+I understand, PLAYER.
+I, too, cannot allow a situation
+like this to carry on. 
+Let's go to the orphanage then. 
+
+

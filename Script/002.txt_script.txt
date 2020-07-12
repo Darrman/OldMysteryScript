@@ -1,0 +1,310 @@
+MS002_OP0:
+
+
+MS002_OP0_A:
+
+
+MS002_OP0_B:
+
+
+MS002_OP0_C:
+
+
+MTUTS_FE24:
+
+
+MS002_OP1:
+*MARS enters**KATUA enters*
+KATUA:
+Prince Marth!!
+Thank goodness you've come to Macedonia! 
+
+MARS:
+Katua?!
+I received word that there was a rebellion
+in Macedonia. Are you unharmed? 
+
+KATUA:
+Yes, I'm fine. My older sister Paola and I
+managed to escape somehow. 
+But Princess Minerva was captured by
+the rebels. 
+Prince Marth, please...
+You have to rescue Princess Minerva!
+At this rate, her life will be in danger! 
+
+MARS:
+Of course I will help her.
+Katua, please take us to where she is. 
+
+KATUA:
+Yes, my lord! 
+But first we have to break through these
+woods. 
+General Rumel's dragon knight squad is
+lurking within this area. 
+If we approach from the front,
+we'll be easy pickings for them. 
+
+MARS:
+I see... So you're suggesting we flank them
+from the left or the right. 
+Thank you, Katua.
+Leave it to us! 
+
+
+MS002_H1:
+*MAN2 enters*
+MAN2:
+Warren's a bit of an idiot.
+Just 'cause they payed him well, he went
+ahead and joined the rebel army! 
+Ahh, to think a fool like him was once
+acquainted with the fair Katua... 
+
+
+MS002_H2:
+*LADY enters*
+LADY:
+
+Look out for those pilfering thieves.
+If they take off with your precious treasure,
+you won't ever get it back. 
+Never let them escape from your sight. 
+
+
+MS002_H3:
+*OLDMAN enters*
+OLDMAN:
+Because of the last war, every nation has
+been forced to lead hard lives. 
+The only well-off country is Akaneia,
+ruled by Emperor Hardin. 
+
+
+MS002_H4:
+*OLDMAN enters*
+OLDMAN:
+Some dirty thieves took our village treasure,
+the Lady Sword, and ran off with it. 
+Only women can wield the incredible power
+of that sword. 
+Please, prise it back from their filthy hands. 
+
+
+MS002_H5:
+*MAN1 enters*
+MAN1:
+Beware when dragon knights are around.
+Even from a far-off distance, they can
+move all at once and swoop down on you! 
+
+
+MS002_TK1:
+*KATUA enters**WOLLEN enters*
+KATUA:
+Warren?!
+Even a good man like you has sided with
+the rebel army... 
+
+WOLLEN:
+Katua the White, huh?
+It's been a while. 
+You know I'm just a common hunter.
+If they pay me enough, I'll do anything. 
+
+KATUA:
+Warren, listen to me! 
+Princess Minerva endeavored to create a
+country where its people could live at ease. 
+She exiled soldiers and generals of ill repute
+to accomplish that goal. 
+But General Ryuke, despite knowing this,
+roused the soldiers into a coup d'etat. 
+Can't you see? He's just trying to make this
+country into his own! 
+And you can honestly say you're okay with
+that? 
+
+WOLLEN:
+...I see.
+Well, I don't like the military acting as if they
+owned the place... 
+Alright then.
+If you're going to help the princess,
+then so will I. 
+
+
+MS002_VIL1:
+*MARS enters**MAJI enters*
+MAJI:
+O'er here! Prince Marth! 
+
+MARS:
+You're... Maji! 
+What are you doing so far from Talis? 
+
+MAJI:
+I couldn't sit still when I heard you's
+fighting again, so I came to join in. 
+We're Talis's mercenaries, right?
+If ya died, Princess Sheeda'd cry. 
+Prince Marth, lemme fight too.
+I'll join you's army. 
+
+
+MS002_BT_BOSS:
+*LUMEL enters*
+LUMEL:
+Taste the terror of Macedonia's fearless
+dragon knight squad! 
+
+
+MS002_BT_WOLEN:
+*WOLLEN enters*
+WOLLEN:
+No hard feelings.
+I don't have anything against you,
+but this is the way I live. Forgive me! 
+
+
+MS002_DIE_BOSS:
+*LUMEL enters*
+LUMEL:
+General Ryuke, I leave the rest to you... 
+
+
+MS002_DIE_WOLEN:
+*WOLLEN enters*
+WOLLEN:
+Damn it...
+I should've seen this coming... 
+
+
+MS002_ED1_PCF1:
+*JEIGUN enters**MARS enters*
+JEIGUN:
+Sire, we found someone most unusual confined
+in one of the fortress rooms. 
+*JEIGUN leaves**RINDA enters*
+MARS:
+Hm? ...Linda!
+How did you wind up in a dangerous place
+like this? 
+
+RINDA:
+Prince Marth! Thank heavens.
+What a pleasant surprise meeting you here. 
+I desperately needed to see you again,
+so I set out to find you. 
+But the Macedonian soldiers found me
+suspicious and they dragged me to this
+fortress... 
+
+MARS:
+Is that so?
+I'm glad you're safe.
+But, why were you looking for me? 
+Shouldn't you be by Princess Nina's side? 
+
+RINDA:
+I was requested by Princess Nina to deliver
+you this. 
+
+
+MS002_ED1_PCM1:
+*JEIGUN enters**MARS enters*
+JEIGUN:
+Sire, we found someone most unusual confined
+in one of the fortress rooms. 
+*JEIGUN leaves**RINDA enters*
+MARS:
+Hm? ...Linda!
+How did you wind up in a dangerous place
+like this? 
+
+RINDA:
+Prince Marth! Thank heavens.
+What a pleasant surprise meeting you here. 
+I desperately needed to see you again,
+so I set out to find you. 
+But the Macedonian soldiers found me
+suspicious and they dragged me to this
+fortress... 
+
+MARS:
+Is that so?
+I'm glad you're safe.Coming here by yourself
+was a dangerous thing to do. 
+But, why were you looking for me?
+Shouldn't you be by Princess Nina's side? 
+
+RINDA:
+I was requested by Princess Nina to deliver
+you this. 
+
+
+MS002_ED1_02_PCF1:
+
+INSERTNAMEHERE:
+Huh?
+This...!
+This is the Fire Emblem! 
+The royal heirloom of Akaneia:
+the Emblem Shield! 
+But why give this to me now? 
+Especially at a time when Akaneia has so
+much influence under Emperor Hardin's reign? 
+In this peaceful age, why is Princess Nina
+giving me the "Champion's Proof"...? 
+
+INSERTNAMEHERE:
+I don't understand either.
+Princess Nina didn't explain why,
+just that I had to give it to you... 
+I remember her eyes seemed so sad...
+I think she may have been crying... 
+
+INSERTNAMEHERE:
+Princess Nina crying?!
+What on earth has been happening...? 
+Linda, after this battle ends,
+I will go see Princess Nina. 
+Until then, I want you to remain with us. 
+
+INSERTNAMEHERE:
+Yes, Prince Marth!! 
+
+
+MS002_ED1_02_PCM1:
+
+INSERTNAMEHERE:
+Huh?
+This...!
+This is the Fire Emblem! 
+The royal heirloom of Akaneia:
+the Emblem Shield! 
+But why give this to me now? 
+Especially at a time when Akaneia has so
+much influence under Emperor Hardin's reign? 
+In this peaceful age, why is Princess Nina
+giving me the "Champion's Proof"...? 
+
+INSERTNAMEHERE:
+I don't understand either.
+Princess Nina didn't explain why,
+just that I had to give it to you... 
+I remember her eyes seemed so sad...
+I think she may have been crying... 
+
+INSERTNAMEHERE:
+Princess Nina crying?!
+What on earth has been happening...? 
+Linda, after this battle ends,
+I will go see Princess Nina. 
+Until then, I want you to remain with us. 
+
+INSERTNAMEHERE:
+Yes, Prince Marth!! 
+
+

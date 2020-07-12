@@ -1,0 +1,362 @@
+MS009_OP0:
+
+
+MS009_OP0_A:
+
+
+MS009_OP0_B:
+
+
+MS009_OP0_C:
+
+
+MS009_OP1:
+*MINERBA enters**MISHEIL enters*
+MISHEIL:
+Minerva, if you wait in this village,
+you will most certainly run into Marth. 
+I don't like him, but he is indeed noble.
+Join forces with him. 
+
+MINERBA:
+Brother, what are you going to do now?
+Won't you come with me...? 
+
+MISHEIL:
+I have no intention of doing that.
+I only wish to find Maria and bring her home
+to Macedonia. 
+
+MINERBA:
+You've changed, Brother...
+Or should I say, you've returned to how you
+used to be. 
+As I thought, back then you were being
+controlled by Garnef's dark magic. 
+
+MISHEIL:
+No, no magic could bend my will. 
+I wished to crush the arrogant Akaneia,
+and establish Macedonian supremacy over
+this continent. 
+I originally planned to ally with Durhua
+to destroy Akaneia, and then later join
+forces with Grunia's Camus to defeat Durhua. 
+But Father, without bending his ear to me,
+distanced himself from me and later had me
+banished. 
+
+MINERBA:
+Are you saying that's why you murdered
+Father? 
+What a fool you were...
+Didn't you realize that was Garnef's
+plotting all along? 
+Yes, Father was strict with you. 
+But it was only because he loved you.
+Why couldn't you see that? 
+
+MISHEIL:
+Enough, Minerva.
+Do you take me for a fool? 
+After I was defeated, I wandered the gap
+between life and death. 
+When I had come to, in front of me,
+I saw Maria--her eyes full of tears--
+praying to the gods. 
+She saved me, by selflessly and tirelessly
+taking care of me, even though her
+face was completely in tears. 
+I don't believe in the gods, but at that time
+she truly looked like an angel. 
+While I treated her like a pawn,
+Maria, she shed tears for me... 
+Minerva, I'm going now.
+I have to save Maria.
+At least that can be my atonement! 
+
+MINERBA:
+Misheil... 
+
+
+MS009_OP2_PCF1:
+*MARS enters**JEIGUN enters*
+MARS:
+Jeigan, everybody appears to be safe.
+That's great to see. 
+
+JEIGUN:
+Sire.
+How shall we proceed from here? 
+
+MARS:
+Hmm... I want to go home to Aritia,
+but if we can't prevail against Hardin,
+then we can't go back. 
+What in the world are we supposed to do...? 
+
+JEIGUN:
+Sire, it's an emergency!
+I have just come into some new information. 
+The Khadein mage corps has launched an
+offensive against us. 
+
+MARS:
+What!?
+Even Khadein means to be our enemy...
+Marich, what are you... 
+
+JEIGUN:
+At this rate, it seems we have no choice. 
+
+JEIGUN:
+Sire, we need to break into the sanctuary,
+but you must be prepared to make sacrifices. 
+If we don't hurry, Akaneia's pursuit force
+will reach our rear and we'll be trapped. 
+
+MARS:
+I understand. We've no choice. 
+Everyone, let's break into the sanctuary!
+But avoid needless fights if possible! 
+
+
+MS009_OP2_PCM1:
+*MARS enters**JEIGUN enters*
+MARS:
+Jeigan, everybody appears to be safe.
+That's great to see. 
+
+JEIGUN:
+Sire.
+How shall we proceed from here? 
+
+MARS:
+Hmm... I want to go home to Aritia,
+but if we can't prevail against Hardin,
+then we can't go back. 
+What in the world are we supposed to do...? 
+
+JEIGUN:
+Sire, it's an emergency!
+I have just come into some new information. 
+The Khadein mage corps has launched an
+offensive against us. 
+
+MARS:
+What!?
+Even Khadein means to be our enemy...
+Marich, what are you... 
+
+JEIGUN:
+At this rate, it seems we have no choice. 
+
+JEIGUN:
+Sire, we need to break into the sanctuary,
+but you must be prepared to make sacrifices. 
+If we don't hurry, Akaneia's pursuit force
+will reach our rear and we'll be trapped. 
+
+MARS:
+I understand. We've no choice. 
+Everyone, let's break into the sanctuary!
+But avoid needless fights if possible! 
+
+
+MS009_EV1:
+*MARS enters**JEIGUN enters*
+JEIGUN:
+An update, sire!
+The Akaneia army is, at present,
+approaching from the south. 
+
+MARS:
+I see.
+Hasten the march;
+don't let them catch up! 
+
+
+MS009_EV2A:
+*ASTRIA enters*
+ASTRIA:
+Do not think you can escape, Aritians.
+I'll turn this desert into your graveyard. 
+
+
+MS009_EV2B:
+*SOLDIER_RED enters*
+SOLDIER_RED:
+Do not think you can escape, Aritians.
+We will avenge Captain Astria! 
+
+
+MS009_H1:
+*LADY enters*
+LADY:
+From here on north, you won't see no more
+shops. 
+If you're going that way, you should stock
+up now. 
+
+
+MS009_H2:
+*OLDMAN enters*
+OLDMAN:
+A swordslayer will demonstrate your might
+against a mercenary or a hero. 
+You should definitely get one if you can. 
+
+
+MS009_H3:
+*MAN1 enters*
+MAN1:
+The person commanding Khadein's mage
+corps is a young man named Ellerean. 
+He's not a bad man, but he can be a bit
+uncooperative. 
+Seems he regards his old rival, Marich,
+with disdain. 
+Hmm...
+I reckon only Lord Wendel could talk some
+sense into him. 
+
+
+MS009_TK1:
+*MARS enters**ETZEL enters*
+MARS:
+You're... Etzel!
+Why are you here? 
+
+ETZEL:
+I have my ties to Khadein as well. 
+"Prince Marth has succumbed to his
+ambitions and invaded Akaneia." 
+When I was told that, there was no way I
+could sit still! 
+
+MARS:
+...... 
+
+ETZEL:
+But... No matter how I put it, I just couldn't
+imagine you'd become that sort of person. 
+Prince Marth, you said to me long ago that
+you wanted to let the era of war end. 
+Do you still stand by those words? 
+
+MARS:
+Yes, I do.
+I do not seek to fight. 
+
+ETZEL:
+...I see.
+I, too, do not seek as such.
+Allow me to join you once more. 
+
+
+MS009_VIL1:
+*MARS enters**MINERBA enters*
+MARS:
+Huh?
+Princess Minerva, why are you here? 
+
+MINERBA:
+My brother... Misheil, he helped me. 
+
+MARS:
+Really? That's good to hear.
+I was so worried once I heard that
+Prince Misheil had taken you. 
+But, for him to rescue you:
+what in the world happened? 
+
+MINERBA:
+Maria saved Misheil's life. 
+She's kind, unlike myself... 
+Maria's kindness was able to touch the
+heart of even a man like Misheil. 
+
+MARS:
+But, isn't that what you wanted?
+That's why you deliberately avoided killing
+Misheil. 
+Am I wrong, Princess? 
+
+MINERBA:
+Hmm...... 
+
+MARS:
+I can understand.
+No one can sever the ties between family
+so easily. 
+Princess, please lift your spirits.
+I would like you to fight with us again,
+just like before. 
+I would like Macedonia's strength and yours
+in order to put a stop to Hardin's designs. 
+
+
+MS009_BT_ASTRIA:
+*ASTRIA enters*
+ASTRIA:
+You traitors!
+I'll show you the might of Miracle!! 
+
+
+MS009_BT_BOSS:
+*YODEL enters*
+YODEL:
+I will not forgive intruders upon our
+holy sanctuary!
+Earth, show your fury! Bolganone!! 
+
+
+MS009_BT_ETZEL:
+*ETZEL enters*
+ETZEL:
+I don't want to fight you, but I owe Khadein.
+What a troublesome ordeal I am in... 
+
+
+MS009_DIE_ASTRIA:
+*ASTRIA enters*
+ASTRIA:
+Midia... My love... 
+
+
+MS009_DIE_BOSS:
+*YODEL enters*
+YODEL:
+Ellerean...
+Was this really what you wanted...? 
+
+
+MS009_DIE_ETZEL:
+*ETZEL enters*
+ETZEL:
+This war... will... someday... 
+
+MS009_ED1_PCF1:
+*MARS enters**JEIGUN enters*
+JEIGUN:
+The atmosphere inside the building seems
+somewhat strange. 
+
+MARS:
+Indeed, something seems to be happening. 
+Let's go, Jeigan.
+I'm worried about Marich! 
+
+
+MS009_ED1_PCM1:
+*MARS enters**JEIGUN enters*
+JEIGUN:
+The atmosphere inside the building seems
+somewhat strange. 
+
+MARS:
+Indeed, something seems to be happening. 
+Let's go, Jeigan.
+I'm worried about Marich! 
+
+

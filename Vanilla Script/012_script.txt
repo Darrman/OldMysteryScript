@@ -1,0 +1,297 @@
+MS012_OP1:
+
+INSERTNAMEHERE:
+1*MARS enters**CHEINE enters*
+MARS:
+This place... It's incredible...
+I feel as though I'm burning up just by
+standing here. 
+
+CHEINE:
+This is Flame Barrel...
+The fire dragons' graveyard. 
+It's where the fire dragons who've
+degenerated into savage beasts come to
+wait for their death. 
+
+MARS:
+Degenerated, you say...?
+What do you mean by that? 
+
+CHEINE:
+I'm not sure if you're aware, but the dragon
+tribe is dyin'. 
+Those who don't confine their true, dragon
+form in a stone eventually lose all reason
+and become monsters. 
+
+MARS:
+So that's why they become Manaketes? 
+Xane, if you know something about the
+dragon tribe, please tell me. 
+
+CHEINE:
+If you really wanna know... 
+Tens of thousands of years ago, the
+dragon tribe settled down on this continent,
+and created a civilization. 
+They possessed intellect and abilities far
+exceedin' those of humans. 
+But suddenly, outta nowhere, their day of
+destruction came. 
+At first, they couldn't bear children.
+Then they began to lose their minds,
+goin' berserk one after the next. 
+The elders warned that the end of
+dragons as a species was approachin'.
+There was no longer any way to prevent it. 
+However, there was one way they could
+survive: to discard their identities as
+dragons and live on as humans. 
+The dragons fell into a panic. 
+Those who believed the elders sealed their
+forms within stones and became humans. 
+But those who couldn't throw away their
+pride as a dragon; those who adamantly
+refused to become human... 
+They eventually lost their minds and became
+naught but beasts... 
+
+MARS:
+Those fire dragons before us... 
+
+CHEINE:
+Yeah, they're a livin' example.
+And it's not just them.
+There are many others. 
+But they've all gone feral now.
+There's no way for them to go back... 
+Worse still, they've been manipulated and
+degraded like cattle by the fire clans who
+rule over this valley. 
+Well, princey.
+Whadya say we get out of here? 
+The clansmen around here ain't friendly;
+if we hang around, we'll end up as bait for
+their dragon pets. 
+
+
+MS012_TK1:
+
+INSERTNAMEHERE:
+1*MARS enters**DAROSS enters*
+MARS:
+Darros! What brings you here?!
+I thought you had washed your hands of
+your pirating days... 
+
+DAROSS:
+Prince Marth... Forgive me. 
+I was lookin' t'start anew, but there be no
+place t'go for an outcast like me... 
+To resume and continue these crimes;
+'tis dishonorable indeed. 
+
+MARS:
+I see...
+Darros, you cannot stay here.
+Come with us. 
+
+DAROSS:
+Prince Marth...
+Ye would still accept a fool like me...? 
+Prince, I...
+This time, I be changin' for sure.
+Me life is yours! 
+
+
+MS012_BT_DAROSS:
+*DAROSS enters*
+DAROSS:
+Please forgive me.
+I never wanted this. 
+
+
+MS012_DIE_DAROSS:
+*DAROSS enters*
+DAROSS:
+Of course...
+'Course I'd die... for what I've done... 
+
+
+MS012_ED1:
+*MARS enters**CHEINE enters*
+CHEINE:
+Phew! And that be the end of the fire
+dragons' valley. How you doin', princey? 
+
+MARS:
+I'm fine... I think. 
+Xane, I believe you said that there were
+other feral dragon tribes. 
+
+CHEINE:
+Yeah. In addition to this valley, there's the
+Wyvern's Dale, the Ice Dragon Shrine and
+the Dragon's Altar... 
+
+MARS:
+The Dragon's Altar? 
+
+CHEINE:
+It's a dragon graveyard in the mountains of
+Macedon. There, the earth dragons sleep. 
+A long time ago...
+Thousands of years ago in fact... 
+The mighty earth dragons lost their minds
+and attacked the humans. 
+'Course, the humans barely stood a chance.
+Most were annihilated, and the rest pushed
+into the desolate corners of the continent. 
+And then... the divine dragon Naga, strongest
+of them all, waged a war for humanity. 
+It was a fierce battle, but Naga emerged
+victorious in the end, and sealed the earth
+dragons below Dolhr, in a deep sleep. 
+And so that the power of the seal would not
+wither, 
+she created the "shield of the five orbs"
+and placed it in the Fane of Raman. 
+
+MARS:
+I see...
+I understand now. 
+In other words, our guardian deity Naga
+depicted in legend was the divine dragon
+that saved humanity. 
+But then, what about the divine sword
+Falchion? 
+
+CHEINE:
+Naga took pity on you humans, with no way of
+protecting yourselves, so she created it
+from one of her fangs. 
+Then, together with the shield, she sealed
+it in the fane, and had the remainin' dragon
+houses watch over humanity. 
+She put the newly born Tiki to sleep and thus
+ended her 5,000-year life. 
+'Cause of all this, Gotoh's tryin' his best to
+carry out Naga's order. 
+
+MARS:
+Wait, Xane...
+Are you telling me...!? 
+
+CHEINE:
+Yes: Gotoh is a divine dragon.
+And guess what? So am I. 
+
+
+MS012_ED2:
+*PLAYER enters**JEIGUN enters*
+JEIGUN:
+Blast... This heat is absurd.
+I wasn't sweating this much in the desert... 
+I'm usually tolerant of heat, but this is simply
+unbearable... 
+But PLAYER, you seem... 
+
+
+MS012_ED2_A:
+
+INSERTNAMEHERE:
+You seem... unfazed.
+Are you not hot? 
+
+INSERTNAMEHERE:
+I have confidence in my strength. 
+Sir Jagen, it seems that our companions are
+catching up to us. I'll go and carry them
+over here. 
+
+INSERTNAMEHERE:
+What strength...
+It's as though you're invulnerable.
+Your reliability is astounding. 
+
+
+MS012_ED2_B:
+
+INSERTNAMEHERE:
+You seem to be struggling too...
+Are you holding out alright? 
+
+INSERTNAMEHERE:
+Yes, I've still some strength in me. 
+Sir Jagen, it seems that our companions are
+catching up to us. I'll go and support them. 
+
+INSERTNAMEHERE:
+Good. I'm depending on you. 
+
+
+MS012_ED2_C:
+
+INSERTNAMEHERE:
+You seem a little dizzy...
+Are you holding out alright? 
+
+INSERTNAMEHERE:
+No...
+I-I'm... not doing so well... 
+Still...
+If I could just use my strength...
+Oh no, I feel all weak... 
+PLAYER
+INSERTNAMEHERE:
+, are you well?!
+Oomph, how troublesome...
+You'd best hold onto me. 
+*PLAYER enters*
+PLAYER:
+I-I'm sorry... 
+
+
+MS012_ED_BS:
+*MARS enters**BELF enters*
+BELF:
+Please pardon my sudden rudeness,
+but might you be Prince Marth? 
+
+MARS:
+Who are you...? 
+
+BELF:
+I am Belf, and these men here are Robert
+and Leiden. We rushed here because we wish
+to join your battle. 
+*BELF leaves**ROBERTO enters*
+ROBERTO:
+We were once knights of the Sable Order
+of Grust, but we have now separated from
+our homeland. 
+*ROBERTO leaves**LEIDEN enters*
+LEIDEN:
+We threw away our ranks as knights, and
+now live to protect those who are powerless. 
+
+MARS:
+The Sable Order of Grust... 
+But in the previous war, we fought against
+the Sable Order as enemies. 
+Despite that, you're willing to join our army? 
+*LEIDEN leaves**BELF enters*
+BELF:
+Our general wished for us to protect the
+weak, regardless of nationality. 
+He is gone now, so we would like to fulfill his
+final wish. 
+
+MARS:
+............ 
+I see.
+You seem to speak truly.
+Very well. I'd like you to fight alongside us. 
+
+

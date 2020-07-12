@@ -1,0 +1,441 @@
+MS010_OP0:
+*PLAYER enters**MARS enters*
+PLAYER:
+So this is the School of Khadein...
+The sanctuary of those who study magic. 
+
+MARS:
+Indeed, Merric studied here since he was a
+child. 
+I personally have no magical ability, but
+as for you, PLAYER... 
+
+
+MS010_OP0_A:
+
+INSERTNAMEHERE:
+You're incredible.
+I don't think you'd lose to even Merric. 
+
+INSERTNAMEHERE:
+I wonder if I could study here, in Khadein? 
+
+INSERTNAMEHERE:
+Actually, I think they'd want you to teach. 
+
+
+MS010_OP0_B:
+
+INSERTNAMEHERE:
+You have potential.
+I'm sure you'd qualify to study here. 
+
+INSERTNAMEHERE:
+Thank you, sire. 
+
+
+MS010_OP0_C:
+
+INSERTNAMEHERE:
+You too, hm...?
+You're not very good at magic either. 
+
+INSERTNAMEHERE:
+Yeah... I'm not really cut out for it. 
+
+INSERTNAMEHERE:
+Well, everyone has their own talents.
+I wouldn't worry too much about it. 
+
+
+MS010_OP1:
+*MARICH enters**ELREAN enters*
+ELREAN:
+Merric.
+It's time to put an end to this. 
+
+MARICH:
+Wait, Elrean!
+Why do we have to fight? 
+We were both Master Wendell's pupils:
+we're friends, are we not?
+Why do you despise me so? 
+
+ELREAN:
+I was Master Wendell's disciple before you,
+and I was the stronger one. 
+Even so, Master Wendell gave you Excalibur.
+He should have given it to me! 
+Clearly, I was the only one worthy to be his
+successor, yet he... 
+
+MARICH:
+But I have no intention of succeeding
+Master Wendell. 
+I hold no ill feelings for Khadein, but once I
+finish studying I plan to go home. 
+Back in Altea, there is somebody I must
+protect for the rest of my life... 
+So, Elrean, please!
+Why don't you join us so we can take back
+Altea? 
+
+ELREAN:
+Altea, you say?! 
+Why should we help a country that rebelled
+against the empire and attempted to invade
+their fair nation? 
+The mage corps of Khadein have sworn
+allegiance to Emperor Hardin. 
+Oh, I see... I knew it was you...
+YOU dragged the Altean army here! 
+
+MARICH:
+No!!
+That's not how it is! 
+
+ELREAN:
+Shut your mouth, traitor!!
+I won't listen to your lies any longer! 
+Your Excalibur and my Thoron;
+we'll put them to the test! 
+
+
+MS010_EV1:
+*MARS enters*
+MARS:
+Everyone, we must rescue Merric!
+However, the enemies include clerics who cannot fight. 
+It would seem that they are being
+threatened by the enemy. 
+Please, try not to hurt them. 
+
+
+MS010_TK1:
+*WENDEL enters**ELREAN enters*
+WENDEL:
+Elrean!
+What are you doing?! 
+
+ELREAN:
+Master Wendell... 
+
+WENDEL:
+You still don't understand my decision,
+do you? 
+Indeed, as a mage, your power surpasses
+mine. 
+But you lack compassion.
+That is why I did not grant you Excalibur. 
+
+ELREAN:
+...
+Compassion...? 
+
+WENDEL:
+I had decided that you were to be my
+successor when the time came. 
+To think you would harbor a grudge towards
+me... Does that not make you the same as
+Gharnef? 
+
+ELREAN:
+The same as Gharnef...?
+Teacher! What are you saying? 
+
+WENDEL:
+Elrean, listen to me...
+Gharnef, along with Pontifex Miloah, were
+Lord Gotoh's best pupils. 
+But Lord Gotoh saw Gharnef's weakness,
+and so he left Khadein and the Aura tome
+to Pontifex Miloah. 
+Gharnef, overcome by jealousy, stole the
+Darksphere from Lord Gotoh, and created
+the Imhullu tome. 
+As a result...
+His heart was trapped within the Darksphere
+for all eternity. 
+Wrath and envy led him to ruin.
+Do you understand now, Elrean...? 
+
+ELREAN:
+...Teacher... 
+...Teacher!
+I'm so sorry. 
+I... I was wrong. 
+Please... find it in your heart to forgive me! 
+
+WENDEL:
+Elrean, you will use that power of yours for
+the good of the people. 
+Understand? 
+
+
+MS010_BT_JUCAPH:
+*ELREAN enters*
+ELREAN:
+I won't lose to someone like Merric.
+Anyone who sides with him is my enemy.
+Thunder, strike them down! Thoron!! 
+
+
+MS010_BT_JUCAPH_WENDEL:
+*ELREAN enters*
+ELREAN:
+Why does everyone side with HIM...?
+Even though... even though I'm stronger! 
+*WENDEL enters*
+WENDEL:
+How horrible...
+Consumed by your hatred, you have
+forgotten what is truly important. 
+
+
+MS010_DIE_JUCAPH:
+*ELREAN enters*
+ELREAN:
+Master Wendell... 
+
+
+MS010_ED2_PCF1:
+*MARS enters**PLAYER enters*
+PLAYER:
+Sire, we've rescued the clerics. 
+
+MARS:
+Excellent.
+Good work, PLAYER. 
+
+PLAYER:
+As thanks, they have offered to give us this. 
+
+
+MS010_ED2_PCM1:
+*MARS enters**PLAYER enters*
+PLAYER:
+Sire, we've rescued the clerics that were
+threatened by the enemy. 
+
+MARS:
+Excellent.
+Good work, PLAYER. 
+
+PLAYER:
+As thanks, they have offered to give us this. 
+
+
+MS010_ED1:
+*MARS enters*
+
+MS010_ED1_1:
+*S_GATO enters*
+S_GATO:
+Marth...
+Do you hear me? 
+
+INSERTNAMEHERE:
+Lord Gotoh!
+Yes, I can. You are speaking to me through
+magic, are you not? 
+Lord Gotoh, I must ask: what has happened
+to cause Hardin to suddenly change so
+much? 
+
+S_GATO:
+Hmm... The Darksphere is the culprit...
+Hardin's soul is trapped within the
+Darksphere... 
+
+INSERTNAMEHERE:
+The Darksphere?
+What on earth is that? 
+
+
+
+MS010_ED1_2:
+
+INSERTNAMEHERE:
+Light, Star, Earth, Life and Darkness...
+In this world, there exist five sacred orbs. 
+The Darksphere is that which complements
+the Lightsphere; 
+in battle, it possesses the enemy's mind,
+negating their attacks. 
+But the Darksphere also amplifies wrath and
+envy, and can turn its owner into a demon. 
+Hardin must have obtained the Darksphere
+from somewhere...
+And now his heart has been lost to it. 
+
+INSERTNAMEHERE:
+But why? He should have been happy after
+his union with his beloved Princess Nyna,
+so why the envy? 
+
+INSERTNAMEHERE:
+Prince...
+Humans are never simple creatures... 
+In any case, the only object that can
+overcome Hardin's Darksphere is the
+Lightsphere. 
+If you want to do something about him,
+then you had best come and get it from me. 
+
+INSERTNAMEHERE:
+Huh? Really, Lord Gotoh?
+If we have the Lightsphere then we can
+save Hardin? 
+
+INSERTNAMEHERE:
+Well... If his heart is not completely consumed,
+then perhaps. 
+
+INSERTNAMEHERE:
+Lord Gotoh!
+Please, lend the Lightsphere to me. 
+
+INSERTNAMEHERE:
+If you come in person to the Ice Dragon
+Shrine where I reside, then you shall have it. 
+But that will be no easy task. 
+So, Marth.
+Do you have the courage to walk the path
+that Anri walked? 
+
+INSERTNAMEHERE:
+Yes, I do! I will go!!
+Please, allow me to go! 
+I must have the Lightsphere! 
+
+
+MS010_ED2_ADD:
+*PLAYER enters**JEIGUN enters*PLAYER
+JEIGUN:
+, may I have a word?
+As this army's strategist, I have been
+observing each and every of our battles. 
+If I were to sum up your recent style of
+fighting, I would say... 
+
+
+MS010_ED2_ADD_A:
+
+INSERTNAMEHERE:
+Most impressive! To the end. 
+All of your comrades support each other,
+and you fight as one, so as to not lose
+each other. 
+With Prince Marth as our core...
+and your support, we shall not falter. 
+
+INSERTNAMEHERE:
+It is an honor, Sir Jagen. 
+
+
+MS010_ED2_ADD_B:
+
+INSERTNAMEHERE:
+Excellent! There is no other word. 
+At times we lose comrades...
+But even so, we have always prevailed. 
+With Prince Marth as our core...
+and your support, we shall not falter. 
+
+INSERTNAMEHERE:
+It is an honor, Sir Jagen. 
+
+
+MS010_ED2_ADD_C:
+
+INSERTNAMEHERE:
+Unsatisfactory...
+It pains me to say it. 
+But your comrades have fallen, one after
+another... At this rate, I worry for the future. 
+You must protect them from now on.
+Their lives are in your hands, PLAYER. 
+
+INSERTNAMEHERE:
+Yes, Sir Jagen. 
+
+
+MS010_ED_BS:
+*PLAYER enters**MARIS enters*
+MARIS:
+Hey, can I talk to you for a second?
+I came here 'cause I heard Marth's group
+was passing by, but, erm... 
+
+PLAYER:
+Sorry, who are you? 
+
+MARIS:
+I'm Maris.
+A mercenary, and not a cheap one. 
+I'd like to ask you something:
+is yer prince okay with paying gold? 
+Oh, of course, it's okay if I have to wait
+until this war's over.
+So, erm... 
+If you, er, paid us, say... 590 gold for our
+services, that ought to do, I think. 
+
+PLAYER:
+Huh? If it's only that much, then
+Prince Marth would gladly pay... 
+
+MARIS:
+Phew! The rumors are true.
+He's completely different from all our
+employers up till now. Right, Pops? 
+*MARIS leaves**DICE enters*
+DICE:
+He IS different.
+Looks like we hit the jackpot coming to this
+desert. 
+I'm Dice.
+On behalf of the both of us,
+it's great to be in your service. 
+
+
+MS010_ED3:
+*MARS enters**JEIGUN enters*
+JEIGUN:
+Sire, we've just received new information. 
+It concerns the assassins' movements...
+Lord Horace, who thought to ally with us,
+is in peril. 
+
+MARS:
+Lord Horace...! 
+*JEIGUN leaves**PLAYER enters*PLAYER
+MARS:
+, Lord Horace is an Archanean
+knight in Princess Nyna's service.
+He was our ally. 
+
+MARS:
+0*MARS leaves**MARS enters**PLAYER leaves**HORUS enters*
+MARS:
+Lord Horace!
+I am Marth of Altea.
+I ask that you lay down your arms... 
+
+HORUS:
+......
+Is Princess Nyna... safe? 
+
+MARS:
+0*HORUS leaves**JEIGUN enters**MARS leaves**MARS enters*
+MARS:
+
+
+
+MS010_ED3_Y:
+
+INSERTNAMEHERE:
+We cannot abandon Lord Horace.
+Jagen, PLAYER, let's hurry! 
+
+

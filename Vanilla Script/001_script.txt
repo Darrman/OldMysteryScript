@@ -1,0 +1,633 @@
+MTUTS_TRANSPORTER:
+*MARS enters**PLAYER enters*PLAYER
+MARS:
+, we'll be arriving shortly. 
+This is your first real battle, is it not? 
+Battles will be different from here on out.
+Defeat on the battlefield means death. 
+Any allies you lose will never return...
+That is the harsh reality of war. 
+You must take the utmost care not to get
+yourself killed. 
+
+PLAYER:
+Of course, sire. 
+
+
+MARS:
+You, and everyone else...
+It would be wonderful if we could end this
+battle without losing anyone... 
+
+PLAYER:
+Sire... 
+
+*PLAYER leaves**JEIGUN enters*
+JEIGUN:
+Sire, we have made arrangements for a
+transport convoy. 
+We will also have merchants accompanying
+us, who will sell us weapons and items. 
+I daresay they will be invaluable during
+battle preparations. 
+MARS:
+Thank you, Jagen.
+Then let's begin our preparations at once. 
+
+MTUTS_TRANSPORTER_R:
+*MARS enters**PLAYER enters*PLAYER
+MARS:
+, we'll be arriving shortly. 
+This is your first real battle, is it not? 
+You must take the utmost care not to get
+seriously injured. 
+
+
+PLAYER:
+Of course, sire. 
+
+MARS:
+You, and everyone else;
+It would be wonderful if we could end this
+battle safely... 
+
+PLAYER:
+Sire... 
+
+*PLAYER leaves**JEIGUN enters*
+JEIGUN:
+Sire, we have made arrangements for a
+transport convoy. 
+We will also have merchants accompanying
+us, who will sell us weapons and items. 
+I daresay they will be invaluable during
+battle preparations. 
+MARS:
+Thank you, Jagen.
+Then, let's begin our preparations at once. 
+
+MS001_OP1:
+*MARS enters**JEIGUN enters*
+JEIGUN:
+Sire, this is General Lang, the commanding
+officer of the occupational forces. 
+*JEIGUN leaves**RANG enters*
+RANG:
+Oho, so you are Prince Marth?
+Glad you could make it here. 
+Since you've come all this way, I suppose
+I'll let you have the glory of capturing the
+rebel leader, General Lorenz. 
+
+MARS:
+What?!
+General Lorenz leads the rebels?! 
+What would possess him to rebel of all
+things?! 
+
+RANG:
+Who knows?
+I haven't the foggiest idea, and frankly
+I don't care. 
+Prince. You are to kill General Lorenz,
+and reclaim the children of the Grustian
+royal family that he's hiding. 
+While you do that... 
+We will slaughter the families of those who
+participated in this rebellion and raze their
+homes to the ground. 
+
+MARS:
+Are you insane?!
+They're innocent civilians! 
+
+
+RANG:
+"I-insane"!?
+Young man, are you questioning my orders?! 
+
+Perhaps Altea, too, plans to rebel against
+Archanea...? 
+
+
+MARS:
+Of course not! That's not... 
+
+
+RANG:
+
+Prince Marth, your tiny country means
+absolutely nothing to me. 
+Your rude behaviour is merely an irritation. 
+Do not forget that I have the power of the
+empire behind me: 
+I can crush weak, pesky insects like you
+any time I wish. 
+
+
+MS001_OP1_02:
+*MARS enters**JEIGUN enters**JEIGUN leaves**JEIGUN enters*
+MARS:
+Jagen...
+What in the world is going on here? 
+How could Hardin have entrusted this
+country to such a vile man? 
+
+JEIGUN:
+Sire, I understand how you feel.
+However, Lorenz has begun a rebellion. 
+That much seems to be true, so we ought
+to do something about that first. 
+Sire, why don't you try speaking to
+General Lorenz personally? 
+Allow me to stay by your side and serve
+as your tactician. 
+
+
+MS001_OP1_03A_PCF1:
+*PLAYER enters*
+INSERTNAMEHERE:
+Royal Guard PLAYER! 
+When Prince Marth is in danger on the
+battlefield, protect him at all costs.
+That is an order! 
+
+PLAYER:
+Acknowledged. 
+*MARS enters*PLAYER
+MARS:
+, I have no need to worry if
+you're here. 
+Let's clean up the bandits,
+and head to General Lorenz's position! 
+
+PLAYER:
+Yes sir! 
+
+
+MS001_OP1_03A_PCM1:
+*PLAYER enters*
+INSERTNAMEHERE:
+Royal Guard PLAYER! 
+When Prince Marth is in danger on the
+battlefield, protect him at all costs.
+That is an order! 
+
+PLAYER:
+Yes, sir. 
+*MARS enters*PLAYER
+MARS:
+, if you're here, I have no need to
+worry. 
+Let's clean up the bandits,
+and head to General Lorenz's position! 
+
+PLAYER:
+Yes sir! 
+
+
+MS001_OP1_03B:
+
+INSERTNAMEHERE:
+Well then, sire; let us march onwards! 
+
+
+MS001_EV0:
+*BANDIT enters*
+BANDIT:
+Oh? A battle, is it? We're in luck, boys!
+Let's loot 'em villages before 'ey realize
+what's hit 'em! 
+
+
+MS001_EV1:
+*ROLENSE enters**OGUMA enters*
+ROLENSE:
+Alright, that will do for now...
+Sir Ogma, please forgive me for getting you
+involved in this mess. 
+
+OGUMA:
+I am here on King Talys's orders. 
+As such, I will do everything in my power to
+help. 
+
+ROLENSE:
+I see... Then I have a favor to ask of you.
+I want you to escort these children to
+Macedon. 
+These children...
+Prince Yubello and Princess Yumina,
+are King Grust's orphans. 
+Please.
+Take them safely to Lord Wendell in
+Macedon. 
+
+OGUMA:
+Understood...
+I will guard these two with my life. 
+
+ROLENSE:
+Thank you, Sir Ogma... 
+
+*OGUMA leaves**YUMINA enters*
+ROLENSE:
+Now, Prince Yubello, Princess Yumina,
+you will be leaving with Sir Ogma. 
+
+YUMINA:
+No! I'm not going!
+I won't leave you behind! 
+
+ROLENSE:
+Princess...
+I cannot go. 
+With this wound, I can barely even walk. 
+It saddens me, but you two must go on
+without me. 
+
+YUMINA:
+You took that grievous wound to protect us... 
+How can you tell us to just leave you behind
+now?! 
+I will never leave.
+We will never leave your side, Lorenz!! 
+*YUMINA leaves**OGUMA enters*
+OGUMA:
+What shall I do, General? 
+
+ROLENSE:
+Hmm... this is most troublesome. 
+Princess Yumina is not one to change her
+mind easily... We will remain here. 
+
+OGUMA:
+In that case, I will find some other way to
+help you. 
+I will find Lang and bring him down...
+I will bury him with this sword, I swear on it. 
+General Lorenz, you must hold out until then...! 
+
+
+MS001_TK1:
+*ROLENSE enters**MARS enters*
+ROLENSE:
+Prince Marth!
+So it is you... 
+How unfortunate, that I must fight...
+the Altean Army and its prince... 
+
+MARS:
+Please, wait.
+I do not wish to fight with you. 
+I heard about everything from the villagers.
+I've heard of all the atrocities Archanea
+has committed. 
+I promise, I will inform Emperor Hardin of
+the truth and rescue Grust. 
+So please, lower your weapons. 
+
+ROLENSE:
+Prince...
+I am grateful for the offer. 
+But, I am afraid that I cannot comply.
+Prince, you know nothing. 
+Do you think that a man of Emperor Hardin's
+caliber would make a general out of a man as
+worthless as Lang without good reason? 
+He called for an invasion: to crush the
+kingdom of Grust and make it a territory
+of the Empire. 
+
+MARS:
+No, it can't be!
+Hardin would never do something like that. 
+
+ROLENSE:
+I know it's hard to believe.
+But I'm afraid that, ever since he became
+emperor, he has changed a great deal. 
+He is no longer the Hardin you once knew. 
+Prince, I have one final request of you. 
+In this stronghold, I am protecting the young
+prince and princess of Grust. 
+Please, find a way to help them. 
+If you can do just that, I will have no regrets. 
+
+MARS:
+What...
+General Lorenz, what are you saying...?! 
+
+ROLENSE:
+Prince Marth...
+My life in exchange for theirs...
+By any means necessary, please help them... 
+This is the last thing I will ask... 
+
+
+MS001_TK1_2:
+
+INSERTNAMEHERE:
+General Lorenz!! 
+......This can't be happening...... 
+
+
+MS001_H1:
+*LADY enters*
+LADY:
+I only saw him briefly, but that knight, Arran,
+looked awfully pale. 
+You know, he's probably hit the wall, so to
+speak. 
+I doubt he'll get any stronger, no matter how
+much he fights... 
+
+
+MS001_H2:
+*UNCLE enters*
+UNCLE:
+There aren't any young girls left in this
+country. 
+They were all taken away by the imperial
+troops. 
+They say General Lang keeps the really
+pretty ones to himself. 
+What a dark, insane chapter in Grust's
+history... 
+
+
+MS001_H3:
+*OLDMAN enters*
+OLDMAN:
+The late King Grust had two children. 
+Princess Yumina and Prince Yubello.
+They're still young. 
+Maybe thirteen, or fourteen;
+cute little twins, both of them. 
+In the last war, Gharnef, the Dark Pontifex,
+kidnapped the twins to blackmail the king. 
+They were taken to Khadein, the city of magic,
+and locked away in a pitch-black room. 
+At great personal risk, Pontifex Wendell
+saved them. 
+He took them to a monastery to protect them. 
+
+
+MS001_H4:
+*MAN1 enters*
+MAN1:
+General Lorenz took the royal children from
+Lord Wendell and raised them in Grust. 
+The empire demanded their extradition,
+but Lorenz was afraid they would be killed,
+and hid them. 
+The empire branded Lorenz a traitor,
+and sent General Lang here. 
+Lang did horrible things to find the royal
+children. That's why we rose up. 
+But, we lost.
+And now Lang is going to kill everyone in
+this entire country! 
+
+
+MS001_H5:
+*MAN1 enters*
+MAN1:
+I heard that General Lorenz lived in Talys
+when he was young. 
+Talys wasn't unified at the time, so there
+were a number of noble houses contending
+for control. 
+Lorenz lent his power to the young patriarch
+of one house, and together they unified
+Talys into one country. 
+Lorenz and that patriarch--now the king of
+Talys--remain close friends to this day. 
+
+
+MS001_H6:
+*WOMAN1 enters*
+WOMAN1:
+After the last war, Princess Nyna let this
+country keep its sovereignty under the rule
+of General Lorenz. 
+However, as soon as Hardin became
+emperor, General Lorenz was banished
+and Lang's troops came crawling in. 
+Lang stole everything from us. 
+He stole our gold, of course, but he even
+stole our food and our loved ones... 
+Ah...
+If only General Camus were here! 
+Then we wouldn't have to live in fear of
+people like Lang! 
+
+
+MS001_VIL1:
+*MARS enters**OLDWOMAN enters*
+OLDWOMAN:
+Oh...
+Please, show mercy to just this child.
+She's only ten years old. 
+
+MARS:
+Ma'am, please calm yourself.
+I am not here to take any children. 
+
+OLDWOMAN:
+What...
+You're not imperial soldiers? 
+
+MARS:
+No... We're not.
+We didn't come to fight. 
+If there's anything you need, please ask.
+It's not much, but we can give you food. 
+*OLDWOMAN leaves**MARICIA enters*
+MARICIA:
+Wait...
+Please, take me with you... 
+
+
+MARS:
+Huh...?
+You're... Are you really ten? 
+
+MARICIA:
+No... I'm a grown woman, but Granny lied so
+that I wouldn't be taken away by the soldiers. 
+Lang's soldiers are all monstrous.
+But you're different.
+You have very sweet eyes. 
+Please, take me with you.
+I want you to take me away from this
+country, and take me to yours. 
+*MARICIA leaves**OLDWOMAN enters*
+OLDWOMAN:
+It's not safe for her to stay here.
+Please take her with you, and protect her. 
+You can marry her, too, if you like. 
+Malicia is a beautiful, good-natured lady,
+just like me! I'm sure she'll make a fine
+wife. 
+*MARS leaves**MARICIA enters*
+MARICIA:
+No-no-no!
+Granny, it's far too early for that!
+Now you've made Malicia all flustered! 
+
+
+MS001_BT_BOSS:
+*ROLENSE enters*
+ROLENSE:
+What?! You're... the Altean army?! 
+So even Altea has turned on us... 
+
+MS001_DIE_BOSS:
+*ROLENSE enters*
+ROLENSE:
+Forgive me, people of Grust... 
+
+MS001_ED0:
+*VILHEAD enters**MARS enters*
+VILHEAD:
+Prince Marth...
+General Lorenz entrusted everything to you. 
+You spared his life, and even heard him out.
+We, the people of Grust, thank you. 
+Please, let me offer you a token of our
+gratitude. Here. 
+We're protecting Prince Yubello and
+Princess Yumina in this stronghold. 
+I beg you, do what you must to protect
+our last fragments of hope... 
+
+
+MS001_ED1:
+*YUBELLO enters**MARS enters*
+MARS:
+You, you're...
+Grust's royal heirs...
+Prince Yubello and Princess Yumina?! 
+
+YUBELLO:
+Sniff...
+Lorenz... He's gone.
+How can we live on without him? 
+*YUBELLO leaves**YUMINA enters*
+YUMINA:
+You monsters!! Stay away!
+You're going to murder us just like you
+murdered Lorenz!! 
+
+MARS:
+No, you have it all wrong!!
+We just... 
+
+
+MS001_ED1_01:
+*RANG enters**MARS enters*
+RANG:
+Ah... Prince Marth.
+You finally caught these filthy traitors. 
+
+MARS:
+General Lang! Wait, please!
+These children have done nothing wrong.
+Allow me to take custody of them. 
+
+RANG:
+Don't make me laugh.
+These brats are coming with me to my castle. 
+Besides, my dear prince, you have other,
+more important, priorities. 
+I have received reports that there
+has been a military revolt in Macedon,
+and Princess Minerva has been imprisoned. 
+
+MARS:
+What...?!
+How could that happen to Macedon?! 
+
+I understand my obligations, General Lang.
+Still, these children...
+Let them stay with me, please. 
+
+RANG:
+Prince, do not try my patience!
+Listen up you two! You're coming with me! 
+
+
+MS001_ED1_02:
+*YUMINA enters*
+YUMINA:
+No, let me go!!
+Yubello... help me!! 
+*YUMINA leaves**YUBELLO enters*
+YUBELLO:
+Yumina... Yumina...!! 
+
+
+MS001_ED1_03_PCF1:
+*MARS enters*
+MARS:
+Wait!!
+Lang! Release them at once! 
+*PLAYER enters*
+PLAYER:
+Sire! Give me the order, and I'll get them
+safely back at once! 
+*MARS leaves**JEIGUN enters*
+JEIGUN:
+Sire, don't do it!!
+You too, PLAYER! 
+If we oppose Lang right here, right now,
+we run the risk of being branded traitors
+by Archanea. 
+*PLAYER leaves**MARS enters*
+MARS:
+But Jagen, are you telling me to simply allow
+Lang to take them?!
+I cannot stand for that... 
+
+JEIGUN:
+I understand how you feel, sire...
+But please remain patient for a little longer. 
+If we head to Macedon... then rescue
+Princess Minerva, Macedon will surely lend
+us its strength. 
+
+
+MS001_ED1_03_PCM1:
+*MARS enters*
+MARS:
+Wait!!
+Lang! Release them at once! 
+*PLAYER enters*
+PLAYER:
+Sire! I can still save them!
+Please, just give me the word!! 
+*MARS leaves**JEIGUN enters*
+JEIGUN:
+Sire, don't do it!!
+You too, PLAYER! 
+If we oppose Lang right here, right now,
+we run the risk of being branded traitors
+by Archanea. 
+*PLAYER leaves**MARS enters*
+MARS:
+But Jagen, are you telling me to simply allow
+Lang to take them?!
+I cannot stand for that... 
+
+JEIGUN:
+I understand how you feel, sire...
+But please remain patient for a little longer. 
+If we head to Macedon... then rescue
+Princess Minerva, Macedon will surely lend
+us its strength. 
+
+
+:
+
+

@@ -1,0 +1,417 @@
+MS014_OP1:
+*MARS enters**JEIGUN enters*
+MARS:
+So this is the Ice Dragon Shrine.
+The final destination of Anri's treacherous
+journey... 
+
+
+MS014_OP2:
+*S_GATO enters*
+S_GATO:
+Prince Marth, can you hear me?
+Come to the front of the center room.
+I shall await you there. 
+
+
+MS014_EV1:
+*MARS enters**GATO enters*
+GATO:
+You have done well to make it this far,
+Prince Marth! Anri's blood truly flows within
+you. 
+To reward your courage, I entrust you with
+the Lightsphere. 
+This will nullify the Darksphere's power.
+Defeating Hardin will no longer be an
+impossible task. 
+And what of the star shards? 
+
+
+MS014_EV2_A:
+
+INSERTNAMEHERE:
+What?!
+You've collected them all! 
+Goodness gracious.
+With these, I can restore the Starsphere.
+Wait one moment... 
+*GATO enters*
+GATO:
+Marth.
+This is the Starsphere.
+I entrust this to you also. 
+
+INSERTNAMEHERE:
+Huh?
+Lord Gotoh, why would you give me something
+so precious? 
+
+GATO:
+Only you can restore the Binding Shield...
+The shield has chosen you. 
+
+INSERTNAMEHERE:
+Excuse me...? 
+
+
+MS014_EV2_A2:
+
+INSERTNAMEHERE:
+Are you still in the dark?
+The emblem shield you carry is the
+Binding Shield that was once stolen... 
+Archanea's Fire Emblem. 
+
+INSERTNAMEHERE:
+You mean...!
+This Fire Emblem is the Binding Shield... 
+Lord Gotoh, does that mean...
+If I were to place all five orb into this,
+the Binding Shield will be restored? 
+
+INSERTNAMEHERE:
+You are indeed correct...
+But 600 years have passed since it broke... 
+The earth dragons sealed under Macedon
+will soon awaken. 
+There are several hundreds--no, several
+thousands. 
+I will entrust Tiki to you as well.
+You will find her in the room to the right.
+With her, you can defeat those dragons. 
+But I must warn you.
+If you do not complete the Binding Shield,
+even Tiki will be destroyed. 
+
+INSERTNAMEHERE:
+What?!
+But why!? 
+
+INSERTNAMEHERE:
+Because she is still a child.
+Without the shield, she too will degenerate.. 
+In time, she will turn into a beast and attack
+humanity. 
+I took pity on her and sent her to sleep. 
+But if the Binding Shield is restored,
+we will no longer have to worry.
+The shield will protect Tiki. 
+Marth, I leave Tiki in your hands.
+Please free her from her destruction. 
+
+
+MS014_EV2_B:
+
+INSERTNAMEHERE:
+I see.
+You couldn't collect them all... 
+I suppose it couldn't be helped...
+Nevertheless, I will take what shards you
+have. 
+Tiki is sleeping in the room to the right,
+but since the shield has not been restored,
+I cannot let you meet her. 
+She has yet to mature into an adult.
+Without the Binding Shield, her degeneration
+is but inevitable. 
+In time, she will turn into a beast and attack
+humanity. 
+I'm afraid Tiki cannot ever be allowed to
+awaken again. 'Tis for her own good... 
+Marth, if you have taken the treasures,
+then head to the room to the left.
+I shall await you there... 
+
+
+MS014_EV3:
+*MARS enters*
+MARS:
+Tiki?!
+Are you alright? 
+*TIKI enters*
+TIKI:
+Yeah... 
+...Mar...
+Mar-Mar... 
+Oh, Mar-Mar!!
+You came!
+You came to see Tiki!! 
+
+MARS:
+That's right, Tiki.
+It's been a while.
+Have you been well? 
+
+TIKI:
+Uhh... not really.
+Lord Gotoh said that I had to sleep again. 
+But... I don't wanna.
+I slept all by myself for a really long time. 
+I had so many scary dreams, over and over. 
+I dreamt I ended up like the poor fire dragons
+and ice dragons... That I was a terrifying
+monster. 
+I'd attack humans and kill them. 
+"No...", "Stop..." they'd shout, and then I'd
+wake up. All alone, in this pitch black room... 
+I cried so much. 
+And each time, Ban-Ban comforted me. 
+Then, one day he took me out, and brought
+me to a human village. 
+The village life was so fun!
+Everyone treated me so nice...
+I was really happy. 
+I don't wanna sleep anymore...
+Next time I close my eyes, I feel as though
+I'll never open them again. 
+I don't want that.
+I want to live with everyone.
+I don't want to sleep. 
+
+MARS:
+Tiki, it's alright now.
+I'll protect you.
+So don't cry anymore... 
+
+TIKI:
+Really...? I don't have to see those terrible
+dreams anymore?! 
+
+MARS:
+Oh, of course! 
+Once the Binding Shield is restored, you can
+come live with us. Tiki, trust me, and come
+with me! 
+
+TIKI:
+Yeah! Yaaay!!
+Thank you, Mar-Mar! 
+
+
+MS014_EV4:
+*S_GATO enters*
+S_GATO:
+It cannot be someone else.
+Prince Marth himself needs to come here. 
+
+
+MS014_EV5:
+*S_GATO enters*
+S_GATO:
+I'm sorry, but I cannot let you see Tiki.
+It's for her own good... 
+
+
+MS014_BT_TIKI:
+*TIKI enters*
+TIKI:
+Huh...?
+Who... who are you...? 
+
+
+MS014_DIE_TIKI:
+*TIKI enters*
+TIKI:
+...Ah...
+Mar...Mar... 
+
+
+MS014_ED1_A:
+*MARS enters**GATO enters*
+GATO:
+I see...
+So Tiki was pretty happy.
+It must have been very painful for her. 
+Though it was to protect her, I was far too
+cruel to her. I suspect she must really hate
+me... 
+You should go, Marth.
+I will send you to Altea with my powers. 
+
+
+
+MS014_ED1_B:
+*MARS enters**GATO enters*
+GATO:
+You should go, Marth.
+I will send you to Altea with my powers. 
+
+
+
+MS014_ED2:
+
+INSERTNAMEHERE:
+Lord Gotoh, why don't you come with us? 
+
+INSERTNAMEHERE:
+Hmm...
+At the moment I've one thing I must still
+investigate. 
+Gharnef has returned. 
+
+INSERTNAMEHERE:
+Gharnef...!?
+But we killed him! 
+
+INSERTNAMEHERE:
+Yes, you killed his body. 
+But his soul was held prisoner by the
+Darksphere, and within it, his hatred only
+grew. 
+Afterwards, his former disciples--the heretic
+bishops--resurrected him. 
+And they seem to be planning something foul. 
+
+INSERTNAMEHERE:
+I see.
+Very well, Lord Gotoh.
+We shall split ways here. 
+
+INSERTNAMEHERE:
+Indeed.
+If I find something, then I too will visit Altea
+afterwards. 
+I'm counting on you, Marth.
+Everything rests on your shoulders. 
+You must save both our races from the path
+of destruction. 
+
+
+MS014_ED3_PCF1:
+*PLAYER enters*
+PLAYER:
+...Altea, home at last.
+Though you may be occupied by Archanea...
+I will get you back, I swear. 
+
+
+MS014_ED3_PCM1:
+*PLAYER enters*
+PLAYER:
+...At long last, Altea.
+My dearest home... 
+Archanean occupation be damned;
+I will get you back, I swear it! 
+
+
+MS014_ED3_0_PCF1:
+*CHEINE enters*
+CHEINE:
+Boy, what a serious lady. 
+Hey, PLAYER.
+You said you're Marth's Royal Guard, right? 
+
+INSERTNAMEHERE:
+Yes.
+My mission is to protect Prince Marth. 
+
+CHEINE:
+I see. 
+But if you really plan on protectin' him,
+then you need the strength to match your
+conviction. 
+Hey, do you wanna know a way to get
+stronger? 
+
+INSERTNAMEHERE:
+Hm?
+You know of a way? 
+
+
+MS014_ED3_0_PCM1:
+*CHEINE enters*
+CHEINE:
+Boy, what a serious fella. 
+Hey, PLAYER.
+You said you're Marth's Royal Guard, right? 
+
+INSERTNAMEHERE:
+Yes.
+My mission is to protect Prince Marth at all
+costs. 
+
+CHEINE:
+I see. 
+But if you really plan on protectin' him,
+then you're gonna need the strength to
+back up your conviction. 
+Hey, do you wanna know a way to get
+stronger? 
+
+INSERTNAMEHERE:
+Huh?
+Do you know how to? 
+
+
+MS014_ED3_1:
+
+INSERTNAMEHERE:
+'Course, just hold on a second. 
+*TIKI enters*
+TIKI:
+Ta-da!
+PLAYER, you know about Tiki, right? 
+Tiki's still a kid, but the real reason she can
+fight is because of her hairstyle and tiara. 
+
+INSERTNAMEHERE:
+Wait, what?!
+Are you serious?! 
+
+TIKI:
+Yeah, if you wear your hair like this,
+then you'll be that much stronger. 
+So all you gotta do is wear this tiara,
+and wear your hair like Tiki. 
+If you do that, then a legendary power
+will flow through you! ...Well, maybe. 
+So?
+Do you wanna give it a try? 
+
+
+MS014_ED3_A:
+
+INSERTNAMEHERE:
+Sure, why not? 
+
+INSERTNAMEHERE:
+Alrighty then.
+I'll be sure to do this properly. 
+
+INSERTNAMEHERE:
+Thank you, Sir Xane! 
+
+INSERTNAMEHERE:
+......You aren't doubting me?
+Is this trust or naivete...? 
+
+INSERTNAMEHERE:
+Is something the matter, Sir Xane? 
+
+INSERTNAMEHERE:
+Ah, no, it's nothin'.
+Well, see you around.
+I'm looking forward to your new look! 
+
+
+MS014_ED3_B:
+
+INSERTNAMEHERE:
+No, that's quite alright.
+I want to protect Prince Marth with my own
+strength. 
+
+INSERTNAMEHERE:
+Hmm, that so?
+Boring. 
+
+INSERTNAMEHERE:
+Huh?
+What do you mean "boring"? 
+
+INSERTNAMEHERE:
+Ah, no, it's nothin'.
+Catch you later! 
+
+

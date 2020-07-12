@@ -1,0 +1,287 @@
+MS018_OP0:
+
+
+MS018_OP0_A:
+
+
+MS018_OP0_B:
+
+
+MS018_OP0_C:
+
+
+MS018_OP1:
+*ROSHE enters*
+ROSHE:
+Wolf, Zagaro, Biraku.
+Do you not have second thoughts...?
+Does the battle plan not trouble you? 
+*WOLF enters*
+WOLF:
+Roshe!
+Are you still babbling on about
+that nonsense? 
+Look over there!
+The Aritian forces are stretched along
+the narrow pass. 
+Our only chance to crush them is now. 
+*WOLF leaves**BIRAKU enters*
+BIRAKU:
+What's wrong with you, Roshe?
+Did the four of us not all pledge that
+we would die for Coyote? 
+It was Coyote who freed us
+plain dwellers from slavery. 
+If we don't fight Aritia here,
+then we can't protect Pales. 
+Are you telling me you WANT
+Hardin to be defeated by them? 
+*BIRAKU leaves**ZAGARO enters*
+ZAGARO:
+That's right!
+Prince Marth wants to destroy
+Akaneia and everything we hold dear. 
+That's why he joined forces with Macedonia
+to crush Grunia. Now he even has Gra
+under his control. 
+If we leave him be, the entire world
+will eventually fall into his hands. 
+
+ROSHE:
+I still find it hard to believe.
+So the honorable Prince Marth we met is
+supposed to harbor diabolical ambitions? 
+*ZAGARO leaves**WOLF enters*
+WOLF:
+Are you calling Coyote a liar?! 
+Do you really believe that he would
+resort to such deceitful tactics?! 
+Enough, Roshe!!
+I've lost all respect for you.
+Betray us if you want, I don't care. 
+Zagaro, Biraku, let's go.
+If we delay any more they will pass us. 
+
+ROSHE:
+Hey, wait!
+You know I can't betray you.
+I understand... I'll go, too. 
+
+
+MS018_EV1:
+*MARS enters*
+MARS:
+The Wolfguard of Orleans!
+Must we fight them as well...? 
+*JEIGUN enters*
+JEIGUN:
+Sire, please hold on.
+We've just received word from a
+messenger of King Orleans. 
+It seems Orleans has no plans to war... 
+
+
+MS018_EV1_2:
+
+INSERTNAMEHERE:
+According to the messenger, King Orleans
+wishes to parley with you in the village. 
+
+INSERTNAMEHERE:
+What? What could this mean?
+That the Wolfguard is moving independent
+of Orleans's orders? 
+
+INSERTNAMEHERE:
+I don't know, but... Depending on
+how negotiations go, it's possible
+the Wolfguard may signal a retreat. 
+
+INSERTNAMEHERE:
+I see. It would benefit us all
+if we could avoid pointless fighting.
+Let's hurry to the village! 
+
+
+MS018_VIL1:
+*MARS enters**ORLEAN_KING enters*
+ORLEAN_KING:
+Oh, Prince Marth.
+Thank the stars I could meet you here. 
+
+MARS:
+King Orleans?
+What brings you here? 
+
+ORLEAN_KING:
+I came to halt our attack.
+And I must apologize to you. 
+I believed Hardin and sided with Akaneia,
+but it seems that I made a mistake. 
+Akaneia's Empress Nina secretly sent me
+a letter, saying that Hardin isn't
+normal and is ill... 
+Orleans has decided to maintain neutrality.
+My knights will return to their lands. 
+I hope you won't attack my men anymore.
+MARS:
+I understand, Your Majesty.
+I do not wish to fight you, either. 
+Please, find it in yourself to forgive me
+for the many Orleanian lives that I've taken. 
+
+ORLEAN_KING:
+Ohh!
+The rumors are true, as I suspected. 
+I am old and frail, and without children.
+And now, the brother I once trusted
+has become... like this. 
+Prince Marth, please,
+protect Orleans in my stead.
+I entrust everything to you. 
+As a sign of my allegiance,
+I would have you accept this orb. 
+This is a magical jewel containing
+the divine power of life. 
+I spent a lot of gold to buy it
+from a travelling merchant. 
+I believe it will be useful to you. 
+
+MARS:
+Your Majesty, Hardin is... 
+
+ORLEAN_KING:
+Do not worry about my younger brother. 
+A knight can only die a knight's death.
+'Twas always his fate... 
+
+
+MS018_BT_BIRAKU:
+*BIRAKU enters*
+BIRAKU:
+As long as we're around
+you will not reach Pales.
+If you value your lives then turn around! 
+
+
+MS018_BT_ROSHE:
+*ROSHE enters*
+ROSHE:
+I am Roshe of the Wolfguard.
+I don't want to fight, but I will not
+betray my friends. I'm sorry... 
+
+
+MS018_BT_WOLF:
+*WOLF enters*
+WOLF:
+I am Wolf, commander of the Wolfguard.
+Your head is mine! 
+
+
+MS018_BT_ZAGARO:
+*ZAGARO enters*
+ZAGARO:
+You...
+Why are you invading other countries?
+Are you so blinded by your ambition?! 
+
+
+MS018_DIE_BIRAKU:
+*BIRAKU enters*
+BIRAKU:
+Coyote... 
+
+
+MS018_DIE_ROSHE:
+*ROSHE enters*
+ROSHE:
+Coyote... 
+
+
+MS018_DIE_WOLF:
+*WOLF enters*
+WOLF:
+Coyote... 
+
+
+MS018_DIE_ZAGARO:
+*ZAGARO enters*
+ZAGARO:
+Coyote... 
+
+
+MS018_ED1_PCF1:
+*MARS enters**JEIGUN enters*
+MARS:
+Jeigan, we've made it through.
+Pales is not far. 
+
+JEIGUN:
+Yes, if we go down from here, we will
+reach the capital of Pales in an instant. 
+*JEIGUN leaves**JEIGUN enters*
+JEIGUN:
+Sire, we've just received urgent news.
+Apparently a coup d'etat broke out
+in Pales. 
+The knights and citizens who opposed
+Emperor Hardin's ways rose in rebellion. 
+It seems their leader was Lady Midia. 
+
+MARS:
+What in the blazes?!
+What has happened to them now? 
+
+JEIGUN:
+Unfortunately, the instigators were all
+defeated and captured... 
+Rumor has it that the rebels
+are being executed by the day. 
+It is only a matter of time before
+Lady Midia shares the same fate.
+MARS:
+Damn it, Hardin...
+This is absurd. 
+Alright, let's go and rescue Midia! We
+will head for Pales at once and end this.
+Jeigan, let's go!! 
+
+
+MS018_ED1_PCM1:
+*MARS enters**JEIGUN enters*
+MARS:
+Jeigan, we've made it through.
+Pales is not far. 
+
+JEIGUN:
+Yes, if we go down from here, we will
+reach the capital of Pales in an instant. 
+*JEIGUN leaves**JEIGUN enters*
+JEIGUN:
+Sire, we've just received urgent news.
+Apparently a coup d'etat broke out
+in Pales. 
+The knights and citizens who opposed
+Emperor Hardin's ways rose in rebellion. 
+It seems their leader was Lady Midia. 
+
+MARS:
+What in the blazes?!
+What has happened to them now? 
+
+JEIGUN:
+Unfortunately, the instigators were all
+defeated and captured... 
+Rumor has it that the rebels
+are being executed by the day. 
+It is only a matter of time before
+Lady Midia shares the same fate.
+MARS:
+Damn it, Hardin...
+This is absurd. 
+Alright, let's go and rescue Midia! We
+will head for Pales at once and end this.
+Jeigan, let's go!! 
+
+

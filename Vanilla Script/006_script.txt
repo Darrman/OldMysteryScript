@@ -1,0 +1,534 @@
+MS006_OP0:
+*JEIGUN enters**PLAYER enters*PLAYER
+JEIGUN:
+, you should be aware that Lang
+is a general with high defense. 
+To defeat him, you would do well to attack
+with magic or a special weapon like an
+armorslayer. 
+
+PLAYER:
+Duly noted. 
+
+JEIGUN:
+If you plan to defeat him with strength alone,
+you'd have to be extremely powerful. 
+
+
+MS006_OP0_A:
+PLAYER
+INSERTNAMEHERE:
+, your strength is simply tremendous.
+Against a blow from you, Lang's armor would
+crumple like paper. 
+Please, in my stead, kill that insolent man. 
+
+INSERTNAMEHERE:
+Yes sir! 
+
+
+MS006_OP0_B:
+PLAYER
+INSERTNAMEHERE:
+, your strength is quite impressive.
+You might just be able to defeat Lang. 
+Please, in my stead, kill that insolent man. 
+
+
+MS006_OP0_C:
+PLAYER
+INSERTNAMEHERE:
+, you are, sadly, not very strong.
+But you could fight using your other talents. 
+Please, in my stead, kill that insolent man. 
+
+
+MS006_OP1:
+*RANG enters*
+RANG:
+Heh heh heh...
+So the Alteans have come. 
+Reinforcements are arriving soon;
+if we can hold out a little longer,
+we can make a pincer attack. 
+*NABARL enters*
+RANG:
+Swordsman Navarre.
+When they open that door, you make your
+move. 
+There is no need for restraint;
+slice them to pieces! 
+
+NABARL:
+Yeah... Sure.
+Though the knights of Altea are hardly
+worthy enemies. 
+
+RANG:
+Oh-ho! That's my Navarre.
+They say not even Ogma of Talys is your
+equal. 
+
+NABARL:
+What? Ogma?!
+N... Naturally...
+A guy like him is no match for me. 
+
+RANG:
+I see. Glad to hear it.
+Then I'll leave this place in your capable
+hands, Navarre! 
+
+
+MS006_EV0:
+*JEIGUN enters**MARS enters*
+JEIGUN:
+Sire, there seems to be movement near
+the front of the castle. And it would
+appear to be moving towards our forces. 
+
+MARS:
+Are they enemy reinforcements?
+Or allies to our cause...? 
+
+JEIGUN:
+I do not know, but...
+I do hope they are allies. 
+
+
+MS006_EV1:
+*FREY enters*
+FREY:
+Sire! 
+*MARS enters*
+MARS:
+Frey!
+Thank goodness you're safe. 
+
+FREY:
+You too, sire.
+Norne and I escaped from Altea Castle
+and we rode here as fast as we could. 
+*FREY leaves**NORN enters*
+NORN:
+But the rest of our forces were scattered...
+I'm sorry we couldn't all make it. 
+
+MARS:
+You don't have to apologize,
+I'm just glad that you're safe.
+The others can take care of themselves. 
+*NORN leaves**FREY enters*
+FREY:
+Sire.
+From here on we shall accompany you.
+Please give us your orders. 
+*FREY leaves**NORN enters*
+NORN:
+Oh, and please be careful!
+I caught a glimpse of enemy troops
+approachin' the castle behind us. 
+I expect they'll be enterin' the castle soon. 
+
+MARS:
+Enemy reinforcements?
+I understand. Thank you. 
+
+
+MS006_TK1:
+*RICARD enters**JURIAN enters*
+JURIAN:
+Hey, Rickard!
+I see you haven't tired of stealin'. 
+
+RICARD:
+Ah! Chief!
+How nice to see ya. 
+Well, I was plannin' on workin' with you and
+makin' loadsa money, but you had to go and
+quit the business! 
+Fallin' head over heels for that beautiful
+cleric, and then dumpin' me...
+That's just too cruel! 
+Did our love really mean that little to you? 
+
+JURIAN:
+Can it, you little fink!!
+People'll get the wrong idea about us,
+if you keep talkin' like that. 
+Anyway, forget about thievin' and come with
+me to fight for justice. 
+
+RICARD:
+Hmm... alright then! 
+I'll follow you anywhere.
+I do adore ya, Chief! 
+
+
+MS006_TK2:
+*NABARL enters**SHEEDA enters*
+SHEEDA:
+Navarre, please hear me out!
+Lend your sword to our cause, just once
+more! 
+
+NABARL:
+What? Who are you?
+I'll have no business with women or children... 
+But, there's a first for everything...
+(Whoa, she's smoking!)
+What business do you have with me? 
+
+
+
+MS006_TK2_01:
+
+INSERTNAMEHERE:
+......
+Y-you're not Navarre!
+Who are you? 
+
+
+
+MS006_TK2_02:
+*SAMTO enters*
+SAMTO:
+Yikes, I've been exposed, huh?
+I'm actually a stingy mercenary known as
+Samto. 
+Somehow, I keep getting mistaken for this
+famous "Navarre" swordsman guy. 
+I got tired of it after a while, so I decided
+to pose as him and got myself hired. 
+But I don't like this General Lang guy either. 
+If you're alright with it, I'll lend you my sword. 
+
+INSERTNAMEHERE:
+Yes...
+You'll do just fine... 
+
+
+MS006_TK3:
+*NABARL enters**OGUMA enters*
+OGUMA:
+Navarre...
+You bastard... 
+
+NABARL:
+Stay away... This evening, my killing edge
+hungers for blood... 
+
+OGUMA:
+Do you mean to kill me, no matter what? 
+Hmph, very well.
+I knew that we'd have to settle our score
+eventually. 
+
+
+
+MS006_TK3_01:
+*SAMTO enters*
+SAMTO:
+Wait...
+Stay your blade!
+...I'm no Navarre, I'm just a sham. 
+I... It's me, Samto.
+Have you forgotten, Ogma? 
+
+INSERTNAMEHERE:
+Samto?!
+Samto, the gladiator from Knorda? 
+
+SAMTO:
+Yes, I was a slave gladiator at the time,
+and you really helped me out. 
+Even when everyone was making their
+escape, you stayed behind to distract
+the guards and ended up caught... 
+
+INSERTNAMEHERE:
+...... 
+
+SAMTO:
+I heard everything from my friends. 
+How you were dragged out to the square
+and whipped until you looked like a corpse. 
+How, by chance, the young Princess Talys,
+tears in her eyes, stood up for you and
+saved you. 
+And that's why you swore your blade
+to Talys. 
+Or rather... to the princess... 
+
+INSERTNAMEHERE:
+Enough... Say no more!
+No more. It's in the past now...
+No more... 
+
+SAMTO:
+...Ogma... 
+Anyway, I want to repay you!
+I'm following you from now on, okay? 
+
+
+MS006_BT_BOSS:
+*RANG enters*
+RANG:
+W-wait, please!
+I'm sorry... Please forgive me... 
+I've only done as the Emperor ordered me to. 
+I didn't agree with him, but I had no choice. 
+So... so please, s-spare my life... 
+I'll do anything you say.
+Yes... Just like this... 
+Mwahaha!
+You shouldn't have let your guard down!
+You fool... Now die! 
+
+
+MS006_BT_BOSS_MARS:
+*MARS enters*
+MARS:
+General Lang, I have--with my own eyes--
+witnessed a number of your crimes. 
+I cannot forgive you.
+But if you have something to say,
+I will listen. 
+*RANG enters*
+RANG:
+S-silence... silence!
+You damned country-boy prince! 
+You're a fool for coming here!
+Just die already! 
+*MARS leaves**MARS enters*
+MARS:
+Is that your answer?
+Then prepare yourself! 
+
+
+MS006_BT_BOSS_PC_PCF1:
+*RANG enters*
+RANG:
+Y-you!
+You're that impertinent little girl from
+before...! 
+*PLAYER enters*
+PLAYER:
+Lang!
+You have oppressed countless people,
+and insulted my liege. 
+You can only atone for these sins with your
+life! 
+*RANG leaves**RANG enters*
+RANG:
+W... Why you! 
+
+
+MS006_BT_BOSS_PC_PCM1:
+*RANG enters*
+RANG:
+Y-you!
+You're that impertinent little boy from
+before...! 
+*PLAYER enters*
+PLAYER:
+Lang!
+You have oppressed countless people,
+and insulted my liege. 
+You can only atone for these sins with your
+life! 
+*RANG leaves**RANG enters*
+RANG:
+W... Why you! 
+
+
+MS006_BT_RICARD:
+*RICARD enters*
+RICARD:
+Chief, where aaare ya? 
+
+
+MS006_BT_SAMTO:
+*NABARL enters*
+NABARL:
+I pity your soul.
+But I can at least grant you a quick death.
+Take this! My killing edge!! 
+
+
+MS006_DIE_BOSS:
+*RANG enters*
+RANG:
+Urgh...
+Impossible...
+I have been defeated... 
+
+
+MS006_DIE_RICARD:
+*RICARD enters*
+RICARD:
+Tch. Man, I messed up big time. 
+
+
+MS006_DIE_SAMTO:
+*SAMTO enters*
+SAMTO:
+Doh, I shouldn't have said that I was
+Navarre... 
+
+
+MS006_ED1:
+*MARS enters**WENDEL enters*
+MARS:
+Lord Wendell!
+Thank goodness you're unharmed. 
+
+WENDEL:
+Lang accused me of collaborating with
+the rebels and had me imprisoned. 
+Even though I told him that I must fulfill a
+mission assigned to me by Archsage Gotoh... 
+
+MARS:
+A mission from Lord Gotoh? 
+
+WENDEL:
+That's correct... 
+You have seen the "Starsphere"--
+the holy orb with the twelve constellations
+etched on its surface. 
+In order to pierce Gharnef's shadowy veil,
+Lord Gotoh created a sacred spell named
+"Starlight" from that orb. 
+
+
+MS006_ED1_2:
+
+INSERTNAMEHERE:
+Unfortunately, the strain on the Starsphere
+was so severe that it shattered into twelve
+shards, which scattered into the sky. 
+Lord Gotoh told me that this world has long
+been guarded by five orbs of mysterious
+arcane power, 
+and that if even one of them is lost,
+the world will fall into irreparable ruin. 
+By any means possible, we must gather the
+twelve star shards and restore the
+Starsphere. 
+
+INSERTNAMEHERE:
+Is... Is this a joke?
+That the world could just end...
+This is all very hard to take in. 
+But aren't these the star shards? 
+If so, we already have a few. 
+After we retake Altea, we'd be glad to help
+you find the remaining shards and orbs. 
+
+INSERTNAMEHERE:
+Of course...
+Your country was only just invaded by the
+Empire... 
+I understand, Prince...
+I too shall fight to restore Altea, then. 
+Thinking about it, my meeting with you
+is like a sign from Lord Gotoh himself. 
+In that case, I shall surrender myself to fate. 
+But, please, let's stop by the Fane of Raman. 
+We may be able to find some star shards in
+the ancient temple. 
+
+INSERTNAMEHERE:
+Understood.
+If it's the Fane of Raman, we can go there
+on our way to Altea! 
+
+
+MS006_ED1_ADD:
+*PLAYER enters**MARS enters*
+MARS:
+General Lang has been defeated.
+And now the people of Grust no longer have
+to suffer. 
+
+PLAYER:
+That's right, sire. 
+PLAYER
+MARS:
+, since leaving Altea, we've had a
+great deal of fights... 
+Looking back at them now... 
+
+
+MS006_ED1_ADD_A:
+
+INSERTNAMEHERE:
+None of our companions were hurt and none
+of them died. That's what I'm happiest about. 
+PLAYER, it's because you've been here.
+Thank you so much. 
+
+
+MS006_ED1_ADD_B:
+
+INSERTNAMEHERE:
+It couldn't be helped, but...
+Some of our comrades were injured or
+passed on. 
+I don't want to lose anyone from now. 
+I know we can do it if you're there.
+PLAYER, please, help me. 
+
+
+MS006_ED1_ADD_C:
+
+INSERTNAMEHERE:
+All I remember is seeing our companions fall,
+one by one... 
+Enough! I don't want any of our comrades to
+suffer that pain. PLAYER, please, help me. 
+
+
+MS006_ED2:
+*JEIGUN enters**MARS enters*
+JEIGUN:
+Sire, some new information has come in from
+the patrol. 
+Just ahead, the enemy seems to be
+preparing some kind of ambush. 
+It's not the Archanean Empire, but likely,
+I fear, mercenaries hired with coin. 
+
+MARS:
+Mercenaries, is it...?
+Do we continue as we are or take a longer,
+safer route? 
+Personally, I'd rather not detour.
+We have to return to Altea as soon as
+possible. 
+
+JEIGUN:
+Hmph, if you would allow me to speak as
+your tactician... I think we ought to stay
+here and fight. 
+We will be facing mercenaries.
+The Altean knights would never lose to mere
+mercenaries. 
+*MARS leaves**PLAYER enters**JEIGUN leaves**MARS enters*PLAYER
+MARS:
+, your thoughts? 
+
+PLAYER:
+I agree with Sir Jagen. 
+
+
+MS006_ED2_Y:
+*MARS enters*
+MARS:
+I see, thank you.
+Jagen, PLAYER! 
+The whole army shall move on as they were.
+We'll hit the mercenaries head-on! 
+
+

@@ -1,0 +1,384 @@
+MS014_OP1:
+*MARS enters**JEIGUN enters*
+MARS:
+So this is the Ice Dragons' Temple.
+The final destination of Anri's treacherous
+journey... 
+
+JEIGUN:
+For his beloved Artemis, Anri obtained the
+divine sword Falchion here. 
+ He then proceeded to defeat Medeus and,
+acclaimed by the people of Altea,
+become their first king. 
+
+MARS:
+But, in the end he wasn't able to be
+with Artemis... Why?
+Weren't they loving together? 
+
+JEIGUN:
+The nobles of Archanea didn't want Anri,
+a commoner, to become their king. 
+More than that, they strongly
+encouraged the princess to wed Duke Cartas,
+who led the liberation army. 
+Princess Artemis had no way of refusing.
+"The bearer of the Fire Emblem must give
+their life to the royal family." 
+That is a saying passed down unchangingly
+in House Archanea. 
+And so, without telling a word to Anri,
+the princess accepted her engagement
+to Duke Cartas. 
+
+MARS:
+How could she?
+That was unfair to Anri. 
+
+JEIGUN:
+The princess was just as worthy of pity.
+It's said she died soon after giving
+birth to her newborn prince. 
+King Anri never married. So, the kingdom
+of Altea was then succeeded by his younger
+brother, King Marcelus. 
+In other words, your great-grandfather. 
+
+MARS:
+Such a tragic tale...
+So that was Artemis's fate? 
+All because of the curse of the
+Fire Emblem...? 
+
+
+MS014_OP2:
+*S_GATO enters*
+S_GATO:
+Prince Marth, can you hear me?
+Come to the front of the center room.
+I shall await you there. 
+
+
+MS014_EV1:
+*MARS enters**GATO enters*
+GATO:
+You have done well to make it this far,
+Prince Marth! Anri's blood truly flows within
+you. 
+To reward your courage, I entrust you with
+the Light Orb. 
+This will nullify the Dark Orb's power.
+Defeating Hardin will no longer be an
+impossible task. 
+And what of the star shards? 
+
+
+MS014_EV2_A:
+
+INSERTNAMEHERE:
+What?!
+You've collected them all! 
+Goodness gracious.
+With these, I can restore the Star Orb.
+Wait one moment... 
+*GATO enters*
+GATO:
+Marth.
+This is the Star Orb.
+I entrust this to you also. 
+
+INSERTNAMEHERE:
+Huh?
+Lord Gato, why would you give me something
+so precious? 
+
+GATO:
+Only you can restore the Shield of Seals...
+The shield has chosen you. 
+
+INSERTNAMEHERE:
+Excuse me...? 
+
+
+MS014_EV2_A2:
+
+INSERTNAMEHERE:
+Are you still in the dark?
+The emblem shield you carry is the
+Shield of Seals that was once stolen... 
+To be honest, it was only recently
+that I noticed; its exterior had
+completely changed... 
+After stealing it from Raman Temple,
+the thief removed its jewels and sold
+them off as treasures. 
+The money was used to fund an army,
+which, along with three stolen weapons,
+was used to conquer the world. 
+The thief that went on to become the
+king of Akaneia had the shield, which
+brought him such good fortune, 
+it became the emblem of his royal family.
+Now do you understand, Marth? It is what
+you are carrying, Akaneia's Fire Emblem. 
+
+INSERTNAMEHERE:
+You mean...!
+What... ...The first king of Akaneia
+was originally a thief!?
+Is that true...? 
+In that case, I can kind of understand
+the curse of the Fire Emblem... 
+Lord Gato, does that mean...
+If I were to place all five orbs into this,
+the Shield of Seals will be restored? 
+
+INSERTNAMEHERE:
+You are indeed correct...
+But 600 years have passed since it broke... 
+The earth dragons sealed under Macedonia
+will soon awaken. 
+There are several hundreds--no, several
+thousands. 
+I will entrust Chiki to you as well.
+You will find her in the room to the right.
+With her, you can defeat those dragons. 
+But I must warn you.
+If you do not complete the Shield of Seals,
+even Chiki will be destroyed. 
+
+INSERTNAMEHERE:
+What?!
+But why!? 
+
+INSERTNAMEHERE:
+Because she is still a child.
+Without the shield, she too will degenerate.. 
+In time, she will turn into a beast and attack
+humanity. 
+I took pity on her and sent her to sleep. 
+But if the Shield of Seals is restored,
+we will no longer have to worry.
+The shield will protect Chiki. 
+Marth, I leave Chiki in your hands.
+Please free her from her destruction. 
+
+
+MS014_EV2_B:
+
+INSERTNAMEHERE:
+I see.
+You couldn't collect them all... 
+I suppose it couldn't be helped...
+Nevertheless, I will take what shards you
+have. 
+Chiki is sleeping in the room to the right,
+but since the shield has not been restored,
+I cannot let you meet her. 
+She has yet to mature into an adult.
+Without the Shield of Seals, her degeneration
+is but inevitable. 
+In time, she will turn into a beast and attack
+humanity. 
+I'm afraid Chiki cannot ever be allowed to
+awaken again. 'Tis for her own good... 
+Marth, if you have taken the treasures,
+then head to the room to the left.
+I shall await you there... 
+
+
+MS014_EV3:
+*MARS enters*
+MARS:
+Chiki?!
+Are you alright? 
+*TIKI enters*
+TIKI:
+Yeah... 
+
+MARS:
+Chiki, it's me, Marth.
+Hey, open your eyes! 
+
+TIKI:
+...Mar...
+Mar-Mar... 
+Oh, Mar-Mar!!
+You came!
+You came to see Chiki!! 
+
+MARS:
+That's right, Chiki.
+It's been a while.
+Have you been well? 
+
+TIKI:
+Uhh... not really.
+Lord Gato said that I had to sleep again. 
+But... I don't wanna.
+I slept all by myself for a really long time. 
+I had so many scary dreams, over and over. 
+I dreamt I ended up like the poor fire dragons
+and ice dragons... That I was a terrifying
+monster. 
+I'd attack humans and kill them. 
+"No...", "Stop..." they'd shout, and then I'd
+wake up. All alone, in this pitch black room... 
+I cried so much. 
+And each time, Ban-Ban comforted me. 
+Then, one day he took me out, and brought
+me to a human village. 
+The village life was so fun!
+Everyone treated me so nice...
+I was really happy. 
+I don't wanna sleep anymore...
+Next time I close my eyes, I feel as though
+I'll never open them again. 
+I don't want that.
+I want to live with everyone.
+I don't want to sleep. 
+
+MARS:
+Chiki, it's alright now.
+I'll protect you.
+So don't cry anymore... 
+
+TIKI:
+Really...? I don't have to see those terrible
+dreams anymore?! 
+
+MARS:
+Oh, of course! 
+Once the Shield of Seals is restored, you can
+come live with us. Chiki, trust me, and come
+with me! 
+
+TIKI:
+Yeah! Yaaay!!
+Thank you, Mar-Mar! 
+
+
+MS014_EV4:
+*S_GATO enters*
+S_GATO:
+It cannot be someone else.
+Prince Marth himself needs to come here. 
+
+
+MS014_EV5:
+*S_GATO enters*
+S_GATO:
+I'm sorry, but I cannot let you see Chiki.
+It's for her own good... 
+
+
+MS014_BT_TIKI:
+*TIKI enters*
+TIKI:
+Huh...?
+Who... who are you...? 
+
+
+MS014_DIE_TIKI:
+*TIKI enters*
+TIKI:
+...Ah...
+Mar...Mar... 
+
+
+MS014_ED1_A:
+*MARS enters**GATO enters*
+GATO:
+I see...
+So Chiki was pretty happy.
+It must have been very painful for her. 
+Though it was to protect her, I was far too
+cruel to her. I suspect she must really hate
+me... 
+You should go, Marth.
+I will send you to Aritia with my powers. 
+
+
+
+MS014_ED1_B:
+*MARS enters**GATO enters*
+GATO:
+You should go, Marth.
+I will send you to Aritia with my powers. 
+
+
+
+MS014_ED2:
+
+INSERTNAMEHERE:
+Lord Gato, why don't you come with us? 
+
+INSERTNAMEHERE:
+Hmm...
+At the moment I've one thing I must still
+investigate. 
+Garnef has returned. 
+
+INSERTNAMEHERE:
+Garnef...!?
+But we killed him! 
+
+INSERTNAMEHERE:
+Yes, you killed his body. 
+But his soul was held prisoner by the
+Dark Orb, and within it, his hatred only
+grew. 
+Afterwards, his former disciples--the heretic
+bishops--resurrected him. 
+And they seem to be planning something foul. 
+
+INSERTNAMEHERE:
+I see.
+Very well, Lord Gato.
+We shall split ways here. 
+
+INSERTNAMEHERE:
+Indeed.
+If I find something, then I too will visit Aritia
+afterwards. 
+I'm counting on you, Marth.
+Everything rests on your shoulders. 
+You must save both our races from the path
+of destruction. 
+
+
+MS014_ED3_PCF1:
+*PLAYER enters*
+
+MS014_ED3_PCM1:
+*PLAYER enters*
+
+MS014_ED3_0_PCF1:
+*CHEINE enters*
+
+MS014_ED3_0_PCM1:
+*CHEINE enters*
+
+MS014_ED3_1:
+
+INSERTNAMEHERE:
+'Course, just hold on a second. 
+*TIKI enters*
+TIKI:
+Ta-da!
+Want my tiara? 
+
+
+MS014_ED3_A:
+
+INSERTNAMEHERE:
+Sure! 
+
+
+MS014_ED3_B:
+
+INSERTNAMEHERE:
+Nah. 
+
+

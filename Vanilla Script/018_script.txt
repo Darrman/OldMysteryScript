@@ -1,0 +1,347 @@
+MS018_OP0:
+*PLAYER enters**MARS enters*PLAYER
+MARS:
+, if we can get through this pass
+we will be on Archanea's doorstep.
+Just hang in there a little longer. 
+
+PLAYER:
+Yes, sire. 
+
+MARS:
+Despite all the odds,
+we've surpassed Anri's Way
+and taken back Altea... 
+The battles we've faced up to now...
+have been nothing short of difficult.
+And in those battles... 
+
+
+MS018_OP0_A:
+
+INSERTNAMEHERE:
+We've managed to keep everyone alive. 
+With the strength of all our comrades,
+we can accomplish something worthy of Anri... 
+I'm so proud of everyone. 
+
+INSERTNAMEHERE:
+Sire...... 
+
+
+MS018_OP0_B:
+
+INSERTNAMEHERE:
+It's thanks to our friends that
+our country is free;
+I cannot help but think of the fallen. 
+I want to become stronger for them.
+From now on, let's live so that
+no one falls again... 
+
+INSERTNAMEHERE:
+Sire...... 
+
+
+MS018_OP0_C:
+
+INSERTNAMEHERE:
+...The feeling of pain overwhelms me.
+When I think of the severely wounded,
+and the many who have fallen... 
+Perhaps if I had been stronger like Anri,
+then everyone would still be alive... 
+From now...
+From now on, I will definitely... 
+
+INSERTNAMEHERE:
+Sire...... 
+
+
+MS018_OP1:
+*ROSHE enters*
+ROSHE:
+Wolf, Sedgar, Vyland.
+Do you not have second thoughts...?
+Does the battle plan not trouble you? 
+*WOLF enters*
+WOLF:
+Roshea!
+Are you still babbling on about
+that nonsense? 
+Look over there!
+The Altean forces are stretched along
+the narrow pass. 
+Our only chance to crush them is now. 
+*WOLF leaves**BIRAKU enters*
+BIRAKU:
+What's wrong with you, Roshea?
+Did the four of us not all pledge that
+we would die for Coyote? 
+It was Coyote who freed us
+plain dwellers from slavery. 
+If we don't fight Altea here,
+then we can't protect the palace. 
+Are you telling me you WANT
+Hardin to be defeated by them? 
+*BIRAKU leaves**ZAGARO enters*
+ZAGARO:
+That's right!
+Prince Marth wants to destroy
+Archanea and everything we hold dear. 
+If we leave him be, the entire world
+will eventually fall into his hands. 
+
+ROSHE:
+I still find it hard to believe.
+So the honorable Prince Marth we met is
+supposed to harbor diabolical ambitions? 
+*ZAGARO leaves**WOLF enters*
+WOLF:
+Are you calling Coyote a liar?! 
+Do you really believe that he would
+resort to such deceitful tactics?! 
+Enough, Roshea!!
+I've lost all respect for you.
+Betray us if you want, I don't care. 
+Sedgar, Vyland, let's go.
+If we delay any more they will pass us. 
+
+ROSHE:
+Hey, wait!
+You know I can't betray you.
+I understand... I'll go, too. 
+
+
+MS018_EV1:
+*MARS enters*
+MARS:
+The Wolfguard of Aurelis!
+Must we fight them as well...? 
+*JEIGUN enters*
+JEIGUN:
+Sire, please hold on.
+We've just received word from a
+messenger of King Aurelis. 
+It seems Aurelis has no plans to war... 
+
+
+MS018_EV1_2:
+
+INSERTNAMEHERE:
+According to the messenger, King Aurelis
+wishes to parley with you in the village. 
+
+INSERTNAMEHERE:
+What? What could this mean?
+That the Wolfguard is moving independent
+of Aurelis's orders? 
+
+INSERTNAMEHERE:
+I don't know, but... Depending on
+how negotiations go, it's possible
+the Wolfguard may signal a retreat. 
+
+INSERTNAMEHERE:
+I see. It would benefit us all
+if we could avoid pointless fighting.
+Let's hurry to the village! 
+
+
+MS018_VIL1:
+*MARS enters**ORLEAN_KING enters*
+ORLEAN_KING:
+Oh, Prince Marth.
+Thank the stars I could meet you here. 
+
+MARS:
+King Aurelis?
+What brings you here? 
+
+ORLEAN_KING:
+I came to halt our attack.
+And I must apologize to you. 
+I believed Hardin and sided with Archanea,
+but it seems that I made a mistake. 
+Aurelis has decided to maintain neutrality.
+My knights will return to their lands. 
+
+MARS:
+I understand, Your Majesty.
+I do not wish to fight you, either. 
+Please, find it in yourself to forgive me
+for the many Aurelian lives that I've taken. 
+
+ORLEAN_KING:
+Ohh!
+The rumors are true, as I suspected. 
+I am old and frail, and without children.
+And now, the brother I once trusted
+has become... like this. 
+Prince Marth, please,
+protect Aurelis in my stead.
+I entrust everything to you. 
+As a sign of my allegiance,
+I would have you accept this orb. 
+
+MARS:
+Your Majesty, Hardin is... 
+
+ORLEAN_KING:
+Do not worry about my younger brother. 
+A knight can only die a knight's death.
+'Twas always his fate... 
+
+
+MS018_BT_BIRAKU:
+*BIRAKU enters*
+BIRAKU:
+As long as we're around
+you will not reach the palace.
+If you value your lives then turn around! 
+
+
+MS018_BT_ROSHE:
+*ROSHE enters*
+ROSHE:
+I am Roshea of the Wolfguard.
+I don't want to fight, but I will not
+betray my friends. I'm sorry... 
+
+
+MS018_BT_WOLF:
+*WOLF enters*
+WOLF:
+I am Wolf, commander of the Wolfguard.
+Your head is mine! 
+
+
+MS018_BT_ZAGARO:
+*ZAGARO enters*
+ZAGARO:
+You...
+Why are you invading other countries?
+Are you so blinded by your ambition?! 
+
+
+MS018_DIE_BIRAKU:
+*BIRAKU enters*
+BIRAKU:
+Coyote... 
+
+
+MS018_DIE_ROSHE:
+*ROSHE enters*
+ROSHE:
+Coyote... 
+
+
+MS018_DIE_WOLF:
+*WOLF enters*
+WOLF:
+Coyote... 
+
+
+MS018_DIE_ZAGARO:
+*ZAGARO enters*
+ZAGARO:
+Coyote... 
+
+
+MS018_ED1_PCF1:
+*MARS enters**PLAYER enters*PLAYER
+MARS:
+, we've made it through.
+The palace is not far. 
+I have only you to thank for this.
+You do nothing but help me. 
+
+PLAYER:
+No, it's not like that.
+It was your decision, sire.
+I just came up with the idea. 
+
+MARS:
+That's hardly the whole truth. 
+The times when I'm lost in my thoughts,
+if you're there, I have confidence.
+I'm thankful for that; more than anything. 
+*PLAYER leaves**JEIGUN enters*
+JEIGUN:
+Sire, we've just received urgent news.
+Apparently a coup d'etat broke out
+in the palace. 
+The knights and citizens who opposed
+Emperor Hardin's ways rose in rebellion. 
+
+MARS:
+What in the blazes?!
+What has happened to them now? 
+
+JEIGUN:
+Unfortunately, the instigators were all
+defeated and captured... 
+Rumor has it that the rebels
+are being executed by the day. 
+
+MARS:
+Damn it, Hardin...
+This is absurd. 
+*JEIGUN leaves**PLAYER enters*
+MARS:
+It's decided. We will head for
+the palace at once and end this.
+PLAYER, let's go!! 
+
+PLAYER:
+Yes, sire! 
+
+
+MS018_ED1_PCM1:
+*MARS enters**PLAYER enters*PLAYER
+MARS:
+, we've made it through.
+The palace is not far. 
+I have only you to thank for this.
+You do nothing but help me. 
+
+PLAYER:
+No, not at all..
+I just made a random suggestion. 
+
+MARS:
+That's hardly the whole truth. 
+The times when I'm lost in my thoughts,
+if you're there, I have confidence.
+I'm thankful for that; more than anything. 
+*PLAYER leaves**JEIGUN enters*
+JEIGUN:
+Sire, we've just received urgent news.
+Apparently a coup d'etat broke out
+in the palace. 
+The knights and citizens who opposed
+Emperor Hardin's ways rose in rebellion. 
+
+MARS:
+What in the blazes?!
+What has happened to them now? 
+
+JEIGUN:
+Unfortunately, the instigators were all
+defeated and captured... 
+Rumor has it that the rebels
+are being executed by the day. 
+
+MARS:
+Damn it, Hardin...
+I can't believe it. 
+*JEIGUN leaves**PLAYER enters*
+MARS:
+It's decided. We will head for
+the palace at once and end this.
+PLAYER, let's go!! 
+
+PLAYER:
+Yes, sire! 
+
+

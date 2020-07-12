@@ -1,0 +1,51 @@
+MS000:
+
+INSERTNAMEHERE:
+あ
+ 
+
+MS000_FADE:
+*MARS enters**JEIGUN enters*
+JEIGUN:
+マルス王子
+タリス城から
+シーダ様が来られました。 *JEIGUN leaves**SHEEDA enters*
+MARS:
+どうしたんだ、シーダ。
+城で何かあったのか？ 
+SHEEDA:
+マルスさま、会えてよかった。
+ガルダの海賊が
+突然襲ってきたの。 
+お城も占領されて
+大勢の人が殺されたわ。
+お願い、お父さまを助けて。 
+MARS:
+大丈夫だよ、シーダ。
+この砦には、アリティアの
+勇敢な騎士たちがいる。 
+海賊どもに負けることはないさ。
+さあ、ぼくと一緒に
+タリスの城へ行こう。 
+
+MS000_PIDSCE:
+*SHEEDA enters*
+SHEEDA:
+あいうえ 
+
+MS000_SCE:
+*MARS enters**SHEEDA enters*
+SHEEDA:
+背景替え 
+セピアフィルタ 
+*MARS leaves**MARS enters*
+SHEEDA:
+終わり 
+
+MS000_TEST:
+*MISHRAN enters*
+MISHRAN:
+くわばら
+くわばら
+
+

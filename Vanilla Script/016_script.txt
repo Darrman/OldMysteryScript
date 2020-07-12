@@ -1,0 +1,472 @@
+MS016_OP0:
+*PLAYER enters**JEIGUN enters*PLAYER
+JEIGUN:
+, we've returned at long last.
+We're back where it all began... 
+
+PLAYER:
+Yeah. 
+It's a curious feeling.
+It feels like yesterday that I first stepped
+foot here and yet it seems so far away... 
+
+JEIGUN:
+Yes, I remember.
+When you first arrived here for training,
+you had no experience of battle. 
+And now... 
+
+
+MS016_OP0_A:
+
+INSERTNAMEHERE:
+You've grown into one of the
+continent's finest young soldiers. 
+PLAYER, with you here, I have no doubt
+that we can reclaim our homeland.
+We're all counting on you. 
+
+
+MS016_OP0_B:
+
+INSERTNAMEHERE:
+You have gained much experience
+as a knight of Altea. 
+PLAYER, your efforts will decide whether
+or not we will succeed in reclaiming Altea.
+We're counting on you. 
+
+
+MS016_OP0_C:
+
+INSERTNAMEHERE:
+Hmm...
+You haven't really changed very much
+from how you were back then. 
+PLAYER, you must work harder on
+the battlefield from now on.
+I'm counting on you. 
+
+
+MS016_OP1_1_PCF1:
+*MARS enters*
+MARS:
+How disgraceful...
+Thieves inside our fair castle? 
+What if they've stolen the Geosphere? 
+*JEIGUN enters*
+JEIGUN:
+Sire, we've sighted a suspicious-looking
+thief making his way north.
+We should capture him before it's too late. 
+*JEIGUN leaves**PLAYER enters*
+PLAYER:
+Sire, if you'd allow me the honor,
+I will go.
+Your orders, please. 
+
+
+MS016_OP1_1_PCM1:
+*MARS enters*
+MARS:
+How disgraceful...
+They let thieves inside the castle? 
+What if they've stolen the Geosphere? 
+*JEIGUN enters*
+JEIGUN:
+Sire, we've sighted a suspicious-looking
+thief making his way north.
+We should capture him before it's too late. 
+*JEIGUN leaves**PLAYER enters*
+PLAYER:
+Sire, if necessary,
+I shall recover it.
+Your orders, my lord! 
+
+
+MS016_OP1_2:
+*MARS enters**MISHRAN enters*
+MISHRAN:
+Prince Marth.
+Please, hold on. 
+
+MARS:
+Macellan!
+Did you come here with Dolph? 
+
+MISHRAN:
+Correct. Dolph and I are going
+to be your reinforcements.
+Archanea has nothing left for me. 
+For the justice that I believe in,
+allow me to fight by your side again,
+Prince Marth. 
+
+
+MS016_TK1:
+*JORJUE enters**ASTRIA enters*
+JORJUE:
+Astram! 
+
+ASTRIA:
+Well, if it isn't the turncoat, Jeorge.
+What form of death would you prefer? 
+
+JORJUE:
+H-hold your sword, Astram.
+Even if you fight here,
+you've no chance of winning. 
+
+ASTRIA:
+You would have me surrender...? 
+Never! Though I may be the last
+man standing, I shall fight on.
+I am a soldier of Archanea! 
+
+JORJUE:
+Why do you fight?
+For whom?
+Emperor Hardin? 
+
+ASTRIA:
+I think not!
+Not for him. 
+For Princess Nyna...
+For Archanea!! 
+
+JORJUE:
+Then tell me, was it Princess Nyna
+who ordered you to arms? 
+Do you honestly believe that Princess
+Nyna would wish for a war like this? 
+
+ASTRIA:
+She...!
+I have not seen the princess in some time. 
+She has been ill of late. 
+Hardin is the ruler of Archanea and my liege.
+I've no choice but to obey. 
+If I do not, then I betray Archanea.
+And I betray Princess Nyna. 
+
+JORJUE:
+Astram, Princess Nyna entrusted Marth
+with the Fire Emblem. 
+Do you understand what that entails? 
+
+ASTRIA:
+C-come again?!
+What are you trying to tell me, Jeorge? 
+Are you suggesting that Princess
+Nyna asked Prince Marth for help? 
+
+JORJUE:
+Is there any other reason? 
+Come with us, Astram.
+See the truth with your own eyes. 
+If you die here, how would Midia feel? 
+Live, Astram, for her.
+Live, and face the truth of what
+has come to pass. 
+
+ASTRIA:
+Hmm... I suppose it is unavoidable.
+But, Jeorge-- 
+Should I learn that this war is a
+product of Marth's ambition,
+as Emperor Hardin claims... 
+Heads will roll.
+Am I clear? 
+
+
+MS016_EV1:
+*WILLOW enters**SOLDIER_RED enters*
+SOLDIER_RED:
+Lord Willow, permission to open the
+door and attack? 
+
+WILLOW:
+Wait.
+Don't be so hasty. 
+Inform me as soon as any of the chests
+in the treasury are opened.
+We will sortie the moment that happens. 
+Both the thieves and the Alteans will
+want their greasy hands on the loot. 
+While they're busy trying to unload
+the chests, we will take that chance
+and attack. 
+Heh heh...
+This is a battle of intellect, not brawn. 
+Don't forget!
+Attack when the chests are sprung! 
+
+
+MS016_EV2:
+*WILLOW enters*
+INSERTNAMEHERE:
+What's that?
+The chests have been sprung?
+Now! Open the door! 
+Heh heh heh!
+Their panicked faces will be glorious! 
+
+
+MS016_BT_ASTRIA:
+*ASTRIA enters*
+ASTRIA:
+Traitors!
+You will feel Mercurius's bite!! 
+
+
+MS016_BT_BOSS:
+*WILLOW enters*
+WILLOW:
+Ahaha!
+Perhaps it is time you realize...
+The terror of my magic...! 
+
+
+MS016_DIE_ASTRIA:
+*ASTRIA enters*
+ASTRIA:
+Midia... 
+
+
+MS016_DIE_BOSS:
+*WILLOW enters*
+WILLOW:
+Please forgive me, my liege... 
+
+
+MS016_ED1_01_PCF1:
+
+
+MS016_ED1_01_PCM1:
+*S_GATO enters*
+
+MS016_ED1_PCF1:
+*MARS enters**PLAYER enters*
+PLAYER:
+Sire.
+It's over. 
+*PLAYER leaves**JEIGUN enters*
+JEIGUN:
+At long last,
+Altea is ours once more. 
+
+MARS:
+We've all the reason to be happy.
+But is there news of Elice...? 
+
+
+MS016_ED1_PCM1:
+*MARS enters**PLAYER enters*
+PLAYER:
+Sire.
+We have routed the enemy. 
+*PLAYER leaves**JEIGUN enters*
+JEIGUN:
+At last, Altea is ours once more. 
+
+MARS:
+Yes, it's a wondrous feeling.
+But is there news of Elice...? 
+
+
+MS016_ED1_02_PCF1:
+*S_GATO enters*
+S_GATO:
+Prince Marth...
+Can you hear me? 
+I hate to be the bearer of bad tidings,
+but it would seem that Princess Elice
+has been kidnapped by Gharnef. 
+
+INSERTNAMEHERE:
+Lord Gotoh... Do you speak truly?! 
+
+S_GATO:
+I have found out that Gharnef
+commanded his priests to search for
+clerics of noble birth. 
+*MARS enters*
+S_GATO:
+It is most likely that Lena and your
+sister were spirited away by Gharnef. 
+
+MARS:
+It can't be! 
+What does he intend to do with them!? 
+
+S_GATO:
+That, I do not know.
+But something foul is on the cards. 
+There can be no doubt of Gharnef's
+involvement in this series
+of unfortunate events. 
+
+MARS:
+Lord Gotoh!
+Where is Gharnef now? 
+
+S_GATO:
+I believe Princess Nyna is his next target.
+He is probably... at Archanea's palace. 
+
+MARS:
+I understand.
+Then I too shall go to Archanea. 
+I still have to free Hardin from
+the Darksphere's influence. 
+I will defeat the Dark Pontifex
+Gharnef, and rescue my sister--no,
+I'll save all of them! 
+
+
+MS016_ED1_02_PCM1:
+*S_GATO enters*
+S_GATO:
+Prince Marth...
+Can you hear me? 
+I hate to be the bearer of bad tidings,
+but it would seem that Princess Elice
+has been kidnapped by Gharnef. 
+
+INSERTNAMEHERE:
+Lord Gotoh... Do you speak truly?! 
+
+S_GATO:
+I have found out that Gharnef
+commanded his priests to search for
+clerics of noble birth. 
+*MARS enters*
+S_GATO:
+It is most likely that Lena and your
+sister were spirited away by Gharnef. 
+
+MARS:
+It can't be! 
+What does he intend to do with them!? 
+
+S_GATO:
+That, I do not know.
+But something foul is on the cards. 
+There can be no doubt of Gharnef's
+involvement in this series
+of unfortunate events. 
+
+MARS:
+Lord Gotoh!
+Where is Gharnef now? 
+
+S_GATO:
+I believe Princess Nyna is his next target.
+He is probably... at Archanea's palace. 
+
+MARS:
+I understand.
+Then I too shall go to Archanea. 
+I still have to free Hardin from
+the Darksphere's influence. 
+I will defeat the Dark Pontifex
+Gharnef, and rescue my sister--no,
+I'll save all of them! 
+
+
+MS016_ED2_PCF1:
+*PLAYER enters**MARS enters*
+MARS:
+Hello PLAYER.
+It's been too long since we last
+spoke casually in Altea Castle. 
+This place holds a lot of memories
+for you, doesn't it? 
+Your long days of training...
+Not to mention you met Katarina here... 
+
+PLAYER:
+0*PLAYER leaves**PLAYER enters**MARS leaves**KATARINA enters*
+KATARINA:
+I-I'm sorry.
+I was in a hurry, and... 
+Excuse me, did you come here
+to become an Altean knight as well? 
+
+PLAYER:
+0*KATARINA leaves**MARS enters**PLAYER leaves**PLAYER enters*
+PLAYER:
+............ 
+
+
+MS016_ED2_PCM1:
+*PLAYER enters**MARS enters*
+MARS:
+Hello PLAYER.
+It's been too long since we last
+spoke casually in Altea Castle. 
+This place holds a lot of memories
+for you, doesn't it? 
+Your long days of training...
+Not to mention you met Katarina here... 
+
+PLAYER:
+0*PLAYER leaves**PLAYER enters**MARS leaves**KATARINA enters*
+KATARINA:
+I-I'm sorry.
+I was in a hurry, and... 
+Excuse me, did you come here
+to become an Altean knight as well? 
+
+PLAYER:
+0*KATARINA leaves**MARS enters**PLAYER leaves**PLAYER enters*
+PLAYER:
+............ 
+
+
+MS016_ED2_01_PCF1:
+
+INSERTNAMEHERE:
+Ah! Sire......
+Please be careful. 
+PLAYER
+INSERTNAMEHERE:
+? 
+
+INSERTNAMEHERE:
+I sense the same enemy presence...
+as that time.
+They may already be close... 
+*JEIGUN enters*
+JEIGUN:
+Sire! We're under attack!
+It's the assassins! 
+
+INSERTNAMEHERE:
+Begin preparations for a counterattack
+immediately! 
+
+
+MS016_ED2_01_PCM1:
+
+INSERTNAMEHERE:
+Ah! Sire......
+Please be careful. 
+PLAYER
+INSERTNAMEHERE:
+? 
+
+INSERTNAMEHERE:
+I sense the same enemy presence...
+as that time.
+They may already be close... 
+*JEIGUN enters*
+JEIGUN:
+Sire! We're under attack!
+It's the assassins! 
+
+INSERTNAMEHERE:
+Begin preparations for a counterattack
+on the double! 
+
+

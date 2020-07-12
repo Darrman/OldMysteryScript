@@ -1,0 +1,386 @@
+MTUTS_TRANING:
+*JEIGUN enters**PLAYER enters*PLAYER
+JEIGUN:
+, it's been decided that we're going
+to war with Archanea. 
+Archanea will not be an easy opponent.
+They have one of the most powerful
+militaries on the continent. 
+
+PLAYER:
+We're ready to face anything, sir. 
+Although... we still lack experience, I admit.
+We have to grow stronger... 
+
+JEIGUN:
+Indeed. 
+PLAYER, are you aware of the
+"drill grounds" that operate across
+the continent? 
+
+PLAYER:
+Drill grounds, sir? 
+
+JEIGUN:
+It costs a bit of money, but if you go
+practice in one, you can get stronger. 
+It might be a good idea to let our more
+inexperienced men have a go. 
+
+
+MS005_OP1:
+*TORUS enters**RANG enters*
+TORUS:
+Commander Lang.
+The... A-Altean army has arrived... 
+
+RANG:
+You moron. Why are you so panicked?
+With their nation and name in ruins, the
+Alteans are of no consequence to us.
+ 
+
+TORUS:
+But, Sir Jeorge's archers left to quell the
+rebellion. Can we win with just our troops? 
+
+RANG:
+Why didn't you tell me earlier?
+Call Jeorge back to the castle this instant! 
+While you're there, find that hired sword,
+Navarre, and bring him here. 
+General Toras! I'm heading inside.
+You will defend this location till your last
+breath. 
+Do NOT let the enemy get close.
+Do I make myself clear?! 
+
+
+MS005_EV0:
+*BANDIT enters*
+BANDIT:
+Whoo!
+Ready, boys? 
+Look at all the ruckus!
+Never a better time to attack that buncha
+villages! 
+
+
+MS005_EV1:
+*SOLDIER_RED enters**JORJUE enters*
+SOLDIER_RED:
+Captain Jeorge.
+We've received orders to return to the
+castle immediately. 
+
+JORJUE:
+Orders from Lang, huh?
+I'm not fond of that man. 
+His treatment of our people is simply
+intolerable. 
+To work beneath him is an insult. 
+Pay his orders no mind. 
+
+SOLDIER_RED:
+But, Captain!
+You'll be accused of treason! 
+Captain?!
+You can't be planning to defect to Altea... 
+
+JORJUE:
+No, that's not an option. 
+If I were to defect now, I'd drag the entire
+platoon down with me. 
+So for that reason alone,
+I will absolutely not take any risks
+that might besmirch our name. 
+
+SOLDIER_RED:
+Captain Jeorge... 
+
+JORJUE:
+Anyway, inform everyone:
+Do not move from your stations. 
+However, if the enemy approaches,
+you may engage them. 
+
+
+MS005_TK1:
+*RICARD enters**JURIAN enters*
+JURIAN:
+Hey, Rickard!
+I see you haven't tired of stealin'. 
+
+RICARD:
+Ah! Chief!
+How nice to see ya. 
+Well, I was plannin' on workin' with you and
+makin' loadsa money, but you had to go and
+quit the business! 
+Fallin' head over heels for that beautiful
+cleric, and then dumpin' me...
+That's just too cruel! 
+Did our love really mean that little to you? 
+
+JURIAN:
+Can it, you little fink!!
+People'll get the wrong idea about us,
+if you keep talkin' like that. 
+Anyway, forget about thievin' and come with
+me to fight for justice. 
+
+RICARD:
+Hmm... alright then! 
+I'll follow you anywhere.
+I do adore ya, Chief! 
+
+
+MS005_TK2:
+*BARTS enters**SAJI enters*
+SAJI:
+Barst!
+What're you doin' in a place like this?! 
+
+BARTS:
+Bord?
+It's been a while. 
+Fighting's a thing of the past for me.
+I'm just an ordinary woodcutter now.
+Move along; nothing to see here. 
+
+SAJI:
+Don't be an idiot.
+Doncha know?
+This is Prince Marth's fight. 
+If you ignore his plea, you're a disgrace to
+the Talysian Mercenaries.
+Tell me you're no disgrace. 
+
+BARTS:
+......
+You know, all I really want is to live in peace... 
+I suppose I can't just kick back,
+and chop my wood, with this damn war
+going on. This needs to end quickly. 
+
+SAJI:
+Oh yeah!
+That's my bro! 
+
+BARTS:
+Yeah, I'll join too.
+Tell Prince Marth for me. 
+
+
+MS005_TK3:
+*BARTS enters**MAJI enters*
+MAJI:
+Barst!
+What're you doin' here?! 
+
+BARTS:
+Bord?
+Long time no see. 
+
+MAJI:
+I'm not Bord!
+I'm Cord! 
+You of all people should know that! 
+
+BARTS:
+It was a joke! Sorry.
+Look, Cord, I know you came out all this way... 
+But I've got nothing to do with war no more.
+I'm an ordinary woodcutter now.
+Just ignore me. 
+
+MAJI:
+Don't be stupid.
+Doncha know?
+Prince Marth's fighting again. 
+If you ignore his plea, you're a disgrace to
+the Talysian Mercenaries.
+You wanna be a disgrace, is that it? 
+
+BARTS:
+......
+You know, all I really want is to live in peace... 
+I suppose I can't just kick back,
+and chop my wood, with this damn war
+going on. This needs to end quickly. 
+
+MAJI:
+Heh! That's my bro. 
+
+BARTS:
+Yeah, I'll join too.
+Tell Prince Marth for me. 
+
+
+MS005_TK4:
+*BARTS enters**OGUMA enters*
+OGUMA:
+Long time no see, Barst. 
+
+BARTS:
+Captain Ogma!
+Why are you here...? 
+
+OGUMA:
+Another war has started.
+Once again, I fight under Prince Marth's
+banner. 
+Barst, lend us your strength.
+We need you. 
+
+BARTS:
+I got nothing to do with fighting now...
+Well, that's what I would say if you were
+anyone else. 
+Captain, I owe you.
+You've saved our sorry asses on more
+occasions than one. 
+Captain Ogma.
+Just say the word.
+I'll do whatever you want! 
+
+
+MS005_H1:
+*MAN1 enters*
+MAN1:
+Y'know, lately I haven't seen that mercenary,
+Samto. 
+I thought that he might have joined your
+ranks, but I guess not... 
+He's as lax as they get, but you can't go
+wrong with his skill. 
+
+
+MS005_H2:
+*WOMAN1 enters*
+WOMAN1:
+Oh, Alteans, hear our plea!
+Please, defeat General Lang! 
+As long as that man lives,
+peace is but a fleeting dream. 
+
+
+MS005_VIL1:
+*VILHEAD enters*
+VILHEAD:
+Ohh, if isn't Prince Marth!
+I wonder how my granddaughter Lena is
+faring, hm? 
+What, you don't know?
+I see... Th-then...
+Do you still want this Hammerne staff? 
+At least, if Lena's pupil Malicia were around,
+I'm sure she could use it... 
+Well, whatever be the case,
+I've no use for a souvenir.
+Please, make good use of it. 
+
+
+MS005_BT_BARTS:
+*BARTS enters*
+BARTS:
+Oi, quit it!
+I don't want to get involved in no war! 
+
+
+MS005_BT_JORJUE:
+*JORJUE enters*
+JORJUE:
+You wouldn't have needed to die if you
+hadn't come so close... 
+
+
+MS005_BT_RICARD:
+*RICARD enters*
+RICARD:
+Chief, where aaare ya? 
+
+
+MS005_BT_TORUS:
+*TORUS enters*
+TORUS:
+Projection 44.5 degrees!
+Fiiiire!!! 
+
+
+MS005_DIE_BARTS:
+*BARTS enters*
+BARTS:
+Damn it...
+What a world... 
+
+
+MS005_DIE_JORJUE:
+*JORJUE enters*
+JORJUE:
+Fools... 
+
+
+MS005_DIE_RICARD:
+*RICARD enters*
+RICARD:
+Tch. Man, I messed up big time. 
+
+
+MS005_DIE_TORUS:
+*TORUS enters*
+TORUS:
+General Lang...
+Altea is too strong... 
+
+
+MS005_ED1_PCF1:
+*MARS enters**JEIGUN enters*
+JEIGUN:
+Sire, we've finally seized control of Grust. 
+However, a number of enemies are
+concealed within the castle.
+Our job here is far from over. 
+
+MARS:
+Yes, I know. 
+Lang must be stopped here and now.
+Or else we forsake the people of Grust. 
+*JEIGUN leaves**PLAYER enters*
+PLAYER:
+Sire.
+I, too, do not intend to let him go. 
+Say the word and with these very hands... 
+*MARS leaves**JEIGUN enters*
+JEIGUN:
+This is Lang we are talking about.
+We don't know what he's planning. 
+PLAYER, we must take extra caution when
+fighting inside the castle! 
+
+
+MS005_ED1_PCM1:
+*MARS enters**JEIGUN enters*
+JEIGUN:
+Sire, we've finally seized control of Grust. 
+However, a number of enemies are
+concealed within the castle.
+Our job here is far from over. 
+
+MARS:
+Yes, I know. 
+Lang must be stopped here and now.
+Or else we forsake the people of Grust. 
+*JEIGUN leaves**PLAYER enters*
+PLAYER:
+Sire.
+I, too, do not intend to let him go. 
+Say the word and with these very hands... 
+*MARS leaves**JEIGUN enters*
+JEIGUN:
+This is Lang we are talking about.
+We don't know what he's planning. 
+PLAYER, we must take extra caution when
+fighting inside the castle! 
+
+

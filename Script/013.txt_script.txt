@@ -1,0 +1,257 @@
+MS013_OP0:
+
+
+MS013_OP0_A:
+
+
+MS013_OP0_B:
+
+
+MS013_OP0_C:
+
+
+MS013_OP1:
+
+INSERTNAMEHERE:
+2*MARS enters**CHEINE enters*
+MARS:
+Are we there yet, Chainy?
+We've climbed so high already. 
+It's freezing and...
+It's becoming increasingly difficult to
+breathe... 
+
+CHEINE:
+Just hang on a bit longer, princey. 
+Look, you can see it, right?
+That's the Ice Dragons' Temple over there.
+Where Gato's waitin' for you. 
+
+MARS:
+You know, I must admit, I was shocked when
+you told me that Chiki was the daughter of
+the Divine Dragon King. 
+And that you and Gato were both divine
+dragons. 
+
+CHEINE:
+Oh, yeah... When the Divine Dragons fought the
+Earth Dragons they wore out their dragon
+stones, and so practically became extinct. 
+Aside from Narga, only Gato, me and the
+newborn Chiki survived. 
+Y'see, after the war, Gato
+and I threw away our dragon stones.
+So, I can never be a dragon again. 
+Sure, Gato still stands by Narga's command
+and watches out for humans... 
+But that ain't my thing. 
+Y'see, I don't like humans. 
+I've got nothin' but contempt for those
+who treated the defenseless Mamkutes like
+insects. 
+So I can understand why Mediuth despised
+you humans so. 
+Mediuth, an Earth Dragon prince, tricked
+his own tribe and he alone became a Mamkute. 
+And, as ordered by Narga, he guarded the
+Dragon's Altar. 
+But the once peaceful human race, drunk
+with power, began to rule with tyranny. 
+They oppressed the dragons who had done
+nothin' wrong. 
+Furious at their betrayal by humans,
+the Mamkutes gathered in Durhua, 
+and they created a nation for their people.
+Then they fought to conquer humanity. 
+To save the humans, Gato gave them the
+divine sword Falchion. 
+He established an academy in Khadein,
+and began to teach magic. 
+Me? I was just an onlooker.
+Winner or loser, it was no concern of mine. 
+
+MARS:
+But then, why help me?
+I too am human... 
+
+CHEINE:
+You're different.
+You don't seem like an unreliable
+person either... 
+
+MARS:
+Mmm...
+Thanks, Chainy. 
+
+CHEINE:
+I... Oh, look at me.
+I'm blushin'. 
+Anyway, let's head to the shrine.
+But watch out for the ice dragons. 
+Even though they've lost their minds,
+they still protect the shrine instinctively.
+The poor creatures... 
+
+
+MS013_TK1:
+
+INSERTNAMEHERE:
+2*BECK enters**MARS enters*
+MARS:
+You, you're Beck!
+To think we'd meet here of all places! 
+
+BECK:
+Me too, Prince Marth.
+Boy am I surprised to see you.
+It's been far too long. 
+After the war, I was travelin' the continent.
+And, um, somehow... 
+
+MARS:
+...You landed up here?
+Well, thank goodness. There's no way you
+would have joined the barbarians. 
+Beck, we're fighting another war.
+Why don't you come with us? 
+
+BECK:
+I don't have my ballista any more.
+Just my horse-buddy right 'ere. 
+But if you're fine with that, then sure.
+I'll help you princey. 
+
+
+MS013_BT_BECK:
+*BECK enters*
+BECK:
+What's the point of war? 
+
+
+MS013_DIE_BECK:
+*BECK enters*
+BECK:
+D-damn... it...
+You too... Pony...? 
+
+
+MS013_ED1:
+
+INSERTNAMEHERE:
+2*MARS enters**CHEINE enters*
+MARS:
+There's something that's been bothering me. 
+The five orbs are very important, correct?
+But Lord Gato never told us much about
+them. 
+Do you know anything about them, Chainy? 
+
+CHEINE:
+Well, Gato kept his lips shut 'cause he was
+afraid of givin' you a heart attack. 
+Tell you what, I'll tell you about 'em.
+But I have to warn you, you might be
+better off not knowing... 
+The orbs are meant for the shield that binds
+the earth dragons... 
+In other words, they were once embedded in
+the shield itself. 
+The orbs have been handed down for
+generations amongst the divine dragons
+and each contains a hidden power. 
+The shield itself is but a pedestal for the
+five orbs to release their innate powers. 
+If even one orb is missing, the seal's a goner. 
+
+MARS:
+I see.
+But if that's the case, why were the orbs
+separated? 
+
+CHEINE:
+'Cause the shield broke. 
+The Shield of Seals that was enshrined in the
+Raman Temple was stolen. 
+
+MARS:
+When exactly did this happen? 
+
+CHEINE:
+Six hundred years ago, I reckon.
+Gato scoured the lands searchin' for the
+shield, hopin' to get it back. 
+He managed to retrieve the five orbs,
+but in the end, he couldn't find the shield. 
+Then, in the last war... 
+The Raman Temple was looted and the orbs
+were scattered once more. 
+
+MARS:
+I see.
+So the orbs that Lord Gato lost...
+He's searching for them again? 
+
+CHEINE:
+Yep. I'm sure you know about the Star Orb,
+Light Orb and Earth Orb... 
+But there's also the Dark Orb and
+Life Orb. 
+Gato's got the Light Orb, but the
+Star Orb's in pieces, 
+and it sounds like Garnef gave the
+Dark Orb to Hardin. 
+
+MARS:
+The Earth Orb is in Aritia, so all that remains
+is the Life Orb. 
+
+CHEINE:
+Anyway, let's go inside.
+I'll be helpin' you too.
+Now, come on, princey! 
+
+
+MS013_ED2:
+
+INSERTNAMEHERE:
+2*MARS enters**JEIGUN enters*
+JEIGUN:
+Sire, please wait. 
+*MARS leaves**PLAYER enters*PLAYER
+JEIGUN:
+, you as well. 
+*PLAYER leaves**MARS enters*
+JEIGUN:
+I just received a distressing message.
+People have been sighted not far behind us. 
+There seems to be a battle underway. 
+
+MARS:
+Out here?
+Could it be the barbarians?
+Or perhaps it's the assassins... 
+
+JEIGUN:
+In any case, this area is almost entirely
+uninhabited. So it can't be any old people... 
+To make matters worse, the snow is becoming
+heavier... Fighting will be difficult in this
+weather. 
+
+MARS:
+But if there are allies... 
+*JEIGUN leaves**PLAYER enters*
+PLAYER:
+Indeed. We cannot abandon them.
+If there are allies that is... 
+
+
+
+MS013_ED2_Y:
+
+INSERTNAMEHERE:
+Then we'll just have to find out for ourselves,
+before the battle is over. Let's go! 
+
+

@@ -1,0 +1,489 @@
+MS019_OP1_PCF1:
+*MARS enters**PLAYER enters*
+MARS:
+As expected, the Archanean army
+is extremely powerful.
+We must approach with great caution. 
+
+PLAYER:
+It seems that Hardin has assembled
+his entire army for the battle. 
+*PLAYER leaves**JEIGUN enters*
+JEIGUN:
+Even so, the people have lost their
+faith in Emperor Hardin.
+They welcome us as liberators. 
+It is certainly very reassuring. 
+This is our final battle.
+It may drag on but all the same,
+I would ask that you take utmost care. 
+*JEIGUN leaves**PLAYER enters*PLAYER
+MARS:
+, the enemy is the
+Archanean imperial army. 
+The continent's strongest and most
+renowned military force. 
+It's strange, but I'm not afraid.
+PLAYER, if you're here,
+then everything will be okay. 
+
+MARS:
+Everyone, let's go! 
+
+
+MS019_OP1_PCM1:
+*MARS enters**PLAYER enters*
+MARS:
+As expected, the Archanean army
+is extremely powerful.
+We must approach with great caution. 
+
+PLAYER:
+It seems that Hardin has assembled
+his entire army for the battle. 
+*PLAYER leaves**JEIGUN enters*
+JEIGUN:
+Even so, the people have lost their
+faith in Emperor Hardin.
+They welcome us as liberators. 
+It is certainly very reassuring. 
+This is our final battle.
+It may drag on but all the same,
+I would ask that you take utmost care. 
+*JEIGUN leaves**PLAYER enters*PLAYER
+MARS:
+, the enemy is the
+Archanean imperial army. 
+The continent's strongest and most
+renowned military force. 
+I'm not worried though...
+I know how strong you are, PLAYER.
+You won't lose to anyone. 
+
+PLAYER:
+Yes, sire!
+Please leave it to me! 
+
+MARS:
+Everyone, let's go! 
+
+
+MS019_EV1:
+*BIRAKU enters*
+BIRAKU:
+I knew it.
+You intend to invade Coyote's palace. 
+The king forbade us from interfering...
+But I will do anything to protect Coyote!
+I'll defy his edict if I have to! 
+
+
+MS019_TK1:
+*ROSHE enters**BIRAKU enters*
+ROSHE:
+Vyland! Why are you here?
+The king told us not to interfere. 
+Aha! Have you decided to join the
+Altean army like me? 
+
+BIRAKU:
+Roshea, I came to bring you back. 
+Why have you turned to the Alteans?
+We are Coyote's subordinates. 
+Open your eyes!
+You're being deceived! 
+
+ROSHE:
+You're wrong, Vyland. 
+The time I spent with the Alteans was
+short, but I know one thing for sure. 
+It's not as Coyote says.
+They're not evil people. 
+
+BIRAKU:
+Roshea... 
+
+ROSHE:
+Vyland, please.
+I don't want to fight all of you.
+Especially you, Vyland... 
+
+BIRAKU:
+............ 
+Well, Roshea...
+You were always the kindest
+out of us in the Wolfguard.. 
+You've always been able to tell
+which were the good guys,
+and which were the bad. 
+I can't fight you, Roshea.
+If you, our brother-in-arms,
+are this sure, then I believe you. 
+I am your ally from now on. 
+
+ROSHE:
+Vyland...! 
+
+
+MS019_TK2:
+*BIRAKU enters**ZAGARO enters*
+BIRAKU:
+Sedgar, hold on.
+It's me, Vyland. 
+
+ZAGARO:
+What's the meaning of this, Vyland?
+Don't tell me you've defected!? 
+
+BIRAKU:
+Listen, Sedgar.
+I--I don't know.
+What am I supposed to do? 
+I loved Coyote like a brother.
+All I wanted was to fight for him. 
+But...
+But he has changed for the worse.
+It's as though he's someone else now... 
+
+ZAGARO:
+...... 
+
+BIRAKU:
+I wanted to serve him, always.
+That's why I've been turning a blind eye. 
+I shut myself, trying to remember
+the Coyote who loved us so long ago. 
+It really hurt to face the truth.
+That Coyote's not who he used to be... 
+I just don't know anymore.
+Hey, Sedgar...
+What the hell am I supposed to do? 
+
+ZAGARO:
+Vyland... 
+I too... I feel the same way.
+I know he's gone insane, but I looked
+the other way and blocked my senses. 
+One day,
+he'll go back to being our Coyote...
+That's what I kept telling myself. 
+
+BIRAKU:
+Roshea has gone over to the Alteans.
+I cannot fight him. 
+Sedgar, you should come too.
+I don't know what's right anymore.
+But I don't want to fight you, either. 
+
+ZAGARO:
+Yes... 
+Even though Coyote's madness
+was clear to me, I did nothing.
+I have to make this right. 
+
+
+MS019_TK3:
+*ZAGARO enters**WOLF enters*
+ZAGARO:
+Wolf! Hold your fire! 
+
+WOLF:
+Sedgar! What are you doing?!
+So you've chosen to betray Coyote?! 
+
+ZAGARO:
+No, it's not like that!
+This is for Coyote's own good! 
+Something's wrong with Coyote.
+Even you must know that! 
+
+WOLF:
+That changes nothing!
+I will die at Coyote's side!
+I swore as much! 
+Though all of you might betray us.
+Though I might be alone.
+I will not abandon him! 
+
+ZAGARO:
+Even though you disobey his heart? 
+
+WOLF:
+What do you mean!? 
+
+ZAGARO:
+Wolf, do you remember what Coyote said
+to you, the day you became commander
+of the Wolfguard? 
+
+WOLF:
+......! 
+
+ZAGARO:
+"If I should wander from the path of the
+righteous, please... lead me back onto it."
+That's what he said. 
+
+WOLF:
+I should never have forgotten.
+The words of Coyote himself... 
+But, to tell me that time has come...
+That we must...
+That we must defeat Coyote... 
+
+ZAGARO:
+We have to remind Coyote of the day
+we swore allegiance to him. 
+No matter how painful it may be...
+That is our only recourse. 
+I never wanted to believe it
+would come to this... 
+
+WOLF:
+Enough, Sedgar! 
+For goodness sake...
+It would have been better
+had I died at Adria Pass... 
+I am the commander of the Wolfguard...
+The life that Coyote gave me...
+I will not waste it. 
+Even if that should lead to
+Coyote's death... 
+
+
+MS019_VIL1:
+*MARS enters**ROSHE enters*
+ROSHE:
+Prince Marth...
+It is I, Roshea of the Wolfguard. 
+I received King Aurelis's pardon
+and have been waiting for you. 
+I am truly sorry for the battle of the pass. 
+I realize that an apology means little,
+so I will now fight under your banner. 
+But... the other Wolfguard members
+have all sided with the Archanean army.
+I wonder if I could persuade them. 
+Vyland, at the least...
+Vyland might listen to what I have to say. 
+
+
+MS019_VIL1_B:
+*MARS enters**WOMAN1 enters*
+WOMAN1:
+Sir Roshea of the Wolfguard had always
+opposed the battle against Altea. 
+But, he...
+In the battle of the pass...
+He perished. 
+I don't hold it against you.
+That's just how war is... 
+Here, take this.
+All we want is for this war to end soon. 
+
+
+MS019_H1:
+*LADY enters*
+LADY:
+Lord Hardin was once a kind man.
+Then all of a sudden, it's as if
+he's a terrifying demon... 
+Ahem...
+If they 'ear me saying these things,
+it'll be off with my 'ead as well. 
+
+
+MS019_H2:
+*MAN1 enters*
+MAN1:
+The Paladin Midia is the pride of Archanea. 
+She's the daughter of Archanea's former
+supreme commander, Count Owen. 
+She couldn't bear to watch our suffering,
+so she stood up for us and rebelled. 
+Hey, you...
+Please, find a way to help Lady Midia. 
+
+
+MS019_H3:
+*WOMAN2 enters*
+WOMAN2:
+When Princess Nyna and Prince Hardin
+were married, I thought "peace at last".
+But now everything's gone insane. 
+Oh, God...
+What on earth are we supposed to do...? 
+
+
+MS019_H4:
+*OLDMAN enters*
+OLDMAN:
+Such a pity, what befell Lady Midia. 
+She'd just left the ranks and
+taken up with Astram, but now
+they've been torn apart again. 
+It's horrible, for that to
+happen to such a young woman.
+Can't you do something about it...? 
+
+
+MS019_H5:
+*MAN2 enters*
+MAN2:
+The Archanean army has changed.
+The soldiers you see now ain't nothin'
+but bloodthirsty cutthroats. 
+What's goin' to happen to this kingdom? 
+
+
+MS019_H6:
+*OLDWOMAN enters*
+OLDWOMAN:
+Sigh, these are dark days. 
+All those who oppose Emperor Hardin
+just wind up getting killed... 
+Our emperor's possessed by a demon... 
+
+
+MS019_BT_BIRAKU:
+*BIRAKU enters*
+BIRAKU:
+As long as we're around
+you shall not reach the palace.
+If you don't wish to die, go home! 
+
+
+MS019_BT_BOSS:
+*NERING enters*
+NERING:
+Gah... It's not possible...
+That we Archaneans could be defeated! 
+But, as long as I stand here, you
+shall not enter this palace! 
+
+
+MS019_BT_WOLF:
+*WOLF enters*
+WOLF:
+I am Wolf, the Wolfguard's commander.
+Your head is mine! 
+
+
+MS019_BT_ZAGARO:
+*ZAGARO enters*
+ZAGARO:
+You monsters...
+Why are you invading other nations?
+Are you so consumed by petty ambition?! 
+
+
+MS019_DIE_BIRAKU:
+*BIRAKU enters*
+BIRAKU:
+Coyote... 
+
+
+MS019_DIE_BOSS:
+*NERING enters*
+NERING:
+Long live the empire... guh... 
+
+
+MS019_DIE_WOLF:
+*WOLF enters*
+WOLF:
+Coyote... 
+
+
+MS019_DIE_ZAGARO:
+*ZAGARO enters*
+ZAGARO:
+Coyote... 
+
+
+MS019_ED1:
+*MARS enters**Y_BOHA enters*
+MARS:
+Bishop Boah!?
+You're hurt...!
+What on earth happened? 
+
+Y_BOHA:
+Ngh... this is terrible...
+House Archanea must truly be cursed. 
+As you know, two years ago...
+Hardin and Princess Nyna were wed. 
+In order to restore Archanea to glory,
+a king was needed. 
+There were but two suitable individuals:
+King Aurelis's younger brother, Duke Hardin,
+and you, Prince Marth of Altea... 
+Princess Nyna begged me to wait
+just a while longer, but once
+I insisted of its absolute urgency... 
+She said that it could not be you,
+for Princess Caeda would grieve.
+In the end, Hardin was our only choice... 
+
+MARS:
+Let me get this straight.
+I understand that Archanea
+could not be without a king. 
+But Princess Nyna, she already... 
+
+Y_BOHA:
+You speak of Sir Camus of Grust?
+The people must never know...
+'Twould be heresy. 
+The decision cost us dearly,
+but what choice did we have?
+It was for our country. 
+On the bright side, Hardin was happy. 
+In fact, the thought that he was to
+be Princess Nyna's husband pleased him
+greater than his ascension to the throne. 
+
+MARS:
+I know of his feelings. 
+I know that he would have given
+his life for Princess Nyna. 
+
+
+
+MS019_ED1_2:
+
+INSERTNAMEHERE:
+But sadly, Hardin soon realized that
+Princess Nyna did not reciprocate his love. 
+It pained him greatly...
+He shut himself into his room, drinking
+away his sorrows, and saw no one. 
+Spotting an opportune moment,
+as Hardin wallowed in heartbreak,
+Gharnef appeared. 
+The despairing emperor's heart was
+gripped by the Darksphere in an instant. 
+He completely changed as a
+person from then. 
+I've made a terrible mistake,
+out of my concern for this kingdom.
+Please forgive me, Prince Marth... 
+
+INSERTNAMEHERE:
+So that's how it is.
+...And what of Princess Nyna?
+How is she now? 
+
+INSERTNAMEHERE:
+Hardin handed Princess Nyna to Gharnef. 
+Gharnef said that he required the blood
+of noble-born clerics in order to resurrect
+the Shadow Dragon... 
+Prince Marth, my end is nigh.
+I shall give you my tome and staff. 
+Please save Princess Nyna. 
+Even if Archanea's destruction
+cannot be undone... 
+Make sure that she is safe... 
+
+

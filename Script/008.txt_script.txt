@@ -1,0 +1,510 @@
+MS008_OP0:
+
+
+MS008_OP1_PCF1:
+*MARS enters**KAIN enters*
+KAIN:
+Sire, you're safe! 
+*MARS leaves**MARS enters*
+MARS:
+I'm truly glad that you came back unharmed,
+Kain. 
+
+KAIN:
+Yeah, somehow I managed to shake off the
+enemy and escape here. 
+But the enemy is already approaching from
+the north. 
+*MARS leaves**MARS enters*
+MARS:
+Don't worry.
+We will crush them. 
+
+KAIN:
+No, not this time. 
+Hardin is being protected by a mysterious
+power: we can't lay a finger on him. 
+So even if we fight now, we haven't a
+chance of winning. 
+Please, head to the northwestern fortress.
+There's a boat across the river, which we
+can use to escape to the Khadein desert. 
+*KAIN leaves**JEIGUN enters*
+JEIGUN:
+Sire, the free company to the south will
+probably make their move soon.
+Indeed, now's not the time to fight. 
+For the time being, let's do as Kain suggests
+and make our escape.
+After that, we'll think of something... 
+
+MARS:
+I see...
+I don't like it, but we haven't a choice... 
+Everyone, hurry to the northwest fortress! 
+
+
+MS008_OP1_PCM1:
+*MARS enters**KAIN enters*
+KAIN:
+Sire, you're safe! 
+*MARS leaves**MARS enters*
+MARS:
+I'm truly glad that you came back unharmed,
+Kain. 
+
+KAIN:
+Yeah, somehow I managed to shake off the
+enemy and escape here. 
+But the enemy is already approaching from
+the north. 
+*MARS leaves**MARS enters*
+MARS:
+Don't worry.
+We will crush them. 
+
+KAIN:
+No, not this time. 
+Hardin is being protected by a mysterious
+power: we can't lay a finger on him. 
+So even if we fight now, we haven't a
+chance of winning. 
+Please, head to the northwestern fortress.
+There's a boat across the river, which we
+can use to escape to the Khadein desert. 
+*KAIN leaves**JEIGUN enters*
+JEIGUN:
+Sire, the free company to the south will
+probably make their move soon.
+Indeed, now's not the time to fight. 
+For the time being, let's do as Kain suggests
+and make our escape.
+After that, we'll think of something... 
+
+MARS:
+I see...
+I don't like it, but we haven't a choice... 
+Everyone, hurry to the northwest fortress! 
+
+
+MS008_BT_ASTRIA:
+*ASTRIA enters*
+ASTRIA:
+You traitors!
+I'll show you the might of the
+Miracle Sword!! 
+
+
+MS008_BT_BOSS:
+*JORJUE enters*
+JORJUE:
+You wouldn't have needed to die if you
+hadn't come so close, fools... 
+
+
+MS008_BT_HARDIN_E:
+*HARDIN enters*
+HARDIN:
+Rebel soldiers...
+Come to die, have you?
+I'll show you the terror of Gradius! 
+
+
+MS008_BT_HARDIN_E_MARS:
+*HARDIN enters*
+HARDIN:
+Prince Marth!
+I'll bury you with these very hands! 
+
+
+MS008_BT_HARDIN_E_PC_PCF1:
+*HARDIN enters*
+HARDIN:
+Who are you?
+Your face is unknown to me. 
+*PLAYER enters*PLAYER
+PLAYER:
+.
+I am Prince Marth's Royal Guard. 
+Emperor Hardin of Akaneia, the prince
+told me that you were once a trusted friend. 
+Why would you do something like this? 
+*HARDIN leaves**HARDIN enters*PLAYER
+HARDIN:
+, is it...?
+What does it matter to you?
+You will die here regardless. 
+
+
+MS008_BT_HARDIN_E_PC_PCM1:
+*HARDIN enters*
+HARDIN:
+Who are you?
+Your face is unknown to me. 
+*PLAYER enters*PLAYER
+PLAYER:
+.
+I am Prince Marth's Royal Guard. 
+Emperor Hardin of Akaneia, I never knew
+you in the past. 
+But I do know this: you are now the prince's
+enemy. 
+*HARDIN leaves**HARDIN enters*
+HARDIN:
+You may come, PLAYER.
+But no one may even scratch me. 
+You will soon know to fear...
+the power of the Dark Orb... 
+
+
+MS008_BT_ROJAR:
+*ROJAR enters*
+ROJAR:
+I don't want to fight you guys,
+but it's not as if I have a choice... 
+
+
+MS008_DIE_ASTRIA:
+*ASTRIA enters*
+ASTRIA:
+Midia... My love... 
+
+
+MS008_DIE_BOSS:
+*JORJUE enters*
+JORJUE:
+What fools... 
+
+
+MS008_DIE_ROJAR:
+*ROJAR enters*
+ROJAR:
+Ugh...
+I just wanted to meet her...
+once more... once more...... 
+
+
+MS008_EV3:
+*HARDIN enters*
+HARDIN:
+...Hasten the preparations of the troops
+within the fortress.
+I want Marth cornered like a rat... 
+
+
+MS008_EV2:
+*HARDIN enters*
+HARDIN:
+Heh heh heh... Prince, your struggle is in vain.
+But let us continue this game for a while. 
+Just know that you're fast running out of
+time. Soon, I will kill you myself... 
+
+
+MS008_EV1:
+*HARDIN enters**MARS enters*
+HARDIN:
+Heh heh heh...
+Prince Marth, it's been far too long. 
+
+MARS:
+Hardin...
+Why did you to attack our country?
+What would compel you to do such an act? 
+I... I can't believe this.
+Have you really changed this much? 
+
+HARDIN:
+Prince, I am the ruler of this continent and
+the Emperor of Akaneia. 
+I will show no quarter to anyone who opposes
+me. That includes you, Prince... 
+I must destroy this foul world...
+It is beyond salvation. 
+Traitors, playtime is over.
+You will all die here. 
+All soldiers, attack!
+Do not leave a single traitor standing! 
+
+
+MS008_H1:
+*MAN1 enters*
+MAN1:
+If ya ask me, archers'll always get along well
+with archers. 
+
+
+MS008_TK1:
+*GOHDON enters**JORJUE enters*
+GOHDON:
+Master! Please, wait! 
+
+JORJUE:
+Hm...? Gordon?
+Long time no see. 
+You seem to have gotten a little sturdier,
+but has your bow arm improved any? 
+
+GOHDON:
+Yes, at the moment, I...
+They call me Aritia's master of bows. 
+It's thanks to you, Master, that I've been
+able to progress this far. 
+
+JORJUE:
+And?
+Did you come here because you wanted to
+challenge your old teacher? 
+
+GOHDON:
+N-no!
+It's not like that... 
+...I might be asking the impossible, but I'd like
+you to fight alongside us again, sir. 
+
+JORJUE:
+...... 
+
+GOHDON:
+Please! Master!! 
+
+JORJUE:
+I pledged allegiance to Princess Nina,
+but as for Hardin... 
+I've had it with him.
+Taking other countries by force,
+executing "rebels" without reason. 
+The Akaneian army I see now is just a
+collection of hired thugs. 
+There's not even a shred of chivalry left. 
+To return the kingdom of Akaneia to what
+it was once before... 
+I must take it upon myself to turn my bow
+against my homeland. 
+Gordon.
+Convey that to Prince Marth. 
+
+GOHDON:
+Thank you, Master!! 
+
+
+MS008_TK2:
+*MARS enters**JORJUE enters*
+MARS:
+Wait, Sir George.
+I wish to speak with you. 
+
+JORJUE:
+Prince Marth... 
+Please, lower your weapon.
+I don't want to fight with you. 
+
+MARS:
+I know. As do I. 
+You taught Gordon how to use a bow.
+And you were an instructor to the junior
+knights of Aritia. 
+You've been a great boon to Aritia:
+I could never fight you, Sir George. 
+
+JORJUE:
+Prince... 
+I pledged allegiance to Princess Nina.
+But I can tolerate Hardin no longer... 
+Taking other countries by force,
+executing "rebels" without reason... 
+
+MARS:
+...Hardin was my friend.
+But he has changed beyond recognition. 
+If he is committing any sort of crime, then
+I shall stop him. George, please, help me. 
+
+JORJUE:
+...I understand, Prince. 
+To return the kingdom of Akaneia to what
+it was once before... 
+I will take it upon myself to turn my bow
+against my homeland. 
+
+
+MS008_TK3:
+*SHEEDA enters**ROJAR enters*
+SHEEDA:
+Good day, sir. 
+
+ROJAR:
+Ack!
+You, y-you're... Sheeda! 
+
+SHEEDA:
+Thank goodness, Roger.
+It's nice to see you again. 
+
+ROJAR:
+Uh...
+Uhm, you should know, I've no plans to
+betray Akaneia. 
+I was just thinking about that time when you
+asked me "do you believe in love?" 
+But I'm different from who I was back then. 
+
+SHEEDA:
+Really? But you still seem like a nice man.
+That's why I wanted to speak to you again. 
+
+ROJAR:
+Uhh... 
+
+SHEEDA:
+May I just ask, why are you fighting for
+Akaneia? 
+
+ROJAR:
+Be-because Akaneia has already taken
+over the world. Resistance is futile: no one
+can win. 
+My life is precious to me.
+If I side with whoever's stronger, then I'm
+guaranteed to live longer... 
+
+SHEEDA:
+I see. 
+
+ROJAR:
+A-are you disappointed with me? 
+
+SHEEDA:
+No, never.
+As I thought, you're fighting for what you
+believe in. 
+You're not different.
+You're the same, kind man as when I first
+met you and I'm happy for that. 
+
+ROJAR:
+Uhhh... 
+Wait- you're leaving?! 
+
+SHEEDA:
+Yes. I too must fight for what I believe in.
+But I'll make a request to Marth so that we
+don't have to fight you. 
+I'm happy that we could talk again, Roger. 
+
+ROJAR:
+W-wait! 
+...As I thought, you're still very kind.
+Dare I say, we don't have girls quite like
+you back in Grunia or Akaneia. 
+Um, perhaps...
+I suppose I could...
+Aw heck, I'm going with you again! 
+
+
+MS008_VIL1:
+*MARS enters**BANUTU enters*
+BANUTU:
+Oh look, if it isn't Prince Marth.
+Long time no see, Lad. 
+It seems so noisy out;
+I wonder what's happened? 
+
+MARS:
+Ah, Banutu!
+Fancy meeting you in a place like this.
+How is Chiki? 
+
+BANUTU:
+Oh, she is no longer by my side. 
+Lord Gato took her to the Ice Dragon
+Shrine again. 
+
+MARS:
+The Ice Dragons' Temple?
+Where's that?
+I've never heard of such a place... 
+
+BANUTU:
+It's in the icy lands, far north of here.
+But it's no place for humans. 
+Besides the hero Anri, no man has been
+there yet. 
+
+MARS:
+Anri?!
+Are you, perchance, referring to the
+"Realm of the Gods" from Anri's legends? 
+
+BANUTU:
+I'm not at liberty to say anything more.
+If you want to know more, you should ask
+Lord Gato. 
+Anyhow, I have a favor to ask of you.
+My precious firestone was stolen by thieves. 
+If you can get it back for me, I'll show you
+how it works. Thank you, Prince Marth. 
+
+
+MS008_ED1_END:
+
+
+MS008_ED1_END_BGMCONT:
+
+
+MS008_ED1_PCF1:
+*MARS enters**JEIGUN enters*
+JEIGUN:
+Please hurry, sire.
+The enemy is closing in on us. 
+
+MARS:
+But everyone is still fighting.
+I can't just leave them behind. 
+
+JEIGUN:
+Don't worry, they will all escape safely.
+We will all meet up at Khadein. Well, your
+highness, please get onboard the ship! 
+
+
+MS008_ED1_PCM1:
+*MARS enters**JEIGUN enters*
+JEIGUN:
+Please hurry, sire.
+The enemy is closing in on us. 
+
+MARS:
+But everyone is still fighting.
+I can't just leave them behind. 
+
+JEIGUN:
+Don't worry, they will all escape safely.
+We will all meet up at Khadein. Well, your
+highness, please get onboard the ship! 
+
+
+MS008_ED2_PCF1:
+*PLAYER enters*
+PLAYER:
+Return hat? 
+
+
+MS008_ED2_PCM1:
+*PLAYER enters*
+PLAYER:
+Return hat? 
+
+
+MS008_ED2_A:
+
+INSERTNAMEHERE:
+Yes. 
+
+
+MS008_ED2_B:
+
+INSERTNAMEHERE:
+No. 
+
+
