@@ -101,7 +101,8 @@ Samto, the gladiator from Knorda?[A][ClearBox][TargetLeft][FaceCommand=0x73]Yes,
 and you really helped me out.[A][ClearBox][FaceCommand=0x61]Even when everyone was making their
 escape, you stayed behind to distract
 the guards and ended up caught[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetLeft]I heard everything[Pause=3] from my friends.[A][ClearBox]How you were dragged out to the square[Pause=3]
-and whipped until you looked like a corpse.[A][ClearBox]How, by chance,[Pause=3] the young Princess Talis,
+and whipped until you looked like a corpse.[A][ClearBox]Even then, you didn't say anything
+about our whereabouts.[A][ClearBox]How, by chance,[Pause=3] the young Princess Talis,
 tears in her eyes, stood up for you and
 saved you.[A][ClearBox]And that's why you swore your blade
 to Talis.[A][ClearBox]Or rather[FreezeMouth]...[UnfreezeMouth] to the princess[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Enough[FreezeMouth]...[UnfreezeMouth][Pause=3] Say no more[FreezeMouth]![UnfreezeMouth][Pause=3]
@@ -166,11 +167,12 @@ MS006_ED1
 held captive in the castle.[A][ClearBox][TargetLeft][LoadPortrait=WENDEL][TargetRight][FaceCommand=0x73]Lord Wendel[FreezeMouth]![UnfreezeMouth][Pause=3] Thank goodness you're unharmed.
 When I heard you were taken from the
 village in Macedonia, I was really worried.[A][ClearBox][TargetLeft][FaceCommand=0x61]Lang wanted me to help him deal with the
-Grunia rebellion, so he took me here.[A][ClearBox][TargetRight]But, as the archbishop of Khadein, and with
+Grunian rebellion, so he took me here.[A][ClearBox][TargetRight]But, as the archbishop of Khadein, and with
 your power, you shouldn't need to fear Lang.[A][ClearBox][TargetLeft]I don't like using magic in battle. I
 already left the magic city, Khadein, in the
 care of two youths, Marich and Ellerean.[A][ClearBox]I left because I must fulfill a
-mission assigned to me by Archsage Gato.[A][ClearBox][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]A mission from Lord Gato?[A][ClearBox][TargetLeft]That's correct[FreezeMouth]...[UnfreezeMouth][A][ClearBox]You have seen the "Star Orb"[SpecialSymbol=0x96]
+mission assigned to me by Archsage Gato.[A][ClearBox][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]A mission from Lord Gato?
+So are you travelling the continent?[A][ClearBox][TargetLeft]That's correct[FreezeMouth]...[UnfreezeMouth][A][ClearBox]You have seen the "Star Orb"[SpecialSymbol=0x96]
 the holy orb with the twelve constellations
 etched on its surface.[A][ClearBox]In order to pierce Garnef's shadowy veil,
 Lord Gato created a sacred spell named
@@ -182,7 +184,8 @@ was so severe that it shattered into twelve
 shards, which scattered into the sky.[A][ClearBox]Lord Gato told me that this world has long
 been guarded by five orbs of mysterious
 arcane power,[A][ClearBox]and that if even one of them is lost,
-the world will fall into irreparable ruin.[A][ClearBox]By any means possible, we must gather the
+the world will fall into irreparable ruin.[A][ClearBox]And right now, the Star Orb has been broken.
+Therefore, even now the world is decaying.[A][ClearBox]By any means possible, we must gather the
 twelve star shards and restore the
 Star Orb. Unfortunately, I was captured[A][ClearBox]and the fragments that I laboriously collected
 were taken by the imperial soldiers.
@@ -191,14 +194,18 @@ mission just by myself. Can you aid
 me in my quest?[A][ClearBox][TargetRight]Is[FreezeMouth]...[UnfreezeMouth][Pause=3] Is this a joke[FreezeMouth]?[UnfreezeMouth]
 That the world could just end...
 This is all very hard to take in.[A][ClearBox]But aren't these the star shards?[A][ClearBox]If so, we already have a few.[A][ClearBox]After we retake Aritia, we'd be glad to help
-you find the remaining shards and orbs.[A][ClearBox][TargetLeft]Of course[FreezeMouth]...[UnfreezeMouth][Pause=3]
+you find the remaining shards and orbs.[A][ClearBox]Can you wait until then?[A][ClearBox][TargetLeft]Of course[FreezeMouth]...[UnfreezeMouth][Pause=3]
 Your country was only just invaded by the
-Empire[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x73]I understand, Prince[FreezeMouth]...[UnfreezeMouth][Pause=3]
-I too shall fight to restore Aritia, then.[A][ClearBox]Thinking about it, my meeting with you
+Empire[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I am deeply sorry.
+My request was a little selfish.[A][ClearBox][FaceCommand=0x73]I understand, Prince[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I too shall fight to restore Aritia, then.[A][ClearBox][TargetRight]Huh?
+Bishop, can you really help us fight?
+What about Gato's mission...?[A][ClearBox][TargetLeft]Thinking about it, my meeting with you
 is like a sign from Lord Gato himself.[A][ClearBox]In that case, I shall surrender myself to fate.[A][ClearBox][FaceCommand=0x61]But, please, let's stop by the Raman Temple.[A][ClearBox]We may be able to find some star shards in
 the ancient temple.[A][ClearBox][TargetRight][FaceCommand=0x73]Understood.[Pause=3]
 If it's the Raman Temple, we can go there
-on our way to Aritia[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][X]
+on our way to Aritia[FreezeMouth]![UnfreezeMouth][A][ClearBox]We'll head there immediately!![A][ClearBox]
+[Fade=40][X]
 
 MS006_ED1_ADD
 [X]

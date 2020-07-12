@@ -9,9 +9,9 @@ Aritians are of no consequence to us.
 [A][ClearBox][TargetRight]But,[Pause=3] Sir George's archers left to quell the
 rebellion.[Pause=3] Can we win with just our troops?[A][ClearBox][TargetLeft]Why didn't you tell me earlier[FreezeMouth]?[UnfreezeMouth][Pause=3]
 Call George back to the castle this instant![A][ClearBox]While you're there, find that hired sword,
-Navarre, and bring him here.[A][ClearBox]General Toras![Pause=3] I'm heading inside.[Pause=3]
-You will defend this location till your last
-breath.[A][ClearBox]Do NOT let the enemy get close.[Pause=3]
+Navarre, and bring him here.[A][ClearBox]General Toras![Pause=3] I'm heading inside. I must
+prepare the defences there.[Pause=3] You will defend this
+location till your last breath.[A][ClearBox]Do NOT let the enemy get close.[Pause=3]
 Do I make myself clear[FreezeMouth]?![UnfreezeMouth][A][ClearBox][X]
 
 MS005_EV0
@@ -105,7 +105,7 @@ Please, defeat General Lang![A][ClearBox]As long as that man lives,[Pause=3]
 peace is but a fleeting dream.[A][ClearBox][X]
 
 MS005_VIL1
-[LoadBackground=BBG26][TargetCenter][LoadPortrait=VILHEAD]Ohh,[Pause=3] if isn't Prince Marth![Pause=3]
+[LoadBackground=BBG26][TargetCenter][LoadPortrait=VILHEAD]Ohh,[Pause=3] if isn't Prince Marth![Pause=3] It's been a while.
 I wonder how my granddaughter Rena is
 faring, hm?[A][ClearBox]What,[Pause=3] you don't know?[Pause=3]
 I see[FreezeMouth]...[UnfreezeMouth] [Pause=3]Th-then[FreezeMouth]...[UnfreezeMouth][Pause=3]
@@ -147,7 +147,8 @@ MS005_ED1_PCF1
 [SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG04][TargetLeft][LoadPortrait=JEIGUN]Sire,[Pause=3] we've finally seized control of Grunia.[A][ClearBox]However, a number of enemies are
 concealed within the castle.[Pause=3]
 Our job here is far from over.[A][ClearBox][TargetRight]Yes,[Pause=3] I know.[A][ClearBox]Lang must be stopped[Pause=3] here and now.[Pause=3]
-Or else we forsake the people of Grunia.[A][ClearBox][TargetLeft]This is Lang we are talking about.[Pause=3]
+Or else we forsake the people of Grunia.[A][ClearBox][TargetLeft]That's right.
+He must be defeated at all costs...[A][ClearBox]But this is Lang we are talking about.[Pause=3]
 We don't know what he's planning.[A][ClearBox]We must take extra caution when
 fighting inside the castle[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
 
@@ -155,6 +156,7 @@ MS005_ED1_PCM1
 [SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG04][TargetLeft][LoadPortrait=JEIGUN]Sire,[Pause=3] we've finally seized control of Grunia.[A][ClearBox]However, a number of enemies are
 concealed within the castle.[Pause=3]
 Our job here is far from over.[A][ClearBox][TargetRight]Yes,[Pause=3] I know.[A][ClearBox]Lang must be stopped[Pause=3] here and now.[Pause=3]
-Or else we forsake the people of Grunia.[A][ClearBox][TargetLeft]This is Lang we are talking about.[Pause=3]
+Or else we forsake the people of Grunia.[A][ClearBox][TargetLeft]That's right.
+He must be defeated at all costs...[A][ClearBox]But this is Lang we are talking about.[Pause=3]
 We don't know what he's planning.[A][ClearBox]We must take extra caution when
 fighting inside the castle[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]

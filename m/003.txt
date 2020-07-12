@@ -145,7 +145,10 @@ MS003_DIE_RYUKE
 As I expected[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
 
 MS003_ED1
-[TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG11]Sire, the rebels have fled the castle,[Pause=3]
+[TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=JEIGUN][LoadBackground=BBG11]
+[TargetRight]Jeigan, how is the situation at the castle?
+Have they found Minerva yet?[A][ClearBox]
+[TargetLeft]Sire, the rebels have fled the castle,[Pause=3]
 but I regret to inform you that Princess
 Minerva was nowhere to be found.[A][ClearBox][TargetRight]What could have happened?[Pause=3]
 She was supposed to be held inside the
@@ -197,8 +200,10 @@ General Lang, I will not follow your orders.[A][ClearBox]We're going back to our
 
 MS003_ED2_02_PCF1
 [TargetLeft][LoadPortrait=RANG][FaceCommand=0x61]What[FreezeMouth]![UnfreezeMouth] Do you mean to defy my orders[FreezeMouth]?![UnfreezeMouth][Pause=3][A][ClearBox]I see[FreezeMouth]...[UnfreezeMouth] I see.
-As I suspected, it was YOUR doing.[A][ClearBox]The person who kidnapped Grunia's prince
-and princess was the mercenary, Oguma.[Pause=3]
+As I suspected, it was YOUR doing.[A][ClearBox]
+[TargetRight]What do you mean?[A][ClearBox]
+[TargetLeft]The person who kidnapped Grunia's prince
+and princess was the Talisian mercenary Oguma,[A][ClearBox]who once served under you...[Pause=3]
 On your orders, no less[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]I didn't know of this.[Pause=3]
 But if I had the choice, I would have done
 exactly as you suggested.[A][ClearBox]Back at Grunia, even though they were meant
@@ -212,7 +217,8 @@ Nina and inform them of your crimes.[A][ClearBox]Forgive me, Jeigan.[Pause=3]
 But I cannot stand for this any longer.[A][ClearBox]I want to find Oguma, so we can rescue
 those children.[A][ClearBox][TargetRight][LoadPortrait=JEIGUN]I understand.[Pause=3]
 You have endured well until now.[A][ClearBox]I have also reached my limit.
-Lang, my liege might forgive your frequent
+Lang, you have constantly mocked our prince
+of Aritia with your actions.[A][ClearBox]My liege might forgive your frequent
 rudeness to him,[Pause=3] but I will not.[A][ClearBox]Come, draw your sword.[Pause=3]
 Even though I, Jeigan, am old and senile,
 I will not lose to the likes of you.[A][ClearBox][TargetLeft]Wh[FreezeMouth]...[UnfreezeMouth] what did you say[FreezeMouth]?![UnfreezeMouth][Pause=3]
@@ -221,8 +227,10 @@ your puny little Aritia[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
 
 MS003_ED2_02_PCM1
 [TargetLeft][LoadPortrait=RANG][FaceCommand=0x61]What[FreezeMouth]![UnfreezeMouth] Do you mean to defy my orders[FreezeMouth]?![UnfreezeMouth][Pause=3][A][ClearBox]I see[FreezeMouth]...[UnfreezeMouth] I see.
-As I suspected, it was YOUR doing.[A][ClearBox]The person who kidnapped Grunia's prince
-and princess was the mercenary, Oguma.[Pause=3]
+As I suspected, it was YOUR doing.[A][ClearBox]
+[TargetRight]What do you mean?[A][ClearBox]
+[TargetLeft]The person who kidnapped Grunia's prince
+and princess was the Talisian mercenary Oguma,[A][ClearBox]who once served under you...[Pause=3]
 On your orders, no less[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]I didn't know of this.[Pause=3]
 But if I had the choice, I would have done
 exactly as you suggested.[A][ClearBox]Back at Grunia, even though they were meant
@@ -236,7 +244,8 @@ Nina and inform them of your crimes.[A][ClearBox]Forgive me, Jeigan.[Pause=3]
 But I cannot stand for this any longer.[A][ClearBox]I want to find Oguma, so we can rescue
 those children.[A][ClearBox][TargetRight][LoadPortrait=JEIGUN]I understand.[Pause=3]
 You have endured well until now.[A][ClearBox]I have also reached my limit.
-Lang, my liege might forgive your frequent
+Lang, you have constantly mocked our prince
+of Aritia with your actions.[A][ClearBox]My liege might forgive your frequent
 rudeness to him,[Pause=3] but I will not.[A][ClearBox]Come, draw your sword.[Pause=3]
 Even though I, Jeigan, am old and senile,
 I will not lose to the likes of you.[A][ClearBox][TargetLeft]Wh[FreezeMouth]...[UnfreezeMouth] what did you say[FreezeMouth]?![UnfreezeMouth][Pause=3]
@@ -254,10 +263,11 @@ hog all the glory just yet.[A][ClearBox][FaceCommand=0x61]Still, I'll admit it w
 to contest with Lang, despite my persuading
 you to remain calm. Even if he did[A]
 push my lord at every turn, I was careless.
-What is our next plan of action?[A][ClearBox][TargetLeft][FaceCommand=0x61]According to Lang, Oguma is on his way to
+What is our next plan of action?[A][ClearBox][TargetLeft][FaceCommand=0x61]Hmm... Well, we should go and find Oguma.
+According to Lang, Oguma is on his way to
 Macedonia.[A][ClearBox]He probably intends to visit the village where
 Lord Wendel resides.[A][ClearBox]Even though I'm worried about Minerva,
-there's nothing we can do right now.[A][ClearBox][TargetRight][LoadPortrait=JEIGUN]But, I worry about Lang[FreezeMouth]...[UnfreezeMouth][Pause=3]
+there's nothing we can do right now.[A][ClearBox]We should pay Wendel as visit as well.[TargetRight][LoadPortrait=JEIGUN]But, I worry about Lang[FreezeMouth]...[UnfreezeMouth][Pause=3]
 I pray that nothing bad shall happen[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
 
 MS003_ED3_PCM1

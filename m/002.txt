@@ -104,8 +104,9 @@ What a pleasant surprise meeting you here.[A][ClearBox][FaceCommand=0x61]I despe
 so I set out to find you.[A][ClearBox]But the Macedonian soldiers found me
 suspicious and they dragged me to this
 fortress[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Is that so?
-I'm glad you're safe.[Pause=3]
-But, why were you looking for me?[A][ClearBox]Shouldn't you be by Princess Nina's side?[A][ClearBox][TargetLeft][FaceCommand=0x61]I was requested by Princess Nina to deliver
+I'm glad you're safe.[Pause=3]Coming here by yourself
+was a dangerous thing to do.[A][ClearBox]But, why were you looking for me?
+Shouldn't you be by Princess Nina's side?[A][ClearBox][TargetLeft][FaceCommand=0x61]I was requested by Princess Nina to deliver
 you this.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
 
 MS002_ED1_PCM1
@@ -132,7 +133,8 @@ giving me the "Champion's Proof"[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][Ta
 Princess Nina didn't explain why,
 just that I had to give it to you[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I remember her eyes seemed so sad[FreezeMouth]...[UnfreezeMouth]
 I think she may have been crying[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Princess Nina crying[FreezeMouth]?![UnfreezeMouth][Pause=3]
-What on earth has been happening[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]Linda, after this battle ends,
+What on earth has been happening[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]Linda, regardless, it's dangerous for
+you to go alone. After this battle ends,
 I will go see Princess Nina.[A][ClearBox]Until then, I want you to remain with us.[A][ClearBox][TargetLeft][FaceCommand=0x73]Yes,[Pause=3] Prince Marth[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
 
 MS002_ED1_02_PCM1
@@ -145,5 +147,6 @@ giving me the "Champion's Proof"[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][Ta
 Princess Nina didn't explain why,
 just that I had to give it to you[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I remember her eyes seemed so sad[FreezeMouth]...[UnfreezeMouth]
 I think she may have been crying[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Princess Nina crying[FreezeMouth]?![UnfreezeMouth][Pause=3]
-What on earth has been happening[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]Linda, after this battle ends,
+What on earth has been happening[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]Linda, regardless, it's dangerous for
+you to go alone. After this battle ends,
 I will go see Princess Nina.[A][ClearBox]Until then, I want you to remain with us.[A][ClearBox][TargetLeft][FaceCommand=0x73]Yes,[Pause=3] Prince Marth[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]

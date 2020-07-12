@@ -55,7 +55,8 @@ But I do know that, as things stand,
 you won't escape with them.[A][ClearBox]As I understand it, the Aritian army should
 arrive here, provided you reach the
 southern village.[A][ClearBox]Please, allow me to distract the bandits,
-while you make your escape to safety.[A][ClearBox][TargetRight]I see. So Prince Marth is here, eh?[Pause=3]
+while you make your escape to safety.[A][ClearBox][TargetRight]I see. The Aritian army?
+So Prince Marth is here, eh?[Pause=3]
 Got it, thanks.[Pause=3][A][ClearBox]I've got to ask though. 
 Why help a group of complete strangers like
 us?[A][ClearBox][TargetLeft]I want to save the children.[Pause=3]
@@ -105,7 +106,7 @@ MS004_ED_SIRIUS
 
 MS004_ED1_PCF1
 [TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=BBG40][TargetLeft]Marth[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetRight]Sheeda[FreezeMouth]?[UnfreezeMouth]
-Did something happen?[Pause=3]
+Did something happen to Aritia?[Pause=3]
 Why are you here[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]Marth[FreezeMouth]...[UnfreezeMouth][Pause=3]
 Aritia...[UnfreezeMouth][Pause=3] Aritia was attacked by the imperial
 army.[A][ClearBox]The Akaneian League... Gra and Orleans
@@ -151,7 +152,7 @@ reclaim our homeland![A][ClearBox][Fade=40][Unknown0x4=F][X]
 
 MS004_ED1_PCM1
 [TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=SHEEDA][LoadBackground=BBG40][TargetLeft]Marth[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetRight]Sheeda[FreezeMouth]?[UnfreezeMouth]
-Did something happen?[Pause=3]
+Did something happen to Aritia?[Pause=3]
 Why are you here[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]Marth[FreezeMouth]...[UnfreezeMouth][Pause=3]
 Aritia...[UnfreezeMouth][Pause=3] Aritia was attacked by the imperial
 army.[A][ClearBox]The Akaneian League... Gra and Orleans
@@ -162,7 +163,7 @@ Aritia is[FreezeMouth]...[UnfreezeMouth] Jeigan, what's going on?[A][ClearBox][T
 That which I feared the most has come to
 pass.[A][ClearBox]Emperor Hardin likely heard Lang's story, 
 and had us branded traitors.[A][ClearBox]Your highness, please forgive me.
-It is my fault that this has happened.[TargetRight]I refuse to believe it.[Pause=3]
+It is my fault that this has happened.[A][ClearBox][TargetRight]I refuse to believe it.[Pause=3]
 Hardin would never attack Aritia![A][ClearBox]You're telling me that he believed Lang and
 truly thought that I wished to instigate a
 rebellion? [Pause=3]Never![A][ClearBox][TargetLeft]No, I agree with you, sire.[Pause=3]
@@ -182,7 +183,7 @@ I won't accept it...[A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]Your highness,
 been attacked by Akaneia. Not only that,
 but we were ambushed without prior warning.[A][ClearBox]That, to us knights, is the most
 dishonourable action one could take.
-In that case, we have no choice but to fight[A][ClearBox]back with our full strength.[A][ClearBox][TargetRight]Hardin[FreezeMouth]...[UnfreezeMouth] why?[A][ClearBox]Sire[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=SHEEDA][TargetLeft]Princess Sheeda, what of the others?[Pause=3]
+In that case, we have no choice but to fight[A][ClearBox]back with our full strength.[A][ClearBox][TargetRight]Hardin[FreezeMouth]...[UnfreezeMouth] why?[A][ClearBox][TargetLeft]Sire[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=SHEEDA][TargetLeft]Princess Sheeda, what of the others?[Pause=3]
 Is Princess Ellis safe?[A][ClearBox][TargetRight][EyeCommand=ec]Ellis, she[FreezeMouth]...[UnfreezeMouth]
 She gave herself up in order to let me
 escape with this message.[A][ClearBox]The others... I don't know...
