@@ -80,7 +80,7 @@ you have lost something far more precious[FreezeMouth]...[UnfreezeMouth][A][Clea
 MSGED_24_ED1_2_D
 [TargetLeft]Marth, I realize this victory
 is bittersweet at best to you.[A][ClearBox]Having lost the one you loved,
-you must now live on alone.[A][ClearBox]I'm deep sorry, Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox]In exchange for this world's future,
+you must now live on alone.[A][ClearBox]I'm deeply sorry, Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox]In exchange for this world's future,
 you have lost something far more precious[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
 
 MSGED_24_ED2
