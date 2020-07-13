@@ -111,8 +111,8 @@ up like Grunia[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
 MS003_TK1
 [TargetRight][LoadPortrait=JURIAN][TargetLeft][LoadPortrait=MATIS][LoadBackground=][TargetRight]Hey[FreezeMouth]![UnfreezeMouth] Cut it out.[Pause=3]
 Why must you always insist on pointing your
-sword at us?[A][ClearBox]I pity Rena for having to put up your
-stupidity.[A][ClearBox][TargetLeft]Oh, it's you, Julian.[Pause=3]
+sword at us?[A][ClearBox]I pity Rena for having to put up with
+your stupidity.[A][ClearBox][TargetLeft]Oh, it's you, Julian.[Pause=3]
 Are you still trying to worm your way into
 Rena's good books?[A][ClearBox]No way, I won't hand my cute lil' sister to a
 thieving rat like you.[A][ClearBox][TargetRight][EyeCommand=ec]You can relax[FreezeMouth]...[UnfreezeMouth][Pause=3]
@@ -167,7 +167,7 @@ kidnapped.[A][ClearBox]The perpetrator fled to Macedonia, it seems.
 Prince Marth, you are to capture him and
 return the children to me[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Really, those children...
 They're safe... That's great.
-General Lang, I will not follow your orders.[A][ClearBox]We're going back to our own country.
+General Lang, I will not follow your orders.[A][ClearBox]We're going back to our own country.[A][ClearBox]
 [FaceCommand=0x40][FaceCommand=0x68][X]
 
 MS003_ED2_PCM1
@@ -181,7 +181,7 @@ kidnapped.[A][ClearBox]The perpetrator fled to Macedonia, it seems.
 Prince Marth, you are to capture him and
 return the children to me[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Really, those children...
 They're safe... That's great.
-General Lang, I will not follow your orders.[A][ClearBox]We're going back to our own country.
+General Lang, I will not follow your orders.[A][ClearBox]We're going back to our own country.[A][ClearBox]
 [FaceCommand=0x40][FaceCommand=0x68][X]
 
 MS003_ED2
@@ -261,8 +261,8 @@ age?[A][ClearBox]Bwahaha[FreezeMouth]...[UnfreezeMouth][Pause=3]
 I'm not about to let youngsters like you
 hog all the glory just yet.[A][ClearBox][FaceCommand=0x61]Still, I'll admit it was somewhat foolish
 to contest with Lang, despite my persuading
-you to remain calm. Even if he did[A]
-push my lord at every turn, I was careless.
+you to remain calm.[A][ClearBox]Even if he did push my lord at every turn,
+I was careless.
 What is our next plan of action?[A][ClearBox][TargetLeft][FaceCommand=0x61]Hmm... Well, we should go and find Oguma.
 According to Lang, Oguma is on his way to
 Macedonia.[A][ClearBox]He probably intends to visit the village where
@@ -279,12 +279,13 @@ age?[A][ClearBox]Bwahaha[FreezeMouth]...[UnfreezeMouth][Pause=3]
 I'm not about to let youngsters like you
 hog all the glory just yet.[A][ClearBox][FaceCommand=0x61]Still, I'll admit it was somewhat foolish
 to contest with Lang, despite my persuading
-you to remain calm. Even if he did[A]
-push my lord at every turn, I was careless.
-What is our next plan of action?[A][ClearBox][TargetLeft][FaceCommand=0x61]According to Lang, Oguma is on his way to
+you to remain calm.[A][ClearBox]Even if he did push my lord at every turn,
+I was careless.
+What is our next plan of action?[A][ClearBox][TargetLeft][FaceCommand=0x61]Hmm... Well, we should go and find Oguma.
+According to Lang, Oguma is on his way to
 Macedonia.[A][ClearBox]He probably intends to visit the village where
 Lord Wendel resides.[A][ClearBox]Even though I'm worried about Minerva,
-there's nothing we can do right now.[A][ClearBox][TargetRight][LoadPortrait=JEIGUN]But, I worry about Lang[FreezeMouth]...[UnfreezeMouth][Pause=3]
+there's nothing we can do right now.[A][ClearBox]We should pay Wendel as visit as well.[TargetRight][LoadPortrait=JEIGUN]But, I worry about Lang[FreezeMouth]...[UnfreezeMouth][Pause=3]
 I pray that nothing bad shall happen[FreezeMouth]...[UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
 
 MS003_ED4

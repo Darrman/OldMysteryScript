@@ -120,7 +120,7 @@ Is everyone alright?[A][ClearBox][TargetLeft]There's no need for concern, sire.[
 Everybody has eagerly awaited this day.[A][ClearBox][TargetRight]Yet, because of Akaneia's actions,
 so many innocent lives have been lost.[A][ClearBox]How can I face them[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]I've caused them great sorrow.
 Because I was too weak[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Was I presumptuous in believing
-I could protect my homeland?[A][ClearBox][TargetLeft]No, your highness, you're wrong![A}[ClearBox]You have a gentle heart, so that is
+I could protect my homeland?[A][ClearBox][TargetLeft]No, your highness, you're wrong![A][ClearBox]You have a gentle heart, so that is
 why no matter what hardships we face,
 we can endure them.[A][ClearBox]We believe in you, so that
 is why we follow you.[A][ClearBox]Your highness, please raise

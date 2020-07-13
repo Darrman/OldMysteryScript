@@ -25,12 +25,12 @@ my sister and the others[FreezeMouth]...[UnfreezeMouth]
 I have a dreadful feeling about this.[A][ClearBox][X]
 
 MS021_EV1_PCF1
-[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG34][TargetLeft][LoadPortrait=HYMIR]There you are, Marth[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]You're[FreezeMouth]...[UnfreezeMouth]Ymir[FreezeMouth]![UnfreezeMouth][A][ClearBox]Yeah, the name's Ymir.[Pause=3]
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG34][TargetLeft][LoadPortrait=HYMIR]There you are, Marth[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]You're[FreezeMouth]...[UnfreezeMouth]Ymir[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Yeah, the name's Ymir.[Pause=3]
 I heard you were fightin' here and
 figured I'd come along too.[A][ClearBox][X]
 
 MS021_EV1_PCM1
-[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG34][TargetLeft][LoadPortrait=HYMIR]There you are, Marth[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]You're[FreezeMouth]...[UnfreezeMouth]Ymir[FreezeMouth]![UnfreezeMouth][A][ClearBox]Yeah, the name's Ymir.[Pause=3]
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG34][TargetLeft][LoadPortrait=HYMIR]There you are, Marth[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]You're[FreezeMouth]...[UnfreezeMouth]Ymir[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Yeah, the name's Ymir.[Pause=3]
 I heard you were fightin' here and
 figured I'd come along too.[A][ClearBox][X]
 
@@ -82,8 +82,7 @@ Where is he now?[A][ClearBox][TargetLeft]At the Dragon's Altar[FreezeMouth]...[U
 Somebody of my caliber[FreezeMouth]...[UnfreezeMouth]
 would fall foul[FreezeMouth]...[UnfreezeMouth] to Garnef?[A][ClearBox][FaceCommand=0x61][EyeCommand=ed]Marth[FreezeMouth]...[UnfreezeMouth] Please[FreezeMouth]...[UnfreezeMouth]
 I am not long for this world.
-If Minerva is still alive...[A][ClearBox]
-Tell her[FreezeMouth]...[UnfreezeMouth]
+If Minerva is still alive...[A][ClearBox]Tell her[FreezeMouth]...[UnfreezeMouth]
 to save[FreezeMouth]...[UnfreezeMouth] Maria[FreezeMouth]...[UnfreezeMouth]
 in my place[FreezeMouth]...[UnfreezeMouth] please[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Misheil[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Marth[FreezeMouth]...[UnfreezeMouth][Pause=3]
 [EyeCommand=ec]I leave Maria to you[FreezeMouth]...[UnfreezeMouth] ngh...[A][ClearBox][X]
@@ -92,8 +91,8 @@ MS021_ED1
 [TargetRight][LoadPortrait=MARS][LoadBackground=BBG69][TargetRight]So this is the Dragon's Altar.
 The place where divine dragon Narga
 banished the earth dragons[FreezeMouth]...[UnfreezeMouth][A][ClearBox]But, wasn't Mediuth the guardian of the altar?[A][ClearBox]
-[TargetLeft][LoadPortrait=GATO]Indeed.[Pause=3] Mediuth could not tolerate the human race's
-atrocities against the Mamkutes.[A][ClearBox]Thus, he gathered the surviving dragonkin,
+[TargetLeft][LoadPortrait=GATO]Indeed.[Pause=3] Mediuth could not tolerate the human
+race's atrocities against the Mamkutes.[A][ClearBox]Thus, he gathered the surviving dragonkin,
 forming the Durhuan Empire.[A][ClearBox]All to obliterate mankind.[A][ClearBox]He was vanquished by Anri once and
 then defeated a second time by you.[A][ClearBox]However earth dragons boast tremendous
 life force, and cannot be completely

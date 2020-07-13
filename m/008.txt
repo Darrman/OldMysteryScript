@@ -96,7 +96,7 @@ time.[Pause=3] Soon, I will kill you myself[FreezeMouth]...[UnfreezeMouth][A][Cl
 MS008_EV1
 [TargetRight][LoadPortrait=HARDIN][LoadBackground=BBG16][TargetLeft][LoadPortrait=MARS][TargetRight][FaceCommand=0x73]Heh heh heh[FreezeMouth]...[UnfreezeMouth]
 Prince Marth, it's been far too long.[A][ClearBox][TargetLeft][FaceCommand=0x61]Hardin[FreezeMouth]...[UnfreezeMouth]
-Why did you to attack our country?[Pause=3]
+Why did you attack our country?[Pause=3]
 What would compel you to do such an act?[A][ClearBox]I... I can't believe this.[Pause=3]
 Have you really changed this much?[A][ClearBox][TargetRight][FaceCommand=0x61]Prince,[Pause=3] I am the ruler of this continent and
 the Emperor of Akaneia.[A][ClearBox]I will show no quarter to anyone who opposes
@@ -170,8 +170,8 @@ MS008_VIL1
 Long time no see, lad.[A][ClearBox]It seems so noisy out;
 I wonder what's happened?[A][ClearBox][TargetRight][FaceCommand=0x73]Ah, Banutu[FreezeMouth]![UnfreezeMouth][Pause=3]
 Fancy meeting you in a place like this.
-How is Chiki?[A][ClearBox][TargetLeft]Oh, she is no longer by my side.[A][ClearBox]Lord Gato took her to the Ice Dragon
-Shrine again.[A][ClearBox][TargetRight][FaceCommand=0x61]The Ice Dragons' Temple?[Pause=3]
+How is Chiki?[A][ClearBox][TargetLeft]Oh, she is no longer by my side.[A][ClearBox]Lord Gato took her to the Ice Dragons'
+Temple again.[A][ClearBox][TargetRight][FaceCommand=0x61]The Ice Dragons' Temple?[Pause=3]
 Where's that?[Pause=3]
 I've never heard of such a place[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x61]It's in the icy lands, far north of here.[Pause=3]
 But it's no place for humans.[A][ClearBox]Besides the hero Anri, no man has been

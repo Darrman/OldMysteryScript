@@ -19,8 +19,7 @@ Release them at once[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][FaceC
 of being sacrifices for the Dark Dragon's
 resurrection. [Pause=3]You will never see them again.[A][ClearBox]Emperor Mediuth will soon be reborn
 in his true and darkest form,[Pause=3]
-requiring the sisters as live sacrifices.[A][ClearBox]
-And they will usher in a new era.[A][ClearBox]'Tis a pity. Their souls couldn't bear
+requiring the sisters as live sacrifices.[A][ClearBox]And they will usher in a new era.[A][ClearBox]'Tis a pity. Their souls couldn't bear
 the suffering and shattered into pieces[FreezeMouth]...[UnfreezeMouth][Pause=3]
 Even I am powerless to help them.[A][ClearBox]Shame, really. I have them to thank for
 the Dark Dragon's awakening.[Pause=3] Not even the

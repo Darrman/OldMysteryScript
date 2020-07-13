@@ -134,7 +134,7 @@ and enter Pales from Adria Peak?[A][ClearBox][TargetLeft]But the steep mountains
 dangerous for an army of our size.[A][ClearBox][TargetRight]I am prepared for the danger.[Pause=3]
 We managed to conquer the same perilous
 road that Anri walked. Compared to that[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Jeigan.[Pause=3]
-We can overcome this challenge.[Pause=3][TargetLeft]...That's a fair point.
+We can overcome this challenge.[Pause=3][A][ClearBox][TargetLeft]...That's a fair point.
 If we can cross it, we can attack
 the enemy from the rear.[A][ClearBox]Order the advance[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
 
@@ -148,7 +148,7 @@ and enter Pales from Adria Peak?[A][ClearBox][TargetLeft]But the steep mountains
 dangerous for an army of our size.[A][ClearBox][TargetRight]I am prepared for the danger.[Pause=3]
 We managed to conquer the same perilous
 road that Anri walked. Compared to that[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Jeigan.[Pause=3]
-We can overcome this challenge.[Pause=3][TargetLeft]...That's a fair point.
+We can overcome this challenge.[Pause=3][A][ClearBox][TargetLeft]...That's a fair point.
 If we can cross it, we can attack
 the enemy from the rear.[A][ClearBox]Order the advance[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
 

@@ -220,7 +220,7 @@ he would be so happy.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
 MS019_ED1_2
 [TargetLeft]Mmm... Of course we kept that a secret,
 and we also persuaded Nina to hide it
-as best as she could.[A}[ClearBox]But, Lord Hardin was a very sensitive man.[A][ClearBox]He soon realized that
+as best as she could.[A][ClearBox]But, Lord Hardin was a very sensitive man.[A][ClearBox]He soon realized that
 Princess Nina did not reciprocate his love.[A][ClearBox]It pained him greatly[FreezeMouth]...[UnfreezeMouth][Pause=3]
 He shut himself into his room, drinking
 away his sorrows, and saw no one.[A][ClearBox]Spotting an opportune moment,

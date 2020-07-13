@@ -104,7 +104,7 @@ What a pleasant surprise meeting you here.[A][ClearBox][FaceCommand=0x61]I despe
 so I set out to find you.[A][ClearBox]But the Macedonian soldiers found me
 suspicious and they dragged me to this
 fortress[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x73]Is that so?
-I'm glad you're safe.[Pause=3]Coming here by yourself
+I'm glad you're safe.[Pause=3] Coming here by yourself
 was a dangerous thing to do.[A][ClearBox]But, why were you looking for me?
 Shouldn't you be by Princess Nina's side?[A][ClearBox][TargetLeft][FaceCommand=0x61]I was requested by Princess Nina to deliver
 you this.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]

@@ -35,7 +35,7 @@ This time[FreezeMouth]...[UnfreezeMouth] everything[FreezeMouth]...[UnfreezeMout
 must end[FreezeMouth]......[UnfreezeMouth][A][ClearBox][X]
 
 MS022_EV1_PCM1
-[TargetLeft][LoadPortrait=NAGA][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=MARS]You're[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=PLAYER]Another ally from the previous war, sire?[A][ClearBox][TargetRight][LoadPortrait=MARS]No, I don't believe we've ever met.[Pause=3]
+[TargetLeft][LoadPortrait=NAGA][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=MARS]You're[FreezeMouth]...[UnfreezeMouth][A][ClearBox]No, I don't believe we've ever met.[Pause=3]
 But, why[FreezeMouth]...?[UnfreezeMouth]
 I have the strangest feeling that I know her[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]My name[FreezeMouth]...[UnfreezeMouth] is Nagi.[Pause=3]
 I will[FreezeMouth]...[UnfreezeMouth] stop the enemy[FreezeMouth]...[UnfreezeMouth][Pause=3]

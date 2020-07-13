@@ -29,7 +29,7 @@ That's[SpecialSymbol=0x96]that's Mediuth[FreezeMouth]...![UnfreezeMouth][A][Clea
 you'll be unable to strike down Mediuth.[A][ClearBox]If we don't do something soon, then the
 other dragons will awaken, and this battle
 will rapidly escalate into mayhem.[A][ClearBox]The princesses will be then be
-in even more pain.[TargetRight]Then, what do you suppose I do[FreezeMouth]?[UnfreezeMouth][A][ClearBox]How on earth can we save them?![Pause=3]
+in even more pain.[A][ClearBox][TargetRight]Then, what do you suppose I do[FreezeMouth]?[UnfreezeMouth][A][ClearBox]How on earth can we save them?![Pause=3]
 Tell me, Jeigan![A][ClearBox][TargetLeft]I[FreezeMouth]...[UnfreezeMouth][Pause=3]
 I do not know[FreezeMouth]...[UnfreezeMouth][A][ClearBox][EyeCommand=ec]But, if we are to defeat Mediuth,
 we must stop at nothing[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]What?![UnfreezeMouth]
@@ -91,13 +91,13 @@ Open your eyes!
 Be strong...![A][ClearBox][TargetLeft]Ahh[FreezeMouth]...[UnfreezeMouth]
 I've done something terrible.[A][ClearBox]I was too foolish[FreezeMouth]...[UnfreezeMouth][Pause=3]
 I hurt Hardin[FreezeMouth]...[UnfreezeMouth] I drove him to despair.[A][ClearBox]Oh... I...
-What should I do?[TargetRight]My queen[FreezeMouth]...[UnfreezeMouth][Pause=3]
+What should I do?[A][ClearBox][TargetRight]My queen[FreezeMouth]...[UnfreezeMouth][Pause=3]
 Prince Marth has ended Hardin's suffering.[A][ClearBox]The Emperor loved you till the very end.
 He was sorry for what he'd done to you.[A][ClearBox]It's alright now.[Pause=3]
 You need not worry.[A][ClearBox]It was all just a bad dream[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=NIENA][FreezeMouth]......[UnfreezeMouth]
 Who[FreezeMouth]......?[UnfreezeMouth][A][ClearBox][TargetRight]Princess Nina!
 You mustn't give up.
-You shouldn't be a weak person![TargetLeft][FaceCommand=0x73]Oh[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth] You're[FreezeMouth]...[UnfreezeMouth]
+You shouldn't be a weak person![A][ClearBox][TargetLeft][FaceCommand=0x73]Oh[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth] You're[FreezeMouth]...[UnfreezeMouth]
 Camus[FreezeMouth]...[UnfreezeMouth][FreezeMouth]?![UnfreezeMouth]
 Camus[FreezeMouth]!![UnfreezeMouth][A][ClearBox]Why[FreezeMouth]...[UnfreezeMouth] Why are you[FreezeMouth]...[UnfreezeMouth]
 This is a dream, isn't it?

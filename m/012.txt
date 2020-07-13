@@ -63,7 +63,7 @@ at a single place.[A][ClearBox]In addition to this valley, there's the
 Dragon's Dale, the Ice Dragons' Temple and
 the Dragon's Altar[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]The Dragon's Altar[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]It's a demon dragon graveyard in the
 mountains of Macedonia.[Pause=3] There, the earth
-dragons sleep.[A][ClearBox]Earth Dragons...!? There are other
+dragons sleep.[A][ClearBox][TargetRight]Earth Dragons...!? There are other
 Earth Dragons besides Mediuth!?[A][ClearBox][TargetLeft]Of course. Amongst the dragon tribe
 they are closest in strength to the Divine
 Dragons, and possess tremendous power.[A][ClearBox]They didn't agree with the elders and

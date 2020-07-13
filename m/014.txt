@@ -2,7 +2,7 @@ MS014_OP1
 [TargetRight][LoadPortrait=MARS][LoadBackground=BBG58][TargetLeft][LoadPortrait=JEIGUN][TargetRight]So this is the Ice Dragons' Temple.[Pause=3]
 The final destination of Anri's treacherous
 journey[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]For his beloved Artemis, Anri obtained the
-divine sword Falchion here.[A][ClearBox] He then proceeded to defeat Mediuth and,
+divine sword Falchion here.[A][ClearBox]He then proceeded to defeat Mediuth and,
 acclaimed by the people of Aritia,
 become their first king.[A][ClearBox][TargetRight]But, in the end he wasn't able to be
 with Artemis... Why?
@@ -60,8 +60,8 @@ was used to conquer the world.[A][ClearBox]The thief that went on to become the
 king of Akaneia had the shield, which
 brought him such good fortune,[A][ClearBox]become the emblem of his royal family.
 Now do you understand, Marth? It is what
-you are carrying, Akaneia's Fire Emblem.[A][ClearBox][TargetRight][FreezeMouth]You mean[FreezeMouth]...![UnfreezeMouth][UnfreezeMouth][Pause=3]
-What... ...The first king of Akaneia
+you are carrying, Akaneia's Fire Emblem.[A][ClearBox][TargetRight]
+What...[Pause=3] ...The first king of Akaneia
 was originally a thief!?
 Is that true...?[A][ClearBox]In that case, I can kind of understand
 the curse of the Fire Emblem[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Lord Gato, does that mean[FreezeMouth]...[UnfreezeMouth]
@@ -76,7 +76,7 @@ With her, you can defeat those dragons.[A][ClearBox]But I must warn you.[Pause=3
 If you do not complete the Shield of Seals,
 even Chiki will be destroyed.[A][ClearBox][TargetRight]What[FreezeMouth]?![UnfreezeMouth][Pause=3]
 But why[FreezeMouth]!?[UnfreezeMouth][A][ClearBox][TargetLeft]Because she is still a child.
-Without the shield, she too will degenerate..[A][ClearBox]In time, she will turn into a beast and attack
+Without the shield, she too will degenerate.[A][ClearBox]In time, she will turn into a beast and attack
 humanity.[A][ClearBox]I took pity on her and sent her to sleep.[A][ClearBox]But if the Shield of Seals is restored,
 we will no longer have to worry.[Pause=3]
 The shield will protect Chiki.[A][ClearBox]Marth, I leave Chiki in your hands.[Pause=3]

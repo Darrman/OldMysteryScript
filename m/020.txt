@@ -7,8 +7,7 @@ to the person who will fight Hardin.[A][ClearBox][Unknown0x4=F][X]
 MS020_OP1
 [TargetLeft][LoadPortrait=HARDIN][LoadBackground=BBG11][TargetRight][LoadPortrait=MIDIA][TargetLeft]Midia. That you, a paladin of Akaneia,
 would betray your own motherland[FreezeMouth]...[UnfreezeMouth]
-You are a disgrace[FreezeMouth]![UnfreezeMouth]
-Akaneia's paladins have lost their touch.[A][ClearBox][TargetRight]Surely you jest[FreezeMouth]!![UnfreezeMouth]
+You are a disgrace[FreezeMouth]![UnfreezeMouth][A][ClearBox]Akaneia's paladins have lost their touch.[A][ClearBox][TargetRight]Surely you jest[FreezeMouth]!![UnfreezeMouth]
 Can't you see you're destroying Akaneia?[Pause=3]
 You've gone mad[FreezeMouth]![UnfreezeMouth][A][ClearBox]What have you done with Lady Nina[FreezeMouth]?![UnfreezeMouth]
 Return our queen at once[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetLeft]Nina[FreezeMouth]?[UnfreezeMouth][Pause=3]

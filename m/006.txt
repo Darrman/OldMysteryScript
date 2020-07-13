@@ -171,7 +171,7 @@ Grunian rebellion, so he took me here.[A][ClearBox][TargetRight]But, as the arch
 your power, you shouldn't need to fear Lang.[A][ClearBox][TargetLeft]I don't like using magic in battle. I
 already left the magic city, Khadein, in the
 care of two youths, Marich and Ellerean.[A][ClearBox]I left because I must fulfill a
-mission assigned to me by Archsage Gato.[A][ClearBox][FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]A mission from Lord Gato?
+mission assigned to me by Archsage Gato[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]A mission from Lord Gato?
 So are you travelling the continent?[A][ClearBox][TargetLeft]That's correct[FreezeMouth]...[UnfreezeMouth][A][ClearBox]You have seen the "Star Orb"[SpecialSymbol=0x96]
 the holy orb with the twelve constellations
 etched on its surface.[A][ClearBox]In order to pierce Garnef's shadowy veil,

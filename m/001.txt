@@ -5,8 +5,8 @@ MTUTS_TRANSPORTER_R
 [X]
 
 MS001_OP1
-[TargetRight][LoadPortrait=MARS][LoadBackground=][TargetLeft][LoadPortrait=JEIGUN][TargetLeft]Jeigan, we've finally arrived.
-Is that the rebel's fortress?[A][ClearBox]Sire,[Pause=3] this is General Lang, the commanding
+[TargetRight][LoadPortrait=MARS][LoadBackground=][TargetLeft][LoadPortrait=JEIGUN][TargetRight]Jeigan, we've finally arrived.
+Is that the rebel's fortress?[A][ClearBox][TargetLeft]Sire,[Pause=3] this is General Lang, the commanding
 officer of the occupational forces.
 You should ask him directly.[A][ClearBox][TargetLeft][LoadPortrait=RANG][FaceCommand=0x73]Oho, so you are Prince Marth?[Pause=3]
 Glad you could make it here.[A][ClearBox]We have already subdued most of the rebels.
@@ -23,12 +23,12 @@ He really thought his rebellion would be
 victorious?[A][ClearBox]Prince.[Pause=3] You are to kill General Lawrence,
 and reclaim the children of the Grunian
 royal family that he's hiding.[A][ClearBox]We will leave this place to you,
-and pursue the escaping rebels.[A][ClearBox]We must show those Grunian fools the consequences
-of opposing us.[A][ClearBox][TargetRight]General Lang...
+and pursue the escaping rebels.[A][ClearBox]We must show those Grunian fools the
+consequences of opposing us.[A][ClearBox][TargetRight]General Lang...
 What are you planning to do!?[A][ClearBox][TargetLeft]If you want to know,
 we will slaughter the families of those who
-participated in this rebellion[Pause=3][A][ClearBox]and raze their
-homes to the ground. This will stop them from
+participated in this rebellion[Pause=3][A][ClearBox]and raze their homes to the ground.
+This will stop them from
 contemplating rebellion again.[A][ClearBox]Hahaha!
 I can almost see the tears on the
 faces of those fools.[A][ClearBox]
@@ -119,11 +119,10 @@ Why must you say that?[A][ClearBox]You took that grievous wound to protect us[Fr
 now[FreezeMouth]?![UnfreezeMouth][A][ClearBox]I[Pause=3] will never leave.[Pause=3]
 We will never leave your side, Lawrence[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=OGUMA]What shall I do, [Pause=3]General?[A][ClearBox][TargetLeft]Hmm[FreezeMouth]...[UnfreezeMouth] this is most troublesome.[A][ClearBox]Princess Yumina is not one to change her
 mind easily[FreezeMouth]...[UnfreezeMouth][Pause=3] We will remain here.[A][ClearBox][TargetRight]I understand.
-n that case,[Pause=3] I will find some other way to
+In that case,[Pause=3] I will find some other way to
 help you.[A][ClearBox]I will find Lang and bring him down[FreezeMouth]...[UnfreezeMouth][Pause=3]
 I will bury him with this sword, I swear on it.[A][ClearBox]If I succeed, perhaps the nearby
-enemies will retreat.[A][ClearBox]General Lawrence,[Pause=3] you must hold out until then.[A][ClearBox]
-...Don't get yourself killed!![A][ClearBox][X]
+enemies will retreat.[A][ClearBox]General Lawrence,[Pause=3] you must hold out until then.[A][ClearBox]...Don't get yourself killed!![A][ClearBox][X]
 
 MS001_TK1
 [TargetLeft][LoadPortrait=ROLENSE][TargetRight][LoadPortrait=MARS][LoadBackground=BBG40][TargetLeft]Prince Marth[FreezeMouth]![UnfreezeMouth]
@@ -278,7 +277,7 @@ MS001_ED1_02
 Yubello[FreezeMouth]...[UnfreezeMouth][Pause=3] help me[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=YUBELLO]Yumina[FreezeMouth]...[UnfreezeMouth][Pause=3] Yumina[FreezeMouth]...!![UnfreezeMouth][A][ClearBox][X]
 
 MS001_ED1_03_PCF1
-[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetRight]Wait[FreezeMouth]!![UnfreezeMouth][Pause=3]
+[SpecialText0x14][TargetLeft][LoadPortrait=MARS][LoadBackground=BBG11][TargetRight]Wait[FreezeMouth]!![UnfreezeMouth][Pause=3]
 Lang[FreezeMouth]![UnfreezeMouth][Pause=3] Release them at once[FreezeMouth]![UnfreezeMouth][A][ClearBox]
 [TargetRight][LoadPortrait=JEIGUN]Sire,[Pause=3] don't do it[FreezeMouth]!![UnfreezeMouth][Pause=3][A][ClearBox]
 If we oppose Lang right here, right now,
@@ -292,13 +291,14 @@ us its strength.[A][ClearBox]Your highness, please stay calm for now.
 We must first go to Macedonia![A][ClearBox][Fade=40][Unknown0x4=F][X]
 
 MS001_ED1_03_PCM1
-[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetRight]Wait[FreezeMouth]!![UnfreezeMouth][Pause=3]
+[SpecialText0x14][TargetLeft][LoadPortrait=MARS][LoadBackground=BBG11][TargetRight]Wait[FreezeMouth]!![UnfreezeMouth][Pause=3]
 Lang[FreezeMouth]![UnfreezeMouth][Pause=3] Release them at once[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][LoadPortrait=JEIGUN]Sire,[Pause=3] don't do it[FreezeMouth]!![UnfreezeMouth][Pause=3][A][ClearBox]If we oppose Lang right here, right now,
 we run the risk of being branded traitors
 by Akaneia.[A][ClearBox][TargetLeft][LoadPortrait=MARS]But Jeigan,[Pause=3] are you telling me to simply allow
 Lang to take them[FreezeMouth]?![UnfreezeMouth][Pause=3]
 I cannot stand for that[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]I understand how you feel, sire[FreezeMouth]...[UnfreezeMouth][Pause=3]
 But please remain patient for a little longer[FreezeMouth].[UnfreezeMouth][A][ClearBox]If we head to Macedonia[FreezeMouth]...[UnfreezeMouth][Pause=3] then rescue
+Princess Minerva, Macedonia will surely lend
 us its strength.[A][ClearBox]Your highness, please stay calm for now.
 We must first go to Macedonia![A][ClearBox][Fade=40][Unknown0x4=F][X]
 

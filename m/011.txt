@@ -49,6 +49,8 @@ MS011_OP1_PCM1
 [TargetRight][LoadPortrait=MARS][LoadBackground=BBG29][TargetLeft][LoadPortrait=JEIGUN][TargetRight]Jeigan, where in the world are we[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]This is the death desert of Marmotord.
 There was a story depicted in the Anri Saga.[A][ClearBox]The first obstacle in Anri's Way:[Pause=3]
 The Desert of Death.[A][ClearBox]With its scorching sun, raging sandstorm,
+savage clansmen of the sands and wyverns
+that soar and dominate the skies.[A][ClearBox]As the city of illusion shimmers in the
 distance, we can only stand and gaze[FreezeMouth]...[UnfreezeMouth]
 Or so the legend has it.[A][ClearBox][TargetRight]So Anri came through here as well.[Pause=3]
 And by himself, too[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]That's right. Your ancestor and Aritia's
@@ -123,7 +125,7 @@ MS011_ED1_PCM1
 [TargetRight][LoadPortrait=MARS][LoadBackground=BBG01][X]
 
 MS011_ED1_01_PCF1
-[TargetLeft][LoadPortrait=TIKI][FaceCommand=0x73]Mar-Mar[FreezeMouth]!![UnfreezeMouth][Pause=3]
+[TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=TIKI][FaceCommand=0x73]Mar-Mar[FreezeMouth]!![UnfreezeMouth][Pause=3]
 It's been aaages.[Pause=3] It's me, Chiki[FreezeMouth]![UnfreezeMouth]
 I've wanted to see you for so long.[A][ClearBox][TargetRight][FaceCommand=0x61]Huh[FreezeMouth]...[UnfreezeMouth] Chiki[FreezeMouth]?![UnfreezeMouth][Pause=3]
 You came to welcome us?[A][ClearBox][FaceCommand=0x73]Oh, I see[FreezeMouth]...[UnfreezeMouth] you've been living with Lord Gato,
@@ -136,7 +138,7 @@ I[FreezeMouth]...[UnfreezeMouth] I love you![A][ClearBox][TargetRight][FaceComma
 I'd never say something like that.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
 
 MS011_ED1_01_PCM1
-[TargetLeft][LoadPortrait=TIKI][FaceCommand=0x73]Mar-Mar[FreezeMouth]!![UnfreezeMouth][Pause=3]
+[TargetRight][LoadPortrait=MARS][TargetLeft][LoadPortrait=TIKI][FaceCommand=0x73]Mar-Mar[FreezeMouth]!![UnfreezeMouth][Pause=3]
 It's been aaages.[Pause=3] It's me, Chiki[FreezeMouth]![UnfreezeMouth]
 I've wanted to see you for so long.[A][ClearBox][TargetRight][FaceCommand=0x61]Huh[FreezeMouth]...[UnfreezeMouth] Chiki[FreezeMouth]?![UnfreezeMouth][Pause=3]
 You came to welcome us?[A][ClearBox][FaceCommand=0x73]Oh, I see[FreezeMouth]...[UnfreezeMouth] you've been living with Lord Gato,

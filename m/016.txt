@@ -35,7 +35,7 @@ Prince Marth.[A][ClearBox][X]
 
 MS016_TK1
 [TargetRight][LoadPortrait=JORJUE][LoadBackground=][TargetLeft][LoadPortrait=ASTRIA][TargetRight][FaceCommand=0x73]Astria![A][ClearBox][TargetLeft][FaceCommand=0x61]Well, if it isn't the turncoat, George.[Pause=3]
-What form of death would you prefer?[A][ClearBox][TargetRight][FaceCommand=0x73]H-hold your sword, Astria.[Pause=3]General Eibel
+What form of death would you prefer?[A][ClearBox][TargetRight][FaceCommand=0x73]H-hold your sword, Astria.[Pause=3] General Eibel
 has already fallen. Even if you fight
 here, you've no chance of winning.[A][ClearBox][TargetLeft][FaceCommand=0x61]You would have me surrender[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]Never[FreezeMouth]![UnfreezeMouth] Though I may be the last
 man standing, I shall fight on.[Pause=3]

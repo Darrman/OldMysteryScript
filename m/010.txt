@@ -62,8 +62,7 @@ the Maph tome.[A][ClearBox]As a result[FreezeMouth]...[UnfreezeMouth]
 His heart was trapped within the Dark Orb
 for all eternity.[A][ClearBox]Originally Garnef was a youth with a 
 strong sense of justice.
-Wrath and envy led him to ruin.[A][ClearBox][Pause=3]
-Do you understand now, Ellerean[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Teacher[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]That is all that I can say to you.
+Wrath and envy led him to ruin.[A][ClearBox][Pause=3]Do you understand now, Ellerean[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Teacher[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]That is all that I can say to you.
 I hope you will understand.
 You still have many things to learn,[A][ClearBox]and your will is too weak.
 Do you really intend on retreading
@@ -138,8 +137,8 @@ If we have the Light Orb then we can
 save Hardin[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]Well[FreezeMouth]...[UnfreezeMouth][Pause=3] If his heart is not completely consumed,
 then perhaps. But that depends on whether
 Hardin is as strong-willed as you say...[A][ClearBox][TargetRight]Lord Gato[FreezeMouth]![UnfreezeMouth][Pause=3]
-Please, lend the Light Orb to me.[A][ClearBox][TargetLeft]If you come in person to the Ice Dragon
-Shrine where I reside, then you shall have it.[A][ClearBox]But that will be no easy task.[A][ClearBox]There has only been one human that
+Please, lend the Light Orb to me.[A][ClearBox][TargetLeft]If you come in person to the Ice Dragons'
+Temple where I reside, then you shall have it.[A][ClearBox]But that will be no easy task.[A][ClearBox]There has only been one human that
 has ever made it here.
 That's right... The hero Anri.[A][ClearBox]If you, like Anri, are a true hero,
 I will lend you the Orb.[A][ClearBox]So, Marth.[Pause=3]
