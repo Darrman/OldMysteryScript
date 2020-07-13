@@ -61,7 +61,7 @@ best as a knight.[ClearBox][X]
 MAFT_MESS_GOHDON
 Gordon retired from knighthood for personal
 reasons, and then moved to Akaneia's
-palace. Aftewards, he became member of
+palace. Aftewards, he became a member of
 the Akaneian Rangers.[ClearBox][X]
 
 MAFT_MESS_DOHGA

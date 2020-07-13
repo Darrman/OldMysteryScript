@@ -1,6 +1,6 @@
 MSGED_20_ED1_PCF1
 [TargetRight][LoadPortrait=MARS][FaceCommand=0x73][LoadBackground=BBG11][TargetLeft][LoadPortrait=JEIGUN][FaceCommand=0x73][FaceCommand=0x73]Sire, the war is over.[Pause=3]
-Look over there!
+Now, the world is safe.[A][ClearBox]Look over there!
 It's the princess and the other clerics[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Sister[FreezeMouth]![UnfreezeMouth] And Princess Nina[FreezeMouth]...[UnfreezeMouth][Pause=3]
 Rena, Maria; you're all safe.[A][ClearBox][TargetLeft][LoadPortrait=NIENA][FaceCommand=0x61]Marth, I'm so happy you made it[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Please lend me your valor in order to
 rebuild Akaneia.[A][ClearBox][TargetLeft][LoadPortrait=ERICE]You did well, Marth.[Pause=3]
@@ -23,7 +23,7 @@ your name shall not be forgotten.[A][ClearBox][Fade=120][X]
 
 MSGED_20_ED1_PCM1
 [TargetRight][LoadPortrait=MARS][FaceCommand=0x73][LoadBackground=BBG11][TargetLeft][LoadPortrait=JEIGUN][FaceCommand=0x73][FaceCommand=0x73]Sire, the war is over.[Pause=3]
-Look over there!
+Now, the world is safe.[A][ClearBox]Look over there!
 It's the princess and the other clerics[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Sister[FreezeMouth]![UnfreezeMouth] And Princess Nina[FreezeMouth]...[UnfreezeMouth][Pause=3]
 Rena, Maria; you're all safe.[A][ClearBox][TargetLeft][LoadPortrait=NIENA][FaceCommand=0x61]Marth, I'm so happy you made it[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Please lend me your valor in order to
 rebuild Akaneia.[A][ClearBox][TargetLeft][LoadPortrait=ERICE]You did well, Marth.[Pause=3]

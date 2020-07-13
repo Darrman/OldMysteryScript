@@ -85,7 +85,7 @@ You will feel Miracle's bite[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
 MS016_BT_BOSS
 [LoadBackground=BBG11][TargetLeft][LoadPortrait=WILLOW][FaceCommand=0x73]Ahaha[FreezeMouth]![UnfreezeMouth][Pause=3]
 Perhaps it is time you realize[FreezeMouth]...[UnfreezeMouth][Pause=3]
-The terror of my magic[FreezeMouth]...![UnfreezeMouth][A][ClearBox][X]
+The terror of Meteor[FreezeMouth]...![UnfreezeMouth][A][ClearBox][X]
 
 MS016_DIE_ASTRIA
 [LoadBackground=][TargetLeft][LoadPortrait=ASTRIA]Midia[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]

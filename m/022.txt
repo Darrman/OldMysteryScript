@@ -12,7 +12,7 @@ I bet this will be a fierce battle.[A][ClearBox][X]
 
 MS022_OP1
 [TargetRight][LoadPortrait=MARS][LoadBackground=BBG69][TargetLeft][LoadPortrait=GATO]Prince Marth, in this altar lurks many
-savage barbarians and mage dragons
+savage barbarians and demon dragons
 long gone mad.[A][ClearBox]They have fallen under Garnef's spell
 and will attack you given the chance.[A][ClearBox]Garnef's servants[SpecialSymbol=0x96]
 the heretic priests possess great power.

@@ -1,13 +1,14 @@
 MS020_PRE1
-[TargetRight][LoadPortrait=MARS][LoadBackground=BBG40][TargetLeft][LoadPortrait=JEIGUN][TargetLeft]Sire, we are breaking into Pales[FreezeMouth]![UnfreezeMouth][A][ClearBox]Do not forget that Hardin is shielded
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG40][TargetLeft][LoadPortrait=JEIGUN][TargetLeft]Sire, we are breaking into the palace[FreezeMouth]![UnfreezeMouth][A][ClearBox]Do not forget that Hardin is shielded
 by the Dark Orb.[A][ClearBox]If you are to challenge him,
 then you must hold the Light Orb[FreezeMouth]![UnfreezeMouth][A][ClearBox]Ensure, at all costs, that it's given
 to the person who will fight Hardin.[A][ClearBox][Unknown0x4=F][X]
 
 MS020_OP1
-[TargetLeft][LoadPortrait=HARDIN][LoadBackground=BBG11][TargetRight][LoadPortrait=MIDIA][TargetLeft]Midia. That you, a Paladin of Akaneia,
+[TargetLeft][LoadPortrait=HARDIN][LoadBackground=BBG11][TargetRight][LoadPortrait=MIDIA][TargetLeft]Midia. That you, a paladin of Akaneia,
 would betray your own motherland[FreezeMouth]...[UnfreezeMouth]
-You are a disgrace[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Surely you jest[FreezeMouth]!![UnfreezeMouth]
+You are a disgrace[FreezeMouth]![UnfreezeMouth]
+Akaneia's paladins have lost their touch.[A][ClearBox][TargetRight]Surely you jest[FreezeMouth]!![UnfreezeMouth]
 Can't you see you're destroying Akaneia?[Pause=3]
 You've gone mad[FreezeMouth]![UnfreezeMouth][A][ClearBox]What have you done with Lady Nina[FreezeMouth]?![UnfreezeMouth]
 Return our queen at once[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetLeft]Nina[FreezeMouth]?[UnfreezeMouth][Pause=3]

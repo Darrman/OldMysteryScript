@@ -84,7 +84,7 @@ King Jiol's second wife.[A][ClearBox]But unlike the king, Princess Sheema
 is a very kind person.[A][ClearBox]She'd risk her own life for her soldiers.[A][ClearBox]Isn't there anyone who'll help her?[A][ClearBox][X]
 
 MS017_H3
-[LoadBackground=BBG25][TargetCenter][LoadPortrait=MAN2]The soldiers 'ere are all amateurs.[A][ClearBox]Our country's knights all fell in battle.[A][ClearBox]There's no one left to protect our country.[A][ClearBox]And now, the Akaneian soldiers
+[LoadBackground=BBG25][TargetCenter][LoadPortrait=MAN2]The soldiers 'ere are all foreigners.[A][ClearBox]Our country's knights all fell in battle.[A][ClearBox]There's no one left to protect our country.[A][ClearBox]And now, the Akaneian soldiers
 do as they please.[A][ClearBox]They're worse than thieves[FreezeMouth]![UnfreezeMouth]
 Brutes, barbarians[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
 
@@ -114,7 +114,9 @@ I'll kill you all[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
 
 MS017_BT_SAMSON
 [LoadBackground=][TargetLeft][LoadPortrait=SAMSON]I know that Gra cannot prevail.[Pause=3]
-But Sheema deserves better than this[FreezeMouth].[UnfreezeMouth][A][ClearBox][X]
+But Sheema deserves better than this[FreezeMouth].[UnfreezeMouth][A][ClearBox]Prince Marth... I thought you were a
+noble person. But you're just a murderer...
+You disappoint me.[A][ClearBox][X]
 
 MS017_DIE_BOSS
 [LoadBackground=][TargetLeft][LoadPortrait=SIMA]Forgive me, my people.[A][ClearBox][X]
@@ -151,7 +153,7 @@ If we can cross it, we can attack
 the enemy from the rear.[A][ClearBox]Order the advance[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
 
 MS017_ED_BS
-[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG11][TargetLeft][LoadPortrait=FROST]Oof[FreezeMouth]...[UnfreezeMouth][Pause=3]
+[TargetRight][LoadPortrait=JEIGUN][LoadBackground=BBG11][TargetLeft][LoadPortrait=FROST]Oof[FreezeMouth]...[UnfreezeMouth][Pause=3]
 Seems I've finally caught up.[A][ClearBox][TargetRight]Hmm, and you are?[A][ClearBox][TargetLeft]My name is Frost.[Pause=3]
 I am a priest of Macedonia.[A][ClearBox]When Macedonia was taken over by
 those warmonging rebels[FreezeMouth]...[UnfreezeMouth][A][ClearBox]You came and saved our country.[Pause=3]

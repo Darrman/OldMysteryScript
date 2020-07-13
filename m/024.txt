@@ -90,7 +90,8 @@ MS024_TK3
 Open your eyes!
 Be strong...![A][ClearBox][TargetLeft]Ahh[FreezeMouth]...[UnfreezeMouth]
 I've done something terrible.[A][ClearBox]I was too foolish[FreezeMouth]...[UnfreezeMouth][Pause=3]
-I hurt Hardin[FreezeMouth]...[UnfreezeMouth] I drove him to despair.[A][ClearBox][TargetRight]My queen[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I hurt Hardin[FreezeMouth]...[UnfreezeMouth] I drove him to despair.[A][ClearBox]Oh... I...
+What should I do?[TargetRight]My queen[FreezeMouth]...[UnfreezeMouth][Pause=3]
 Prince Marth has ended Hardin's suffering.[A][ClearBox]The Emperor loved you till the very end.
 He was sorry for what he'd done to you.[A][ClearBox]It's alright now.[Pause=3]
 You need not worry.[A][ClearBox]It was all just a bad dream[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=NIENA][FreezeMouth]......[UnfreezeMouth]

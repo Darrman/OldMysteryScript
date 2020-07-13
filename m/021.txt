@@ -5,6 +5,7 @@ I hear this place is home to Macedonia's
 great wyverns.[A][ClearBox]But since the area is overrun with
 barbarians,[A][ClearBox]even the Macedonian soldiers dare not
 set foot in here.[A][ClearBox][TargetRight]I see.[Pause=3]
+So this is the Dragon's Dale.
 You learn something new every day[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Anyway,[Pause=3]
 let's go, Jeigan.[A][ClearBox]I need to know what's happened to
 my sister and the others[FreezeMouth]...[UnfreezeMouth]
@@ -17,6 +18,7 @@ I hear this place is home to Macedonia's
 great wyverns.[A][ClearBox]But since the area is overrun with
 barbarians,[A][ClearBox]even the Macedonian soldiers dare not
 set foot in here.[A][ClearBox][TargetRight]I see.[Pause=3]
+So this is the Dragon's Dale.
 You learn something new every day[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Anyway,[Pause=3]
 let's go, Jeigan.[A][ClearBox]I need to know what's happened to
 my sister and the others[FreezeMouth]...[UnfreezeMouth]
@@ -89,14 +91,15 @@ in my place[FreezeMouth]...[UnfreezeMouth] please[FreezeMouth]...[UnfreezeMouth]
 MS021_ED1
 [TargetRight][LoadPortrait=MARS][LoadBackground=BBG69][TargetRight]So this is the Dragon's Altar.
 The place where divine dragon Narga
-banished the earth dragons[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=GATO]Indeed.[Pause=3] Mediuth, the altar's guardian,
-could not tolerate the human race's
+banished the earth dragons[FreezeMouth]...[UnfreezeMouth][A][ClearBox]But, wasn't Mediuth the guardian of the altar?[A][ClearBox]
+[TargetLeft][LoadPortrait=GATO]Indeed.[Pause=3] Mediuth could not tolerate the human race's
 atrocities against the Mamkutes.[A][ClearBox]Thus, he gathered the surviving dragonkin,
 forming the Durhuan Empire.[A][ClearBox]All to obliterate mankind.[A][ClearBox]He was vanquished by Anri once and
 then defeated a second time by you.[A][ClearBox]However earth dragons boast tremendous
 life force, and cannot be completely
 eliminated so easily[FreezeMouth]...[UnfreezeMouth][Pause=3][A][ClearBox]Even now, they sleep at this altar.[A][ClearBox][TargetRight]You mean to say they'll awaken[FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetLeft]Not exactly. Even sleeping earth dragons
-should not awaken for centuries or so.[A][ClearBox]The next time Mediuth awakens though,
+should not awaken for centuries or so.[A][ClearBox]Mediuth is now changing his form.
+The next time he awakens though,
 he will rise as a terrifying Dark Dragon[FreezeMouth]...[UnfreezeMouth][A][ClearBox]No, wait[FreezeMouth]...![UnfreezeMouth] Perhaps[FreezeMouth]...?[UnfreezeMouth]
 Yes, I see[FreezeMouth]...[UnfreezeMouth]
 So that's why Garnef[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]What's the matter, Lord Gato[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]Prince Marth.[Pause=3]

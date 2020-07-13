@@ -73,7 +73,8 @@ I entrust everything to you.[A][ClearBox]As a sign of my allegiance,
 I would have you accept this orb.[A][ClearBox]This is a magical jewel containing
 the divine power of life.[A][ClearBox]I spent a lot of gold to buy it
 from a travelling merchant.[A][ClearBox]I believe it will be useful to you.[A][ClearBox][TargetRight]Your Majesty, Hardin is[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Do not worry about my younger brother.[A][ClearBox]A knight can only die a knight's death.
-'Twas always his fate[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+'Twas always his fate[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Well, Prince Marth, I will go on ahead.
+I hope you will all be safe...[A][ClearBox][X]
 
 MS018_BT_BIRAKU
 [LoadBackground=][TargetLeft][LoadPortrait=BIRAKU]As long as we're around
@@ -112,7 +113,7 @@ Pales is not far.[A][ClearBox][TargetLeft]Yes, if we go down from here, we will
 reach the capital of Pales in an instant.[A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]Sire, we've just received urgent news.
 Apparently a coup d'etat broke out
 in Pales.[A][ClearBox]The knights and citizens who opposed
-Emperor Hardin's ways rose in rebellion.[A][ClearBox]It seems their leader was Lady Midia.[A][ClearBox][TargetRight][FaceCommand=0x61]What in the blazes[FreezeMouth]?![UnfreezeMouth]
+Emperor Hardin's ways rose in rebellion.[A][ClearBox]It seems their leader was Lady Midia.[A][ClearBox][TargetRight][FaceCommand=0x61]What in the blazes[FreezeMouth]?![UnfreezeMouth] Midia?
 What has happened to them now?[A][ClearBox][TargetLeft]Unfortunately, the instigators were all
 defeated and captured[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Rumor has it that the rebels
 are being executed by the day.[A][ClearBox]It is only a matter of time before
@@ -127,7 +128,7 @@ Pales is not far.[A][ClearBox][TargetLeft]Yes, if we go down from here, we will
 reach the capital of Pales in an instant.[A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]Sire, we've just received urgent news.
 Apparently a coup d'etat broke out
 in Pales.[A][ClearBox]The knights and citizens who opposed
-Emperor Hardin's ways rose in rebellion.[A][ClearBox]It seems their leader was Lady Midia.[A][ClearBox][TargetRight][FaceCommand=0x61]What in the blazes[FreezeMouth]?![UnfreezeMouth]
+Emperor Hardin's ways rose in rebellion.[A][ClearBox]It seems their leader was Lady Midia.[A][ClearBox][TargetRight][FaceCommand=0x61]What in the blazes[FreezeMouth]?![UnfreezeMouth] Midia?
 What has happened to them now?[A][ClearBox][TargetLeft]Unfortunately, the instigators were all
 defeated and captured[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Rumor has it that the rebels
 are being executed by the day.[A][ClearBox]It is only a matter of time before

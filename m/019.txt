@@ -108,7 +108,7 @@ MS019_VIL1
 [TargetRight][LoadPortrait=MARS][LoadBackground=BBG26][TargetLeft][LoadPortrait=ROSHE][FaceCommand=0x73]Prince Marth[FreezeMouth]...[UnfreezeMouth]
 It is I, Roshe of the Wolfguard.[A][ClearBox]I received King Orleans's pardon
 and have been waiting for you.[A][ClearBox][FaceCommand=0x61]I am truly sorry for the battle of the pass.[A][ClearBox]I realize that an apology means little,
-so I will now fight under your banner.[A][ClearBox]But[FreezeMouth]...[UnfreezeMouth] the other Wolfguard members
+so I will now fight under your banner.[A][ClearBox]Marth, please watch over me![A][ClearBox]But[FreezeMouth]...[UnfreezeMouth] the other Wolfguard members
 have all sided with the Akaneian army.[Pause=3]
 I wonder if I could persuade them.[A][ClearBox]Biraku, at the least[FreezeMouth]...[UnfreezeMouth][Pause=3]
 Biraku might listen to what I have to say.[A][ClearBox][X]
@@ -188,22 +188,27 @@ MS019_DIE_ZAGARO
 [LoadBackground=][TargetLeft][LoadPortrait=ZAGARO]Coyote[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
 
 MS019_ED1
-[TargetRight][LoadPortrait=MARS][LoadBackground=BBG01][TargetLeft][LoadPortrait=Y_BOHA][TargetRight]Bishop Boa[FreezeMouth]!?[UnfreezeMouth]
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG01][TargetLeft][LoadPortrait=Y_BOHA][TargetLeft]Oh, Lord Marth.
+I've been waiting for you.[A][ClearBox]
+[TargetRight]Bishop Boa[FreezeMouth]!?[UnfreezeMouth]
 You're hurt[FreezeMouth]...![UnfreezeMouth]
 What on earth happened?[A][ClearBox][TargetLeft]Ngh[FreezeMouth]...[UnfreezeMouth] this is terrible[FreezeMouth]...[UnfreezeMouth]
 House Akaneia must truly be cursed.[A][ClearBox]As you know, two years ago[FreezeMouth]...[UnfreezeMouth]
 Hardin and Princess Nina were wed.[A][ClearBox]In order to restore Akaneia to glory,
 a king was needed.[A][ClearBox]There were but two suitable individuals:[Pause=3]
 King Orleans's younger brother, Duke Hardin,
-and you, Prince Marth of Aritia[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Princess Nina begged me to wait
+and you, Prince Marth of Aritia[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Those were the choices,
+and we pleaded for Nina to make the
+final decision.[A][ClearBox]Princess Nina begged me to wait
 just a while longer, but once
 I insisted of its absolute urgency[FreezeMouth]...[UnfreezeMouth][A][ClearBox]She said that it could not be you,
 for Princess Sheeda would grieve.
-In the end, Hardin was our only choice[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Let me get this straight.[Pause=3]
-I understand that Akaneia
+In the end, Hardin was our only choice[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Wait a second, wasn't that a little
+harsh on Nina? But let me get this straight.[Pause=3][A][ClearBox]I understand that Akaneia
 could not be without a king.[A][ClearBox]But Princess Nina, she already[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]You speak of Sir Camus of Grunia?[Pause=3]
 The people must never know[FreezeMouth]...[UnfreezeMouth]
-'Twould be heresy.[A][ClearBox]The decision cost us dearly,
+'Twould be heresy.[A][ClearBox]Princess Nina was the sole successor
+of the royal bloodline of Akaneia.[A][ClearBox]The decision cost us dearly,
 but what choice did we have?
 It was for our country.[A][ClearBox]On the bright side, Hardin was happy.[A][ClearBox]In fact, the thought that he was to
 be Princess Nina's husband pleased him
@@ -226,16 +231,19 @@ him the Dark Orb.[A][ClearBox]The despairing emperor's heart was
 gripped by the Dark Orb in an instant.[A][ClearBox]He completely changed as a
 person from then.[A][ClearBox]I've made a terrible mistake,
 out of my concern for this kingdom.
-[EyeCommand=ec]Please forgive me, Prince Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]So that's how it is.[Pause=3]
-[FreezeMouth]...[UnfreezeMouth]And what of Princess Nina?
+[EyeCommand=ec]Please forgive me, Prince Marth[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]So that's how it is.[Pause=3][A][ClearBox][TargetLeft]...[A][ClearBox]
+[TargetRight][FreezeMouth]...[UnfreezeMouth]And what of Princess Nina?
 How is she now?[A][ClearBox][TargetLeft]When Hardin discovered that she had
 taken the Emblem Shield, he had her
 confined in her room.[A][ClearBox]After that, she would still communicate
-in secret with me.[A][ClearBox]However, Hardin found out and wounded me.[A][ClearBox][EyeCommand=ed]He then handed Princess Nina to Garnef.[A][ClearBox]Garnef said that he required the blood
+in secret with me.[A][ClearBox]However, Hardin found out and wounded me.[A][ClearBox][EyeCommand=ed]He then handed Princess Nina to Garnef.[A][ClearBox]
+[TargetRight]Garnef!?[A][ClearBox]
+[TargetLeft]Mmm...
+Garnef had always wanted to take Nina.[A][ClearBox]Garnef said that he required the blood
 of noble-born clerics in order to resurrect
 the Dark Dragon[FreezeMouth]...[UnfreezeMouth][A][ClearBox]And so...
 He took Nina...
 To use her as a live sacrifice...[A][ClearBox]Prince Marth, my end is nigh.[Pause=3]
-I shall give you my tome and staff.[A][ClearBox]Please save Princess Nina.[A][ClearBox]Even if Akaneia's destruction
+I shall give you my Thoron and Reblow.[A][ClearBox]Please save Princess Nina.[A][ClearBox]Even if Akaneia's destruction
 cannot be undone[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Make sure that she is safe[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
 

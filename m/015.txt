@@ -94,7 +94,7 @@ from one o' the fortresses.[A][ClearBox][X]
 
 MS015_H7
 [TargetCenter][LoadPortrait=MAN2][LoadBackground=BBG25]The mercenaries protecting the castle
-are the cream of the crop.[A][ClearBox]They're terrifying enemies for sure,
+are the cream of the crop; Astria's elites.[A][ClearBox]They're terrifying enemies for sure,
 but I wonder if you could make an
 ally out of them?[A][ClearBox][X]
 
