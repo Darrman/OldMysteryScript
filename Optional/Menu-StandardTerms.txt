@@ -1,0 +1,1230 @@
+MCH_ACUR
+Set the cursor to start on Marth each turn.[X]
+
+MCH_AEND
+Set turns to end once all units have moved.[X]
+
+MCH_BGM
+Turn music on or off.[X]
+
+MCH_BRI
+Adjust map brightness.[X]
+
+MCH_BTAN
+Turn top-screen combat animations on or off.[X]
+
+MCH_CPU
+Select the enemy's actions you'd like to skip.[X]
+
+MCH_CTRL
+Set your preferred control method.[X]
+
+MCH_GRID
+Adjust opacity of map grid.[X]
+
+MCH_GS
+Adjust how quickly the game progresses.[X]
+
+MCH_HP
+Turn mini HP gauges on or off.[X]
+
+MCH_LINE
+Turn help captions on or off.[X]
+
+MCH_MS
+Adjust how quickly dialogue displays.[X]
+
+MCH_OPERATE
+Set controls for attacking/using staves.[X]
+
+MCH_SE
+Turn sound effects on or off.[X]
+
+MCH_SOUND
+Adjust sound output settings.[X]
+
+MCH_TUT
+Turn in-game tutorials on or off.[X]
+
+MCT000
+Ch. 99 Debug Map[X]
+
+MCT000AF
+Chapter 99[X]
+
+MCT000SM
+Ch. 99            Debug Map[X]
+
+MCT001
+Ch. 1 Grunian Expedition[X]
+
+MCT001AF
+Chapter 1[X]
+
+MCT001SM
+Ch. 1     Grunian Expedition[X]
+
+MCT002
+Ch. 2 Rebellion of Macedonia[X]
+
+MCT002AF
+Chapter 2[X]
+
+MCT002SM
+Ch. 2 Rebellion of Macedonia[X]
+
+MCT003
+Ch. 3 Abducted Princess[X]
+
+MCT003AF
+Chapter 3[X]
+
+MCT003SM
+Ch. 3      Abducted Princess[X]
+
+MCT004
+Ch. 4 Joy and Sorrow[X]
+
+MCT004AF
+Chapter 4[X]
+
+MCT004SM
+Ch. 4         Joy and Sorrow[X]
+
+MCT005
+Ch. 5 Liberation of Grunia[X]
+
+MCT005AF
+Chapter 5[X]
+
+MCT005SM
+Ch. 5    Liberation of Grunia[X]
+
+MCT006
+Ch. 6 The Nest of Vice[X]
+
+MCT006AF
+Chapter 6[X]
+
+MCT006SM
+Ch. 6         The Nest of Vice[X]
+
+MCT007
+Ch. 7 Scarlet Swordsman[X]
+
+MCT007AF
+Chapter 7[X]
+
+MCT007SM
+Ch. 7     Scarlet Swordsman[X]
+
+MCT008
+Ch. 8 Soulful Bridge[X]
+
+MCT008AF
+Chapter 8[X]
+
+MCT008SM
+Ch. 8           Soulful Bridge[X]
+
+MCT009
+Ch. 9 Sanctuary of Sorcery[X]
+
+MCT009AF
+Chapter 9[X]
+
+MCT009SM
+Ch. 9  Sanctuary of Sorcery[X]
+
+MCT010
+Ch. 10 The Two Mages[X]
+
+MCT010AF
+Chapter 10[X]
+
+MCT010SM
+Ch. 10        The Two Mages[X]
+
+MCT011
+Ch. 11 Anri's Way[X]
+
+MCT011AF
+Chapter 11[X]
+
+MCT011SM
+Ch. 11             Anri's Way[X]
+
+MCT012
+Ch. 12 Grave of Dragons[X]
+
+MCT012AF
+Chapter 12[X]
+
+MCT012SM
+Ch. 12・  Grave of Dragons[X]
+
+MCT013
+Ch. 13 Frozen Land[X]
+
+MCT013AF
+Chapter 13[X]
+
+MCT013SM
+Ch. 13          Frozen Land[X]
+
+MCT014
+Ch. 14 A Mystery Revealed[X]
+
+MCT014AF
+Chapter 14[X]
+
+MCT014SM
+Ch. 14  A Mystery Revealed[X]
+
+MCT015
+Ch. 15 Return of the Prince[X]
+
+MCT015AF
+Chapter 15[X]
+
+MCT015SM
+Ch. 15  Return of the Prince[X]
+
+MCT016
+Ch. 16 Reclaim the Capital[X]
+
+MCT016AF
+Chapter 16[X]
+
+MCT016SM
+Ch. 16    Reclaim the Capital[X]
+
+MCT017
+Ch. 17 Gra's Setting Sun[X]
+
+MCT017AF
+Chapter 17[X]
+
+MCT017SM
+Ch. 17     Gra's Setting Sun[X]
+
+MCT018
+Ch. 18 Battle of the Pass[X]
+
+MCT018AF
+Chapter 18[X]
+
+MCT018SM
+Ch. 18    Battle of the Pass[X]
+
+MCT019
+Ch. 19 The Final Battle[X]
+
+MCT019AF
+Chapter 19[X]
+
+MCT019SM
+Ch. 19       The Final Battle[X]
+
+MCT020
+Ch. 20 Dark Emperor[X]
+
+MCT020AF
+Chapter 20[X]
+
+MCT020SM
+Ch. 20         Dark Emperor[X]
+
+MCT021
+Ch. 21 Dragon's Dale[X]
+
+MCT021AF
+Chapter 21[X]
+
+MCT021SM
+Ch. 21         Dragon's Dale[X]
+
+MCT022
+Ch. 22 Dragon's Altar[X]
+
+MCT022AF
+Chapter 22[X]
+
+MCT022SM
+Ch. 22        Dragon's Altar[X]
+
+MCT023
+Ch. 23 Demon King Lives[X]
+
+MCT023AF
+Chapter 23[X]
+
+MCT023SM
+Ch. 23      Demon King Lives[X]
+
+MCT024
+Endgame Light and Shadow[X]
+
+MCT024AF
+the Endgame[X]
+
+MCT024SM
+Endgame   Light and Shadow[X]
+
+MCT103
+Ch. 3x Lurking Shadows[X]
+
+MCT103AF
+Chapter 3x[X]
+
+MCT103SM
+Ch. 3x       Lurking Shadows[X]
+
+MCT106
+Ch. 6x Mercenary Squad[X]
+
+MCT106AF
+Chapter 6x[X]
+
+MCT106SM
+Ch. 6x     Mercenary Squad[X]
+
+MCT110
+Ch. 10x The Mask Laughs[X]
+
+MCT110AF
+Chapter 10x[X]
+
+MCT110SM
+Ch. 10x    The Mask Laughs[X]
+
+MCT113
+Ch. 13x White Darkness[X]
+
+MCT113AF
+Chapter 13x[X]
+
+MCT113SM
+Ch. 13x      White Darkness[X]
+
+MCT116
+Ch. 16x Reunion[X]
+
+MCT116AF
+Chapter 16x[X]
+
+MCT116SM
+Ch. 16x               Reunion[X]
+
+MCT120
+Ch. 20x Depth of the Abyss[X]
+
+MCT120AF
+Chapter 20x[X]
+
+MCT120SM
+Ch. 20x  Depth of the Abyss[X]
+
+MCT201
+Prologue I Meeting[X]
+
+MCT201SM
+Prologue I              Meeting[X]
+
+MCT202
+Prologue II Young Squires[X]
+
+MCT202SM
+Prologue II      Young Squires[X]
+
+MCT203
+Prologue III Training[X]
+
+MCT203SM
+Prologue III            Training[X]
+
+MCT204
+Prologue IV New Friends[X]
+
+MCT204SM
+Prologue IV       New Friends[X]
+
+MCT205
+Prologue V March Duty[X]
+
+MCT205SM
+Prologue V        March Duty[X]
+
+MCT206
+Prologue VI Bonds[X]
+
+MCT206SM
+Prologue VI              Bonds[X]
+
+MCT207
+Prologue VII Final Test[X]
+
+MCT207SM
+Prologue VII         Final Test[X]
+
+MCT208
+Prologue VIII Assassination[X]
+
+MCT208SM
+Prologue VIII     Assassination[X]
+
+MCT209SM
+Ch. 1     Grunian Expedition[X]
+
+MCT301
+Fall[X]
+
+MCT301SM
+Episode1　Fall of the Palace[X]
+
+MCT302
+Dragoon[X]
+
+MCT302SM
+Episode2　Crimson Dragon[X]
+
+MCT303
+Thieves[X]
+
+MCT303SM
+Episode3　Thieves of Justice[X]
+
+MCT304
+Beginning[X]
+
+MCT304SM
+Episode4　The Beginning[X]
+
+MCTA01
+Outdoor Arena I[X]
+
+MCTA02
+Outdoor Arena II[X]
+
+MCTA03
+Outdoor Arena III[X]
+
+MCTA04
+Outdoor Arena IV[X]
+
+MCTA05
+Outdoor Arena V[X]
+
+MCTA06
+Outdoor Arena VI[X]
+
+MCTD01
+Wind and Thunder[X]
+
+MCTD01SM
+Episode1　Wind and Thunder[X]
+
+MCTD02
+Assassins[X]
+
+MCTD02SM
+Episode2　Assassins[X]
+
+MCTD03
+By the Sword[X]
+
+MCTD03SM
+Episode3　By the Sword[X]
+
+MCTFINAL
+Epilogue[X]
+
+MCTFINALSM
+                         Epilogue[X]
+
+MCTNODATA
+                        NO DATA[X]
+
+MC_ACUR
+Autocursor[X]
+
+MC_AEND
+Autoend Turns[X]
+
+MC_BGM
+Music[X]
+
+MC_BRI
+Map Brightness[X]
+
+MC_BTAN
+Animations[X]
+
+MC_CPU
+Skip Enemy Act.[X]
+
+MC_CTRL
+Controls[X]
+
+MC_GRID
+Grid[X]
+
+MC_GS
+Game Speed[X]
+
+MC_HP
+HP Gauges[X]
+
+MC_LINE
+Help Captions[X]
+
+MC_MS
+Message Speed[X]
+
+MC_OPERATE
+Attack/staff[X]
+
+MC_SC
+Please adjust your game settings below.[X]
+
+MC_SE
+Sound Effects[X]
+
+MC_SOUND
+Sound Output[X]
+
+MC_TUT
+Tutorials[X]
+
+MCしない
+None[X]
+
+MCすべて
+All[X]
+
+MCアドバンス
+Advanced[X]
+
+MCオフ
+Off[X]
+
+MCオン
+On[X]
+
+MCキーのみ
+Buttons[X]
+
+MCクラシック
+Classic[X]
+
+MCステレオ
+Stereo[X]
+
+MCタッチ
+Stylus[X]
+
+MCモノラル
+Mono[X]
+
+MCランダム
+Random[X]
+
+MC移動のみ
+Movement[X]
+
+MC個別
+By Unit[X]
+
+MC最速
+Max[X]
+
+MC手動
+Manual[X]
+
+MC切り替え
+Auto[X]
+
+MC速い
+Fast[X]
+
+MC遅い
+Slow[X]
+
+MC普通
+Norm[X]
+
+MD_オーム
+Use the Ohm staff?[X]
+
+MD_キャンセル
+Cancel?[X]
+
+MD_コピー
+Copy data?
+Previous data will be overwritten.[X]
+
+MD_サイレス
+Use the Silence staff?[X]
+
+MD_セーブ
+Save data?
+Previous data will be
+overwritten.[X]
+
+MD_セーブなし
+Proceed without saving?[X]
+
+MD_リザーブ
+Use the Fortify staff?[X]
+
+MD_溢捨てる
+Discard this item?[X]
+
+MD_溢輸送隊
+Send this item to the convoy?[X]
+
+MD_決定
+Is this okay?[X]
+
+MD_降参
+Surrender?[X]
+
+MD_再挑戦
+Make another challenge?[X]
+
+MD_捨てる
+Discard this item?[X]
+
+MD_初期化
+This will erase all save data,
+including your Nintendo WFC
+User Information. This includes
+your Friend Code, Nintendo WFC
+Friends, and all squads that
+you have created and received.
+Do you wish to proceed?[X]
+
+MD_初期化確認
+Are you sure you want to erase all data?[X]
+
+MD_消去
+Erase this data?[X]
+
+MD_進撃終了
+Conclude preparations?[X]
+
+MD_制圧
+Proceed to the next chapter?[X]
+
+MD_全預け
+Store all items in the convoy?[X]
+
+MD_中断
+Save the game in progress?
+(Resuming later will erase this data.)[X]
+
+MD_中断消去
+Suspend data will be lost. Proceed?[X]
+
+MD_通信終了
+End communications?[X]
+
+MD_賭金
+[SpecialText0x14]Wager [SpecialText0x14=0x30]G?[X]
+
+MD_統合
+Merge these items?[X]
+
+MD_統合オーバー
+Merge these items?
+(Surplus uses will be lost.)[X]
+
+MD_編成中止
+Cancel these changes?[X]
+
+MD_料金
+[SpecialText0x14]Pay [SpecialText0x14=0x30]G?[X]
+
+MD_練習終了
+Exit practice mode?[X]
+
+MEHL_ファイル
+Select a save file.[X]
+
+MIH_ユニット
+Select a unit.[X]
+
+MIH_リスト
+View a full list of items available for trade.[X]
+
+MIH_溢捨てる
+Too many items. Choose
+one to discard.[X]
+
+MIH_溢輸送隊
+Too many items. Send
+one to the convoy.[X]
+
+MIH_交換
+Trade items with another unit.[X]
+
+MIH_交換相手
+Select someone to trade with.[X]
+
+MIH_持ち物
+Equip or discard items.[X]
+
+MIH_全預け
+Store all this unit's items in the convoy.[X]
+
+MIH_統合
+Combine two identical items to restore uses.[X]
+
+MIH_輸送隊
+Store and retrieve items in the convoy.[X]
+
+MIM_外す
+Rmv[X]
+
+MIM_交換
+[0x88]T[0x88]r[0x88]a[0x88]d[0x88]e[X]
+
+MIM_使う
+Use[X]
+
+MIM_捨てる
+Drop[X]
+
+MIM_装備
+Equip[X]
+
+MIM_並替え
+Swap[X]
+
+MJH_カテゴリ
+Available Classes[X]
+
+MJH_ユニット
+Select a unit.[X]
+
+MLD_VCT_DISABLE
+Your opponent has mic chat disabled.[X]
+
+MLH_CARD
+Turn the use of cards on or off.[X]
+
+MLH_HANDICAP
+Set units to level up based on opponent's skill.[X]
+
+MLH_MAP
+Select a map on which to wage battle.[X]
+
+MLH_SCOUT
+Limit visibility to spaces surrounding your units.[X]
+
+MLH_TIME
+Set the time limit for each phase.[X]
+
+MLH_TURN
+Set the maximum number of turns.[X]
+
+MLH_VCT
+Hold down the L Button to use the microphone.[X]
+
+MLH_所有者
+Owner:[X]
+
+ML_NEW_TEAM
+Create Room[X]
+
+ML_TIME
+[SpecialText0x14][SpecialText0x14=0x30] mins.[X]
+
+ML_TITLE_CARD
+Cards[X]
+
+ML_TITLE_HANDICAP
+Autohandicap[X]
+
+ML_TITLE_MAP
+Map[X]
+
+ML_TITLE_SCOUT
+Fog of War[X]
+
+ML_TITLE_TIME
+Time Limit[X]
+
+ML_TITLE_TURN
+Turn Limit[X]
+
+ML_VCT_OFF
+Don't use mic chat[X]
+
+ML_VCT_ON
+Use mic chat[X]
+
+ML_WAIT_PARENT
+The host is setting the rules...[X]
+
+ML_確認
+Proceed?[X]
+
+MMMH_ガイド
+View information on the various nations and characters.[X]
+
+MMMH_環境
+Adjust game options.[X]
+
+MMMH_降参
+Surrender and end wireless play.[X]
+
+MMMH_指南
+Review tutorials on how the game is played.[X]
+
+MMMH_終了
+End the player phase. The enemy will move next.[X]
+
+MMMH_中断
+Suspend the game.[X]
+
+MMMH_部隊
+Display a list of your units.[X]
+
+MMMH_練習終了
+Exit this practice session.[X]
+
+MMMINFO_未行動
+Left:[X]
+
+MMMINFO_命令
+Orders[X]
+
+MMM_ガイド
+Guide[X]
+
+MMM_環境
+Options[X]
+
+MMM_降参
+Surrender[X]
+
+MMM_指南
+Tutorial[X]
+
+MMM_終了
+End[X]
+
+MMM_中断
+Suspend[X]
+
+MMM_部隊
+Units[X]
+
+MMM_練習終了
+Exit[X]
+
+MNIERROR_OVER
+You have reached the
+maximum name length.[X]
+
+MNI_英数字
+[0x88]H[0x88]i[0x88]r[0x88]a[0x88]g[0x88]a[0x88]n[0x88]a[X]
+
+MNI_漢字
+Kanji[X]
+
+MNI_削除
+Delete[X]
+
+MNI_終了
+Done[X]
+
+MNI_半角英数字
+[0x88]K[0x88]a[0x88]t[0x88]a[0x88]k[0x88]a[0x88]n[0x88]a[X]
+
+MNI_平仮名
+Large[X]
+
+MNI_片仮名
+Default[X]
+
+MSELH_対象選択
+Select a target.[X]
+
+MSELH_対象選択会話
+Select a unit to talk to.[X]
+
+MSELH_対象選択交換
+Trade items with a neighboring unit.[X]
+
+MSELH_対象選択杖
+Select a target. (Change staves with ┳┫ or ┻╋.)[X]
+
+MSELH_対象選択戦闘
+Select a target. (Change weapons with ┳┫ or ┻╋.)[X]
+
+MSELH_対象選択変身
+Select the unit to transform into.[X]
+
+MSELH_対象選択踊る
+Select a unit to dance for.[X]
+
+MSHOP_可
+Yes[X]
+
+MSHOP_決定
+Done[X]
+
+MSHOP_買う
+Buy[X]
+
+MSHOP_売る
+Sell[X]
+
+MSHOP_不可
+No[X]
+
+MSHOP_練成
+Forge[X]
+
+MSH_いつでもＦＥ
+Check in with your allies. Over
+time, they may have something
+to share with you.[X]
+
+MSH_ガイド
+View information on the various
+nations and characters.[X]
+
+MSH_コマンド
+Info[X]
+
+MSH_マップ
+Check battlefield terrain and the enemy
+units you will be facing. You can
+reposition your units, except Marth.[X]
+
+MSH_ユニット
+Select units to send into this battle.
+Only a certain number of units can fight
+in each battle, some units are mandatory.[X]
+
+MSH_ユニット編成
+Select units to send into
+battle. You can deploy
+up to five units.[X]
+
+MSH_位置変更
+Select two units to have them trade starting positions.[X]
+
+MSH_開始
+Begin the battle.
+(You can also press
+START to begin.)[X]
+
+MSH_環境
+Adjust game options like
+brightness and sound.[X]
+
+MSH_記録
+Save the preparations
+you have made.[X]
+
+MSH_拠点会話
+Speak with allies. Conversations
+are ranked based on importance.[X]
+
+MSH_訓練場
+Earn experience by practicing
+under real battle conditions.[X]
+
+MSH_持ち物
+Manage the items your units are carrying.
+(Any commands that are greyed out
+cannot be used at this time).[X]
+
+MSH_持ち物編成
+Manage the items your
+units are carrying.
+(Any commands that are
+greyed out cannot be
+used at this time).[X]
+
+MSH_武器屋
+Purchase weapons,
+staves, or magic tomes
+or sell unwanted items.
+You can also craft
+stronger weapons at
+the forge.[X]
+
+MSH_兵種変更
+Assign a new class to a unit. Some
+classes may not be available.[X]
+
+MSH_兵種変更編成
+Assign a new class to a
+unit. Some classes may
+not be available.[X]
+
+MSH_編成終了
+End your preparations.
+(You can also press
+START when finished.)[X]
+
+MSIM_リスト
+List[X]
+
+MSIM_交換
+[0x88]T[0x88]ra[0x88]d[0x88]e[X]
+
+MSIM_持ち物
+Items[X]
+
+MSIM_全預け
+[0x88]U[0x88]n[0x88]l[0x88]o[0x88]a[0x88]d[X]
+
+MSIM_統合
+[0x88]M[0x88]e[0x88]r[0x88]g[0x88]e[X]
+
+MSIM_輸送隊
+[0x88]C[0x88]o[0x88]n[0x88]v[0x88]o[0x88]y[X]
+
+MSM_いつでもＦＥ
+[0x88]H[0x88]o[0x88]w'[0x88]s [0x88]E[0x88]v[0x88]e[0x88]r[0x88]y[0x88]o[0x88]n[0x88]e[X]
+
+MSM_ガイド
+Guide[X]
+
+MSM_マップ
+View Map[X]
+
+MSM_ユニット
+Pick Units[X]
+
+MSM_開始
+Fight[X]
+
+MSM_環境
+Options[X]
+
+MSM_記録
+Save[X]
+
+MSM_拠点会話
+Talk[X]
+
+MSM_訓練場
+Drill Grounds[X]
+
+MSM_持ち物
+Inventory[X]
+
+MSM_武器屋
+Armory[X]
+
+MSM_兵種変更
+Reclass[X]
+
+MSM_編成終了
+Done[X]
+
+MSPMH_ウォッチ
+Select a door to open.[X]
+
+MSPMH_オーム
+Select one unit to resurrect.[X]
+
+MSPMH_レスキュー
+Select a unit to rescue.[X]
+
+MSPMH_ワープ
+Select a destination.[X]
+
+MTM_受
+Retrieve[X]
+
+MTM_預
+Store[X]
+
+MUH_ユニット
+Select units to deploy. (R button→Unit List)[X]
+
+MUH_進撃
+[SpecialText0x14][SpecialText0x14=0x30] more units.[X]
+
+MUListSort_Anime
+Anim[X]
+
+MUListSort_Job
+Class[X]
+
+MUListSort_Name
+Name[X]
+
+MUListSort_Weapon
+Wpn[X]
+
+MUList_Anime
+Animations[X]
+
+MUList_Exp
+E[X]
+
+MUList_Job
+Class[X]
+
+MUList_MHP
+Max[X]
+
+MUList_Name
+Name[X]
+
+MUList_Weapon
+Weapon[X]
+
+MUMH_Ｐ記録
+Save your progress. You can only use this savepoint once.[X]
+
+MUMH_ものまね
+Transform into a neighboring allied unit. The transformation lasts five turns.[X]
+
+MUMH_橋
+Lower this drawbridge so units may cross it.[X]
+
+MUMH_交換
+Trade items with a neighboring unit.[X]
+
+MUMH_攻撃
+Attack with an available weapon. (Shortcuts: ┳┫, ┻╋)[X]
+
+MUMH_攻撃_ADVANCE
+Attack with a weapon.[X]
+
+MUMH_持ち物
+Use, discard, or otherwise manage items.[X]
+
+MUMH_杖
+Use a staff. (Shortcuts: ┳┫, ┻╋)[X]
+
+MUMH_杖_ADVANCE
+Use a staff.[X]
+
+MUMH_制圧
+End the battle by securing this vital position.[X]
+
+MUMH_待機
+End this unit's turn.[X]
+
+MUMH_闘技場
+Visit the arena to test your might with gold at stake.[X]
+
+MUMH_道具屋
+Visit the vendor to buy and sell magic tomes, staves, and items.[X]
+
+MUMH_特殊杖
+Use a special staff.[X]
+
+MUMH_扉
+Open this door so units can pass through.[X]
+
+MUMH_秘密屋
+Visit this hidden shop to buy and sell weapons and items.[X]
+
+MUMH_武器屋
+Visit the armory to buy and sell weapons.[X]
+
+MUMH_宝箱
+Open this chest and claim the item inside.[X]
+
+MUMH_訪問
+Visit this village or home.[X]
+
+MUMH_輸送隊
+Summon the convoy to store and retrieve items.[X]
+
+MUMH_踊る
+Dance for a unit. Dancing allows a unit to move again.[X]
+
+MUMH_話す
+Talk to a neighboring unit. (Shortcuts: ┳┫, ┻╋)[X]
+
+MUMH_話す_ADVANCE
+Talk to a neighboring unit.[X]
+
+MUM_Ｐ記録
+Save[X]
+
+MUM_ものまね
+Imitate[X]
+
+MUM_橋
+Bridge[X]
+
+MUM_交換
+Trade[X]
+
+MUM_攻撃
+Attack[X]
+
+MUM_持ち物
+Item[X]
+
+MUM_杖
+Staff[X]
+
+MUM_制圧
+Seize[X]
+
+MUM_待機
+Wait[X]
+
+MUM_闘技場
+Arena[X]
+
+MUM_道具屋
+Vendor[X]
+
+MUM_特殊杖
+Special[X]
+
+MUM_扉
+Door[X]
+
+MUM_秘密屋
+S. Shop[X]
+
+MUM_武器屋
+Armory[X]
+
+MUM_宝箱
+Chest[X]
+
+MUM_訪問
+Visit[X]
+
+MUM_輸送隊
+Convoy[X]
+
+MUM_踊る
+Dance[X]
+
+MUM_話す
+Talk[X]
+
+MW_ニーナ到達
+Arrive[X]
+
+MW_ボス
+Kill Boss[X]
+
+MW_条件
+Goal[X]
+
+MW_制圧
+Seize[X]
+
+MW_全滅
+Rout[X]
+
