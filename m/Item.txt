@@ -587,7 +587,7 @@ MI_H_ARMORKILLER
 A sword effective against armored units.[X]
 
 MI_H_AURA
-The strongest light magic. For Linda.[X]
+Light magic for women (Linda can use at level E).[X]
 
 MI_H_BAMBOOSWORD
 A wooden practice sword. Weak, but easy to use.[X]
@@ -599,7 +599,7 @@ MI_H_BOLGANONE
 Superior magic used to attack with flames.[X]
 
 MI_H_BOOTS
-Shoes that increase movement by 4.[X]
+Shoes that increase movement by 2.[X]
 
 MI_H_BRAVEAXE
 An axe with which the wielder always strikes twice.[X]
@@ -672,7 +672,7 @@ MI_H_DRAGONLANCE
 A lance effective against dragons.[X]
 
 MI_H_DRAGONSHIELD
-A shield that increases defense by 4.[X]
+A shield that increases defense by 2.[X]
 
 MI_H_DRAGONSWORD
 A sword effective against dragons.[X]
@@ -695,7 +695,7 @@ MI_H_ENERGYDRINK
 Medicine that restores a lot of HP when used.[X]
 
 MI_H_EXCALIBUR
-The ultimate wind magic spell. For Marich.[X]
+Wind magic for men (Marich can use at level E).[X]
 
 MI_H_FALCHION
 A gift from the Divine Dragon King. For Marth.[X]
@@ -744,7 +744,7 @@ MI_H_GLOWER
 Superior magic that ignores resistance.[X]
 
 MI_H_GODDESSICON
-A statue that increases luck by 5.[X]
+A statue that increases luck by 2.[X]
 
 MI_H_GODDESSSTONE
 A divine dragonstone effective against dragons.[X]
@@ -915,7 +915,7 @@ MI_H_OGUMASWORD
 A sword owned by Oguma, mercenary of Talis.[X]
 
 MI_H_OM
-Revives a fallen ally. Yumina, etc. only.[X]
+Revives a fallen ally. Princesses only.[X]
 
 MI_H_PARTHIA
 A formidable bow, regalia of House Akaneia.[X]
@@ -927,7 +927,7 @@ MI_H_POLEAXE
 An axe weapon effective against cavalry.[X]
 
 MI_H_POWERDROP
-An item that increases strength by 4.[X]
+An item that increases strength by 2.[X]
 
 MI_H_POWERPOTION
 Magic +2 for the whole chapter when used.[X]
@@ -951,7 +951,7 @@ MI_H_QUICKSWORD
 A sword that's weak, but can attack twice in a row.[X]
 
 MI_H_RAPIER
-Strong against cavalry/armor. For Marth and Feena.[X]
+Strong against cavalry/armored units. For Marth.[X]
 
 MI_H_REBLOW
 A staff used to restore HP to a distant ally.[X]
@@ -967,7 +967,7 @@ MI_H_RELIVE
 Greatly restores HP to an adjacent ally.[X]
 
 MI_H_RESCUE
-Brings a distant ally to the user. For Yumina.[X]
+A special staff that returns an ally to the user.[X]
 
 MI_H_RESERVE
 A special staff used to restore HP to all allies.[X]
@@ -991,13 +991,13 @@ MI_H_SAGITTARIUS
 Skill +2 when held.[X]
 
 MI_H_SAJIMAJIAXE
-A lumber axe owned by Saji and Maji of Talis.[X]
+A lumber axe owned by Saji and Maji of Talys.[X]
 
 MI_H_SCORPIO
 Speed +2 when held.[X]
 
 MI_H_SECRETBOOK
-A book that increases skill by 5.[X]
+A book that increases skill by 2.[X]
 
 MI_H_SHAVER
 Magic that attacks with wind. Strong against fliers.[X]
@@ -1025,10 +1025,10 @@ MI_H_SLENDERSPEAR
 A throwing spear that can also attack from afar.[X]
 
 MI_H_SPEEDWING
-A feather that increases speed by 5.[X]
+A feather that increases speed by 2.[X]
 
 MI_H_SPIRITPOWDER
-Powder that increases magic by 4.[X]
+Powder that increases magic by 2.[X]
 
 MI_H_STARLIGHT
 The sole magic capable of thwarting Maph's power.[X]
@@ -1065,7 +1065,7 @@ MI_H_SWORDKILLER
 A sword effective against sword users.[X]
 
 MI_H_TALISMAN
-A charm that increases resistance by 3.[X]
+A charm that increases resistance by 2.[X]
 
 MI_H_TAURUS
 Strength +1, Defence +1 when held.[X]
@@ -1077,7 +1077,7 @@ MI_H_TECHPOTION
 Skill +2 for the whole chapter when used.[X]
 
 MI_H_THIEF
-A staff that can open chests. For Malliesia.[X]
+A staff that can open chests.[X]
 
 MI_H_THIEFKEY
 A key effective on any locked door, chest, or
@@ -1135,5 +1135,6 @@ A stone used to transform into a wyvern.[X]
 
 MI_H_YURUBRIZZAR
 A failed Blizzard tome. Weak, but raises critical.[X]
+
 
 
