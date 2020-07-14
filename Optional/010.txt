@@ -1,0 +1,187 @@
+S010_OP0
+[X]
+
+MS010_OP0_A
+[X]
+
+MS010_OP0_B
+[X]
+
+MS010_OP0_C
+[X]
+
+MS010_OP1
+[TargetRight][LoadPortrait=MARICH][LoadBackground=BBG11][TargetLeft][LoadPortrait=ELREAN][TargetLeft]Marich[FreezeMouth].[UnfreezeMouth]
+It's time to put an end to this.[A][ClearBox][TargetRight]Wait, Ellerean[FreezeMouth]![UnfreezeMouth][Pause=3]
+Why do we have to fight?[A][ClearBox]We were both Master Wendel's pupils:
+we're friends, are we not?
+Why do you despise me so?[A][ClearBox][TargetLeft]I was Master Wendel's disciple before you,
+and I was the stronger one.[A][ClearBox]Even so, Master Wendel gave you Excalibur.
+He should have given it to me![A][ClearBox]Why, Marich?
+Is it because you're a noble of Aritia?[A][ClearBox]Clearly, I was the only one worthy to be his
+successor, yet he[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Is that it? I'm sorry, Ellerean.
+But I have no intention of succeeding
+Master Wendel.[A][ClearBox]I hold no ill feelings for Khadein, but once I
+finish studying I plan to go home.[A][ClearBox]Back in Aritia, there is somebody I must
+protect for the rest of my life[FreezeMouth]...[UnfreezeMouth][A][ClearBox]That's why Master Wendel's successor
+can only be you.[A][ClearBox]So, Ellerean, please[FreezeMouth]![UnfreezeMouth][Pause=3]
+Why don't you join us so we can take back
+Aritia?[A][ClearBox][TargetLeft]Aritia, you say[FreezeMouth]?![UnfreezeMouth][A][ClearBox]Why should we help a country that rebelled
+against the empire and was invaded by them?[A][ClearBox]Why should I help them?
+The mage corps of Khadein have sworn
+allegiance to Emperor Hardin.[A][ClearBox]Oh, I see[FreezeMouth]...[UnfreezeMouth] I knew it was you[FreezeMouth]...[UnfreezeMouth][Pause=3]
+YOU dragged the Aritian army here[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]No[FreezeMouth]!![UnfreezeMouth][Pause=3]
+That's not how it is[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]Shut your mouth, traitor[FreezeMouth]!![UnfreezeMouth][Pause=3]
+I won't listen to your lies any longer[FreezeMouth]![UnfreezeMouth][A][ClearBox]Your Excalibur and my Thoron;
+we'll put them to the test[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS010_EV1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetRight]Everyone, we must rescue Marich[FreezeMouth]![UnfreezeMouth][Pause=3]
+However, the enemies include clerics who cannot fight.[A][ClearBox]It would seem that they are being
+threatened by the enemy. 
+Please, try not to hurt them.[A][ClearBox][X]
+
+MS010_TK1
+[TargetRight][LoadPortrait=WENDEL][LoadBackground=][TargetLeft][LoadPortrait=ELREAN][TargetRight]Ellerean[FreezeMouth]![UnfreezeMouth][Pause=3]
+What are you doing[FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetLeft]Master Wendel[FreezeMouth]...[UnfreezeMouth]
+You've returned...[A][ClearBox][TargetRight]You still don't understand my decision,
+do you?[A][ClearBox]Indeed, as a mage, your power surpasses
+mine.[A][ClearBox]But you lack compassion.[Pause=3]
+That is why I did not grant you Excalibur.[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth][Pause=3]
+Compassion[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetRight]I had decided that you were to be my
+successor when the time came.[A][ClearBox]To think you would harbor a grudge towards
+me[FreezeMouth]...[UnfreezeMouth] Does that not make you the same as
+Garnef?[A][ClearBox][TargetLeft]The same as Garnef[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Teacher[FreezeMouth]![UnfreezeMouth] What are you saying?[A][ClearBox][TargetRight]Ellerean, listen to me[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Garnef, along with Archbishop Miroa, were
+Lord Gato's best pupils.[A][ClearBox]But Lord Gato saw Garnef's weakness,
+and so he left Khadein and the Aura tome
+to Archbishop Miroa.[A][ClearBox]Garnef, overcome by jealousy, stole the
+Dark Orb from Lord Gato, and created
+the Maph tome.[A][ClearBox]As a result[FreezeMouth]...[UnfreezeMouth]
+His heart was trapped within the Dark Orb
+for all eternity.[A][ClearBox]Originally Garnef was a youth with a 
+strong sense of justice.
+Wrath and envy led him to ruin.[A][ClearBox][Pause=3]Do you understand now, Ellerean[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Teacher[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]That is all that I can say to you.
+I hope you will understand.
+You still have many things to learn,[A][ClearBox]and your will is too weak.
+Do you really intend on retreading
+Garnef's path?[A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Teacher[FreezeMouth]![UnfreezeMouth][Pause=3]
+I'm so sorry. 
+I[FreezeMouth]...[UnfreezeMouth] I was wrong.[A][ClearBox]Please[FreezeMouth]...[UnfreezeMouth] find it in your heart to forgive me[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Ellerean,[Pause=3] you will use that power of yours for
+the good of the people. 
+Understand[FreezeMouth]?[UnfreezeMouth][A][ClearBox][X]
+
+MS010_BT_JUCAPH
+[LoadBackground=][TargetLeft][LoadPortrait=ELREAN]I won't lose to someone like Marich.
+Anyone who sides with him is my enemy.[Pause=3]
+Thunder, strike them down[FreezeMouth]![UnfreezeMouth] Thoron[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+
+MS010_BT_JUCAPH_WENDEL
+[LoadBackground=][TargetLeft][LoadPortrait=ELREAN]Why does everyone side with HIM[FreezeMouth]...?[UnfreezeMouth][Pause=3]
+Even though[FreezeMouth]...[UnfreezeMouth] even though I'm stronger[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=WENDEL]How horrible[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Consumed by your hatred, you have
+forgotten what is truly important[FreezeMouth].[UnfreezeMouth][A][ClearBox][X]
+
+MS010_DIE_JUCAPH
+[LoadBackground=][TargetLeft][LoadPortrait=ELREAN]Master Wendel[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS010_ED2_PCF1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetLeft][LoadPortrait=JEIGUN]Sire, we've rescued the clerics that were
+threatened by the enemy.[A][ClearBox][TargetRight][FaceCommand=0x73]Excellent.[Pause=3][A][ClearBox][TargetLeft]As thanks, they have offered to give us this.[A][ClearBox][X]
+
+MS010_ED2_PCM1
+[SpecialText0x14][TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetLeft][LoadPortrait=JEIGUN]Sire, we've rescued the clerics that were
+threatened by the enemy.[A][ClearBox][TargetRight][FaceCommand=0x73]Excellent.[Pause=3][A][ClearBox][TargetLeft]As thanks, they have offered to give us this.[A][ClearBox][X]
+
+MS010_ED1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][Pause=4][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS010_ED1_1
+[Fade=48][EyeCommand=f2][TargetLeft][LoadPortrait=S_GATO][EyeCommand=f0][Fade=16][TargetLeft]Marth[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Do you hear me[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetRight]Lord Gato[FreezeMouth]![UnfreezeMouth]
+Yes, I can[FreezeMouth].[UnfreezeMouth][Pause=3] You are speaking to me through
+magic, are you not?[A][ClearBox][TargetLeft]Yes... You summoned me?
+I will share with you my strength.
+What is it that you wish for?[A][ClearBox][TargetRight]Lord Gato, I must ask:[Pause=3] what has happened
+to cause Hardin to suddenly change so
+much? And what power is protecting him?[A][ClearBox][TargetLeft]Hmm[FreezeMouth]...[UnfreezeMouth] The Dark Orb is the culprit[FreezeMouth]...[UnfreezeMouth][Pause=3]
+The Dark Orb is what's shielding Hardin[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]The Dark Orb?[Pause=3]
+What on earth is that?[A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS010_ED1_2
+[TargetLeft]Hmmm... I have no choice but to tell you.
+Light, Star, Earth, Life and Darkness[FreezeMouth]...[UnfreezeMouth][Pause=3]
+In this world, there exist five sacred orbs.[A][ClearBox]Aside from the Light, Star and Earth Orbs,
+there is also the Life Orb
+and what is known as the Dark Orb.[A][ClearBox]The Dark Orb opposes the Light Orb,
+and it can greatly increase the
+strength of one's mind.[A][ClearBox]It can give its owner courage,
+release them from suffering, and increase
+their ambitions and wishes.[A][ClearBox]In battle, it possesses the enemy's mind,
+negating their attacks.[A][ClearBox]But, the Dark Orb is too dangerous for
+humans to use. It also amplifies wrath and
+envy, causing them to increase tenfold.[A][ClearBox]Eventually it will destroy their soul
+and turn them into a demon.[A][ClearBox]Hardin must have obtained the Dark Orb
+from somewhere[FreezeMouth]...[UnfreezeMouth]
+And now his heart has been lost to it.[A][ClearBox][TargetRight]But why[FreezeMouth]?[UnfreezeMouth][Pause=3] Hardin isn't such a weak man.
+He should have been happy after
+his union with his beloved Princess Nina,[A]
+so why the envy[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]Prince[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Humans are never simple creatures[FreezeMouth]...[UnfreezeMouth][A][ClearBox]But regardless, as long as Hardin has
+the Dark Orb you cannot win.[A][ClearBox]The only object that can overcome Hardin's
+Dark Orb is the Light Orb.[A][ClearBox]If you want to do something about him,
+then you had best come and get it from me.[A][ClearBox][TargetRight]Huh? Really, Lord Gato[FreezeMouth]?[UnfreezeMouth][Pause=3]
+If we have the Light Orb then we can
+save Hardin[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]Well[FreezeMouth]...[UnfreezeMouth][Pause=3] If his heart is not completely consumed,
+then perhaps. But that depends on whether
+Hardin is as strong-willed as you say...[A][ClearBox][TargetRight]Lord Gato[FreezeMouth]![UnfreezeMouth][Pause=3]
+Please, lend the Light Orb to me.[A][ClearBox][TargetLeft]If you come in person to the Ice Dragons'
+Temple where I reside, then you shall have it.[A][ClearBox]But that will be no easy task.[A][ClearBox]There has only been one human that
+has ever made it here.
+That's right... The hero Anri.[A][ClearBox]If you, like Anri, are a true hero,
+I will lend you the Orb.[A][ClearBox]So, Marth.[Pause=3]
+Do you have the courage to walk the path
+that Anri walked?[A][ClearBox][TargetRight]Yes, I do[FreezeMouth]![UnfreezeMouth] I will go[FreezeMouth]!![UnfreezeMouth][Pause=3]
+Please, allow me to go[FreezeMouth]![UnfreezeMouth][A][ClearBox]I must have the Light Orb[FreezeMouth]![UnfreezeMouth][A][ClearBox]
+[TargetLeft]Then, first head directly north,
+across the Marmotord Desert,
+and then come to Thebes Tower.[A][ClearBox]I will have somebody meet you there.[A][ClearBox]
+[TargetRight]Okay, I understand.
+I'll be there for sure!![A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS010_ED2_ADD
+[X]
+
+MS010_ED2_ADD_A
+[X]
+
+MS010_ED2_ADD_B
+[X]
+
+MS010_ED2_ADD_C
+[X]
+
+MS010_ED_BS
+[TargetRight][LoadPortrait=JEIGUN][TargetLeft][LoadPortrait=MARIS][LoadBackground=BBG11]Hey, can I talk to you for a second?[Pause=3]
+I came here 'cause I heard Marth's group
+was passing by, but, erm[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Sorry, who are you?[A][ClearBox][TargetLeft]I'm Maris.
+A mercenary, and not a cheap one.[A][ClearBox]I'd like to ask you something:
+is yer prince okay with paying gold?[A][ClearBox]Oh, of course, it's okay if I have to wait
+until this war's over.[Pause=3]
+So, erm[FreezeMouth]...[UnfreezeMouth][A][ClearBox]If you, er, paid us, say[FreezeMouth]...[UnfreezeMouth] 590 gold for our
+services, that ought to do, I think.[A][ClearBox][TargetRight]Huh? If it's only that much, then
+Prince Marth would gladly pay[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FaceCommand=0x73]Phew[FreezeMouth]![UnfreezeMouth] The rumors are true.[Pause=3]
+He's completely different from all our
+employers up till now. Right, Pops?[A][ClearBox][TargetLeft][LoadPortrait=DICE][FaceCommand=0x73]He IS different.[Pause=3]
+Looks like we hit the jackpot coming to this
+desert.[A][ClearBox]I'm Dice.[Pause=3]
+On behalf of the both of us,
+it's great to be in your service.[A][ClearBox][Unknown0x4=F][X]
+
+MS010_ED3
+[X]
+
+MS010_ED3_Y
+[X]

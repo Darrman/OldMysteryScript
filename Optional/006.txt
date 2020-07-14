@@ -1,0 +1,226 @@
+MS006_OP0
+[X]
+
+MS006_OP0_A
+[X]
+
+MS006_OP0_B
+[X]
+
+MS006_OP0_C
+[X]
+
+MS006_OP1
+[TargetLeft][LoadPortrait=RANG][LoadBackground=BBG11][FaceCommand=0x73]Heh heh heh[FreezeMouth]...[UnfreezeMouth]
+So the Aritians have come.[A][ClearBox]Reinforcements are arriving soon;[Pause=3]
+if we can hold out a little longer,
+we can make a pincer attack.[A][ClearBox][TargetRight][LoadPortrait=NABARL][TargetLeft][FaceCommand=0x61]Swordsman Navarre.[Pause=3]
+When they open that door, you make your
+move.[A][ClearBox]There is no need for restraint;[Pause=3]
+slice them to pieces[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight]Yeah[FreezeMouth]...[UnfreezeMouth] Sure.[Pause=3]
+Though the knights of Aritia are hardly
+worthy enemies.[A][ClearBox][TargetLeft][FaceCommand=0x73]Oh-ho[FreezeMouth]![UnfreezeMouth] That's my Navarre.[Pause=3]
+They say not even Oguma of Talis is your
+equal.[A][ClearBox][TargetRight]What? Oguma[FreezeMouth]?![UnfreezeMouth][Pause=3]
+N[FreezeMouth]...[UnfreezeMouth] Naturally[FreezeMouth]...[UnfreezeMouth]
+A guy like him is no match for me.[A][ClearBox][TargetLeft]I see.[Pause=3] Glad to hear it.[Pause=3]
+[FaceCommand=0x61]Then I'll leave this place in your capable
+hands, Navarre[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS006_EV0
+[LoadBackground=MARS][TargetLeft][LoadPortrait=JEIGUN][TargetRight][LoadPortrait=MARS][TargetLeft]Sire, there seems to be movement near
+the front of the castle.[Pause=3] And it would
+appear to be moving towards our forces.[A][ClearBox][TargetRight]Are they enemy reinforcements?[Pause=3]
+Or allies to our cause[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft]I do not know, but[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I do hope they are allies.[A][ClearBox][X]
+
+MS006_EV1
+[LoadBackground=BBG01][TargetRight][LoadPortrait=FREY]Sire[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=MARS][FaceCommand=0x73]Frey[FreezeMouth]![UnfreezeMouth][Pause=3]
+Thank goodness you're safe.[A][ClearBox][TargetRight]You too, sire.
+Norne and I escaped from Aritia Castle
+and we rode here as fast as we could.[A][ClearBox][TargetRight][LoadPortrait=NORN]But the rest of our forces were scattered[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I'm sorry we couldn't all make it.[A][ClearBox][TargetLeft]You don't have to apologize,
+I'm just glad that you're safe.[Pause=3]
+The others can take care of themselves.[A][ClearBox][TargetRight][LoadPortrait=FREY]Sire.[Pause=3]
+From here on we shall accompany you.[Pause=3]
+Please give us your orders.[A][ClearBox][TargetRight][LoadPortrait=NORN]Oh, and please be careful[FreezeMouth]![UnfreezeMouth][Pause=3]
+I caught a glimpse of enemy troops
+approachin' the castle behind us.[A][ClearBox]I expect they'll be enterin' the castle soon.[A][ClearBox][TargetLeft][FaceCommand=0x61]Enemy reinforcements?[Pause=3]
+I understand. Thank you.[A][ClearBox][X]
+
+MS006_TK1
+[TargetLeft][LoadPortrait=RICARD][LoadBackground=][TargetRight][LoadPortrait=JURIAN]Hey, Ricardo[FreezeMouth]![UnfreezeMouth][Pause=3]
+I see you haven't tired of stealin'.[A][ClearBox][TargetLeft][FaceCommand=0x73]Ah![Pause=3] Chief!
+How nice to see ya.[A][ClearBox][FaceCommand=0x61]Well,[Pause=3] I was plannin' on workin' with you[Pause=3] and
+makin' loadsa money,[Pause=3] but you had to go and
+quit the business![A][ClearBox]Fallin' head over heels for that beautiful
+cleric,[Pause=3] and then dumpin' me[FreezeMouth]...[UnfreezeMouth]
+That's just too cruel![A][ClearBox]Did our love really mean that little to you?[A][ClearBox][TargetRight]Can it,[Pause=3] you little fink[FreezeMouth]!![UnfreezeMouth][Pause=3]
+People'll get the wrong idea about us,[Pause=3]
+if you keep talkin' like that.[A][ClearBox]Anyway,[Pause=3] forget about thievin' and come with
+me to fight for justice.[A][ClearBox][TargetLeft][FaceCommand=0x73]Hmm[FreezeMouth]...[UnfreezeMouth][Pause=3] alright then![A][ClearBox]I'll follow you anywhere.[Pause=3]
+I do adore ya,[Pause=3] Chief![A][ClearBox][X]
+
+MS006_TK2
+[TargetLeft][LoadPortrait=NABARL][LoadBackground=][TargetRight][LoadPortrait=SHEEDA]Navarre, please hear me out[FreezeMouth]![UnfreezeMouth][Pause=3]
+Lend your sword to our cause,[Pause=3] just once
+more[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft]What[FreezeMouth]?[UnfreezeMouth][Pause=3] Who are you?
+I'll have no business with women or children[FreezeMouth]...[UnfreezeMouth][A][ClearBox]But, there's a first for everything...
+(Whoa, she's smoking!)
+What business do you have with me?[A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS006_TK2_01
+[TargetRight][FreezeMouth]......[UnfreezeMouth]
+Y-you're not Navarre[FreezeMouth]![UnfreezeMouth][Pause=3]
+Who are you?[A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS006_TK2_02
+[TargetLeft][LoadPortrait=SAMTO][FaceCommand=0x73]Yikes, I've been exposed, huh?[Pause=3]
+I'm actually a stingy mercenary known as
+Samto.[A][ClearBox]Somehow, I keep getting mistaken for this
+famous "Navarre" swordsman guy.[A][ClearBox]I got tired of it after a while, so I decided
+to pose as him and got myself hired.[A][ClearBox]But I don't like this General Lang guy either.[Pause=3][A][ClearBox]If you're alright with it, I'll lend you my sword.[A][ClearBox][TargetRight][FaceCommand=0x73]Yes[FreezeMouth]...[UnfreezeMouth][Pause=3]
+You'll do just fine[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS006_TK3
+[TargetLeft][LoadPortrait=NABARL][LoadBackground=][TargetRight][LoadPortrait=OGUMA]Navarre[FreezeMouth]...[UnfreezeMouth]
+You bastard[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft]Stay away[FreezeMouth]...[UnfreezeMouth][Pause=3] This evening, my killing edge
+hungers for blood[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Do you mean to kill me, no matter what?[A][ClearBox]Hmph,[Pause=3] very well.[Pause=3]
+I knew that[Pause=3] we'd have to settle our score
+eventually.[A][ClearBox]
+[FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS006_TK3_01
+[TargetLeft][LoadPortrait=SAMTO]Wait[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Stay your blade[FreezeMouth]![UnfreezeMouth]
+[FreezeMouth]...[UnfreezeMouth]I'm no Navarre, I'm just a sham.[A][ClearBox][FaceCommand=0x73]I[FreezeMouth]...[UnfreezeMouth] It's me, Samto.[Pause=3]
+Have you forgotten, Oguma?[A][ClearBox][TargetRight][FaceCommand=0x61]Samto[FreezeMouth]?![UnfreezeMouth][Pause=3]
+Samto, the gladiator from Knorda?[A][ClearBox][TargetLeft][FaceCommand=0x73]Yes,[Pause=3] I was a slave gladiator at the time,[Pause=3]
+and you really helped me out.[A][ClearBox][FaceCommand=0x61]Even when everyone was making their
+escape, you stayed behind to distract
+the guards and ended up caught[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FreezeMouth]......[UnfreezeMouth][A][ClearBox][TargetLeft]I heard everything[Pause=3] from my friends.[A][ClearBox]How you were dragged out to the square[Pause=3]
+and whipped until you looked like a corpse.[A][ClearBox]Even then, you didn't say anything
+about our whereabouts.[A][ClearBox]How, by chance,[Pause=3] the young Princess Talis,
+tears in her eyes, stood up for you and
+saved you.[A][ClearBox]And that's why you swore your blade
+to Talis.[A][ClearBox]Or rather[FreezeMouth]...[UnfreezeMouth] to the princess[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight]Enough[FreezeMouth]...[UnfreezeMouth][Pause=3] Say no more[FreezeMouth]![UnfreezeMouth][Pause=3]
+[EyeCommand=ec]No more.[Pause=3] It's in the past now[FreezeMouth]...[UnfreezeMouth]
+No more[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetLeft][FreezeMouth]...[UnfreezeMouth]Oguma[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Anyway,[Pause=3] I want to repay you[FreezeMouth]![UnfreezeMouth][Pause=3]
+I'm following you from now on, okay[FreezeMouth]?[UnfreezeMouth][A][ClearBox][X]
+
+MS006_BT_BOSS
+[TargetLeft][LoadPortrait=RANG][LoadBackground=]W-wait, please![Pause=3]
+I'm sorry[FreezeMouth]...[UnfreezeMouth] Please forgive me[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I've only done[Pause=3] as the Emperor ordered me to.[A][ClearBox]I didn't agree with him,[Pause=3] but I had no choice.[A][ClearBox]So[FreezeMouth]...[UnfreezeMouth] so please, s-spare my life[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I'll do anything you say.[Pause=3]
+Yes[FreezeMouth]...[UnfreezeMouth] Just like this[FreezeMouth]...[UnfreezeMouth][A][ClearBox][FaceCommand=0x73]Mwahaha[FreezeMouth]![UnfreezeMouth]
+You shouldn't have let your guard down[FreezeMouth]![UnfreezeMouth][Pause=3]
+You fool[FreezeMouth]...[UnfreezeMouth] Now die[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS006_BT_BOSS_MARS
+[TargetRight][LoadPortrait=MARS][LoadBackground=]General Lang, I have[SpecialSymbol=0x96]with my own eyes[SpecialSymbol=0x96]
+witnessed a number of your crimes.[A][ClearBox]I cannot forgive you.[Pause=3]
+But if you have something to say,
+I will listen.[A][ClearBox][TargetRight][RemovePortrait][TargetLeft][LoadPortrait=RANG]S-silence... silence[FreezeMouth]![UnfreezeMouth][Pause=3]
+You damned country-boy prince[FreezeMouth]![UnfreezeMouth][A][ClearBox]You're a fool for coming here[FreezeMouth]![UnfreezeMouth][Pause=3]
+Just die already[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=MARS]Is that your answer?[Pause=3]
+Then prepare yourself[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS006_BT_BOSS_PC_PCF1
+[TargetLeft][LoadPortrait=RANG][LoadBackground=]Y-you[FreezeMouth]![UnfreezeMouth]
+You're that impertinent little girl from
+before[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=PLAYER]Lang[FreezeMouth]![UnfreezeMouth]
+You have oppressed countless people,
+and insulted my liege.[A][ClearBox]You can only atone for these sins with your
+life[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][TargetLeft][LoadPortrait=RANG]W[FreezeMouth]...[UnfreezeMouth] Why you[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS006_BT_BOSS_PC_PCM1
+[TargetLeft][LoadPortrait=RANG][LoadBackground=]Y-you[FreezeMouth]![UnfreezeMouth]
+You're that impertinent little boy from
+before[FreezeMouth]...[UnfreezeMouth][FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][TargetRight][LoadPortrait=PLAYER]Lang[FreezeMouth]![UnfreezeMouth]
+You have oppressed countless people,
+and insulted my liege.[A][ClearBox]You can only atone for these sins with your
+life[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][RemovePortrait][TargetLeft][LoadPortrait=RANG]W[FreezeMouth]...[UnfreezeMouth] Why you[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS006_BT_RICARD
+[TargetLeft][LoadPortrait=RICARD][LoadBackground=]Chief, where aaare ya?[A][ClearBox][X]
+
+MS006_BT_SAMTO
+[TargetLeft][LoadPortrait=NABARL][LoadBackground=]I pity your soul.
+But I can at least grant you a quick death.
+Take this[FreezeMouth]![UnfreezeMouth] My killing edge[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+
+MS006_DIE_BOSS
+[TargetLeft][LoadPortrait=RANG][LoadBackground=]Urgh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Impossible[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I have been[Pause=3] defeated[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS006_DIE_RICARD
+[TargetLeft][LoadPortrait=RICARD][LoadBackground=]Tch.[Pause=3] Man, I messed up big time.[A][ClearBox][X]
+
+MS006_DIE_SAMTO
+[TargetLeft][LoadPortrait=SAMTO][LoadBackground=]Doh, I shouldn't have said that I was
+Navarre[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS006_ED1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetLeft][LoadPortrait=JEIGUN]Your highness! We've found Bishop Wendel
+held captive in the castle.[A][ClearBox][TargetLeft][LoadPortrait=WENDEL][TargetRight][FaceCommand=0x73]Lord Wendel[FreezeMouth]![UnfreezeMouth][Pause=3] Thank goodness you're unharmed.
+When I heard you were taken from the
+village in Macedonia, I was really worried.[A][ClearBox][TargetLeft][FaceCommand=0x61]Lang wanted me to help him deal with the
+Grunian rebellion, so he took me here.[A][ClearBox][TargetRight]But, as the archbishop of Khadein, and with
+your power, you shouldn't need to fear Lang.[A][ClearBox][TargetLeft]I don't like using magic in battle. I
+already left the magic city, Khadein, in the
+care of two youths, Marich and Ellerean.[A][ClearBox]I left because I must fulfill a
+mission assigned to me by Archsage Gato[FreezeMouth]...[UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]A mission from Lord Gato?
+So are you travelling the continent?[A][ClearBox][TargetLeft]That's correct[FreezeMouth]...[UnfreezeMouth][A][ClearBox]You have seen the "Star Orb"[SpecialSymbol=0x96]
+the holy orb with the twelve constellations
+etched on its surface.[A][ClearBox]In order to pierce Garnef's shadowy veil,
+Lord Gato created a sacred spell named
+"Starlight" from that orb.[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS006_ED1_2
+[TargetLeft]Unfortunately,[Pause=3] the strain on the Star Orb
+was so severe that it shattered into twelve
+shards, which scattered into the sky.[A][ClearBox]Lord Gato told me that this world has long
+been guarded by five orbs of mysterious
+arcane power,[A][ClearBox]and that if even one of them is lost,
+the world will fall into irreparable ruin.[A][ClearBox]And right now, the Star Orb has been broken.
+Therefore, even now the world is decaying.[A][ClearBox]By any means possible, we must gather the
+twelve star shards and restore the
+Star Orb. Unfortunately, I was captured[A][ClearBox]and the fragments that I laboriously collected
+were taken by the imperial soldiers.
+Prince Marth.[A][ClearBox]I realise that I cannot complete my
+mission just by myself. Can you aid
+me in my quest?[A][ClearBox][TargetRight]Is[FreezeMouth]...[UnfreezeMouth][Pause=3] Is this a joke[FreezeMouth]?[UnfreezeMouth]
+That the world could just end...
+This is all very hard to take in.[A][ClearBox]But aren't these the star shards?[A][ClearBox]If so, we already have a few.[A][ClearBox]After we retake Aritia, we'd be glad to help
+you find the remaining shards and orbs.[A][ClearBox]Can you wait until then?[A][ClearBox][TargetLeft]Of course[FreezeMouth]...[UnfreezeMouth][Pause=3]
+Your country was only just invaded by the
+Empire[FreezeMouth]...[UnfreezeMouth][A][ClearBox]I am deeply sorry.
+My request was a little selfish.[A][ClearBox][FaceCommand=0x73]I understand, Prince[FreezeMouth]...[UnfreezeMouth][Pause=3]
+I too shall fight to restore Aritia, then.[A][ClearBox][TargetRight]Huh?
+Bishop, can you really help us fight?
+What about Gato's mission...?[A][ClearBox][TargetLeft]Thinking about it, my meeting with you
+is like a sign from Lord Gato himself.[A][ClearBox]In that case, I shall surrender myself to fate.[A][ClearBox][FaceCommand=0x61]But, please, let's stop by the Raman Temple.[A][ClearBox]We may be able to find some star shards in
+the ancient temple.[A][ClearBox][TargetRight][FaceCommand=0x73]Understood.[Pause=3]
+If it's the Raman Temple, we can go there
+on our way to Aritia[FreezeMouth]![UnfreezeMouth][A][ClearBox]We'll head there immediately!![A][ClearBox]
+[Fade=40][X]
+
+MS006_ED1_ADD
+[X]
+
+MS006_ED1_ADD_A
+[X]
+
+MS006_ED1_ADD_B
+[X]
+
+MS006_ED1_ADD_C
+[X]
+
+MS006_ED2
+[X]
+
+MS006_ED2_Y
+[X]

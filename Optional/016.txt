@@ -1,0 +1,158 @@
+MS016_OP0
+[X]
+
+MS016_OP0_A
+[X]
+
+MS016_OP0_B
+[X]
+
+MS016_OP0_C
+[X]
+
+MS016_OP1_1_PCF1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG01]How disgraceful[FreezeMouth]...[UnfreezeMouth]
+Thieves inside our fair castle?[A][ClearBox]What if they've stolen the Earth Orb[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]Sire, we've sighted a suspicious-looking
+thief making his way north.[Pause=3]
+We should capture him before it's too late.[A][ClearBox][TargetRight]Mmm, but we can use horses and Pegasi
+inside, so what should we do...[A][ClearBox][X]
+
+MS016_OP1_1_PCM1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG01]How disgraceful[FreezeMouth]...[UnfreezeMouth]
+Thieves inside our fair castle?[A][ClearBox]What if they've stolen the Earth Orb[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft][LoadPortrait=JEIGUN]Sire, we've sighted a suspicious-looking
+thief making his way north.[Pause=3]
+We should capture him before it's too late.[A][ClearBox][TargetRight]Mmm, but we can use horses and Pegasi
+inside, so what should we do...[A][ClearBox][X]
+
+MS016_OP1_2
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG01][TargetLeft][LoadPortrait=MISHRAN]Prince Marth.[Pause=3]
+Please, hold on.[A][ClearBox][TargetRight]Mishelan[FreezeMouth]![UnfreezeMouth][Pause=3]
+Did you come here with Tomth?[A][ClearBox][TargetLeft]Correct. Tomth and I are going
+to be your reinforcements.[Pause=3]
+Akaneia has nothing left for me.[A][ClearBox]For the justice that I believe in,
+allow me to fight by your side again,
+Prince Marth.[A][ClearBox][X]
+
+MS016_TK1
+[TargetRight][LoadPortrait=JORJUE][LoadBackground=][TargetLeft][LoadPortrait=ASTRIA][TargetRight][FaceCommand=0x73]Astria![A][ClearBox][TargetLeft][FaceCommand=0x61]Well, if it isn't the turncoat, George.[Pause=3]
+What form of death would you prefer?[A][ClearBox][TargetRight][FaceCommand=0x73]H-hold your sword, Astria.[Pause=3] General Eibel
+has already fallen. Even if you fight
+here, you've no chance of winning.[A][ClearBox][TargetLeft][FaceCommand=0x61]You would have me surrender[FreezeMouth]...?[UnfreezeMouth][A][ClearBox]Never[FreezeMouth]![UnfreezeMouth] Though I may be the last
+man standing, I shall fight on.[Pause=3]
+I am a soldier of Akaneia[FreezeMouth]![UnfreezeMouth][A][ClearBox][TargetRight][FaceCommand=0x61]Why do you fight[FreezeMouth]?[UnfreezeMouth]
+For whom?
+Emperor Hardin?[A][ClearBox][TargetLeft]I think not[FreezeMouth]![UnfreezeMouth]
+Not for him.[A][ClearBox]For Princess Nina[FreezeMouth]...[UnfreezeMouth]
+For Akaneia[FreezeMouth]!![UnfreezeMouth][A][ClearBox][TargetRight]Then tell me, was it Princess Nina
+who ordered you to arms?[A][ClearBox]Do you honestly believe that Princess
+Nina would wish for a war like this?[A][ClearBox][TargetLeft]She[FreezeMouth]...![UnfreezeMouth]
+I have not seen the princess in some time.[A][ClearBox]She has been ill of late.[A][ClearBox]Hardin is the ruler of Akaneia and my liege.
+I've no choice but to obey.[A][ClearBox]If I do not, then I betray Akaneia.[Pause=3]
+And I betray Princess Nina.[A][ClearBox][TargetRight]Astria, Princess Nina entrusted Marth
+with the Fire Emblem.[A][ClearBox]Do you understand what that entails?[A][ClearBox][TargetLeft]C-come again[FreezeMouth]?![UnfreezeMouth][Pause=3]
+What are you trying to tell me, George?[A][ClearBox]Are you suggesting that Princess
+Nina asked Prince Marth for help?[A][ClearBox][TargetRight]Is there any other reason?[A][ClearBox]Come with us, Astria.
+See the truth with your own eyes.[A][ClearBox]If you die here, how would Midia feel?[A][ClearBox]Live, Astria, for her.[Pause=3]
+Live, and face the truth of what
+has come to pass.[A][ClearBox][TargetLeft]Hmm[FreezeMouth]...[UnfreezeMouth] I suppose it is unavoidable.[Pause=3]
+But, George[SpecialSymbol=0x96][A][ClearBox]Should I learn that this war is a
+product of Marth's ambition,
+as Emperor Hardin claims[FreezeMouth]...[UnfreezeMouth][A][ClearBox]Heads will roll[FreezeMouth].[UnfreezeMouth]
+Am I clear[FreezeMouth]?[UnfreezeMouth][A][ClearBox][X]
+
+MS016_EV1
+[LoadBackground=BBG11][TargetLeft][LoadPortrait=WILLOW][TargetRight][LoadPortrait=SOLDIER_RED][TargetRight][FaceCommand=0x61]Lord Willow, permission to open the
+door and attack[FreezeMouth]?[UnfreezeMouth][A][ClearBox][TargetLeft]Wait.[Pause=3]
+Don't be so hasty.[A][ClearBox]Inform me as soon as any of the chests
+in the treasury are opened.[Pause=3]
+We will sortie the moment that happens.[A][ClearBox]Both the thieves and the Aritians will
+want their greasy hands on the loot.[A][ClearBox]While they're busy trying to unload
+the chests, we will take that chance
+and attack.[Pause=3][A][ClearBox]Heh heh[FreezeMouth]...[UnfreezeMouth][Pause=3]
+This is a battle of intellect, not brawn.[A][ClearBox]Don't forget[FreezeMouth]![UnfreezeMouth][Pause=3]
+Attack when the chests are sprung[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS016_EV2
+[LoadBackground=BBG11][TargetLeft][LoadPortrait=WILLOW][TargetRight][FaceCommand=0x73]What's that?
+The chests have been sprung?[Pause=3]
+Now! Open the door[FreezeMouth]![UnfreezeMouth][Pause=3][A][ClearBox]Heh heh heh!
+Their panicked faces will be glorious[FreezeMouth]![UnfreezeMouth][A][ClearBox][X]
+
+MS016_BT_ASTRIA
+[TargetLeft][LoadPortrait=ASTRIA][LoadBackground=]Traitors[FreezeMouth]![UnfreezeMouth][Pause=3]
+You will feel Miracle's bite[FreezeMouth]!![UnfreezeMouth][A][ClearBox][X]
+
+MS016_BT_BOSS
+[LoadBackground=BBG11][TargetLeft][LoadPortrait=WILLOW][FaceCommand=0x73]Ahaha[FreezeMouth]![UnfreezeMouth][Pause=3]
+Perhaps it is time you realize[FreezeMouth]...[UnfreezeMouth][Pause=3]
+The terror of Meteor[FreezeMouth]...![UnfreezeMouth][A][ClearBox][X]
+
+MS016_DIE_ASTRIA
+[LoadBackground=][TargetLeft][LoadPortrait=ASTRIA]Midia[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS016_DIE_BOSS
+[LoadBackground=BBG11][TargetLeft][LoadPortrait=WILLOW]Please forgive me, my liege[FreezeMouth]...[UnfreezeMouth][A][ClearBox][X]
+
+MS016_ED1_01_PCF1
+[Fade=48][EyeCommand=f2][EyeCommand=f0][Fade=16][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS016_ED1_01_PCM1
+[Fade=48][EyeCommand=f2][TargetLeft][LoadPortrait=S_GATO][EyeCommand=f0][Fade=16][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS016_ED1_PCF1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetLeft][LoadPortrait=JEIGUN][TargetLeft]Sire.[Pause=3]
+We have routed the enemy.[A][ClearBox]At last, Aritia is ours once more.[A][ClearBox][TargetRight]Yes, it's a wondrous feeling.[Pause=3]
+But is there news of Ellis[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS016_ED1_PCM1
+[TargetRight][LoadPortrait=MARS][LoadBackground=BBG11][TargetLeft][LoadPortrait=JEIGUN][TargetLeft]Sire.[Pause=3]
+We have routed the enemy.[A][ClearBox]At last, Aritia is ours once more.[A][ClearBox][TargetRight]Yes, it's a wondrous feeling.[Pause=3]
+But is there news of Ellis[FreezeMouth]...?[UnfreezeMouth][A][ClearBox][TargetLeft][RemovePortrait][FaceCommand=0x40][FaceCommand=0x68][X]
+
+MS016_ED1_02_PCF1
+[TargetLeft][LoadPortrait=S_GATO]Prince Marth[FreezeMouth]...[UnfreezeMouth]
+Can you hear me?[A][ClearBox]I hate to be the bearer of bad tidings,
+but it would seem that Princess Ellis
+has been kidnapped by Garnef.[A][ClearBox][TargetRight]Lord Gato[FreezeMouth]...[UnfreezeMouth] Do you speak truly[FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetLeft]I have found out that Garnef
+commanded his priests to search for
+clerics of noble birth.[A][ClearBox][TargetRight][LoadPortrait=MARS][TargetLeft]It is most likely that Rena, Maria, and your
+sister were spirited away by Garnef[FreezeMouth].[UnfreezeMouth][A][ClearBox][TargetRight]It can't be[FreezeMouth]![UnfreezeMouth][A][ClearBox]What does he intend to do with them!?[A][ClearBox][TargetLeft]That, I do not know.[Pause=3]
+But something foul is on the cards.[A][ClearBox]There can be no doubt of Garnef's
+involvement in this series
+of unfortunate events.[A][ClearBox][TargetRight]Lord Gato[FreezeMouth]![UnfreezeMouth]
+Where is Garnef now?[A][ClearBox][TargetLeft]I believe Princess Nina is his next target.[Pause=3]
+He is probably[FreezeMouth]...[UnfreezeMouth] at Akaneia's palace.[A][ClearBox][TargetRight]I understand.
+Then I too shall go to Akaneia.[A][ClearBox]I still have to free Hardin from
+the Dark Orb's influence.[A][ClearBox]I will defeat the Demon King
+Garnef, and rescue my sister[SpecialSymbol=0x96]no,
+I'll save all of them[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS016_ED1_02_PCM1
+[TargetLeft][LoadPortrait=S_GATO]Prince Marth[FreezeMouth]...[UnfreezeMouth]
+Can you hear me?[A][ClearBox]I hate to be the bearer of bad tidings,
+but it would seem that Princess Ellis
+has been kidnapped by Garnef.[A][ClearBox][TargetRight]Lord Gato[FreezeMouth]...[UnfreezeMouth] Do you speak truly[FreezeMouth]?![UnfreezeMouth][A][ClearBox][TargetLeft]I have found out that Garnef
+commanded his priests to search for
+clerics of noble birth.[A][ClearBox][TargetRight][LoadPortrait=MARS][TargetLeft]It is most likely that Rena, Maria, and your
+sister were spirited away by Garnef[FreezeMouth].[UnfreezeMouth][A][ClearBox][TargetRight]It can't be[FreezeMouth]![UnfreezeMouth][A][ClearBox]What does he intend to do with them!?[A][ClearBox][TargetLeft]That, I do not know.[Pause=3]
+But something foul is on the cards.[A][ClearBox]There can be no doubt of Garnef's
+involvement in this series
+of unfortunate events.[A][ClearBox][TargetRight]Lord Gato[FreezeMouth]![UnfreezeMouth]
+Where is Garnef now?[A][ClearBox][TargetLeft]I believe Princess Nina is his next target.[Pause=3]
+He is probably[FreezeMouth]...[UnfreezeMouth] at Akaneia's palace.[A][ClearBox][TargetRight]I understand.
+Then I too shall go to Akaneia.[A][ClearBox]I still have to free Hardin from
+the Dark Orb's influence.[A][ClearBox]I will defeat the Demon King
+Garnef, and rescue my sister[SpecialSymbol=0x96]no,
+I'll save all of them[FreezeMouth]![UnfreezeMouth][A][ClearBox][Fade=40][Unknown0x4=F][X]
+
+MS016_ED2_PCF1
+[X]
+
+MS016_ED2_PCM1
+[X]
+
+MS016_ED2_01_PCF1
+[X]
+
+MS016_ED2_01_PCM1
+[X]
