@@ -1,0 +1,83 @@
+MREC_ED1_1
+Grand Finale - Jeigan[X]
+
+MREC_ED1_10
+Grand Finale - Julian and Rena[X]
+
+MREC_ED1_10_2
+Grand Finale - Warren[X]
+
+MREC_ED1_11
+Grand Finale - Oguma's Mercs[X]
+
+MREC_ED1_12
+Grand Finale - Kashim and Daros[X]
+
+MREC_ED1_13
+Grand Finale - Linda and Nina[X]
+
+MREC_ED1_14
+Grand Finale - Akaneian Knights[X]
+
+MREC_ED1_14_2
+Grand Finale - Akaneian Retirees[X]
+
+MREC_ED1_15
+Grand Finale - Raddy and Caesar[X]
+
+MREC_ED1_16
+Grand Finale - Navarre Leaves[X]
+
+MREC_ED1_16_2
+Grand Finale - Jake and Beck[X]
+
+MREC_ED1_17
+Grand Finale - Ymir and Athena[X]
+
+MREC_ED1_17_2
+Grand Finale - Frost and Dice[X]
+
+MREC_ED1_18
+Grand Finale - Wolfguard[X]
+
+MREC_ED1_19
+Grand Finale - Mages[X]
+
+MREC_ED1_20
+Grand Finale - Sheema and Samson[X]
+
+MREC_ED1_21
+Grand Finale - Banutu and Chiki[X]
+
+MREC_ED1_3
+Grand Finale - Kain and Abel[X]
+
+MREC_ED1_4
+Grand Finale - Doga and Gordon[X]
+
+MREC_ED1_5
+Grand Finale - 7th Platoon[X]
+
+MREC_ED1_6
+Grand Finale - Riff[X]
+
+MREC_ED1_7
+Grand Finale - Royal Twins[X]
+
+MREC_ED1_8
+Grand Finale - Roger and Malliesia[X]
+
+MREC_ED1_8_2
+Grand Finale - Sable Order[X]
+
+MREC_ED1_9
+Grand Finale - Whitewings[X]
+
+MREC_ED2A
+Grand Finale - DUMMY[X]
+
+MREC_ED2B
+[0x88]M[0x88]E[0x88]S[0x88]S[0x88]A[0x88]G[0x88]E [0x88]H[0x88]A[0x88]S [0x88]B[0x88]E[0x88]E[0x88]N [0x88]D[0x88]E[0x88]L[0x88]E[0x88]T[0x88]E[0x88]D!!![X]
+
+MREC_GED_Hitokoto
+Grand Finale - Everyone's Words[X]

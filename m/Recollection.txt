@@ -44,7 +44,7 @@ MREC_203_EV1
 Pr III,　Op. - Sheeda's Trial[X]
 
 MREC_203_EV2
-Pr III,　Sc. - Y・・ K・・・ H・・ ・・ F・・・・[X]
+Pr III,　Sc. - Y[0x88]o[0x88]u K[0x88]n[0x88]o[0x88]w H[0x88]o[0x88]w [0x88]t[0x88]o F[0x88]i[0x88]g[0x88]h[0x88]t[X]
 
 MREC_203_OP1
 Pr III,　Op. - Combat Training[X]
@@ -185,7 +185,7 @@ MREC_207_OP2_B
 Pr VII,　Op. - Kain's Entrance[X]
 
 MREC_208_ED1
-Pr VIII,　En. - S・・・・・ ・・ C・・・・・・・・・[X]
+Pr VIII,　En. - S[0x88]h[0x88]a[0x88]d[0x88]e[0x88]s [0x88]o[0x88]f C[0x88]o[0x88]n[0x88]s[0x88]p[0x88]i[0x88]r[0x88]a[0x88]c[0x88]y[X]
 
 MREC_208_ED3_1A
 Pr VIII,　En. - Next... (Est)[X]
@@ -260,10 +260,10 @@ MREC_001_H5
 Ch 1,　Ho. - Lawrence's Friend[X]
 
 MREC_001_H6
-Ch 1,　Ho. - I・ ・・・・ G・・・・・・ C・・・・...[X]
+Ch 1,　Ho. - I[0x88]f [0x88]o[0x88]n[0x88]l[0x88]y G[0x88]e[0x88]n[0x88]e[0x88]r[0x88]a[0x88]l C[0x88]a[0x88]m[0x88]u[0x88]s...[X]
 
 MREC_001_OP1_03A
-[SpecialText0x14]Ch 1,　Op. - S・・・・・・・・・・ ([SpecialText0x14=0x39])[X]
+[SpecialText0x14]Ch 1,　Op. - Suppression[X]
 
 MREC_001_OP1_03B
 [SpecialText0x14]Ch 1,　Op. - Suppression[X]
@@ -290,16 +290,16 @@ MREC_002_H4
 Ch 2,　Ho. - Lady Sword[X]
 
 MREC_002_H5
-Ch 2,　Ho. - Beware Dracoknights[X]
+Ch 2,　Ho. - Beware Dragon Knights[X]
 
 MREC_002_OP0_A
-[SpecialText0x14]Ch 2,　Op. - [SpecialText0x14=0x39]'s Speed (A)[X]
+[SpecialText0x14]Ch 2,　Op. - DUMMY[X]
 
 MREC_002_OP0_B
-[SpecialText0x14]Ch 2,　Op. - [SpecialText0x14=0x39]'s Speed (B)[X]
+[SpecialText0x14]Ch 2,　Op. - DUMMY[X]
 
 MREC_002_OP0_C
-[SpecialText0x14]Ch 2,　Op. - [SpecialText0x14=0x39]'s Speed (C)[X]
+[SpecialText0x14]Ch 2,　Op. - DUMMY[X]
 
 MREC_002_OP1
 Ch 2,　Op. - Macedonia's Forests[X]
@@ -311,10 +311,10 @@ MREC_002_VIL1
 Ch 2,　Vil. - For the Princess[X]
 
 MREC_003_ED1
-Ch 3,　En. - I W・・・ N・ L・・・・・ F・・・・・[X]
+Ch 3,　En. - I W[0x88]i[0x88]l[0x88]l N[0x88]o L[0x88]o[0x88]n[0x88]g[0x88]e[0x88]r F[0x88]o[0x88]l[0x88]l[0x88]o[0x88]w[X]
 
 MREC_003_ED4
-Ch 3,　En. - ・・・ ・・・・・・・・・' ・・・・・・・[X]
+Ch 3,　En. - Chapter 3x Earned[X]
 
 MREC_003_EV1
 Ch 3,　Sc. - Thought I Was Dead?[X]
@@ -332,13 +332,13 @@ MREC_003_H4
 Ch 3,　Ho. - Macedonia...[X]
 
 MREC_003_OP0_A
-[SpecialText0x14]Ch 3,　Op. - [SpecialText0x14=0x39]'s Skill (A)[X]
+[SpecialText0x14]Ch 3,　Op. - DUMMY[X]
 
 MREC_003_OP0_B
-[SpecialText0x14]Ch 3,　Op. - [SpecialText0x14=0x39]'s Skill (B)[X]
+[SpecialText0x14]Ch 3,　Op. - DUMMY[X]
 
 MREC_003_OP0_C
-[SpecialText0x14]Ch 3,　Op. - [SpecialText0x14=0x39]'s Skill (C)[X]
+[SpecialText0x14]Ch 3,　Op. - DUMMY[X]
 
 MREC_003_OP1
 Ch 3,　Op. - Missing Clerics[X]
@@ -359,7 +359,7 @@ MREC_103_ED1
 Ch 3x,　En. - To Wendel[X]
 
 MREC_103_ED2
-Ch 3x,　En. - I M・・・ D・・・・・ T・・・[X]
+Ch 3x,　En. - I M[0x88]u[0x88]s[0x88]t D[0x88]e[0x88]f[0x88]e[0x88]a[0x88]t T[0x88]h[0x88]e[0x88]m[X]
 
 MREC_103_ED3
 Ch 3x,　En. - Riff's Haircut[X]
@@ -383,7 +383,7 @@ MREC_004_ED1
 Ch 4,　En. - Hardin's Trap[X]
 
 MREC_004_ED2
-Ch 4,　En. - W・・・ Y・・・ H・・・ B・・・?[X]
+Ch 4,　En. - Undo Riff's Shave?[X]
 
 MREC_004_EV1
 Ch 4,　Sc. - Backup from the Fort[X]
@@ -398,7 +398,7 @@ MREC_004_H3
 Ch 4,　Ho. - Rescue Staff[X]
 
 MREC_004_OP0
-Ch 4,　Op. - A Shocking Haircut...[X]
+Ch 4,　Op. - DUMMY[X]
 
 MREC_004_OP1
 Ch 4,　Op. - Macedonian Vikings[X]
@@ -446,13 +446,13 @@ MREC_005_VIL1
 Ch 5,　Vil. - Hammerne Staff[X]
 
 MREC_006_ED1_A
-Ch 6,　En. - Lang's Demise... (A)[X]
+Ch 6,　En. - DUMMY[X]
 
 MREC_006_ED1_B
-Ch 6,　En. - Lang's Demise... (B)[X]
+Ch 6,　En. - DUMMY[X]
 
 MREC_006_ED1_C
-Ch 6,　En. - Lang's Demise... (C)[X]
+Ch 6,　En. - DUMMY[X]
 
 MREC_006_ED2
 Ch 6,　En. - Mercenary Battle[X]
@@ -467,13 +467,13 @@ MREC_006_OP1
 Ch 6,　Op. - Lang's Plan[X]
 
 MREC_006_OP_A
-[SpecialText0x14]Ch 6,　Op. - [SpecialText0x14=0x39]'s Might (A)[X]
+[SpecialText0x14]Ch 6,　Op. - DUMMY[X]
 
 MREC_006_OP_B
-[SpecialText0x14]Ch 6,　Op. - [SpecialText0x14=0x39]'s Might (B)[X]
+[SpecialText0x14]Ch 6,　Op. - DUMMY[X]
 
 MREC_006_OP_C
-[SpecialText0x14]Ch 6,　Op. - [SpecialText0x14=0x39]'s Might (C)[X]
+[SpecialText0x14]Ch 6,　Op. - DUMMY[X]
 
 MREC_006_TK1
 Ch 6,　Sc. - Yo, Chief[X]
@@ -485,7 +485,7 @@ MREC_006_TK3
 Ch 6,　Sc. - Impostor (Oguma)[X]
 
 MREC_106_ED1A
-Ch 6x,　En. - B・・・ (C・・・・・, R・・・)[X]
+Ch 6x,　En. - B[0x88]o[0x88]s[0x88]s ([0x88]C[0x88]a[0x88]e[0x88]s[0x88]a[0x88]r, [0x88]R[0x88]a[0x88]d[0x88]d[0x88]y)[X]
 
 MREC_106_ED1B
 Ch 6x,　En. - Boss (Caesar)[X]
@@ -521,7 +521,7 @@ MREC_007_EV2
 Ch 7,　Sc. - A Dragon Appears[X]
 
 MREC_007_H1
-Ch 7,　Ho. - L・・ S・・・・・・・ D・・・ L・・[X]
+Ch 7,　Ho. - L[0x88]e[0x88]t S[0x88]l[0x88]e[0x88]e[0x88]p[0x88]i[0x88]n[0x88]g D[0x88]o[0x88]g[0x88]s L[0x88]i[0x88]e[X]
 
 MREC_007_H2
 Ch 7,　Ho. - Accursed Thieves[X]
@@ -533,7 +533,7 @@ MREC_007_H4
 Ch 7,　Ho. - The Cave Dragon[X]
 
 MREC_007_OP0
-Ch 7,　Op. - What Kind of Person?[X]
+Ch 7,　Op. - DUMMY[X]
 
 MREC_007_OP1
 Ch 7,　Op. - Dancer in Danger[X]
@@ -557,7 +557,7 @@ MREC_008_H1
 Ch 8,　Ho. - Fellow Archers[X]
 
 MREC_008_OP0
-Ch 8,　Op. - Nice Hat[X]
+Ch 8,　Op. - DUMMY[X]
 
 MREC_008_OP1
 Ch 8,　Op. - Reunion with Kain[X]
@@ -596,13 +596,13 @@ MREC_009_H3
 Ch 9,　Ho. - Marich's Rival[X]
 
 MREC_009_OP0_A
-[SpecialText0x14]Ch 9,　Op. - [SpecialText0x14=0x39]'s Luck (A)[X]
+[SpecialText0x14]Ch 9,　Op. - DUMMY[X]
 
 MREC_009_OP0_B
-[SpecialText0x14]Ch 9,　Op. - [SpecialText0x14=0x39]'s Luck (B)[X]
+[SpecialText0x14]Ch 9,　Op. - DUMMY[X]
 
 MREC_009_OP0_C
-[SpecialText0x14]Ch 9,　Op. - [SpecialText0x14=0x39]'s Luck (C)[X]
+[SpecialText0x14]Ch 9,　Op. - DUMMY[X]
 
 MREC_009_OP1
 Ch 9,　Op. - Atonement[X]
@@ -635,13 +635,13 @@ MREC_010_ED_BS
 Ch 10,　En. - Mercenary Family[X]
 
 MREC_010_OP0_A
-[SpecialText0x14]Ch 10,　Op. - [SpecialText0x14=0x39]'s Mag. (A)[X]
+[SpecialText0x14]Ch 10,　Op. - DUMMY[X]
 
 MREC_010_OP0_B
-[SpecialText0x14]Ch 10,　Op. - [SpecialText0x14=0x39]'s Mag. (B)[X]
+[SpecialText0x14]Ch 10,　Op. - DUMMY[X]
 
 MREC_010_OP0_C
-[SpecialText0x14]Ch 10,　Op. - [SpecialText0x14=0x39]'s Mag. (C)[X]
+[SpecialText0x14]Ch 10,　Op. - DUMMY[X]
 
 MREC_010_OP1
 Ch 10,　Op. - Wind and Thunder[X]
@@ -674,10 +674,10 @@ MREC_011_ED1
 Ch 11,　En. - Comic Relief[X]
 
 MREC_011_ED2
-Ch 11,　En. - E・・・・・ M・・・・・・・・・・・?[X]
+Ch 11,　En. - E[0x88]n[0x88]o[0x88]u[0x88]g[0x88]h M[0x88]a[0x88]s[0x88]q[0x88]u[0x88]e[0x88]r[0x88]a[0x88]d[0x88]i[0x88]n[0x88]g?[X]
 
 MREC_011_OP0
-Ch 11,　Op. - Donning the Mask...[X]
+Ch 11,　Op. - DUMMY[X]
 
 MREC_011_OP1
 Ch 11,　Op. - Desert of Death[X]
@@ -686,13 +686,13 @@ MREC_011_TK1
 Ch 11,　Sc. - For Anna, My Love[X]
 
 MREC_012_ED1_A
-[SpecialText0x14]Ch 12,　En. - [SpecialText0x14=0x39]'s ・・・・・・ (・)[X]
+[SpecialText0x14]Ch 12,　En. - DUMMY[X]
 
 MREC_012_ED1_B
-[SpecialText0x14]Ch 12,　En. - [SpecialText0x14=0x39]'s ・・・・・・ (・)[X]
+[SpecialText0x14]Ch 12,　En. - DUMMY[X]
 
 MREC_012_ED1_C
-[SpecialText0x14]Ch 12,　En. - [SpecialText0x14=0x39]'s ・・・・・・ (・)[X]
+[SpecialText0x14]Ch 12,　En. - DUMMY[X]
 
 MREC_012_ED_BS
 Ch 12,　En. - Ex-Sable Knights[X]
@@ -710,13 +710,13 @@ MREC_013_ED2
 Ch 13,　En. - No Man's Shadow[X]
 
 MREC_013_OP0_A
-[SpecialText0x14]Ch 13,　Op. - [SpecialText0x14=0x39]'s ・・・・・・ (・)[X]
+[SpecialText0x14]Ch 13,　Op. - DUMMY[X]
 
 MREC_013_OP0_B
-[SpecialText0x14]Ch 13,　Op. - [SpecialText0x14=0x39]'s ・・・・・・ (・)[X]
+[SpecialText0x14]Ch 13,　Op. - DUMMY[X]
 
 MREC_013_OP0_C
-[SpecialText0x14]Ch 13,　Op. - [SpecialText0x14=0x39]'s ・・・・・・ (・)[X]
+[SpecialText0x14]Ch 13,　Op. - DUMMY[X]
 
 MREC_013_OP1
 Ch 13,　Op. - Poor Creatures[X]
@@ -740,7 +740,7 @@ MREC_113_PRE1
 Ch 13x,　Op. - Furious Blizzard[X]
 
 MREC_014_ED1_A
-Ch 14,　En. - F・・・・・・・ S・・・・・ (T・・・)[X]
+Ch 14,　En. - F[0x88]i[0x88]e[0x88]n[0x88]d[0x88]i[0x88]s[0x88]h S[0x88]h[0x88]a[0x88]d[0x88]o[0x88]w (C[0x88]h[0x88]i[0x88]k[0x88]i)[X]
 
 MREC_014_ED1_B
 Ch 14,　En. - Fiendish Shadow[X]
@@ -764,7 +764,7 @@ MREC_014_EV5
 Ch 14,　Sc. - Chiki...[X]
 
 MREC_014_OP1
-Ch 14,　Op. - Ice Dragons' Temple[X]
+Ch 14,　Op. - Artemis's Curse[X]
 
 MREC_014_OP2
 Ch 14,　Op. - Can You Hear Me?[X]
@@ -806,13 +806,13 @@ MREC_015_OP1
 Ch 15,　Op. - If He Betrays Us...[X]
 
 MREC_015_OP2
-Ch 15,　Op. - ・・・・・・・・・・・・・・・・・・・・・[X]
+Ch 15,　Op. - DUMMY[X]
 
 MREC_015_TK1
 Ch 15,　Sc. - Seeing You Again...[X]
 
 MREC_015_TK2
-Ch 15,　Sc. - D・・'・ B・・・・ Y・・・・・・・[X]
+Ch 15,　Sc. - D[0x88]o[0x88]n'[0x88]t B[0x88]u[0x88]l[0x88]l[0x88]y Y[0x88]o[0x88]u[0x88]r[0x88]s[0x88]e[0x88]l[0x88]f[X]
 
 MREC_015_VIL1
 Ch 15,　Vil. - Feuding Villages[X]
@@ -830,25 +830,25 @@ MREC_016_EV2
 Ch 16,　Sc. - Open the Door![X]
 
 MREC_016_OP0_A
-[SpecialText0x14]Ch 16,　Op. - [SpecialText0x14=0x39]'s Exp. (A)[X]
+[SpecialText0x14]Ch 16,　Op. - DUMMY[X]
 
 MREC_016_OP0_B
-[SpecialText0x14]Ch 16,　Op. - [SpecialText0x14=0x39]'s Exp. (B)[X]
+[SpecialText0x14]Ch 16,　Op. - DUMMY[X]
 
 MREC_016_OP0_C
-[SpecialText0x14]Ch 16,　Op. - [SpecialText0x14=0x39]'s Exp. (C)[X]
+[SpecialText0x14]Ch 16,　Op. - DUMMY[X]
 
 MREC_016_OP1_1
 Ch 16,　Op. - Earth Orb[X]
 
 MREC_016_OP1_2
-Ch 16,　Op. - T・・ J・・・・・・ I B・・・・・・[X]
+Ch 16,　Op. - T[0x88]h[0x88]e J[0x88]u[0x88]s[0x88]t[0x88]i[0x88]c[0x88]e I B[0x88]e[0x88]l[0x88]i[0x88]e[0x88]v[0x88]e[X]
 
 MREC_016_TK1
 Ch 16,　Sc. - Entrusted Emblem[X]
 
 MREC_116_ED2_A
-Ch 16x,　En. - C・・・・・・・・・ (K・・・・・・・)[X]
+Ch 16x,　En. - C[0x88]o[0x88]n[0x88]c[0x88]l[0x88]u[0x88]s[0x88]i[0x88]o[0x88]n (K[0x88]a[0x88]t[0x88]a[0x88]r[0x88]i[0x88]n[0x88]a)[X]
 
 MREC_116_ED2_B
 Ch 16x,　En. - Conclusion[X]
@@ -872,7 +872,7 @@ MREC_017_ED1
 Ch 17,　En. - Needless Bloodshed[X]
 
 MREC_017_ED_BS
-Ch 17,　En. - F・・・・・-L・・・・・ B・・・・・[X]
+Ch 17,　En. - F[0x88]a[0x88]m[0x88]i[0x88]l[0x88]y-L[0x88]o[0x88]v[0x88]i[0x88]n[0x88]g B[0x88]i[0x88]s[0x88]h[0x88]o[0x88]p[X]
 
 MREC_017_EV1
 Ch 17,　Sc. - Massacre (Samson)[X]
@@ -881,22 +881,22 @@ MREC_017_EV2
 Ch 17,　Sc. - Massacre[X]
 
 MREC_017_H1
-Ch 17,　Ho. - T・ P・・・・・・ B・・・・・・・[X]
+Ch 17,　Ho. - T. P...... B.......[X]
 
 MREC_017_H2
 Ch 17,　Ho. - Please Help Sheema[X]
 
 MREC_017_H3
-Ch 17,　Ho. - They're・All・Amateurs[X]
+Ch 17,　Ho. - They're All Foreign[X]
 
 MREC_017_OP0_A
-[SpecialText0x14]Ch 17,　Op. - [SpecialText0x14=0x39]'s Def. (A)[X]
+[SpecialText0x14]Ch 17,　Op. - DUMMY[X]
 
 MREC_017_OP0_B
-[SpecialText0x14]Ch 17,　Op. - [SpecialText0x14=0x39]'s Def. (B)[X]
+[SpecialText0x14]Ch 17,　Op. - DUMMY[X]
 
 MREC_017_OP0_C
-[SpecialText0x14]Ch 17,　Op. - [SpecialText0x14=0x39]'s Def. (C)[X]
+[SpecialText0x14]Ch 17,　Op. - DUMMY[X]
 
 MREC_017_OP1
 Ch 17,　Op. - Gra's Final Days[X]
@@ -914,19 +914,19 @@ MREC_017_VIL2
 Ch 17,　Vil. - Act of Brutality[X]
 
 MREC_018_ED1
-Ch 18,　En. - To the Palace[X]
+Ch 18,　En. - To Pales[X]
 
 MREC_018_EV1
 Ch 18,　Op. - The Wolfguard![X]
 
 MREC_018_OP0_A
-Ch 18,　Op. - Up to Gra (A)[X]
+Ch 18,　Op. - DUMMY[X]
 
 MREC_018_OP0_B
-Ch 18,　Op. - Up to Gra (B)[X]
+Ch 18,　Op. - DUMMY[X]
 
 MREC_018_OP0_C
-Ch 18,　Op. - Up to Gra (C)[X]
+Ch 18,　Op. - DUMMY[X]
 
 MREC_018_OP1
 Ch 18,　Op. - I Can't Betray You[X]
@@ -968,10 +968,10 @@ MREC_019_TK2
 Ch 19,　Sc. - Coyote's Changed[X]
 
 MREC_019_TK3
-Ch 19,　Sc. - ・・・・・・・・・・・・・・・・・・・・[X]
+Ch 19,　Sc. - [0x88]W[0x88]a[0x88]n[0x88]d[0x88]e[0x88]r [0x88]f[0x88]r[0x88]o[0x88]m [0x88]t[0x88]h[0x88]e [0x88]P[0x88]a[0x88]t[0x88]h[X]
 
 MREC_019_VIL1
-Ch 19,　Vil. - W・・・・・・・・ (R・・・・・)[X]
+Ch 19,　Vil. - Wolfguard (Roshe)[X]
 
 MREC_019_VIL1_B
 Ch 19,　Vil. - Wolfguard[X]
@@ -980,7 +980,7 @@ MREC_020_ED1_A
 Ch 20,　En. - Royal Pretenders[X]
 
 MREC_020_ED2
-Ch 20,　En. - T・・ L・・・・・ (K・・・・・・・)[X]
+Ch 20,　En. - T[0x88]h[0x88]e L[0x88]e[0x88]a[0x88]d[0x88]e[0x88]r (K[0x88]a[0x88]t[0x88]a[0x88]r[0x88]i[0x88]n[0x88]a)[X]
 
 MREC_020_ED2_YB
 Ch 20,　En. - The Leader[X]
@@ -1007,13 +1007,13 @@ MREC_120_OP1B
 Ch 20x,　Op. - Terror[X]
 
 MREC_120_PRE1
-Ch 20x,　Op. - D・・・・・・・ (K・・・・・・・)[X]
+Ch 20x,　Op. - D[0x88]a[0x88]r[0x88]k[0x88]n[0x88]e[0x88]s[0x88]s (K[0x88]a[0x88]t[0x88]a[0x88]r[0x88]i[0x88]n[0x88]a)[X]
 
 MREC_120_PRE1B
 Ch 20x,　Op. - Darkness[X]
 
 MREC_021_ED1
-Ch 21,　En. - M・・・・・'・ A・・・・・・・・[X]
+Ch 21,　En. - M[0x88]e[0x88]d[0x88]i[0x88]u[0x88]t[0x88]h'[0x88]s A[0x88]w[0x88]a[0x88]k[0x88]e[0x88]n[0x88]i[0x88]n[0x88]g[X]
 
 MREC_021_ED2
 Ch 21,　En. - Ymir's Hat[X]
@@ -1046,7 +1046,7 @@ MREC_022_ED2
 Ch 22,　En. - A Sore Thumb[X]
 
 MREC_022_OP0
-Ch 22,　Op. - One Heck of a Hat[X]
+Ch 22,　Op. - DUMMY[X]
 
 MREC_022_OP1
 Ch 22,　Op. - Have we Met?[X]
@@ -1055,13 +1055,13 @@ MREC_023_ED1
 Ch 23,　En. - To the Top[X]
 
 MREC_023_OP0_A
-[SpecialText0x14]Ch 23,　Op. - [SpecialText0x14=0x39]'s Res. (A)[X]
+[SpecialText0x14]Ch 23,　Op. - DUMMY[X]
 
 MREC_023_OP0_B
-[SpecialText0x14]Ch 23,　Op. - [SpecialText0x14=0x39]'s Res. (B)[X]
+[SpecialText0x14]Ch 23,　Op. - DUMMY[X]
 
 MREC_023_OP0_C
-[SpecialText0x14]Ch 23,　Op. - [SpecialText0x14=0x39]'s Res. (C)[X]
+[SpecialText0x14]Ch 23,　Op. - DUMMY[X]
 
 MREC_023_OP1
 Ch 23,　Op. - Demon King[X]
@@ -1070,13 +1070,13 @@ MREC_024_EV2
 Ch 24,　Sc. - Light of Hope[X]
 
 MREC_024_OP0
-Ch 24,　Op. - The Future...[X]
+Ch 24,　Op. - DUMMY[X]
 
 MREC_024_OP1
 Ch 24,　Op. - 'Til the Very End[X]
 
 MREC_024_OP2
-Ch 24,　Op. - ・・・・・・・・・・・・・・・・・・・・・・...[X]
+Ch 24,　Op. - DUMMY[X]
 
 MREC_024_TK1
 Ch 24,　Sc. - Smile for Me[X]
@@ -1100,7 +1100,7 @@ MREC_24_ED1_2_B
 Grand Finale - War Casualties...[X]
 
 MREC_24_ED1_2_D
-Grand Finale - F・・ M・・・ P・・・・・・・[X]
+Grand Finale - F[0x88]a[0x88]r M[0x88]o[0x88]r[0x88]e P[0x88]r[0x88]e[0x88]c[0x88]i[0x88]o[0x88]u[0x88]s[X]
 
 MREC_24_ED2
 Grand Finale - Be Brave![X]
@@ -1184,10 +1184,10 @@ MREC_ED1_9
 Grand Finale - Macedonia 1[X]
 
 MREC_ED2A
-Grand Finale - Light and Shadow[X]
+Grand Finale - DUMMY[X]
 
 MREC_ED2B
-Grand Finale - Light and Shadow[X]
+[0x88]M[0x88]E[0x88]S[0x88]S[0x88]A[0x88]G[0x88]E [0x88]H[0x88]A[0x88]S [0x88]B[0x88]E[0x88]E[0x88]N [0x88]D[0x88]E[0x88]L[0x88]E[0x88]T[0x88]E[0x88]D!!![X]
 
 MREC_GED_Hitokoto
 Grand Finale - Everyone's Words[X]
