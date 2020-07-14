@@ -1,8 +1,19 @@
 Mエディット_WELCOME
-[EyeCommand=dl][EyeCommand=da][EyeCommand=ds][FaceCommand=0x41][TargetCenter][LoadPortrait=ANNA_HOUSE][LoadBackground=BBG68][FaceCommand=0x73][ClearBox]Welcome!
-Today, another hero will be born.
-One who will help decide the world's fate[FreezeMouth]...[UnfreezeMouth][A]
-[FaceCommand=0x40][FaceCommand=0x68][X]
+[EyeCommand=dl][EyeCommand=da][EyeCommand=ds][FaceCommand=0x41][TargetCenter][LoadPortrait=ANNA_HOUSE][LoadBackground=BBG68][FaceCommand=0x73][ClearBox]Welcome![Pause=3]
+If you're reading this, then you have
+successfully patched your FE12 game.[A][ClearBox]This is Fire Emblem:
+Old Mystery of the Emblem.[A][ClearBox]This hack has two main purposes:
+1: Restore all missing details that were
+in the FE3 script back into FE12.[A][ClearBox]2: Remove all lines spoken by or in reference
+to Kris within the 24 main story chapters.[A][ClearBox]Some optional bonus patches are also
+included. Now, for the hack credits.[A][ClearBox]Hack created by Darrman
+Based on the FE12 Heroes of Shadow
+translation and all work for that[A][ClearBox]Text editing tools created by Nintenlord
+FE3 VincentASM/RPGuy translation
+used for restored lines[A][ClearBox]Shouzou Kaga and Intelligent Systems
+for creating the original Mystery of
+the Emblem[A][ClearBox]That's enough talking.
+Kris can't be completely removed, so...[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
 
 Mエディット_Q_NAME
 [ClearBox]What's your name, hero?

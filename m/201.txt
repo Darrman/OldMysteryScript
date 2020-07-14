@@ -1,46 +1,49 @@
 MS201_OP0_PCF1
-[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG40][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x40][FaceCommand=0x68][X]
+[X]
 
 MS201_OP0_PCM1
-[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG40][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x40][FaceCommand=0x68][X]
+[X]
 
 MS201_OP1_PCF1
-Oh! Our great mother earth.
+Oh! Our great mother earth.[Pause=3]
 For 7 thousand years there
-is a time of despair.[A][ClearBox]We prayed to the heavens for help.
+is a time of despair.[A][ClearBox]We prayed to the heavens for help.[Pause=3]
 For 7 years and 7 months and 7 days...[A][ClearBox]"Deities, please show yourselves!"[A][ClearBox]The rainbow light gathered at
-the appearance of a sword of light.
-A miracle finally occurred.[A][ClearBox]He was a giant who became our guardian god.
+the appearance of a sword of light.[Pause=3]
+A miracle finally occurred.[A][ClearBox]He was a giant who became our guardian god.[Pause=3]
 From the day he shone light from his sword,
-the evildoers were silenced.[A][ClearBox]When light from his shield radiated,
-the evil ones returned to stone.[A][ClearBox]The god created a new age.
+the evildoers were silenced.[A][ClearBox]When light from his shield radiated,[Pause=3]
+the evil ones returned to stone.[A][ClearBox]The god created a new age.[Pause=3]
 Dragons lived as humans and the evil ones
 were sent deep underground.[A][ClearBox]The god with his graceful kindness
-saved humanity and gave them a gift.[A][ClearBox]When the Dark Dragon awakens again,
+saved humanity and gave them a gift.[A][ClearBox]When the Dark Dragon awakens again,[Pause=3]
 the chosen one of the god will use
 his sword to repel darkness.[A][ClearBox][X]
 
 MS201_OP1_PCM1
-Oh! Our great mother earth.
+Oh! Our great mother earth.[Pause=3]
 For 7 thousand years there
-is a time of despair.[A][ClearBox]We prayed to the heavens for help.
+is a time of despair.[A][ClearBox]We prayed to the heavens for help.[Pause=3]
 For 7 years and 7 months and 7 days...[A][ClearBox]"Deities, please show yourselves!"[A][ClearBox]The rainbow light gathered at
-the appearance of a sword of light.
-A miracle finally occurred.[A][ClearBox]He was a giant who became our guardian god.
+the appearance of a sword of light.[Pause=3]
+A miracle finally occurred.[A][ClearBox]He was a giant who became our guardian god.[Pause=3]
 From the day he shone light from his sword,
-the evildoers were silenced.[A][ClearBox]When light from his shield radiated,
-the evil ones returned to stone.[A][ClearBox]The god created a new age.
+the evildoers were silenced.[A][ClearBox]When light from his shield radiated,[Pause=3]
+the evil ones returned to stone.[A][ClearBox]The god created a new age.[Pause=3]
 Dragons lived as humans and the evil ones
 were sent deep underground.[A][ClearBox]The god with his graceful kindness
-saved humanity and gave them a gift.[A][ClearBox]When the Dark Dragon awakens again,
+saved humanity and gave them a gift.[A][ClearBox]When the Dark Dragon awakens again,[Pause=3]
 the chosen one of the god will use
 his sword to repel darkness.[A][ClearBox][X]
+
 MS201_OP1_01_PCF1
+[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG40][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x40][FaceCommand=0x68][X]
 [SpecialText0x14][TargetRight][FaceCommand=0x73]Yeah. I came here all the way from Sera
 village when I heard they were recruiting
 new knights.[A][ClearBox]My name's [SpecialText0x14=0x39].[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
 
 MS201_OP1_01_PCM1
+[TargetRight][LoadPortrait=PLAYER][LoadBackground=BBG40][TargetLeft][LoadPortrait=KATARINA][FaceCommand=0x40][FaceCommand=0x68][X]
 [SpecialText0x14][TargetRight][FaceCommand=0x73]Yep. I came here all the way from Sera
 village when I heard they were recruiting
 new knights.[A][ClearBox]The name's [SpecialText0x14=0x39].[A][ClearBox][FaceCommand=0x40][FaceCommand=0x68][X]
@@ -204,7 +207,7 @@ in the twinkling of an eye,[A][ClearBox]and formed a powerful army by gathering
 many soldiers.[A][ClearBox]He then proclaimed the restoration of the
 Holy Akaneian Empire, and himself Emperor.[A][ClearBox][UnfreezeMouth]One year has passed since the war with Durhua.[A][ClearBox]The world seemed to be moving towards an
 era of peace.[A][ClearBox][UnfreezeMouth]However, unbeknownst to man, the cogs of
-destiny had started spiralling out of order.[A][ClearBox][A][ClearBox][Fade=40][X]
+destiny had started spiralling out of order.[A][ClearBox][Fade=40][X]
 
 MS201_ED2
 [SpecialText0x14][Fade=40][LoadBackground=BBG02][TargetLeft][LoadPortrait=JEIGUN]Prince Marth wishes to address everyone
