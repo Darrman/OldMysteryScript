@@ -71,7 +71,7 @@ MCT002AF
 Chapter 2[X]
 
 MCT002SM
-Ch. 2   Rebellion of Macedonia[X]
+Ch. 2 Rebellion of Macedonia[X]
 
 MCT003
 Ch. 3 Abducted Princess[X]
@@ -98,7 +98,7 @@ MCT005AF
 Chapter 5[X]
 
 MCT005SM
-Ch. 5     Liberation of Grunia[X]
+Ch. 5    Liberation of Grunia[X]
 
 MCT006
 Ch. 6 The Nest of Vice[X]
@@ -260,7 +260,7 @@ MCT023AF
 Chapter 23[X]
 
 MCT023SM
-Ch. 23  Demon King Lives[X]
+Ch. 23      Demon King Lives[X]
 
 MCT024
 Endgame Light and Shadow[X]
@@ -575,7 +575,7 @@ MD_セーブなし
 Proceed without saving?[X]
 
 MD_リザーブ
-Use the Fortify staff?[X]
+Use the Reserve staff?[X]
 
 MD_溢捨てる
 Discard this item?[X]
@@ -687,7 +687,7 @@ MIM_外す
 Rmv[X]
 
 MIM_交換
-Trd.[X]
+[0x88]T[0x88]r[0x88]a[0x88]d[0x88]e[X]
 
 MIM_使う
 Use[X]
@@ -829,7 +829,7 @@ You have reached the
 maximum name length.[X]
 
 MNI_英数字
-ABC[X]
+[0x88]H[0x88]i[0x88]r[0x88]a[0x88]g[0x88]a[0x88]n[0x88]a[X]
 
 MNI_漢字
 Kanji[X]
@@ -841,7 +841,7 @@ MNI_終了
 Done[X]
 
 MNI_半角英数字
-ABC[X]
+[0x88]K[0x88]a[0x88]t[0x88]a[0x88]k[0x88]a[0x88]n[0x88]a[X]
 
 MNI_平仮名
 Large[X]
@@ -977,22 +977,22 @@ MSIM_リスト
 List[X]
 
 MSIM_交換
-Trd.[X]
+[0x88]T[0x88]ra[0x88]d[0x88]e[X]
 
 MSIM_持ち物
 Items[X]
 
 MSIM_全預け
-Unld.[X]
+[0x88]U[0x88]n[0x88]l[0x88]o[0x88]a[0x88]d[X]
 
 MSIM_統合
-Mrg.[X]
+[0x88]M[0x88]e[0x88]r[0x88]g[0x88]e[X]
 
 MSIM_輸送隊
-Conv.[X]
+[0x88]C[0x88]o[0x88]n[0x88]v[0x88]o[0x88]y[X]
 
 MSM_いつでもＦＥ
-Everyone[X]
+[0x88]H[0x88]o[0x88]w'[0x88]s [0x88]E[0x88]v[0x88]e[0x88]r[0x88]y[0x88]o[0x88]n[0x88]e[X]
 
 MSM_ガイド
 Guide[X]
@@ -1214,10 +1214,10 @@ MUM_話す
 Talk[X]
 
 MW_ニーナ到達
-Reach Nina[X]
+Arrive[X]
 
 MW_ボス
-Kill boss[X]
+Kill Boss[X]
 
 MW_条件
 Goal[X]

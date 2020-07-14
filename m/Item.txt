@@ -293,7 +293,7 @@ MIID_MAFU
 Maph[X]
 
 MIID_MAGICBREATH
-Demon Breath[X]
+D[0x88]e[0x88]m[0x88]o[0x88]n B[0x88]r[0x88]e[0x88]a[0x88]t[0x88]h[X]
 
 MIID_MAGICSHIELD
 Magic Shield[X]
