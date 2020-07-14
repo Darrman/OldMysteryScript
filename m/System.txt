@@ -865,7 +865,7 @@ MP_DMG
 Dmg[X]
 
 MP_E
-Exp[X]
+E[X]
 
 MP_EQP
 Eqp[X]
