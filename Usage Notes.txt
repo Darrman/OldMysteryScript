@@ -1,0 +1,3 @@
+Note to self: Prefix letters with [0x88] to use the narrow font.
+Remember, every new line counts as a line break.
+Be careful with trying to put in whitespace after control codes; they often get taken as new lines.

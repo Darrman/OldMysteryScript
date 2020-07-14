@@ -11,16 +11,16 @@ MIID_ARIES
 Aries[X]
 
 MIID_ARMORKILLER
-Armor Killer[X]
+Armorslayer[X]
 
 MIID_AURA
 Aura[X]
 
 MIID_BAMBOOSWORD
-[0x88]B[0x88]a[0x88]m[0x88]b[0x88]o[0x88]o [0x88]S[0x88]w[0x88]o[0x88]r[0x88]d[X]
+・・・・・・・・・・・・[X]
 
 MIID_BARTSAXE
-Barts's Axe[X]
+Barst's Axe[X]
 
 MIID_BOLGANONE
 Bolganone[X]
@@ -29,16 +29,16 @@ MIID_BOOTS
 Boots[X]
 
 MIID_BRAVEAXE
-Hero Axe[X]
+Brave Axe[X]
 
 MIID_BRAVEBOW
-Hero Bow[X]
+Brave Bow[X]
 
 MIID_BRAVELANCE
-Hero Lance[X]
+B・・・・・L・・・・[X]
 
 MIID_BRAVESWORD
-Hero Sword[X]
+B・・・・・S・・・・[X]
 
 MIID_BRIDGEKEY
 Bridge Key[X]
@@ -53,7 +53,7 @@ MIID_BULLION_L
 Bullion (L)[X]
 
 MIID_CAMUSLANCE
-[0x88]C[0x88]a[0x88]m[0x88]u[0x88]s'[0x88]s [0x88]P[0x88]i[0x88]k[0x88]e[X]
+C・・・・'・・P・・・[X]
 
 MIID_CANCER
 Cancer[X]
@@ -62,10 +62,10 @@ MIID_CAPRICORN
 Capricorn[X]
 
 MIID_CECILSWORD
-[0x88]C[0x88]e[0x88]cil'[0x88]s [0x88]S[0x88]w[0x88]o[0x88]r[0x88]d[X]
+・・・・・・・・・・・・・・・[X]
 
 MIID_CLAINCLAIN
-Quick Rain[X]
+Arrowspate[X]
 
 MIID_CLEAVEBOW
 Cleave Bow[X]
@@ -74,13 +74,13 @@ MIID_DARKBREATH
 Dark Breath[X]
 
 MIID_DARKORB
-Dark Orb[X]
+Darksphere[X]
 
 MIID_DEFENSEBOND
-Def. Bond[X]
+Def Bond[X]
 
 MIID_DEFENSEPOTION
-Def. Potion[X]
+Def Potion[X]
 
 MIID_DEFENSEROD
 Defence[X]
@@ -92,7 +92,7 @@ MIID_DEVILSWORD
 Devil Sword[X]
 
 MIID_DOHGALANCE
-[0x88]D[0x88]o[0x88]g[0x88]a[0x88]'[0x88]s [0x88]L[0x88]a[0x88]n[0x88]c[0x88]e[X]
+・・・・・'・・・・・・・[X]
 
 MIID_DOORKEY
 Door Key[X]
@@ -101,16 +101,16 @@ MIID_DRAGONLANCE
 Dragonpike[X]
 
 MIID_DRAGONSHIELD
-D[0x88]r[0x88]a[0x88]g[0x88]o[0x88]n S[0x88]h[0x88]i[0x88]e[0x88]l[0x88]d[X]
+Dracoshield[X]
 
 MIID_DRAGONSWORD
-D[0x88]r[0x88]a[0x88]gon Killer[X]
+Wyrmslayer[X]
 
 MIID_EARTHORB
-Earth Orb[X]
+Geosphere[X]
 
 MIID_ELEPHANT
-Elephant[X]
+Pachyderm[X]
 
 MIID_ELFIRE
 Elfire[X]
@@ -119,7 +119,7 @@ MIID_EMPYREALWHIP
 Elysian Whip[X]
 
 MIID_ENERGYDRINK
-E[0x88]n[0x88]e[0x88]r[0x88]g[0x88]y D[0x88]r[0x88]i[0x88]n[0x88]k[X]
+E・・・・・・D・・・・[X]
 
 MIID_EXCALIBUR
 Excalibur[X]
@@ -137,7 +137,7 @@ MIID_FIREEMBLEM
 Fire Emblem[X]
 
 MIID_FIREGUN
-Fire Gun[X]
+Hoistflamme[X]
 
 MIID_FIRESTONE
 Firestone[X]
@@ -170,16 +170,16 @@ MIID_GLOWER
 Glower[X]
 
 MIID_GODDESSICON
-G[0x88]o[0x88]d[0x88]d[0x88]ess Icon[X]
+G・・・・ss・I・・・[X]
 
 MIID_GODDESSSTONE
 Divinestone[X]
 
 MIID_GOHDONBOW
-G[0x88]o[0x88]r[0x88]d[0x88]o[0x88]n'[0x88]s B[0x88]o[0x88]w[X]
+G・・・・・'・・B・・[X]
 
 MIID_GRADIUS
-Gradius[X]
+Gradivus[X]
 
 MIID_GROWUP
 Growth Drop[X]
@@ -218,7 +218,7 @@ MIID_ICESTONE
 Icestone[X]
 
 MIID_IMMORTALAXE
-I[0x88]m[0x88]m[0x88]o[0x88]rtal Axe[X]
+I・・・・・・・・A・・[X]
 
 MIID_IOTESHIELD
 Iote's Shield[X]
@@ -248,19 +248,19 @@ MIID_KILLERLANCE
 Killer Lance[X]
 
 MIID_KILLSWORD
-Kill Sword[X]
+Killing Edge[X]
 
 MIID_KLEINEBOW
 Kleine's Bow[X]
 
 MIID_KNIGHTKILLER
-Knight Killer[X]
+Ridersbane[X]
 
 MIID_LADYSWORD
 Lady Sword[X]
 
 MIID_LAUNDRYPOLE
-L[0x88]a[0x88]u[0x88]n[0x88]d[0x88]r[0x88]y P[0x88]o[0x88]l[0x88]e[X]
+L・・・・・・・P・・・[X]
 
 MIID_LEO
 Leo[X]
@@ -272,13 +272,13 @@ MIID_LIBRA
 Libra[X]
 
 MIID_LIFEORB
-Life Orb[X]
+Lifesphere[X]
 
 MIID_LIGHTORB
-Light Orb[X]
+Lightsphere[X]
 
 MIID_LIVE
-Live[X]
+Heal[X]
 
 MIID_LONGBOW
 Longbow[X]
@@ -290,19 +290,19 @@ MIID_LUCKPOTION
 Luck Potion[X]
 
 MIID_MAFU
-Maph[X]
+Imhullu[X]
 
 MIID_MAGICBREATH
-Demon Breath[X]
+M・・・ B・・・・・[X]
 
 MIID_MAGICSHIELD
-Magic Shield[X]
+Barrier[X]
 
 MIID_MAGICSTONE
-Demonstone[X]
+Magestone[X]
 
 MIID_MANUAL
-Manual[X]
+Arms Scroll[X]
 
 MIID_MARICHBOOK
 Razor[X]
@@ -311,7 +311,7 @@ MIID_MASTERPROOF
 Master Seal[X]
 
 MIID_MASTERSWORD
-[0x88]M[0x88]a[0x88]s[0x88]t[0x88]e[0x88]r [0x88]S[0x88]w[0x88]o[0x88]r[0x88]d[X]
+・・・・・・・・・・・・[X]
 
 MIID_MDEFBOND
 Res Bond[X]
@@ -323,10 +323,10 @@ MIID_MEDIOCREROD
 Healer[X]
 
 MIID_MEMBERCARD
-Member Card[X]
+VIP Card[X]
 
 MIID_MERCURY
-[0x88]M[0x88]i[0x88]r[0x88]a[0x88]c[0x88]l[0x88]e [0x88]S[0x88]w[0x88]o[0x88]r[0x88]d[X]
+Mercurius[X]
 
 MIID_METEOR
 Meteor[X]
@@ -341,19 +341,19 @@ MIID_OBTUSESWORD
 Blunt Sword[X]
 
 MIID_OGUMASWORD
-[0x88]O[0x88]g[0x88]u[0x88]m[0x88]a'[0x88]s [0x88]B[0x88]l[0x88]a[0x88]d[0x88]e[X]
+O・・・'・・B・・・・[X]
 
 MIID_OM
-Ohm[X]
+Aum[X]
 
 MIID_PARTHIA
-Partia[X]
+Parthia[X]
 
 MIID_PISCES
 Pisces[X]
 
 MIID_POLEAXE
-Poleaxe[X]
+Poleax[X]
 
 MIID_POWERBOND
 Magic Bond[X]
@@ -389,7 +389,7 @@ MIID_RAPIER
 Rapier[X]
 
 MIID_REBLOW
-Reblow[X]
+Physic[X]
 
 MIID_RECOVER
 Recover[X]
@@ -398,25 +398,25 @@ MIID_RELIANCEUP
 Bond Drop[X]
 
 MIID_RELIVE
-Relive[X]
+Mend[X]
 
 MIID_RESCUE
 Rescue[X]
 
 MIID_RESERVE
-Reserve[X]
+Fortify[X]
 
 MIID_RESIRE
-Resire[X]
+Nosferatu[X]
 
 MIID_RIFFROD
 Polish[X]
 
 MIID_RODYLANCE
-Rody's Lance[X]
+R・・・'・・L・・・・[X]
 
 MIID_ROOKSWORD
-Luke's Sword[X]
+L・・・'・・S・・・・[X]
 
 MIID_ROROAXE
 Roro's Axe[X]
@@ -425,7 +425,7 @@ MIID_SAGITTARIUS
 Sagittarius[X]
 
 MIID_SAJIMAJIAXE
-SajiMaji Axe[X]
+B・・・・・・・・A・・[X]
 
 MIID_SCORPIO
 Scorpio[X]
@@ -449,10 +449,10 @@ MIID_SILVERCARD
 Silver Card[X]
 
 MIID_SILVERLANCE
-Sil[0x88]v[0x88]er Lance[X]
+S・・・・・・L・・・・[X]
 
 MIID_SILVERSWORD
-Sil[0x88]v[0x88]er S[0x88]wo[0x88]rd[X]
+S・・・・・・S・・・・[X]
 
 MIID_SLENDERSPEAR
 Spear[X]
@@ -467,10 +467,10 @@ MIID_STARLIGHT
 Starlight[X]
 
 MIID_STARORB
-Star Orb[X]
+Starsphere[X]
 
 MIID_STARPOTION
-[0x88]R[0x88]a[0x88]i[0x88]n[0x88]b[0x88]o[0x88]w[0x88] [0x88]P[0x88]o[0x88]t[0x88]i[0x88]o[0x88]n[X]
+・・・・・・・・・・・・・・[X]
 
 MIID_STEELAXE
 Steel Axe[X]
@@ -485,7 +485,7 @@ MIID_STEELSWORD
 Steel Sword[X]
 
 MIID_STONEHEDGE
-Stonehedge[X]
+Stonehoist[X]
 
 MIID_STRENGTHBOND
 Str Bond[X]
@@ -497,7 +497,7 @@ MIID_STRENGTHROD
 Might[X]
 
 MIID_SWORDKILLER
-Sword Killer[X]
+Swordslayer[X]
 
 MIID_TALISMAN
 Talisman[X]
@@ -530,7 +530,7 @@ MIID_THUNDERBOLT
 Thunderbolt[X]
 
 MIID_THUNDERSWORD
-Thunder Sw.[X]
+Levin Sword[X]
 
 MIID_TOMAHAWK
 Tomahawk[X]
@@ -539,7 +539,7 @@ MIID_TOYBOW
 Toy Bow[X]
 
 MIID_TRUEEMBLEM
-Shield of Seals[X]
+B・・・・・・・S・・・・・[X]
 
 MIID_UNLOCK
 Unlock[X]
@@ -554,7 +554,7 @@ MIID_VULNERARY
 Vulnerary[X]
 
 MIID_WARM
-Worm[X]
+Swarm[X]
 
 MIID_WARP
 Warp[X]
@@ -566,7 +566,7 @@ MIID_WINGEDSPEAR
 Wing Spear[X]
 
 MIID_WYVERNSTONE
-Flyingstone[X]
+W・・・・・・・・・・[X]
 
 MIID_YURUBRIZZAR
 Sleet[X]
@@ -587,19 +587,19 @@ MI_H_ARMORKILLER
 A sword effective against armored units.[X]
 
 MI_H_AURA
-The strongest light magic. For Linda.[X]
+Light magic for women (Linde can use at level E).[X]
 
 MI_H_BAMBOOSWORD
 A wooden practice sword. Weak, but easy to use.[X]
 
 MI_H_BARTSAXE
-A lumber axe owned by Barts of Talis.[X]
+A lumber axe owned by Barst of Talys.[X]
 
 MI_H_BOLGANONE
 Superior magic used to attack with flames.[X]
 
 MI_H_BOOTS
-Shoes that increase movement by 4.[X]
+Shoes that increase movement by 2.[X]
 
 MI_H_BRAVEAXE
 An axe with which the wielder always strikes twice.[X]
@@ -627,7 +627,7 @@ A large lump of gold that fetches 10,000G at
 a market.[X]
 
 MI_H_CAMUSLANCE
-A lance owned by Grunia's Camus the Sable.[X]
+A lance owned by Grust's Camus the Sable.[X]
 
 MI_H_CANCER
 Defence +2 when held.[X]
@@ -636,7 +636,7 @@ MI_H_CAPRICORN
 Magic +2 when held.[X]
 
 MI_H_CECILSWORD
-A sword owned by Cecil, an Aritian knight.[X]
+A sword owned by Cecille, an Altean knight.[X]
 
 MI_H_CLAINCLAIN
 A ballista strong against fliers.[X]
@@ -663,7 +663,7 @@ MI_H_DEVILSWORD
 A mighty but cursed sword known to harm its user.[X]
 
 MI_H_DOHGALANCE
-A lance owned by Doga, an Aritian knight.[X]
+A lance owned by Draug, an Altean knight.[X]
 
 MI_H_DOORKEY
 A key used to open a door.[X]
@@ -672,7 +672,7 @@ MI_H_DRAGONLANCE
 A lance effective against dragons.[X]
 
 MI_H_DRAGONSHIELD
-A shield that increases defense by 4.[X]
+A shield that increases defense by 2.[X]
 
 MI_H_DRAGONSWORD
 A sword effective against dragons.[X]
@@ -695,7 +695,7 @@ MI_H_ENERGYDRINK
 Medicine that restores a lot of HP when used.[X]
 
 MI_H_EXCALIBUR
-The ultimate wind magic spell. For Marich.[X]
+Wind magic for men (Merric can use at level E).[X]
 
 MI_H_FALCHION
 A gift from the Divine Dragon King. For Marth.[X]
@@ -707,7 +707,7 @@ MI_H_FIREBREATH
 Flaming hot breath exhaled by dragons.[X]
 
 MI_H_FIREEMBLEM
-The conqueror's proof gifted from House Akaneia.
+The conqueror's proof gifted from House Archanea.
 Its bearer is granted access to all treasure chests.[X]
 
 MI_H_FIREGUN
@@ -744,16 +744,16 @@ MI_H_GLOWER
 Superior magic that ignores resistance.[X]
 
 MI_H_GODDESSICON
-A statue that increases luck by 5.[X]
+A statue that increases luck by 2.[X]
 
 MI_H_GODDESSSTONE
 A divine dragonstone effective against dragons.[X]
 
 MI_H_GOHDONBOW
-A bow owned by Gordon, an Aritian knight.[X]
+A bow owned by Gordin, an Altean knight.[X]
 
 MI_H_GRADIUS
-A mighty lance, regalia of House Akaneia.[X]
+A mighty lance, regalia of House Archanea.[X]
 
 MI_H_GROWUP
 An item that boosts growth rates when used.[X]
@@ -762,7 +762,7 @@ MI_H_HALTECLERE
 A formidable axe whose power rivals the regalia.[X]
 
 MI_H_HAMMARNE
-Repairs an ally's combat item. For Rena or Malliesia.[X]
+Repairs an ally's combat item. For Lena or Malicia.[X]
 
 MI_H_HAMMER
 An axe weapon effective against armored units.[X]
@@ -812,7 +812,7 @@ MI_H_IRONSWORD
 An affordable sword that is easy to wield.[X]
 
 MI_H_KATARINABOOK
-A tome owned by Katarina, Aritia's strategist.[X]
+A tome owned by Katarina, Altea's strategist.[X]
 
 MI_H_KILLERAXE
 An axe whose design yields frequent critical hits.[X]
@@ -842,7 +842,7 @@ MI_H_LEO
 Strength +2 when held.[X]
 
 MI_H_LIANBOW
-A bow owned by Ryan, an Aritian knight.[X]
+A bow owned by Ryan, an Altean knight.[X]
 
 MI_H_LIBRA
 Luck +2 when held.[X]
@@ -870,17 +870,17 @@ MI_H_MAGICBREATH
 Arcane breath exhaled by dragons.[X]
 
 MI_H_MAGICSHIELD
-Raises an ally's resistance temporarily.[X]
+R・・・・・・・・・・・・・・・・・・・'・・・・・・・・・・・・.・W・・・・・・・・・・・・・・・・・・.[X]
 
 MI_H_MAGICSTONE
-A stone used to transform into a demon dragon.[X]
+A stone used to transform into a mage dragon[X]
 
 MI_H_MANUAL
 A book that increases a unit's weapon level for
 the currently equipped weapon or magic.[X]
 
 MI_H_MARICHBOOK
-A tome owned by Marich the wind mage.[X]
+A tome owned by Merric the wind mage.[X]
 
 MI_H_MASTERPROOF
 An item that promotes a lesser-class unit at level
@@ -900,7 +900,7 @@ A card that grants the bearer access to
 special shops.[X]
 
 MI_H_MERCURY
-A powerful blade, regalia of House Akaneia.[X]
+A powerful blade, regalia of House Archanea.[X]
 
 MI_H_METEOR
 Powerful magic that can attack enemies from afar.[X]
@@ -912,13 +912,13 @@ MI_H_OBTUSESWORD
 A sword with a worn out edge, unfit for combat.[X]
 
 MI_H_OGUMASWORD
-A sword owned by Oguma, mercenary of Talis.[X]
+A sword owned by Ogma, mercenary of Talys.[X]
 
 MI_H_OM
-Revives a fallen ally. Yumina, etc. only.[X]
+A・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ ・・・・・・・・・・・.[X]
 
 MI_H_PARTHIA
-A formidable bow, regalia of House Akaneia.[X]
+A formidable bow, regalia of House Archanea.[X]
 
 MI_H_PISCES
 Defence +1, Resistance +1 when held.[X]
@@ -927,7 +927,7 @@ MI_H_POLEAXE
 An axe weapon effective against cavalry.[X]
 
 MI_H_POWERDROP
-An item that increases strength by 4.[X]
+An item that increases strength by 2.[X]
 
 MI_H_POWERPOTION
 Magic +2 for the whole chapter when used.[X]
@@ -951,7 +951,7 @@ MI_H_QUICKSWORD
 A sword that's weak, but can attack twice in a row.[X]
 
 MI_H_RAPIER
-Strong against cavalry/armor. For Marth and Feena.[X]
+Strong against cavalry/armored units. For Marth.[X]
 
 MI_H_REBLOW
 A staff used to restore HP to a distant ally.[X]
@@ -967,7 +967,7 @@ MI_H_RELIVE
 Greatly restores HP to an adjacent ally.[X]
 
 MI_H_RESCUE
-Brings a distant ally to the user. For Yumina.[X]
+A special staff that returns an ally to the user.[X]
 
 MI_H_RESERVE
 A special staff used to restore HP to all allies.[X]
@@ -976,13 +976,13 @@ MI_H_RESIRE
 Powerful magic that drains enemy HP. For women.[X]
 
 MI_H_RIFFROD
-A staff owned by Riff, an Aritian curate.[X]
+A staff owned by Wrys, an Altean curate.[X]
 
 MI_H_RODYLANCE
-A lance owned by Rody, an Aritian knight.[X]
+A lance owned by Rody, an Altean knight.[X]
 
 MI_H_ROOKSWORD
-A sword owned by Luke, an Aritian knight.[X]
+A sword owned by Luke, an Altean knight.[X]
 
 MI_H_ROROAXE
 An axe owned by Roro of the Assassins.[X]
@@ -991,13 +991,13 @@ MI_H_SAGITTARIUS
 Skill +2 when held.[X]
 
 MI_H_SAJIMAJIAXE
-A lumber axe owned by Saji and Maji of Talis.[X]
+A lumber axe owned by Bord and Cord of Talys.[X]
 
 MI_H_SCORPIO
 Speed +2 when held.[X]
 
 MI_H_SECRETBOOK
-A book that increases skill by 5.[X]
+A book that increases skill by 2.[X]
 
 MI_H_SHAVER
 Magic that attacks with wind. Strong against fliers.[X]
@@ -1025,13 +1025,13 @@ MI_H_SLENDERSPEAR
 A throwing spear that can also attack from afar.[X]
 
 MI_H_SPEEDWING
-A feather that increases speed by 5.[X]
+A feather that increases speed by 2.[X]
 
 MI_H_SPIRITPOWDER
-Powder that increases magic by 4.[X]
+Powder that increases magic by 2.[X]
 
 MI_H_STARLIGHT
-The sole magic capable of thwarting Maph's power.[X]
+The sole magic capable of thwarting Imhullu's power.[X]
 
 MI_H_STARORB
 Raises all stats by 2 when held.[X]
@@ -1062,10 +1062,10 @@ MI_H_STRENGTHROD
 A staff that raises an ally's Str by 2 for 1 turn.[X]
 
 MI_H_SWORDKILLER
-A sword effective against sword users.[X]
+A sword effective against myrmidons/mercenaries.[X]
 
 MI_H_TALISMAN
-A charm that increases resistance by 3.[X]
+A charm that increases resistance by 2.[X]
 
 MI_H_TAURUS
 Strength +1, Defence +1 when held.[X]
@@ -1077,7 +1077,7 @@ MI_H_TECHPOTION
 Skill +2 for the whole chapter when used.[X]
 
 MI_H_THIEF
-A staff that can open chests. For Malliesia.[X]
+A staff that can open chests.[X]
 
 MI_H_THIEFKEY
 A key effective on any locked door, chest, or
@@ -1128,12 +1128,11 @@ MI_H_WATO
 An exotic sword that yields frequent critical hits.[X]
 
 MI_H_WINGEDSPEAR
-Strong against cavalry/armored units. For Sheeda.[X]
+Strong against cavalry/armored units. For Caeda.[X]
 
 MI_H_WYVERNSTONE
 A stone used to transform into a wyvern.[X]
 
 MI_H_YURUBRIZZAR
 A failed Blizzard tome. Weak, but raises critical.[X]
-
 
